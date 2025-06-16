@@ -2,3 +2,9 @@
 title: "Using AI as a Consultant"
 editor: visual
 ---
+
+## Leveraging Tools like ChatGPT, Excel Copilot, and Slide AI
+
+## AI for slide creation, synthesis, analysis
+
+## Ethical use of generative AI in client settings
