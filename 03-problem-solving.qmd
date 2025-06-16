@@ -1,0 +1,13 @@
+---
+title: "Building Blocks"
+format: html
+editor: visual
+---
+
+## Casing Overview
+
+### Estimation (market sizing)
+
+### Framework application (profitability, market entry, etc.)
+
+### Structuring real-world cases

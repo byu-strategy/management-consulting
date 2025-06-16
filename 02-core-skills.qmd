@@ -1,0 +1,41 @@
+---
+title: "Structured Problem Solving"
+format: html
+editor: visual
+---
+
+## Overview
+
+Structured problem solving is a disciplined, hypothesis‑driven approach that breaks complex business challenges into smaller, logically arranged components, guides rigorous analysis, and leads to clear, actionable recommendations. Its hallmarks are:
+
+-   **MECE breakdown:** Decompose the issue into mutually exclusive, collectively exhaustive parts so that no root causes or solution areas are overlooked and no overlaps occur.
+-   **Hypothesis orientation:** Formulate an initial “best guess” about the solution, then test and refine it through targeted data gathering and analysis.
+-   **Issue‐tree logic:** Map out key questions in a top‐down tree structure—e.g., “Should profitability be increased by growing volume or improving margins?”—so that every subtree corresponds to a distinct line of inquiry.
+-   **Prioritization of effort:** Focus resources on the most value‐creating branches of the tree, using simple qualitative or quantitative screening to sequence analyses.
+-   **Data‐driven analysis:** Collect and synthesize both qualitative insights (e.g., stakeholder interviews) and quantitative evidence (e.g., financial modeling, market sizing) to validate or refute each hypothesis.
+-   **Synthesis and storytelling:** Distill findings into a coherent narrative that links the original problem definition to an evidence‑based recommendation, supported by clear “so‑what” implications and implementation considerations.
+
+Together, these elements ensure that consultants tackle the right problem, apply effort in the right place, and deliver solutions in a way that is both logically sound and practically executable.
+
+## MECE thinking, issue trees, hypothesis-driven problem solving
+
+MECE stands for Mutually Exclusive, Collectively Exhaustive. It's a principle used in structured problem-solving—especially in consulting (e.g., McKinsey)—to break down complex problems into categories or sub-problems that are:
+
+Mutually Exclusive: No overlap—each element in a breakdown fits in only one category.
+Collectively Exhaustive: No gaps—the categories together cover all possible options or components.
+Example:
+If you're segmenting customers, a MECE breakdown might look like:
+
+By age: 18–25, 26–35, 36–45, 46+
+These are mutually exclusive (no person falls in two buckets)
+And collectively exhaustive (every customer falls in one bucket)
+Why it matters:
+It helps avoid double-counting or missing key elements.
+It supports clear communication and logical analysis.
+It forms the basis of tools like issue trees and hypothesis trees.
+Consultants often use MECE to structure analyses, recommendations, and slide decks.
+
+### The Pyramid Principle
+
+## Communication and storytelling
+

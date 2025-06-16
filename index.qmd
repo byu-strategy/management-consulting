@@ -1,0 +1,132 @@
+---
+title: "Syllabus"
+author: "Scott Murff"
+date: "5/10/2025"
+format:
+  html: default
+  pdf: default
+---
+
+# Syllabus
+
+*WINTER 2026*
+
+**Instructor:** Scott Murff  
+**TAs:** TBD  
+**Class Time:**  Tuesday/Thursday 9:30 – 10:45 AM  
+**Class Location:**  TBD  
+**LMS:** LearningSuite
+
+## Content Overview
+
+Welcome to *Intro to Management Consulting*. This course prepares students to successfully secure a management consulting interview, perform well in the interview, and to excel during their first year as a management consultant. The course is designed for sophomores in order to prepare them for consulting firms' early recruiting cycle. Students will develop the core consulting toolkit, including problem decomposition, structured communication, and presentation skills. These skills will be applied to real-world consulting scenarios helping students build the skills and confidence needed to thrive in top-tier consulting roles.
+
+## Learning Outcomes
+
+| **Learning Outcome** | **Target BYU Aim(s)** |
+|-------------------------------------|--------------------------|
+| Students will demonstrate the ability to decompose complex business problems into structured, solvable components using consulting frameworks. | Intellectually Enlarging |
+| Students will craft and deliver persuasive, structured communication tailored to client and team settings. | Intellectually Enlarging; Character Building |
+| Students will practice and reflect on principles of Christlike leadership, including integrity, humility, and service, as applied in consulting settings. | Spiritually Strengthening; Character Building |
+| Students will collaborate effectively in teams. | Character Building |
+| Students will articulate how consulting skills (problem-solving, communication, ethical decision-making) can be used to render service to others. | Spiritually Strengthening; Lifelong Learning and Service |
+
+
+## Instructor Bio
+
+Scott Murff is an Associate Teaching Professor of Strategy at the BYU Marriott School of Business, where he also serves as program director and teaches courses on business strategy, decision-making, and artificial intelligence. He brings over 15 years of experience at the intersection of business and technology, having worked as a consultant, product manager, and data scientist.
+
+Prior to joining BYU, Scott spent nearly seven years at McKinsey & Company in roles ranging from analytics specialist consultant to principal product manager, where he led product development and performance management initiatives for Fortune 500 clients. His earlier career includes building forecasting models as a VP at Zions Bancorporation and conducting regulatory research at the U.S. Office of the Comptroller of the Currency.
+
+Scott holds a Master’s degree in Management Science & Engineering from Stanford University and a B.A. in Economics from BYU. He is passionate about helping students apply AI, analytics, and strategy to meaningful real-world problems with both rigor and purpose.
+
+## Schedule
+
+Coming Soon.
+
+## Grading
+
+The course is **not** graded on a curve. It's possible for every student to earn an A. However, achieving an A is challenging and demonstrates true excellence. The grading scale is show below:
+
+| Letter Grade | Percentage Range | GPA |
+|--------------|------------------|-----|
+| A            | 93–100%          | 4.0 |
+| A-           | 90–92%           | 3.7 |
+| B+           | 87–89%           | 3.4 |
+| B            | 83–86%           | 3.0 |
+| B-           | 80–82%           | 2.7 |
+| C+           | 77–79%           | 2.4 |
+| C            | 73–76%           | 2.0 |
+| C-           | 70–72%           | 1.7 |
+| D+           | 67–69%           | 1.4 |
+| D            | 63–66%           | 1.0 |
+| D-           | 60–62%           | 0.7 |
+| E (Fail)     | Below 60%        | 0.0 |
+
+### Late work policy
+
+Late work will be accepted up to 9 days late for partial credit with a 10% penalty per day according to the following schedule
+
+| Days Late | Late Penalty |
+|-----------|--------------|
+| 1         | -10%         |
+| 2         | -20%         |
+| 3         | -30%         |
+| 4         | -40%         |
+| 5         | -50%         |
+| 6         | -60%         |
+| 7         | -70%         |
+| 8         | -80%         |
+| 9         | -90%         |
+| 10        | No Credit    |
+
+## Classroom Culture
+
+### Mission and Aims
+
+The mission of Brigham Young University — founded, supported, and guided by The Church of Jesus Christ of Latter-day Saints — is to assist individuals in their quest for perfection and eternal life. That assistance should provide a period of intensive learning in a stimulating setting where a commitment to excellence is expected and the full realization of human potential is pursued.
+
+BYU seeks to develop students of faith, intellect, and character who have the skills and the desire to continue learning and to serve others throughout their lives.
+
+A BYU education should be (1) spiritually strengthening, (2) intellectually enlarging, and (3) character building, leading to (4) lifelong learning and service.
+
+Building on the foundational Mission and Aims, the Marriott School of Business aspires to transform the world through Christlike leadership by developing leaders of faith, intellect, and character guided by the following 4 values:
+
+-   **Faith in Christ** - We value deep and abiding faith in Jesus Christ. Our faith gives us the capacity to envision a better future, the confidence to make that future happen, and the courage to act in the face of challenges.
+
+-   **Integrity in Action** - We value integrity and hold ourselves to the highest moral and ethical standards. Acting with integrity builds trust, strengthens character, and focuses our ambitions on things of eternal consequence.
+
+-   **Respect for All** - We value respect for all individuals as children of God and recognize the inherent worth, divine potential, and agency of each person. A climate of respect and belonging enhances our learning, facilitates collaboration, and encourages personal growth.
+
+-   **Excellence** - We value excellence in learning, teaching, research, management, and leadership. An expectation of excellence magnifies our influence and motivates us to continually improve.
+
+We evaluate our decisions and actions by the impact they will have on the academic experience, professional preparation, character development, emotional well-being, and spiritual growth of our students.
+
+#### Prayer in class
+
+We will begin each class with prayer. Each class member is invited to be voice for the prayer at least once throughout the semester. The TAs will reach out prior to class to invite you to pray on a particular day. If you'd rather not be voice for a prayer please let me know on the first day of class so I can instruct the TAs accordingly. 
+
+#### Laptop Policy
+
+You may use laptops in class for note taking or other class related purposes. Laptops should not be used for activities that would be a distraction to nearby students when your screen is in their line of sight (e.g. sports, instagram, etc.)
+
+#### Cold Calling
+
+I teach in a fairly conversational style, which includes cold calling students to ask for your input or to pose questions. If you'd rather I not cold call on you please let me know on the first day of class so that I can avoid doing so. I have deep respect for individual learning styles and will make accommodations when needed.
+
+## Required Materials
+
+LMS: LearningSuite Class communication: Slack Required materials: The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback by Dan Olsen (physical copy recommended, \$25 or less). Text and audio also available for free for BYU students digitally at O'Reilly books. Laptop or desktop (Mac or Windows) Install Mendix Studio Pro version 10.18.0 on Mac or Windows (free) Verify your student status with Figma and install desktop app for Mac or Windows (free)
+
+## Getting Help
+
+The following resources are available to get help:
+- Start with AI chat bots and the course website to see if they can assist
+- Use the course Slack channel to ask classmates for help
+- Attend TA or Professor office hours (coming soon)
+- Use **Slack** or email to contact one of the course TAs
+- Use **Slack** or email to contact Professor Murff
+
+## Pre-enrollment Assessment
+
+Coming soon.

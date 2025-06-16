@@ -1,0 +1,10 @@
+---
+title: "Interviews"
+editor: visual
+---
+
+## Case interview techniques
+
+## Behavioral interview prep (STAR method, story bank)
+
+## Mock interview guidance

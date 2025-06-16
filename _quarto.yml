@@ -1,0 +1,38 @@
+project:
+  type: book
+  output-dir: docs
+  resources:
+    - images
+
+book:
+  title: "STRAT 325 - Intro to Management Consulting"
+#  favicon: images/understanding-ai-favicon.png
+  author: "Scott Murff"
+  date: "5/10/2025"
+  chapters:
+   - index.qmd
+   - 01-history.qmd
+   - 02-core-skills.qmd
+   - 03-problem-solving.qmd
+   - 04-interviews.qmd
+   - 05-using-ai.qmd
+   - 06-first-year.qmd
+   - 99-references.qmd
+
+bibliography: references.bib
+# csl: informs.csl
+
+format:
+  html:
+    theme: cosmo
+    link-external-icon: true
+    link-external-newwindow: true
+    css: styles.css
+    markdown: default
+    
+toc-title: On this page
+      
+number-sections: false
+
+
+

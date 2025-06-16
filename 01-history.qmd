@@ -1,0 +1,49 @@
+---
+title: "History of Management Consulting"
+format: html
+editor: visual
+---
+
+## The History and Landscape of Management Consulting
+
+### Early Roots (1880s–1920s): Birth of Scientific Management
+
+- Frederick Winslow Taylor: Often considered the father of management consulting, Taylor pioneered scientific management or "Taylorism" in the late 19th and early 20th centuries, emphasizing efficiency and productivity through time-and-motion studies.
+- Arthur D. Little (founded 1886): Initially a chemical consulting firm, it became one of the first to advise on broader business strategy and innovation.
+
+### Institutionalization (1920s–1950s): The Rise of General Consulting Firms
+- Booz Allen Hamilton (founded 1914): One of the first firms to offer consulting on organization and strategy.
+- McKinsey & Company (founded 1926): James O. McKinsey introduced accounting-based management principles and later, under Marvin Bower’s leadership, pioneered the professional ethos and structured problem-solving approach still used today.
+
+Focus during this period was on organizational structure, cost control, and formal management systems.
+
+### Post-War Expansion (1950s–1970s): Strategy Takes Center Stage
+
+- The post-WWII boom led to globalization and complex operations, creating demand for external strategic advice.
+- Boston Consulting Group (BCG) was founded in 1963 by Bruce Henderson and introduced landmark strategic tools like the Experience Curve and BCG Matrix.
+- Strategic consulting emerged as a distinct domain, emphasizing market positioning, competitive advantage, and long-term planning.
+
+### Professionalization and Globalization (1980s–1990s):
+- Bain & Company (founded 1973) differentiated itself by focusing on long-term client relationships and measurable impact.
+- Firms expanded internationally, serving Fortune 500 clients across industries.
+- Consultants became influential in mergers & acquisitions, privatization, and operational restructuring.
+- The 1990s saw the rise of IT consulting (e.g., Accenture, IBM Consulting) alongside traditional strategy firms.
+
+### 21st Century: Diversification, Digital, and Disruption (2000–present)
+
+- The Big Three (McKinsey, BCG, Bain) have continued to dominate high-end strategy work.
+- Consulting has expanded into:
+    - Digital transformation (e.g., McKinsey Digital, BCG X)
+    - Data analytics & AI
+    - Sustainability and ESG
+- Boutique firms and freelance platforms (e.g., Toptal, Catalant) challenge traditional models.
+- There is growing scrutiny around ethics, diversity, and impact (e.g., McKinsey’s work with governments and controversial clients).
+
+### Key Contributions to Business Thinking
+
+Frameworks like Porter’s Five Forces, the GE-McKinsey matrix, value chain analysis, and zero-based budgeting were either developed or popularized by consulting firms.
+Management consulting has significantly influenced MBA education, corporate strategy, and even public policy.
+
+## Overview of major firms (MBB, Big Four, boutiques)
+
+## Trends in the industry and early recruiting timelines
