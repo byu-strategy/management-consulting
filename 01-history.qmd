@@ -1,5 +1,5 @@
 ---
-title: "History of Management Consulting"
+title: "Overview of Management Consulting"
 format: html
 editor: visual
 ---

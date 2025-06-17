@@ -1,41 +1,185 @@
 ---
-title: "Structured Problem Solving"
+title: "Building Blocks of Structured Problem Solving"
 format: html
 editor: visual
 ---
 
 ## Overview
 
-Structured problem solving is a disciplined, hypothesis‑driven approach that breaks complex business challenges into smaller, logically arranged components, guides rigorous analysis, and leads to clear, actionable recommendations. Its hallmarks are:
+Structured problem solving is a disciplined, hypothesis‑driven approach that breaks complex business challenges into smaller, logically arranged components. It guides rigorous analysis and leads to clear, actionable recommendations.
 
--   **MECE breakdown:** Decompose the issue into mutually exclusive, collectively exhaustive parts so that no root causes or solution areas are overlooked and no overlaps occur.
--   **Hypothesis orientation:** Formulate an initial “best guess” about the solution, then test and refine it through targeted data gathering and analysis.
--   **Issue‐tree logic:** Map out key questions in a top‐down tree structure—e.g., “Should profitability be increased by growing volume or improving margins?”—so that every subtree corresponds to a distinct line of inquiry.
--   **Prioritization of effort:** Focus resources on the most value‐creating branches of the tree, using simple qualitative or quantitative screening to sequence analyses.
--   **Data‐driven analysis:** Collect and synthesize both qualitative insights (e.g., stakeholder interviews) and quantitative evidence (e.g., financial modeling, market sizing) to validate or refute each hypothesis.
--   **Synthesis and storytelling:** Distill findings into a coherent narrative that links the original problem definition to an evidence‑based recommendation, supported by clear “so‑what” implications and implementation considerations.
+While different authors summarize the approach in various ways, typically between four and seven steps, we present here a seven-step articulation inspired by McKinsey’s methodology:
 
-Together, these elements ensure that consultants tackle the right problem, apply effort in the right place, and deliver solutions in a way that is both logically sound and practically executable.
+1. Define the Problem – Frame the problem clearly and narrowly; ensure alignment on the question you're solving.
+2. Disaggregate – Break the problem into MECE components (Mutually Exclusive, Collectively Exhaustive).
+3. Prioritize – Identify which branches of the issue tree are most important to analyze.
+4. Develop a Workplan – Build a roadmap of what analyses will be done, by whom, and in what order.
+5. Perform Analysis – Execute data gathering, modeling, and logic testing for each hypothesis or branch.
+6. Synthesize Findings – Boil down the results into insights that answer the core question.
+7. Communicate Recommendations – Use top-down communication (e.g. the Pyramid Principle) to present findings clearly and persuasively.
 
-## MECE thinking, issue trees, hypothesis-driven problem solving
+These steps are best understood as an iterative cycle, not a fixed sequence. New data or insights often prompt revisiting earlier stages to refine the problem definition, reprioritize issues, or update the workplan.
 
-MECE stands for Mutually Exclusive, Collectively Exhaustive. It's a principle used in structured problem-solving—especially in consulting (e.g., McKinsey)—to break down complex problems into categories or sub-problems that are:
+```{mermaid}
+flowchart LR
+    A1([1. Define<br>the Problem]) --> B1([2. Disaggregate])
+    B1 --> C1([3. Prioritize])
+    C1 --> D1([4. Develop<br>a Workplan])
+    D1 --> E1([5. Perform<br>Analysis])
+    E1 --> F1([6. Synthesize<br>Findings])
+    F1 --> G1([7. Communicate<br>Recommendations])
+    G1 --> A1
 
-Mutually Exclusive: No overlap—each element in a breakdown fits in only one category.
-Collectively Exhaustive: No gaps—the categories together cover all possible options or components.
-Example:
-If you're segmenting customers, a MECE breakdown might look like:
+    classDef step fill:#e0f0ff,stroke:#1a73e8,stroke-width:2px,color:#1a1a1a;
+    class A1,B1,C1,D1,E1,F1,G1 step;
+```
 
-By age: 18–25, 26–35, 36–45, 46+
-These are mutually exclusive (no person falls in two buckets)
-And collectively exhaustive (every customer falls in one bucket)
-Why it matters:
-It helps avoid double-counting or missing key elements.
-It supports clear communication and logical analysis.
-It forms the basis of tools like issue trees and hypothesis trees.
-Consultants often use MECE to structure analyses, recommendations, and slide decks.
+
+{{< video https://www.youtube.com/embed/mGz_LHY7XBE >}}
+
+
+## Define the Problem
+
+## Disaggregate
+
+### MECE
+
+Once the problem is clearly defined, the next step is to **break it into smaller parts** that can be tackled systematically. This is where the **MECE principle** comes in which stands for **Mutually Exclusive, Collectively Exhaustive**, a cornerstone of structured problem solving used extensively in management consulting and corporate strategy.
+
+MECE ensures that:
+
+- Each subcomponent is **distinct** (no overlap), and  
+- Together they **cover the whole space** (no gaps).
+
+A well-disaggregated problem makes your analysis cleaner, your thinking sharper, and your recommendations easier to defend. Whether you’re building an issue tree, framing hypotheses, or designing slides, applying MECE sets the foundation for everything that follows.
+
+### When MECE Is Easy
+
+Suppose you're segmenting adult customers by age. A **MECE-compliant breakdown** might look like:
+
+- 18–24  
+- 25–34  
+- 35–44  
+- 45+
+
+These categories are:
+
+- **Mutually Exclusive** – No overlap (e.g., a 25-year-old doesn't appear in two groups).
+- **Collectively Exhaustive** – Every customer belongs to one and only one group.
+
+This kind of clean segmentation supports accurate analysis, avoids double-counting, and ensures no one is missed.
+
+Now compare that to this alternative breakdown:
+
+- Under 25  
+- 25–35  
+- 35–50
+
+This version has two key issues:
+
+- **Not Mutually Exclusive** – A 25- or 35-year-old could fall into two groups.
+- **Not Collectively Exhaustive** – Customers over 50 aren't accounted for.
+
+Flawed segmentation like this can lead to analytical errors, communication confusion, and poor decisions.
+
+### When MECE Is Hard
+
+Now consider a messier problem: analyzing why employees leave a company. Reasons for leaving are often **overlapping, subjective, and hard to categorize cleanly**.
+
+You might start with a messy list like this:
+
+- Low pay  
+- Poor management  
+- Lack of career growth  
+- Burnout  
+- Work-life imbalance  
+- Culture misfit  
+- Relocation  
+- Health issues  
+- Retirement  
+- Lack of challenge  
+- Benefits dissatisfaction  
+- Family obligations  
+
+This list suffers from two major issues:
+
+- **Overlap** – (e.g., burnout might be caused by both poor management and work-life imbalance).  
+- **No structure** – There's no grouping or logical hierarchy to guide analysis.
+
+Now let’s apply MECE as a guiding principle to impose more structure:
+
+- **Compensation-related:**  
+  - Low pay  
+  - Benefits dissatisfaction
+
+- **Work environment:**  
+  - Poor management  
+  - Culture misfit  
+  - Work-life imbalance  
+  - Burnout
+
+- **Career factors:**  
+  - Lack of career growth  
+  - Lack of challenge
+
+- **Personal/life factors:**  
+  - Relocation  
+  - Health issues  
+  - Family obligations  
+  - Retirement
+
+This version isn’t perfect, but it’s:
+
+- **More mutually exclusive** – Each reason fits into a single logical category.  
+- **Closer to collectively exhaustive** – Fewer gaps and better coverage.  
+- **Easier to use** – For analysis, discussion, and recommendations.
+
+> In practice, it’s rare to achieve a perfectly MECE breakdown. Real-world problems are messy and ambiguous. But MECE remains a powerful thinking tool. Striving for it helps you uncover overlaps, spot gaps, and structure your work with clarity. Even when perfection isn’t possible, the *act of trying* often leads to better insights and more rigorous analysis.
+
+### Why Being MECE Is Useful
+
+- Helps avoid double-counting or missing key elements  
+- Supports clear communication and logical analysis  
+- Forms the basis of tools like issue trees and hypothesis trees  
+- Strengthens the rigor of your thinking and storytelling
+
+### Issue Trees
+
+An issue tree, sometimes called a logic tree, is a visual tool that helps you disaggregate a complex problem into its component parts. It takes the abstract and makes it concrete by showing how the high-level problem breaks down into smaller, analyzable questions or drivers.
+
+At its core, an issue tree is simply a structured hierarchy of "sub-questions" or "drivers" that, together, answer the original problem. To be effective, each level of the tree should strive to be MECE.
+
+Suppose a company is experiencing declining profits. An issue tree might break the problem down like this:
+
+```{mermaid}
+graph TD
+    A[Why are profits declining?] --> B[Revenue declining?]
+    A --> C[Costs increasing?]
+    B --> D[Price decreasing?]
+    B --> E[Volume decreasing?]
+    C --> F[Fixed costs increasing?]
+    C --> G[Variable costs increasing?]
+```
+
+This tree:
+
+Breaks the top-level problem into two distinct branches: revenue and costs.
+
+Then further disaggregates those branches into logical, MECE subcomponents.
+
+This structure gives you a clear starting point for analysis, hypothesis generation, and workstream planning.
+
+## Prioritize
+
+## Develop a Workplan
+
+## Perform Analysis
+
+## Synthesize Findings
+
+## Communicate Recommendations
 
 ### The Pyramid Principle
 
-## Communication and storytelling
+
 

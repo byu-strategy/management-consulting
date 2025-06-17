@@ -1,11 +1,12 @@
 ---
-title: "99-resources"
+title: "More Resources"
 format: html
 editor: visual
 ---
 
 - [STRATEGYU](https://strategyu.co/)
 - [Slideworks](https://slideworks.io/)
+- [Management Consulted](https://managementconsulted.com/)
 
 
 ## Prompts

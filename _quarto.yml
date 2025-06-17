@@ -32,7 +32,7 @@ format:
     
 toc-title: On this page
       
-number-sections: false
+number-sections: true
 
 
 

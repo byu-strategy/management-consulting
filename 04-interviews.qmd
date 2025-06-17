@@ -1,10 +1,16 @@
 ---
-title: "Interviews"
+title: "Getting and Nailing the Interviews"
 editor: visual
 ---
 
-## Case interview techniques
+## Getting the Inteview
 
-## Behavioral interview prep (STAR method, story bank)
+### Networking
 
-## Mock interview guidance
+## Nailing the Interview
+
+### Case interview techniques
+
+### Behavioral interview prep
+
+### Mock interview guidance

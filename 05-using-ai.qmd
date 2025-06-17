@@ -1,5 +1,5 @@
 ---
-title: "Using AI as a Consultant"
+title: "Leveraging AI as a Consultant"
 editor: visual
 ---
 
