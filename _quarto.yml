@@ -1,8 +1,9 @@
 project:
   type: book
-  output-dir: docs
+  output-dir: _site
   resources:
     - images
+
 
 book:
   title: "STRAT 325 - Intro to Management Consulting"
