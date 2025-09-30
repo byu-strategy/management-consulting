@@ -6,6 +6,8 @@ editor: visual
 
 ## The History and Landscape of Management Consulting
 
+Testing
+
 ### Early Roots (1880s–1920s): Birth of Scientific Management
 
 - Frederick Winslow Taylor: Often considered the father of management consulting, Taylor pioneered scientific management or "Taylorism" in the late 19th and early 20th centuries, emphasizing efficiency and productivity through time-and-motion studies.
