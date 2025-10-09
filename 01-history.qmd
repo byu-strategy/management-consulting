@@ -48,4 +48,155 @@ Management consulting has significantly influenced MBA education, corporate stra
 
 ## Overview of major firms (MBB, Big Four, boutiques)
 
+### MBB (McKinsey, BCG, Bain): The Strategy Elite
+
+The "MBB" firms represent the pinnacle of strategy consulting, known for their prestigious client base, rigorous analytical approaches, and significant influence on global business practices.
+
+#### McKinsey & Company
+- **Founded:** 1926 by James O. McKinsey
+- **Headquarters:** New York City
+- **Focus Areas:** Corporate strategy, organizational transformation, operations, digital, and analytics
+- **Distinctive Features:**
+  - Largest of the MBB firms with over 130 offices globally
+  - Known for thought leadership through McKinsey Quarterly and McKinsey Global Institute
+  - Alumni network includes numerous CEOs and public sector leaders
+  - Pioneered the professional consulting model under Marvin Bower
+- **Notable Work:** Strategic restructuring for Fortune 500 companies, public sector transformation, healthcare system redesign
+
+#### Boston Consulting Group (BCG)
+- **Founded:** 1963 by Bruce Henderson
+- **Headquarters:** Boston, Massachusetts
+- **Focus Areas:** Strategy, digital ventures, innovation, corporate development
+- **Distinctive Features:**
+  - Created foundational strategy frameworks (BCG Matrix, Experience Curve)
+  - BCG X focuses on tech build and digital products
+  - Strong emphasis on social impact work
+  - Known for collaborative, intellectually rigorous culture
+- **Notable Work:** Market entry strategies, portfolio optimization, transformation programs
+
+#### Bain & Company
+- **Founded:** 1973 by Bill Bain
+- **Headquarters:** Boston, Massachusetts
+- **Focus Areas:** Strategy, private equity consulting, customer strategy, M&A
+- **Distinctive Features:**
+  - Pioneered results-based consulting with focus on measurable outcomes
+  - Dominant player in private equity consulting
+  - Smaller and more selective than McKinsey
+  - Strong emphasis on long-term client relationships
+- **Notable Work:** Due diligence for PE firms, performance improvement, customer loyalty strategies
+
+### The Big Four: Audit Origins, Consulting Power
+
+Originally accounting firms, the Big Four have evolved into massive professional services organizations offering consulting alongside audit, tax, and advisory services.
+
+#### Deloitte
+- **Consulting Arm:** Deloitte Consulting
+- **Focus Areas:** Technology implementation, digital transformation, human capital, strategy, operations
+- **Distinctive Features:**
+  - Largest of the Big Four consulting practices
+  - Strong in government and public sector work
+  - Comprehensive end-to-end implementation capabilities
+  - Deloitte Digital competes directly with tech consultancies
+
+#### PwC (PricewaterhouseCoopers)
+- **Consulting Arm:** PwC Advisory/Strategy&
+- **Focus Areas:** Deals, technology consulting, risk advisory, digital transformation
+- **Distinctive Features:**
+  - Strategy& (formerly Booz & Company) acquired in 2014 for high-end strategy work
+  - Strong regulatory and compliance consulting
+  - Emphasis on trust and quality in client relationships
+  - Significant presence in financial services
+
+#### EY (Ernst & Young)
+- **Consulting Arm:** EY-Parthenon (Strategy), EY Consulting
+- **Focus Areas:** Strategy, transactions, business transformation, technology
+- **Distinctive Features:**
+  - EY-Parthenon acquired in 2014 to strengthen strategy capabilities
+  - Strong in corporate finance and restructuring
+  - Growing digital and analytics practices
+  - Focus on entrepreneurship and innovation ecosystems
+
+#### KPMG
+- **Consulting Arm:** KPMG Advisory
+- **Focus Areas:** Risk consulting, management consulting, deal advisory, technology
+- **Distinctive Features:**
+  - Smaller consulting practice compared to other Big Four
+  - Strong in risk, compliance, and regulatory work
+  - Healthcare and financial services expertise
+  - Focus on functional consulting (IT, supply chain, finance)
+
+### Boutique Firms: Specialized Excellence
+
+Boutique consultancies offer deep expertise in specific industries or functional areas, often with more personalized service and specialized methodologies.
+
+#### Strategy Boutiques
+
+**Oliver Wyman**
+- Focus: Financial services, aviation, healthcare strategy
+- Distinctive: Quantitative modeling expertise, industry-specific practices
+
+**L.E.K. Consulting**
+- Focus: Corporate strategy, M&A, shareholder value
+- Distinctive: Strong analytical foundation, private equity orientation
+
+**Simon-Kucher & Partners**
+- Focus: Pricing strategy, marketing, sales optimization
+- Distinctive: World leader in pricing consulting
+
+**Roland Berger**
+- Focus: Strategy, particularly in Europe and automotive sector
+- Distinctive: European heritage, restructuring expertise
+
+#### Technology and Digital Boutiques
+
+**ThoughtWorks**
+- Focus: Software development, digital transformation, agile practices
+- Distinctive: Social justice mission, developer-centric approach
+
+**West Monroe**
+- Focus: Technology implementation, business operations, financial services
+- Distinctive: Strong in technology strategy and execution
+
+#### Operations and Implementation Specialists
+
+**AlixPartners**
+- Focus: Turnaround, restructuring, performance improvement
+- Distinctive: Results-driven, interim management services
+
+**FTI Consulting**
+- Focus: Corporate finance, restructuring, economic consulting
+- Distinctive: Expert testimony, forensic analysis
+
+**Kearney (A.T. Kearney)**
+- Focus: Operations, procurement, supply chain strategy
+- Distinctive: Strong in manufacturing and automotive industries
+
+#### Industry-Specific Boutiques
+
+**ZS Associates**
+- Focus: Healthcare, pharmaceuticals, sales force effectiveness
+- Distinctive: Data and analytics heritage, life sciences focus
+
+**Huron Consulting**
+- Focus: Healthcare, higher education, commercial sectors
+- Distinctive: Deep expertise in healthcare operations and strategy
+
+**NERA Economic Consulting**
+- Focus: Economic and financial analysis, antitrust, regulation
+- Distinctive: PhD economists, litigation support
+
+### Key Differences Across Firm Types
+
+**Prestige and Brand:** MBB firms command highest prestige, Big Four offer scale and breadth, boutiques offer specialization
+
+**Compensation:** Generally MBB > Boutiques (top-tier) > Big Four, though significant variation exists
+
+**Work-Life Balance:** Typically better at Big Four, varies widely at boutiques, most challenging at MBB
+
+**Exit Opportunities:** MBB alumni networks strongest for C-suite and PE roles, Big Four strong for corporate functions, boutiques excellent for industry-specific roles
+
+**Project Types:** MBB focuses on CEO-level strategy, Big Four on implementation and technology, boutiques on specialized domains
+
+**Client Interaction:** Smaller boutiques often provide more partner-level attention and specialized expertise
+
 ## Trends in the industry and early recruiting timelines
