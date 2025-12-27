@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Left face - darker -->
+  <polygon points="16,2 2,28 16,25" fill="#002E5D"/>
+  <!-- Right face - lighter for depth -->
+  <polygon points="16,2 30,28 16,25" fill="#1A4A7A"/>
+  <!-- Bottom face - medium shade -->
+  <polygon points="2,28 30,28 16,25" fill="#0D3D6B"/>
+</svg>

@@ -7,7 +7,7 @@ project:
 
 book:
   title: "STRAT 325 - Intro to Management Consulting"
-#  favicon: images/understanding-ai-favicon.png
+  favicon: favicon.svg
   author: "Scott Murff"
   date: "Winter 2026"
   chapters:
