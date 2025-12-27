@@ -1,0 +1,220 @@
+# Project 3: Value-Add Hypothesis
+
+This project moves from diagnosis to prescription. Working with a partner, you'll develop a hypothesis for how a consulting firm could add value to your target company—the kind of "freemium" analysis that might initiate a client relationship.
+
+## Project Overview
+
+| Element | Details |
+|---------|---------|
+| **Deliverable** | 5-slide value-add hypothesis |
+| **Due** | Week 12 (Thursday) |
+| **Format** | Pairs |
+| **Submission** | PowerPoint/PDF uploaded to Learning Suite |
+
+## What is a Value-Add Hypothesis?
+
+A value-add hypothesis answers: **What could a consulting firm help this company achieve, and why would it be worth their investment?**
+
+This is the transition from "here's what's happening" (diagnostic) to "here's what we could do together" (proposal). It's the kind of analysis consultants use to:
+
+- Initiate conversations with potential clients
+- Demonstrate relevant expertise
+- Propose specific engagement scopes
+
+## Building on Projects 1 & 2
+
+Your value-add hypothesis should leverage your earlier work:
+
+| Project | What You Learned | How It Informs Project 3 |
+|---------|-----------------|-------------------------|
+| **Project 1** | Key strategic challenges | Which challenge to address |
+| **Project 2** | Competitive position | Why the challenge matters relative to peers |
+| **Project 3** | Value-add hypothesis | What consulting could help achieve |
+
+## Developing Your Hypothesis
+
+### Step 1: Select the Opportunity
+
+From your diagnostic and benchmark, choose one strategic challenge where:
+
+- The stakes are high for the company
+- External expertise would accelerate progress
+- There's a clear path to measurable impact
+
+### Step 2: Define the Value at Stake
+
+Quantify the opportunity:
+
+- **Revenue impact** – What could be gained from market share, pricing, or growth?
+- **Cost impact** – What could be saved through efficiency, optimization, or restructuring?
+- **Risk mitigation** – What losses could be avoided?
+
+Even rough estimates are valuable. Use your analytical skills from Chapter 6.
+
+### Step 3: Outline the Approach
+
+Describe how consulting engagement could address the challenge:
+
+- **Key questions to answer** – What would the engagement investigate?
+- **Analysis required** – What data and methods would be needed?
+- **Potential recommendations** – What kind of output would be delivered?
+
+### Step 4: Articulate the Why Now
+
+Explain why this is the right time for the company to act:
+
+- Market dynamics creating urgency
+- Competitive threats demanding response
+- Internal changes opening opportunity windows
+
+## 5-Slide Structure
+
+### Slide 1: Executive Summary
+
+**Purpose:** Summarize the entire hypothesis in one slide
+
+**Content:**
+
+- Company and context (1-2 sentences)
+- The opportunity (1-2 sentences)
+- Proposed approach (1-2 sentences)
+- Expected impact (quantified)
+
+**Example title:** "Supply chain optimization could unlock $50M in annual savings for [Company]"
+
+### Slide 2: The Strategic Challenge
+
+**Purpose:** Frame the problem that creates the opportunity
+
+**Content:**
+
+- Key findings from your diagnostic
+- How the competitive benchmark reinforces the urgency
+- What's at stake if not addressed
+
+**Example title:** "Rising input costs and competitor efficiency gains are squeezing margins"
+
+### Slide 3: The Opportunity
+
+**Purpose:** Quantify the value at stake
+
+**Content:**
+
+- Size of the opportunity (revenue, cost, or risk)
+- How you estimated the value
+- Comparison to peers or benchmarks
+
+**Example title:** "Closing the margin gap with top-quartile peers represents $50M annual opportunity"
+
+### Slide 4: Proposed Approach
+
+**Purpose:** Outline how consulting would address the challenge
+
+**Content:**
+
+- Key questions the engagement would answer
+- Analytical approach and methods
+- Timeline and major phases
+
+**Example title:** "4-phase diagnostic would identify quick wins and structural improvements"
+
+### Slide 5: Why Now
+
+**Purpose:** Create urgency and establish next steps
+
+**Content:**
+
+- Market dynamics creating time pressure
+- Competitive moves requiring response
+- Suggested next steps to explore further
+
+**Example title:** "Competitor investments make the next 12 months critical for action"
+
+## Working with a Partner
+
+This is your first paired project. Here's how to collaborate effectively:
+
+### Division of Labor
+
+| Approach | Pros | Cons |
+|----------|------|------|
+| **Divide slides** | Clear ownership | May lack integration |
+| **Draft together** | Consistent voice | More time-intensive |
+| **One drafts, one edits** | Efficient | Unequal effort risk |
+
+**Recommendation:** Develop the hypothesis together, divide initial drafting, then integrate and polish as a team.
+
+### Partner Dynamics
+
+- **Establish norms early** – How will you communicate? What are deadlines?
+- **Play to strengths** – Who's stronger at quantitative analysis? Slide design?
+- **Give feedback constructively** – Focus on the work, not the person
+- **Share credit equally** – The final product is both of yours
+
+### If Conflict Arises
+
+Use what you've learned about consulting teamwork:
+
+1. **Name the issue** – Be direct about what's not working
+2. **Focus on the work** – Keep it about deliverables, not personalities
+3. **Find a path forward** – What specific changes would help?
+4. **Escalate if needed** – Talk to your TA if you can't resolve it
+
+## AI-Assisted Hypothesis Development
+
+Use AI to help synthesize your analysis:
+
+> "Based on my analysis of [Company X], I've identified [strategic challenge] as a key opportunity. Help me:
+> 1. Estimate the potential value at stake using reasonable assumptions
+> 2. Outline what questions a consulting engagement would need to answer
+> 3. Suggest a high-level approach and timeline
+> 4. Identify why this would be urgent for the company to address now
+>
+> Here's what I know about the company: [key facts from Projects 1 & 2]"
+
+Then validate assumptions and refine with your own judgment.
+
+## Evaluation Criteria
+
+| Criterion | Weight | Description |
+|-----------|--------|-------------|
+| **Hypothesis Quality** | 35% | Is the value-add hypothesis compelling and well-reasoned? |
+| **Quantification** | 25% | Is the opportunity sized with reasonable assumptions? |
+| **Slide Quality** | 20% | Are slides clear, professional, and action-titled? |
+| **Integration** | 10% | Does the hypothesis build logically on Projects 1 & 2? |
+| **Teamwork** | 10% | Did partners collaborate effectively? |
+
+## Common Mistakes to Avoid
+
+| Mistake | How to Avoid |
+|---------|--------------|
+| Generic opportunity | Be specific to this company's situation |
+| No quantification | Even rough estimates add credibility |
+| Unclear approach | Describe what the engagement would actually do |
+| Weak urgency | Explain why now, not just why |
+| Unbalanced partnership | Communicate early, divide work fairly |
+
+## Timeline
+
+| When | What |
+|------|------|
+| Week 11 | Form pairs, align on company and opportunity |
+| Week 12 Tuesday | Draft complete, bring for workshop |
+| Week 12 Thursday | Final version due |
+
+## Preparing for the Capstone
+
+This project sets you up for your final capstone:
+
+- **Project 3** – Identifies the opportunity
+- **Capstone** – Develops the full proposal (15-20 slides, deeper analysis, team of 3)
+
+Think of Project 3 as your "proof of concept" before going deeper.
+
+## Practice Exercise
+
+1. **Brainstorm 3 potential opportunities** based on your Projects 1 and 2. Discuss with your partner and select the most compelling one.
+
+2. **Size the opportunity** using a rough estimation approach. What assumptions are you making? How sensitive is the estimate?
+
+3. **Draft your executive summary slide** first. If you can't summarize the hypothesis in one slide, you're not ready to build the rest.

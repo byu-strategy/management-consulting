@@ -1,0 +1,214 @@
+# AI for Consultants
+
+AI is not a separate topic in this course—it's the operating system for everything you do. Just as consultants twenty years ago had to master Excel, you need to master AI-assisted workflows to be effective in modern consulting.
+
+## Why AI Matters for Consultants
+
+Consulting has always been about solving problems faster and better than clients can themselves. AI amplifies this by:
+
+- **Accelerating research**: What took days of reading 10-Ks and industry reports now takes hours
+- **Structuring thinking**: AI can help you generate MECE frameworks, issue trees, and hypotheses
+- **Drafting communications**: First drafts of slides, emails, and memos can be generated in minutes
+- **Analyzing data**: Pattern recognition and synthesis across large datasets becomes feasible
+- **Practicing interviews**: AI can serve as a case partner or behavioral interview coach
+
+Top consulting firms are rapidly integrating AI into their workflows. McKinsey has Lilli, BCG has tools across their practice, and Bain invests heavily in AI-augmented analytics. The consultants who thrive will be those who use AI effectively—not as a crutch, but as an amplifier of their thinking.
+
+## Your AI Toolkit
+
+We'll use three primary tools in this course:
+
+### 1. VS Code or Cursor
+
+**What it is:** A code editor that becomes your command center for AI-assisted work.
+
+**Why we use it:** Unlike ChatGPT in a browser, working in VS Code/Cursor gives you:
+
+- Persistent context across work sessions
+- The ability to work with multiple files simultaneously
+- Integration with your file system for saving and organizing work
+- More sophisticated prompting through markdown files
+
+**Setup:**
+
+1. Download [VS Code](https://code.visualstudio.com/) or [Cursor](https://cursor.sh/)
+2. If using VS Code, install the Claude extension or GitHub Copilot
+3. Create a folder for your STRAT 325 work
+
+### 2. Claude (via Claude Code or Anthropic)
+
+**What it is:** A large language model that excels at structured reasoning, analysis, and synthesis.
+
+**Why we use it:** Claude is particularly strong for consulting work because it:
+
+- Handles long documents and complex prompts well
+- Produces structured, professional output
+- Can maintain consistency across long work sessions
+- Is excellent at synthesis and summarization
+
+**Setup:**
+
+1. Create an account at [claude.ai](https://claude.ai)
+2. For power users: Consider Claude Pro ($20/month) for more capacity
+3. For advanced workflows: Install Claude Code CLI for terminal-based work
+
+### 3. Specialized Tools
+
+Depending on your projects, you may also use:
+
+- **Perplexity**: For research-intensive company analysis
+- **Gamma or Beautiful.ai**: For rapid slide creation
+- **Excel Copilot**: For spreadsheet modeling (if you have Microsoft 365)
+
+## The AI-Assisted Consulting Workflow
+
+Here's how AI integrates into each phase of consulting work:
+
+### Research Phase
+
+```
+Traditional: 8+ hours reading 10-Ks, earnings calls, industry reports
+AI-Assisted: 2-3 hours with AI synthesizing sources + your critical review
+```
+
+**Example prompt for company research:**
+
+> "I'm analyzing [Company X] for a strategic analysis project. Based on their most recent 10-K, earnings calls, and industry context, help me understand:
+> 1. Their current strategic position
+> 2. Key competitive advantages and vulnerabilities
+> 3. Major strategic challenges they're likely facing
+> 4. 3-5 hypotheses about where they could improve
+>
+> For each point, cite specific evidence."
+
+### Structuring Phase
+
+```
+Traditional: Whiteboard session to build MECE framework
+AI-Assisted: Generate initial structure with AI, then refine and stress-test
+```
+
+**Example prompt for framework development:**
+
+> "I'm trying to understand why [Company X's] profit margins have declined 5% over the past 3 years. Help me build a MECE issue tree that breaks down all possible drivers of this margin compression.
+>
+> For each branch, give me:
+> - The category (mutually exclusive from others)
+> - 2-3 specific hypotheses to test
+> - What data I would need to validate each hypothesis"
+
+### Analysis Phase
+
+```
+Traditional: Manual data gathering, Excel modeling, slide-by-slide creation
+AI-Assisted: AI helps structure analysis, draft exhibits, and identify patterns
+```
+
+**Example prompt for data synthesis:**
+
+> "I have the following data points from my research on [Company X]:
+> [paste your notes]
+>
+> Help me:
+> 1. Identify the 3-5 most significant insights
+> 2. Structure these into a logical flow for a slide deck
+> 3. Suggest what exhibit type (chart, table, diagram) would best communicate each insight"
+
+### Communication Phase
+
+```
+Traditional: Hours drafting and refining slide decks
+AI-Assisted: AI generates drafts, you edit and elevate
+```
+
+**Example prompt for slide drafting:**
+
+> "I need to create a one-slide executive summary for my analysis of [Company X]. My key findings are:
+> [list findings]
+>
+> Draft:
+> 1. A compelling headline (action-oriented, 10 words max)
+> 2. 3-4 supporting bullets (each 1 line, evidence-based)
+> 3. A recommendation sentence"
+
+## AI Principles for Consultants
+
+### 1. AI is a Draft Generator, Not a Final Answer
+
+Everything AI produces needs your critical review. AI can:
+
+- Make up facts that sound plausible ("hallucinations")
+- Miss nuances that domain experts would catch
+- Default to generic frameworks when specific ones would be better
+
+**Your job:** Use AI to accelerate your work, then apply your judgment to refine, verify, and elevate the output.
+
+### 2. Prompting is a Skill
+
+The quality of AI output depends heavily on the quality of your prompts. Good prompts:
+
+- Provide context (who you are, what you're trying to do)
+- Are specific about the output format you want
+- Break complex requests into steps
+- Include examples of what "good" looks like
+
+**Example of vague vs. specific prompting:**
+
+❌ "Analyze Apple"
+
+✅ "I'm a sophomore preparing for consulting interviews. I need to understand Apple's competitive position in the smartphone market for a case study. Help me identify:
+1. Apple's top 3 competitive advantages (with evidence)
+2. Their 2 biggest strategic vulnerabilities
+3. One emerging threat they should be watching
+
+Format each point as a headline + 2-3 sentences of supporting evidence."
+
+### 3. Maintain Your Analytical Muscles
+
+The risk of AI dependency is atrophy of your own thinking. Balance AI use with:
+
+- Building frameworks by hand first, then comparing to AI suggestions
+- Doing mental math before reaching for calculators
+- Writing first drafts yourself sometimes, especially early in the course
+
+### 4. Firm Policies Vary
+
+Different consulting firms have different AI policies. Some encourage extensive AI use; others restrict it, especially for client-facing work. Learn your firm's policies during your internship. For now, develop fluency so you can adapt either way.
+
+## In-Class AI Setup Workshop
+
+During our Week 3 session, we'll:
+
+1. **Install and configure** your AI toolkit
+2. **Practice prompting** with consulting-relevant examples
+3. **Build your first AI-assisted analysis** of a target company
+4. **Share and critique** outputs as a class
+
+Come prepared with:
+
+- Your laptop with VS Code or Cursor installed
+- A Claude account (free tier is fine to start)
+- One target company selected from your Week 1 list
+
+## AI Readings
+
+Before the Week 3 hands-on session, read:
+
+1. [How Consultants are Using AI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) - McKinsey's perspective on AI in professional services
+2. [The AI-Augmented Analyst](https://www.bain.com/insights/artificial-intelligence-at-bain/) - Bain's view on AI's role
+3. [Prompting Best Practices](https://docs.anthropic.com/claude/docs/prompt-engineering) - Anthropic's guide to getting better outputs
+
+## AI Throughout This Course
+
+From Week 3 onward, you should use AI for every major assignment:
+
+| Assignment | How to Use AI |
+|------------|---------------|
+| Company Diagnostic (P1) | Research, framework generation, draft synthesis |
+| Competitive Benchmark (P2) | Data gathering, comparison structure, exhibit drafts |
+| Value-Add Hypothesis (P3) | Ideation, prioritization logic, slide drafting |
+| Capstone Proposal | All of the above, plus presentation prep |
+| Case Practice | Generate practice cases, get feedback on frameworks |
+| Behavioral Prep | Draft and refine PARADE stories |
+
+The expectation is not that AI does your work—it's that you learn to use AI as a force multiplier for your own thinking.

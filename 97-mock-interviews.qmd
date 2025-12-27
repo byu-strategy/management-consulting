@@ -1,0 +1,357 @@
+# Mock Interview Resources
+
+This appendix provides resources for case practice—sample cases, practice frameworks, and guidance for running effective mock sessions.
+
+## Case Practice Requirements
+
+Throughout the course, you'll complete structured case practice:
+
+| Component | Timing | Format |
+|-----------|--------|--------|
+| **Case walkthrough** | Weeks 7-8 | Pod-based introduction with TA |
+| **Pieces of a case** | Weeks 7-12 | 5 focused skill-building assignments |
+| **Practice cases** | Ongoing | Peer-to-peer and TA sessions |
+| **Casing midterm** | Week 10 | 2 full mock cases (different TAs) |
+| **Casing final** | Week 15 | Rigorously graded evaluation |
+
+## The "Pieces of a Case" Assignments
+
+Before doing full cases, master the components:
+
+### 1. Paper Frameworks
+
+Practice building frameworks on paper without time pressure:
+
+**Assignment:** Given a case prompt, write out your framework including:
+
+- 3-4 buckets
+- Key questions under each bucket
+- Initial hypothesis
+- Where you'd start and why
+
+**Evaluation:**
+
+- Is it MECE?
+- Is it tailored to the specific case?
+- Is the hypothesis reasonable?
+- Is prioritization logical?
+
+### 2. Quant Packet
+
+Build fluency with case math:
+
+**Assignment:** Complete a timed quantitative exercise including:
+
+- Market sizing
+- Profitability calculations
+- Breakeven analysis
+- Growth rate calculations
+
+**Evaluation:**
+
+- Accuracy
+- Speed
+- Structured approach
+- Clear communication of work
+
+### 3. Exhibit Interpretation
+
+Practice extracting insights from data:
+
+**Assignment:** Given 3-4 exhibits, write:
+
+- The key insight from each exhibit
+- How the exhibits connect
+- What questions the data raises
+- How you'd use this in a recommendation
+
+**Evaluation:**
+
+- Correct interpretation
+- Synthesis across exhibits
+- Insight beyond the obvious
+- Connection to case context
+
+### 4. Structured Brainstorm
+
+Practice generating creative yet structured ideas:
+
+**Assignment:** Given a strategic question, brainstorm solutions that are:
+
+- MECE in organization
+- Creative but feasible
+- Prioritized by impact
+
+**Evaluation:**
+
+- Breadth of ideas
+- Structure of presentation
+- Quality of prioritization
+- Practicality
+
+### 5. Case Conclusion
+
+Practice delivering crisp recommendations:
+
+**Assignment:** Given case facts, deliver a 2-minute recommendation including:
+
+- Lead with the answer
+- 2-3 supporting reasons
+- Key risk
+- Next steps
+
+**Evaluation:**
+
+- Clear structure
+- Evidence-based reasoning
+- Appropriate caveats
+- Actionable next steps
+
+## Running Mock Interviews
+
+### Structure of a Mock Session
+
+**Total time:** 45-60 minutes
+
+| Phase | Time | Activity |
+|-------|------|----------|
+| **Setup** | 2 min | Interviewer reads case |
+| **Case intro** | 2-3 min | Present prompt, answer clarifying questions |
+| **Structuring** | 3-5 min | Candidate builds framework |
+| **Analysis** | 15-20 min | Work through case |
+| **Recommendation** | 2-3 min | Candidate delivers synthesis |
+| **Feedback** | 10-15 min | Structured debrief |
+
+### The Feedback Conversation
+
+After each mock case, provide feedback on:
+
+**1. Problem Structuring**
+
+- Was the framework MECE?
+- Was it tailored to the case?
+- Was there a clear hypothesis?
+- Was prioritization logical?
+
+**2. Analytical Skills**
+
+- Was math accurate?
+- Were calculations structured?
+- Were insights drawn from data?
+- Was there synthesis along the way?
+
+**3. Communication**
+
+- Was thinking shared out loud?
+- Was structure used (numbering, signposting)?
+- Was there periodic synthesis?
+- Was the recommendation clear?
+
+**4. Presence**
+
+- Was there confidence without arrogance?
+- Was there engagement with the interviewer?
+- Were hints taken gracefully?
+- Was composure maintained under pressure?
+
+### Feedback Framework
+
+Use this structure for feedback:
+
+> **What worked well:** (2-3 specific things)
+>
+> **What to improve:** (1-2 specific things with how to fix)
+>
+> **Focus for next time:** (1 clear priority)
+
+Be specific. "Your structure was good" is less helpful than "Your framework covered the key areas, but next time, state your hypothesis before diving in."
+
+## Sample Case Prompts
+
+### Profitability Case
+
+**Prompt:**
+
+> Our client is a mid-sized regional airline. Profits have declined 20% over the past two years despite stable passenger volumes. The CEO wants to understand why and what to do about it.
+
+**Key information to reveal:**
+
+- Revenue per passenger has declined 15%
+- Fuel costs have increased 30%
+- Competition from low-cost carriers has intensified
+- Business travelers (high-yield) have declined 25%
+
+**Expected approach:**
+
+- Profit = Revenue - Costs
+- Revenue decomposition: passengers × yield
+- Cost decomposition: fixed vs. variable, major categories
+- Root cause: yield decline from competition, cost pressure from fuel
+
+### Market Entry Case
+
+**Prompt:**
+
+> Our client is a major coffee chain considering entering the Indian market. They want to know if they should enter and, if so, how.
+
+**Key information to reveal:**
+
+- India's coffee market is growing 8% annually
+- Tea dominates but coffee consumption is rising, especially urban
+- Local competitors are well-established
+- Real estate costs in prime locations are high
+- Middle-class consumer base is expanding rapidly
+
+**Expected approach:**
+
+- Market attractiveness: size, growth, trends
+- Competitive landscape: who's there, how they compete
+- Client capabilities: brand, supply chain, operations
+- Entry strategy: organic vs. partnership vs. acquisition
+
+### Growth Strategy Case
+
+**Prompt:**
+
+> Our client is a B2B software company that has grown 50% annually for 5 years. Growth has slowed to 15% this year. The board wants a plan to reignite growth.
+
+**Key information to reveal:**
+
+- Core market is maturing (60% penetration)
+- Customer churn has increased from 5% to 12%
+- New product launches have underperformed
+- Sales team productivity has declined
+- Two major competitors have emerged
+
+**Expected approach:**
+
+- Diagnose the slowdown: market, product, or execution?
+- Organic options: retain more, sell more, expand products
+- Inorganic options: acquisitions, partnerships
+- Prioritization based on impact and feasibility
+
+### Operations Case
+
+**Prompt:**
+
+> Our client operates 15 distribution centers across the country. They're experiencing rising costs and declining service levels. How should they improve operations?
+
+**Key information to reveal:**
+
+- 4 centers are underutilized (<50% capacity)
+- 3 centers are over capacity (>95%)
+- Transportation costs have increased 25%
+- On-time delivery has fallen from 95% to 85%
+- Labor costs vary significantly by region
+
+**Expected approach:**
+
+- Map current state: capacity, costs, service levels
+- Identify root causes: network design, operations, labor
+- Evaluate options: consolidation, expansion, optimization
+- Quantify impact and recommend
+
+### Pricing Case
+
+**Prompt:**
+
+> Our client makes industrial sensors. They haven't raised prices in 5 years and are considering a 15% increase. How should they think about this?
+
+**Key information to reveal:**
+
+- Costs have increased 20% over 5 years
+- Competitors have raised prices 8-10%
+- Customer switching costs are moderate
+- Some customer segments are more price-sensitive
+- Long-term contracts are common
+
+**Expected approach:**
+
+- Value-based pricing: what's the sensor worth to customers?
+- Competitive pricing: where do we sit vs. alternatives?
+- Cost-plus pricing: what do we need to maintain margin?
+- Segmentation: different prices for different segments?
+- Implementation: how to communicate and execute
+
+## Case Math Practice
+
+### Market Sizing
+
+**Practice problem:** Estimate the annual market for baby strollers in the US.
+
+**Approach:**
+
+- US population: ~330M
+- Birth rate: ~3.6M births/year
+- % who buy new strollers: ~70%
+- Average strollers per child: ~1.5
+- Average price: ~$200
+
+**Calculation:**
+
+3.6M × 0.70 × 1.5 × $200 = $756M
+
+### Profitability Math
+
+**Practice problem:** A company has revenue of $100M and wants to increase profit margin from 10% to 15%. If they can't increase prices, how much do they need to cut costs?
+
+**Approach:**
+
+- Current profit: $100M × 10% = $10M
+- Target profit: $100M × 15% = $15M
+- Required improvement: $5M
+- Current costs: $100M - $10M = $90M
+- Cost reduction needed: $5M / $90M = 5.6%
+
+### Breakeven Analysis
+
+**Practice problem:** A new product has $2M in fixed costs, a selling price of $50, and variable costs of $30 per unit. How many units to break even?
+
+**Approach:**
+
+- Contribution margin = $50 - $30 = $20
+- Breakeven units = $2M / $20 = 100,000 units
+
+### Growth Rate
+
+**Practice problem:** Revenue grew from $80M to $120M over 4 years. What's the compound annual growth rate?
+
+**Approach:**
+
+- Growth factor: $120M / $80M = 1.5
+- Years: 4
+- CAGR: 1.5^(1/4) - 1 ≈ 10.7%
+
+## Additional Resources
+
+### Casebooks
+
+- McKinsey Case Interview Workbook
+- BCG Interactive Case Library
+- Bain Case Interview Prep
+- Vault Guide to Case Interviews
+
+### Online Practice
+
+- PrepLounge (case partner matching)
+- CaseCoach (structured practice)
+- Management Consulted (frameworks and cases)
+- Victor Cheng (case videos)
+
+### Case Interview Books
+
+- *Case in Point* by Marc Cosentino
+- *Case Interview Secrets* by Victor Cheng
+- *The McKinsey Way* by Ethan Rasiel (for context)
+
+## Tracking Your Practice
+
+Maintain a case log:
+
+| Date | Partner | Case Type | What Went Well | To Improve |
+|------|---------|-----------|----------------|------------|
+| | | | | |
+
+Review your log weekly. Are you seeing progress? What patterns emerge?
+
+**Target:** 15-20 practice cases before your interviews, with increasing difficulty over time.

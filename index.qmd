@@ -1,7 +1,7 @@
 ---
 title: "Syllabus"
 author: "Scott Murff"
-date: "5/10/2025"
+date: "Winter 2026"
 format:
   html: default
   pdf: default
@@ -11,122 +11,228 @@ format:
 
 *WINTER 2026*
 
-**Instructor:** Scott Murff  
-**TAs:** TBD  
-**Class Time:**  Tuesday/Thursday 9:30 – 10:45 AM  
-**Class Location:**  TBD  
+**Instructor:** Scott Murff
+**TAs:** TBD (7 TAs for ~50 students)
+**Class Time:** Tuesday/Thursday 9:30 – 10:45 AM
+**Class Location:** TBD
+**Office Hours:** TBD
 **LMS:** LearningSuite
 
-## Content Overview
+## Course Overview
 
-Welcome to *Intro to Management Consulting*. This course prepares students to successfully secure a management consulting interview, perform well in the interview, and to excel during their first year as a management consultant. The course is designed for sophomores in order to prepare them for consulting firms' early recruiting cycle. Students will develop the core consulting toolkit, including problem decomposition, structured communication, and presentation skills. These skills will be applied to real-world consulting scenarios helping students build the skills and confidence needed to thrive in top-tier consulting roles.
+Welcome to *Intro to Management Consulting* (STRAT 325). This course gives you the **McKinsey consultant toolkit**—the core skills that drive success in top-tier consulting and beyond.
+
+The course operates on two parallel tracks:
+
+| Track | Focus | Outcome |
+|-------|-------|---------|
+| **Interview Prep** | Networking, resume, case interviews, behavioral stories | Land the offer |
+| **Applied Consulting** | Company analysis, competitive benchmarking, strategic proposals | Build the skills |
+
+These tracks reinforce each other. The skills you build through applied projects make you better at interviews. The interview prep sharpens your ability to structure problems and communicate clearly.
+
+### The Consultant Toolkit
+
+By the end of this course, you will develop proficiency in eight core areas:
+
+| Skill | What It Means |
+|-------|--------------|
+| **Structured Problem-Solving** | Decompose ambiguous problems using MECE logic and hypothesis-driven thinking |
+| **Clear Communication** | Apply the Pyramid Principle; write action-titled slides; deliver crisp verbal updates |
+| **Analytics & Modeling** | Build models in Excel; synthesize data into insights; estimate with confidence |
+| **Workstream Ownership** | Manage analyses from start to finish; deliver quality work on deadline |
+| **Client Hands** | Interact professionally with senior stakeholders; build trust through credibility |
+| **Teamwork** | Collaborate across team structures; give and receive feedback effectively |
+| **Coachability** | Incorporate feedback rapidly; demonstrate growth through iteration |
+| **Tolerance for Ambiguity** | Navigate uncertainty; make progress without complete information |
+
+### AI as Your Operating System
+
+AI is not a separate topic—it's how you'll apply every skill in this course. From Week 2, you'll learn to use AI tools (Claude, VS Code/Cursor) to accelerate your research, analysis, and communication. Every project expects AI-assisted work.
 
 ## Learning Outcomes
 
-| **Learning Outcome** | **Target BYU Aim(s)** |
-|-------------------------------------|--------------------------|
-| Students will demonstrate the ability to decompose complex business problems into structured, solvable components using consulting frameworks. | Intellectually Enlarging |
-| Students will craft and deliver persuasive, structured communication tailored to client and team settings. | Intellectually Enlarging; Character Building |
-| Students will practice and reflect on principles of Christlike leadership, including integrity, humility, and service, as applied in consulting settings. | Spiritually Strengthening; Character Building |
-| Students will collaborate effectively in teams. | Character Building |
-| Students will articulate how consulting skills (problem-solving, communication, ethical decision-making) can be used to render service to others. | Spiritually Strengthening; Lifelong Learning and Service |
+| Learning Outcome | Target BYU Aim(s) |
+|-----------------|-------------------|
+| Decompose complex business problems into structured, solvable components using consulting frameworks | Intellectually Enlarging |
+| Craft and deliver persuasive, structured communication tailored to client and team settings | Intellectually Enlarging; Character Building |
+| Practice principles of Christlike leadership, including integrity, humility, and service, in consulting settings | Spiritually Strengthening; Character Building |
+| Collaborate effectively in teams | Character Building |
+| Articulate how consulting skills can be used to render service to others | Spiritually Strengthening; Lifelong Learning and Service |
 
+## Schedule
+
+**Semester:** January 8 – April 16, 2026 (15 weeks)
+
+| Week | Dates | Tuesday | Thursday | Notes |
+|------|-------|---------|----------|-------|
+| 1 | Jan 8 | — | Syllabus, What is Consulting, Team Formation | |
+| 2 | Jan 13-15 | Industry Landscape | **AI Workflow Intro** | 🎤 Guest: Consultant |
+| 3 | Jan 20-22 | **AI for Consultants** (hands-on) | 7-Step Process + MECE | AI readings due |
+| 4 | Jan 27-29 | Pyramid Principle | Slide Writing Workshop | |
+| 5 | Feb 3-5 | Excel & Estimation | Market Sizing Practice | |
+| 6 | Feb 10-12 | Networking Strategy | Resume Workshop | 🎤 Guest: Recruiter |
+| 7 | Feb 17-19 | Case Fundamentals | Framework Practice | |
+| 8 | Feb 24-26 | Outside-In Analysis | **Project 1 Due** + Workshop | |
+| 9 | Mar 3-5 | Competitive Benchmarking | Advanced Casing | |
+| 10 | Mar 10-12 | Behavioral Prep | **Project 2 Due** + Story Workshop | 🎤 Guest: First-Year |
+| 11 | Mar 17-19 | Value-Add Hypothesis | Project 3 Workshop | *1 class missed* |
+| 12 | Mar 24-26 | Workplanning & Execution | **Project 3 Due** + AI Deep Dive | 🎤 Guest: Senior |
+| 13 | Mar 31-Apr 2 | Capstone Work Session | Capstone Presentations | |
+| 14 | Apr 7-9 | Capstone Presentations | First-Year Prep | |
+| 15 | Apr 14-16 | Course Wrap | **IN-CLASS FINAL** | |
+
+## Projects (Freemium Consulting)
+
+Projects are progressive—each builds on the last:
+
+| Project | Due | Scope | Team | Deliverable |
+|---------|-----|-------|------|-------------|
+| **1: Company Diagnostic** | Week 8 | Quick outside-in analysis | Individual | 1-page analysis |
+| **2: Competitive Benchmark** | Week 10 | Industry comparison | Individual | 3 slides |
+| **3: Value-Add Hypothesis** | Week 12 | Opportunity identification | Pairs | 5 slides |
+| **Capstone** | Week 13-14 | Deep-dive proposal + presentation | Teams of 3 | 15-20 slides |
+
+You choose your target company. All projects expect AI-assisted research and analysis.
+
+## Grading
+
+| Category | Weight | Components |
+|----------|--------|------------|
+| **Applied Projects** | 45% | P1 (10%), P2 (10%), P3 (10%), Capstone (15%) |
+| **Interview Prep** | 30% | Case log (10%), Behavioral stories (5%), Networking tracker (5%), Mock interviews (10%) |
+| **Participation** | 15% | Class engagement, workshops, peer feedback |
+| **Exercises** | 10% | Weekly skill-building assignments |
+
+### Grading Scale
+
+| Letter | Range | GPA |
+|--------|-------|-----|
+| A | 93–100% | 4.0 |
+| A- | 90–92% | 3.7 |
+| B+ | 87–89% | 3.4 |
+| B | 83–86% | 3.0 |
+| B- | 80–82% | 2.7 |
+| C+ | 77–79% | 2.4 |
+| C | 73–76% | 2.0 |
+| C- | 70–72% | 1.7 |
+| D+ | 67–69% | 1.4 |
+| D | 63–66% | 1.0 |
+| D- | 60–62% | 0.7 |
+| E | Below 60% | 0.0 |
+
+The course is **not curved**. Every student can earn an A.
+
+### Late Work Policy
+
+Late work accepted up to 9 days late with a 10% penalty per day:
+
+| Days Late | Penalty |
+|-----------|---------|
+| 1-3 | -10% to -30% |
+| 4-6 | -40% to -60% |
+| 7-9 | -70% to -90% |
+| 10+ | No credit |
+
+## Interview Prep Components
+
+### Case Practice
+
+| Component | Timing | Format |
+|-----------|--------|--------|
+| Case walkthrough | Weeks 7-8 | Pod-based intro with TA |
+| Pieces of a case | Weeks 7-12 | 5 focused assignments |
+| Practice cases | Ongoing | Peer-to-peer and TA sessions |
+| Casing midterm | Week 10 | 2 full mock cases |
+| Casing final | Week 15 | Rigorously graded evaluation |
+
+### Behavioral Stories
+
+Build a bank of 8-10 stories using the PARADE framework for common behavioral questions.
+
+### Networking Tracker
+
+Maintain a tracking spreadsheet documenting outreach, coffee chats, and relationship building. Your TA will review progress during feedback sessions.
+
+## TA Pod Structure
+
+You'll be assigned to a **pod** of 7-8 students with a dedicated TA who mentors you all semester:
+
+| TA Touchpoint | Timing |
+|---------------|--------|
+| Goals chat | Week 2 |
+| Feedback sessions | 4x per semester |
+| Resume review | Weeks 5-6 |
+| Case practice | Ongoing |
+| Behavioral prep | Weeks 10-12 |
+
+Your TA is your primary resource for feedback, coaching, and support.
 
 ## Instructor Bio
 
 Scott Murff is an Associate Teaching Professor of Strategy at the BYU Marriott School of Business, where he also serves as program director and teaches courses on business strategy, decision-making, and artificial intelligence. He brings over 15 years of experience at the intersection of business and technology, having worked as a consultant, product manager, and data scientist.
 
-Prior to joining BYU, Scott spent nearly seven years at McKinsey & Company in roles ranging from analytics specialist consultant to principal product manager, where he led product development and performance management initiatives for Fortune 500 clients. His earlier career includes building forecasting models as a VP at Zions Bancorporation and conducting regulatory research at the U.S. Office of the Comptroller of the Currency.
+Prior to joining BYU, Scott spent nearly seven years at McKinsey & Company in roles ranging from analytics specialist consultant to principal product manager, where he led product development and performance management initiatives for Fortune 500 clients.
 
-Scott holds a Master’s degree in Management Science & Engineering from Stanford University and a B.A. in Economics from BYU. He is passionate about helping students apply AI, analytics, and strategy to meaningful real-world problems with both rigor and purpose.
+Scott holds a Master's degree in Management Science & Engineering from Stanford University and a B.A. in Economics from BYU.
 
-## Schedule
+## Required Materials
 
-Coming Soon.
+- **LMS:** LearningSuite
+- **Communication:** Slack (required)
+- **Laptop:** Mac or Windows with ability to run VS Code or Cursor
+- **AI Access:** Claude account (free tier sufficient)
 
-## Grading
-
-The course is **not** graded on a curve. It's possible for every student to earn an A. However, achieving an A is challenging and demonstrates true excellence. The grading scale is show below:
-
-| Letter Grade | Percentage Range | GPA |
-|--------------|------------------|-----|
-| A            | 93–100%          | 4.0 |
-| A-           | 90–92%           | 3.7 |
-| B+           | 87–89%           | 3.4 |
-| B            | 83–86%           | 3.0 |
-| B-           | 80–82%           | 2.7 |
-| C+           | 77–79%           | 2.4 |
-| C            | 73–76%           | 2.0 |
-| C-           | 70–72%           | 1.7 |
-| D+           | 67–69%           | 1.4 |
-| D            | 63–66%           | 1.0 |
-| D-           | 60–62%           | 0.7 |
-| E (Fail)     | Below 60%        | 0.0 |
-
-### Late work policy
-
-Late work will be accepted up to 9 days late for partial credit with a 10% penalty per day according to the following schedule
-
-| Days Late | Late Penalty |
-|-----------|--------------|
-| 1         | -10%         |
-| 2         | -20%         |
-| 3         | -30%         |
-| 4         | -40%         |
-| 5         | -50%         |
-| 6         | -60%         |
-| 7         | -70%         |
-| 8         | -80%         |
-| 9         | -90%         |
-| 10        | No Credit    |
+Recommended readings will be provided through Learning Suite and the course website.
 
 ## Classroom Culture
 
+### Prayer in Class
+
+We begin each class with prayer. Each class member is invited to be voice for the prayer at least once throughout the semester. If you'd rather not be voice for a prayer, please let me know on the first day of class.
+
+### Laptop Policy
+
+Laptops may be used for note-taking and class-related purposes. Avoid activities that would distract nearby students.
+
+### Cold Calling
+
+I teach in a conversational style that includes cold calling. If you'd rather I not cold call on you, please let me know on the first day of class.
+
+### Office Hours and Help
+
+- Start with AI tools and the course website
+- Use Slack to ask classmates
+- Attend TA or Professor office hours
+- Contact your TA via Slack or email
+- Contact Professor Murff via Slack or email
+
+## University Policies
+
 ### Mission and Aims
 
-The mission of Brigham Young University — founded, supported, and guided by The Church of Jesus Christ of Latter-day Saints — is to assist individuals in their quest for perfection and eternal life. That assistance should provide a period of intensive learning in a stimulating setting where a commitment to excellence is expected and the full realization of human potential is pursued.
+The mission of Brigham Young University—founded, supported, and guided by The Church of Jesus Christ of Latter-day Saints—is to assist individuals in their quest for perfection and eternal life.
 
 BYU seeks to develop students of faith, intellect, and character who have the skills and the desire to continue learning and to serve others throughout their lives.
 
 A BYU education should be (1) spiritually strengthening, (2) intellectually enlarging, and (3) character building, leading to (4) lifelong learning and service.
 
-Building on the foundational Mission and Aims, the Marriott School of Business aspires to transform the world through Christlike leadership by developing leaders of faith, intellect, and character guided by the following 4 values:
+### Marriott School Values
 
--   **Faith in Christ** - We value deep and abiding faith in Jesus Christ. Our faith gives us the capacity to envision a better future, the confidence to make that future happen, and the courage to act in the face of challenges.
+Building on the foundational Mission and Aims, the Marriott School of Business aspires to transform the world through Christlike leadership, guided by:
 
--   **Integrity in Action** - We value integrity and hold ourselves to the highest moral and ethical standards. Acting with integrity builds trust, strengthens character, and focuses our ambitions on things of eternal consequence.
+- **Faith in Christ** – Deep and abiding faith gives us capacity to envision a better future
+- **Integrity in Action** – Acting with integrity builds trust and strengthens character
+- **Respect for All** – Recognizing the inherent worth and divine potential of each person
+- **Excellence** – Pursuing excellence in learning, teaching, and leadership
 
--   **Respect for All** - We value respect for all individuals as children of God and recognize the inherent worth, divine potential, and agency of each person. A climate of respect and belonging enhances our learning, facilitates collaboration, and encourages personal growth.
+## Getting Started
 
--   **Excellence** - We value excellence in learning, teaching, research, management, and leadership. An expectation of excellence magnifies our influence and motivates us to continually improve.
+Before Week 2:
 
-We evaluate our decisions and actions by the impact they will have on the academic experience, professional preparation, character development, emotional well-being, and spiritual growth of our students.
+1. Join the course Slack workspace
+2. Install VS Code or Cursor on your laptop
+3. Create a Claude account
+4. Review the course website and Chapter 1
 
-#### Prayer in class
-
-We will begin each class with prayer. Each class member is invited to be voice for the prayer at least once throughout the semester. The TAs will reach out prior to class to invite you to pray on a particular day. If you'd rather not be voice for a prayer please let me know on the first day of class so I can instruct the TAs accordingly. 
-
-#### Laptop Policy
-
-You may use laptops in class for note taking or other class related purposes. Laptops should not be used for activities that would be a distraction to nearby students when your screen is in their line of sight (e.g. sports, instagram, etc.)
-
-#### Cold Calling
-
-I teach in a fairly conversational style, which includes cold calling students to ask for your input or to pose questions. If you'd rather I not cold call on you please let me know on the first day of class so that I can avoid doing so. I have deep respect for individual learning styles and will make accommodations when needed.
-
-## Required Materials
-
-LMS: LearningSuite Class communication: Slack Required materials: The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback by Dan Olsen (physical copy recommended, \$25 or less). Text and audio also available for free for BYU students digitally at O'Reilly books. Laptop or desktop (Mac or Windows) Install Mendix Studio Pro version 10.18.0 on Mac or Windows (free) Verify your student status with Figma and install desktop app for Mac or Windows (free)
-
-## Getting Help
-
-The following resources are available to get help:
-- Start with AI chat bots and the course website to see if they can assist
-- Use the course Slack channel to ask classmates for help
-- Attend TA or Professor office hours (coming soon)
-- Use **Slack** or email to contact one of the course TAs
-- Use **Slack** or email to contact Professor Murff
-
-## Pre-enrollment Assessment
-
-Coming soon.
+Come ready to engage, learn, and build skills that will serve you throughout your career.

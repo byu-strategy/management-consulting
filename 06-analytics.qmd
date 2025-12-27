@@ -1,0 +1,228 @@
+# Analytics and Modeling
+
+Consultants are expected to be quantitatively fluent—able to work with numbers quickly, build clean models, and extract insights from data. This chapter covers the core analytical skills you'll need.
+
+## Excel Fluency
+
+Excel remains the workhorse of consulting analytics. While AI tools are increasingly useful for data analysis, you still need to be fast and accurate in Excel.
+
+### Essential Excel Skills
+
+**Navigation & Shortcuts:**
+
+| Action | Windows | Mac |
+|--------|---------|-----|
+| Navigate to edge of data | Ctrl + Arrow | Cmd + Arrow |
+| Select to edge of data | Ctrl + Shift + Arrow | Cmd + Shift + Arrow |
+| Copy/Paste | Ctrl + C/V | Cmd + C/V |
+| Paste Values | Ctrl + Alt + V, V | Cmd + Shift + V |
+| Insert row/column | Ctrl + Shift + + | Cmd + Shift + + |
+| Delete row/column | Ctrl + - | Cmd + - |
+| Find | Ctrl + F | Cmd + F |
+| Go to cell | Ctrl + G | Cmd + G |
+
+**Key Functions:**
+
+| Function | Use Case |
+|----------|----------|
+| `SUMIF` / `SUMIFS` | Conditional sums (e.g., sum revenue by region) |
+| `COUNTIF` / `COUNTIFS` | Conditional counts |
+| `XLOOKUP` | Look up values in a table |
+| `INDEX` / `MATCH` | Flexible lookups |
+| `PIVOT TABLES` | Summarize and analyze large datasets |
+| `IF` / `IFS` | Conditional logic |
+| `ROUND` | Clean up calculations for presentation |
+
+### Model Design Principles
+
+A well-designed model is:
+
+1. **Clear** – Easy to follow, with labeled sections and consistent formatting
+2. **Flexible** – Inputs separated from calculations so you can run scenarios
+3. **Auditable** – Someone else can follow your logic without explanation
+4. **Accurate** – Check your work; errors in models can be career-ending
+
+**Standard Model Layout:**
+
+```
+Section 1: Inputs (blue font for hardcoded inputs)
+Section 2: Calculations (black font for formulas)
+Section 3: Outputs (formatted for presentation)
+```
+
+### Data Hygiene
+
+Before analyzing data:
+
+- **Check for errors** – Blanks, #N/A, outliers
+- **Understand the source** – Where did this data come from? How was it collected?
+- **Verify totals** – Do row totals match expected totals?
+- **Watch for duplicates** – Use `UNIQUE` or pivot tables to check
+- **Document assumptions** – What are you assuming about missing or ambiguous data?
+
+## Market Sizing (Estimation)
+
+Market sizing is a core consulting skill—and a staple of case interviews. It tests your ability to structure a problem, make reasonable assumptions, and do quick math.
+
+### The Estimation Framework
+
+1. **Clarify what you're sizing** – Be specific about geography, time period, units
+2. **Choose an approach** – Top-down or bottom-up
+3. **Break it into components** – MECE drivers
+4. **Make assumptions** – Transparent, reasonable, defensible
+5. **Calculate** – Clean math, round appropriately
+6. **Sanity check** – Does the answer seem reasonable?
+
+### Top-Down vs. Bottom-Up
+
+**Top-down:** Start with a large known number and narrow down
+
+> Example: US smartphone market size
+> - US population: 330M
+> - % with smartphones: ~85% = 280M
+> - Average phone cost: $600
+> - Replace every 3 years → 93M phones/year
+> - Market size: 93M × $600 = **$56B/year**
+
+**Bottom-up:** Build up from individual transactions
+
+> Example: Coffee shop revenue in a city
+> - Number of coffee shops: 500
+> - Average transactions/day: 200
+> - Average ticket: $5
+> - Daily revenue: 500 × 200 × $5 = $500K
+> - Annual: $500K × 365 = **$183M/year**
+
+### Estimation Tips
+
+- **Use round numbers** – 330M not 331.4M
+- **Know your anchor numbers** – US population, households, GDP, etc.
+- **Segment when useful** – Different assumptions for different groups
+- **Show your work** – The process matters as much as the answer
+- **State assumptions explicitly** – "I'm assuming 85% smartphone penetration"
+
+### Common Anchor Numbers
+
+| Metric | Approximate Value |
+|--------|------------------|
+| US population | 330 million |
+| US households | 130 million |
+| US GDP | $25 trillion |
+| US workforce | 160 million |
+| Average household income | $75,000 |
+| Average household size | 2.5 people |
+| Hours in a year | 8,760 |
+| Days in a year | 365 |
+
+## Synthesizing Qualitative Data
+
+Not all consulting data is quantitative. You'll often need to synthesize interviews, customer feedback, and research into actionable insights.
+
+### From Interviews to Insights
+
+After conducting interviews or reviewing qualitative data:
+
+1. **Extract key quotes** – Pull out the most insightful statements
+2. **Code themes** – Group similar points into categories
+3. **Quantify where possible** – "7 of 10 customers mentioned..."
+4. **Identify patterns** – What themes appear across multiple sources?
+5. **Distinguish facts from opinions** – What's verifiable vs. subjective?
+
+### Affinity Mapping
+
+Affinity mapping organizes qualitative data into logical groups:
+
+1. Write each insight on a sticky note (or digital equivalent)
+2. Group similar insights together
+3. Label each group with a theme
+4. Look for patterns and outliers
+5. Prioritize themes by frequency and importance
+
+### Creating Insight Summaries
+
+A good qualitative synthesis:
+
+- **Leads with the headline** – "Customers consistently cite delivery speed as the #1 purchase driver"
+- **Provides evidence** – "7 of 10 interviews mentioned same-day delivery unprompted"
+- **Acknowledges nuance** – "However, price sensitivity varies significantly by segment"
+- **Suggests implications** – "This suggests we should prioritize delivery investment over price cuts"
+
+## Quantitative Analysis in Cases
+
+Case interviews test your ability to work with numbers under pressure. Key skills:
+
+### Mental Math
+
+Practice these until they're automatic:
+
+- **Percentages** – 15% of 200 = 30 (10% is 20, 5% is 10)
+- **Fractions** – 1/8 = 12.5%, 1/6 ≈ 17%, 3/8 = 37.5%
+- **Multiplication** – Break into easier parts: 45 × 12 = 45 × 10 + 45 × 2 = 540
+- **Division** – Round to easy numbers first
+
+### Breakeven Analysis
+
+> "At what price do we break even?"
+>
+> Breakeven: Fixed Costs / (Price - Variable Cost per Unit)
+>
+> Example: FC = $1M, VC = $50/unit, Price = $150
+> Breakeven = $1M / ($150 - $50) = 10,000 units
+
+### Profitability Analysis
+
+> Profit = Revenue - Costs
+> Profit = (Price × Volume) - (Fixed Costs + Variable Costs)
+
+Changes in profitability come from:
+
+- Price changes
+- Volume changes
+- Cost changes
+
+Always break down the problem to identify which lever is moving.
+
+### Growth Rate Calculations
+
+> CAGR (Compound Annual Growth Rate):
+> CAGR = (End Value / Start Value)^(1/Years) - 1
+
+Shortcut for rough calculations:
+- 10% annual growth ≈ doubles in 7 years
+- 7% annual growth ≈ doubles in 10 years
+
+## Data Visualization
+
+The right chart makes your insight obvious. The wrong chart buries it.
+
+### Choosing the Right Chart
+
+| What You're Showing | Best Chart |
+|--------------------|------------|
+| Comparison across categories | Horizontal bar |
+| Trend over time | Line |
+| Part of whole (2-5 parts) | Pie or stacked bar |
+| Distribution | Histogram |
+| Correlation | Scatter |
+| Process or flow | Diagram |
+| Geographic data | Map |
+
+### Chart Best Practices
+
+- **Title states the insight** – Not "Revenue by Region" but "North America drives 80% of growth"
+- **Labels are readable** – 12pt minimum, no overlapping
+- **Color has meaning** – Highlight what matters, gray what doesn't
+- **Remove chart junk** – No 3D, no unnecessary gridlines
+- **Source your data** – Small text at bottom
+
+## Practice Exercises
+
+1. **Market sizing:** Estimate the annual revenue of all coffee shops in your city. Show your assumptions and math.
+
+2. **Excel modeling:** Build a simple P&L model with:
+   - Revenue inputs (price, volume)
+   - Cost inputs (fixed, variable per unit)
+   - Automatic profit calculation
+   - A scenario comparison
+
+3. **Data synthesis:** Find 5 customer reviews of a product you use. Extract key themes and write a one-paragraph synthesis of what customers value most.

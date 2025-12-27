@@ -1,0 +1,237 @@
+# Structured Problem Solving
+
+Structured problem solving is the foundation of consulting work. It's a disciplined, hypothesis-driven approach that breaks complex business challenges into smaller, logically arranged components. It guides rigorous analysis and leads to clear, actionable recommendations.
+
+## The 7-Step Problem-Solving Process
+
+While different authors summarize the approach in various ways, we present here a seven-step articulation inspired by McKinsey's methodology:
+
+1. **Define the Problem** – Frame the problem clearly and narrowly; ensure alignment on the question you're solving.
+2. **Disaggregate** – Break the problem into MECE components (Mutually Exclusive, Collectively Exhaustive).
+3. **Prioritize** – Identify which branches of the issue tree are most important to analyze.
+4. **Develop a Workplan** – Build a roadmap of what analyses will be done, by whom, and in what order.
+5. **Perform Analysis** – Execute data gathering, modeling, and logic testing for each hypothesis or branch.
+6. **Synthesize Findings** – Boil down the results into insights that answer the core question.
+7. **Communicate Recommendations** – Use top-down communication (e.g. the Pyramid Principle) to present findings clearly and persuasively.
+
+These steps are best understood as an iterative cycle, not a fixed sequence. New data or insights often prompt revisiting earlier stages to refine the problem definition, reprioritize issues, or update the workplan.
+
+```{mermaid}
+flowchart LR
+    A1([1. Define<br>the Problem]) --> B1([2. Disaggregate])
+    B1 --> C1([3. Prioritize])
+    C1 --> D1([4. Develop<br>a Workplan])
+    D1 --> E1([5. Perform<br>Analysis])
+    E1 --> F1([6. Synthesize<br>Findings])
+    F1 --> G1([7. Communicate<br>Recommendations])
+    G1 --> A1
+
+    classDef step fill:#e0f0ff,stroke:#1a73e8,stroke-width:2px,color:#1a1a1a;
+    class A1,B1,C1,D1,E1,F1,G1 step;
+```
+
+{{< video https://www.youtube.com/embed/mGz_LHY7XBE >}}
+
+## Step 1: Define the Problem
+
+The most common mistake in problem solving is solving the wrong problem. Before diving into analysis, ensure you and your stakeholders agree on:
+
+- **What is the specific question we're trying to answer?**
+- **What decisions will this analysis inform?**
+- **What does success look like?**
+- **What are the boundaries and constraints?**
+
+A well-defined problem statement is:
+
+- **Specific** – Not "improve the company" but "increase profit margin by 3 percentage points"
+- **Actionable** – The answer should lead to a decision
+- **Time-bound** – When does the decision need to be made?
+- **Measurable** – You'll know if you've solved it
+
+**Example:**
+
+❌ Vague: "Our company is struggling"
+
+✅ Specific: "Why has our operating margin declined from 15% to 10% over the past two years, and what are the top 3 levers to restore it within 18 months?"
+
+## Step 2: Disaggregate (MECE)
+
+Once the problem is clearly defined, the next step is to **break it into smaller parts** that can be tackled systematically. This is where the **MECE principle** comes in—**Mutually Exclusive, Collectively Exhaustive**—a cornerstone of structured problem solving.
+
+MECE ensures that:
+
+- Each subcomponent is **distinct** (no overlap), and
+- Together they **cover the whole space** (no gaps).
+
+### When MECE Is Easy
+
+Suppose you're segmenting adult customers by age. A **MECE-compliant breakdown** might look like:
+
+- 18–24
+- 25–34
+- 35–44
+- 45+
+
+These categories are:
+
+- **Mutually Exclusive** – No overlap (a 25-year-old doesn't appear in two groups).
+- **Collectively Exhaustive** – Every customer belongs to one and only one group.
+
+Compare that to this flawed version:
+
+- Under 25
+- 25–35
+- 35–50
+
+This version has two key issues:
+
+- **Not Mutually Exclusive** – A 25- or 35-year-old could fall into two groups.
+- **Not Collectively Exhaustive** – Customers over 50 aren't accounted for.
+
+### When MECE Is Hard
+
+Now consider analyzing why employees leave a company. Reasons for leaving are often **overlapping, subjective, and hard to categorize cleanly**.
+
+You might start with a messy list:
+
+- Low pay, poor management, lack of career growth, burnout, work-life imbalance, culture misfit, relocation, health issues, retirement, lack of challenge, benefits dissatisfaction, family obligations
+
+This list has **overlap** (burnout might be caused by poor management and work-life imbalance) and **no structure**.
+
+Applying MECE as a guiding principle:
+
+- **Compensation-related:** Low pay, benefits dissatisfaction
+- **Work environment:** Poor management, culture misfit, work-life imbalance, burnout
+- **Career factors:** Lack of career growth, lack of challenge
+- **Personal/life factors:** Relocation, health issues, family obligations, retirement
+
+This version isn't perfect, but it's more mutually exclusive, closer to collectively exhaustive, and easier to use for analysis.
+
+> In practice, perfect MECE is rare. Real-world problems are messy. But striving for MECE uncovers overlaps, spots gaps, and structures your work with clarity.
+
+### Issue Trees
+
+An **issue tree** (or logic tree) is a visual tool that disaggregates a complex problem into its component parts. Each level should strive to be MECE.
+
+**Example: Why are profits declining?**
+
+```{mermaid}
+graph TD
+    A[Why are profits declining?] --> B[Revenue declining?]
+    A --> C[Costs increasing?]
+    B --> D[Price decreasing?]
+    B --> E[Volume decreasing?]
+    C --> F[Fixed costs increasing?]
+    C --> G[Variable costs increasing?]
+```
+
+This tree:
+
+- Breaks the top-level problem into two distinct branches: revenue and costs
+- Further disaggregates those into logical, MECE subcomponents
+- Provides a clear starting point for analysis and hypothesis generation
+
+## Step 3: Prioritize (80/20)
+
+Not all branches of your issue tree are equally important. The **80/20 principle** (Pareto principle) suggests that roughly 80% of the value comes from 20% of the effort—if you focus on the right things.
+
+Prioritization means:
+
+- **Identifying high-impact branches** – Which parts of the issue tree are most likely to explain the problem?
+- **Estimating effort vs. value** – Which analyses will give you the most insight for the time invested?
+- **Sequencing intelligently** – What needs to happen first to unlock later analyses?
+
+**Example prioritization questions:**
+
+- "If revenue is declining, is it more likely due to price or volume? Let's check volume first since that data is readily available."
+- "Costs are increasing, but fixed costs have been stable. Let's focus on variable costs."
+
+The goal is not to analyze everything—it's to analyze the right things.
+
+## Step 4: Develop a Workplan
+
+A workplan translates your prioritized issue tree into a concrete action plan:
+
+| Analysis | Owner | Due | Data Needed | Output |
+|----------|-------|-----|-------------|--------|
+| Volume trends by segment | Analyst 1 | Day 2 | Sales data 2020-2024 | Waterfall chart |
+| Competitor pricing analysis | Analyst 2 | Day 3 | Public pricing, industry reports | Comparison table |
+| Variable cost breakdown | Analyst 1 | Day 4 | Cost accounting data | Pareto chart |
+
+A good workplan:
+
+- Maps each priority hypothesis to a specific analysis
+- Assigns clear ownership and deadlines
+- Specifies what data is needed and what output will be produced
+- Builds in time for synthesis and iteration
+
+## Step 5: Perform Analysis
+
+This is where you execute the workplan—gather data, build models, test hypotheses. Key principles:
+
+- **Start with the answer in mind** – What would convince you the hypothesis is true or false?
+- **Be hypothesis-driven** – Don't just gather data; gather data to test specific hypotheses
+- **Document your work** – Others should be able to understand and verify your analysis
+- **Flag blockers early** – If you're stuck, escalate before you're behind
+
+## Step 6: Synthesize Findings
+
+Synthesis is the most valuable—and most difficult—step. It means distilling your analysis into **insights that answer the original question**.
+
+**Bad synthesis (data dump):**
+> "We analyzed revenue by segment, pricing trends, and cost structure. Here are 47 charts."
+
+**Good synthesis (insight-driven):**
+> "Profit margin declined primarily due to two factors: (1) volume loss in our core customer segment, driven by competitor entry, and (2) rising input costs that we failed to pass through in pricing. Together, these explain 85% of the margin decline."
+
+Synthesis requires:
+
+- **Connecting the dots** across analyses
+- **Prioritizing what matters** for the decision
+- **Having a point of view** on what the findings mean
+
+## Step 7: Communicate Recommendations
+
+The final step is presenting your findings in a way that drives action. This typically means:
+
+- **Leading with the answer** (Pyramid Principle)
+- **Structuring logically** (SCQA or similar)
+- **Supporting with evidence** (data-backed)
+- **Anticipating objections** (risks and mitigations)
+
+We'll cover communication frameworks in detail in the next chapter.
+
+## Hypothesis-Driven Thinking
+
+Throughout this process, the key mental discipline is **hypothesis-driven thinking**:
+
+1. **Start with a hypothesis** – "I believe the answer is X because of Y and Z"
+2. **Identify what would need to be true** – "For this to be right, we'd need to see A, B, and C in the data"
+3. **Test and refine** – "The data shows A and B but not C—let me revise my hypothesis"
+
+This approach is faster and more rigorous than open-ended exploration. It focuses your analysis on what matters and helps you avoid "boiling the ocean."
+
+**Example:**
+
+> "My hypothesis is that profit margin declined due to rising material costs, not pricing erosion. If this is true, I should see: (1) stable or rising prices, (2) stable volume, and (3) increased material costs per unit. Let me test each."
+
+## Common Pitfalls
+
+| Pitfall | How to Avoid |
+|---------|--------------|
+| Solving the wrong problem | Invest time upfront in problem definition |
+| Boiling the ocean | Use 80/20 to prioritize ruthlessly |
+| Analysis paralysis | Be hypothesis-driven, not data-driven |
+| Data dump communication | Synthesize before presenting |
+| Not iterating | Revisit earlier steps when you learn new things |
+
+## Practice Exercise
+
+Take one of your target companies from Week 1. Define a specific problem statement for that company (something you could analyze with publicly available data), then:
+
+1. Write a clear, specific problem statement
+2. Build a MECE issue tree with at least 2 levels
+3. Prioritize which 2-3 branches you would analyze first and why
+4. Draft a hypothesis for each prioritized branch
+
+Bring this to class for discussion.

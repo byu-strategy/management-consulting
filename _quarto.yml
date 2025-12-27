@@ -9,16 +9,37 @@ book:
   title: "STRAT 325 - Intro to Management Consulting"
 #  favicon: images/understanding-ai-favicon.png
   author: "Scott Murff"
-  date: "5/10/2025"
+  date: "Winter 2026"
   chapters:
-   - index.qmd
-   - 01-history.qmd
-   - 02-core-skills.qmd
-   - 03-problem-solving.qmd
-   - 04-interviews.qmd
-   - 05-using-ai.qmd
-   - 06-first-year.qmd
-   - 99-references.qmd
+    - index.qmd
+    - part: "Foundations + AI Setup"
+      chapters:
+        - 01-welcome.qmd
+        - 02-industry-landscape.qmd
+        - 03-ai-workflow.qmd
+        - 04-structured-thinking.qmd
+    - part: "Building the Toolkit"
+      chapters:
+        - 05-communication.qmd
+        - 06-analytics.qmd
+        - 07-networking.qmd
+        - 08-casing-fundamentals.qmd
+    - part: "Applied Projects + Advanced Prep"
+      chapters:
+        - 09-project-1.qmd
+        - 10-project-2.qmd
+        - 11-advanced-interviews.qmd
+    - part: "Integration & Capstone"
+      chapters:
+        - 12-project-3.qmd
+        - 13-execution.qmd
+        - 14-capstone.qmd
+        - 15-first-year.qmd
+    - part: "Appendices"
+      chapters:
+        - 97-mock-interviews.qmd
+        - 98-resources.qmd
+        - 99-references.qmd
 
 bibliography: references.bib
 # csl: informs.csl
@@ -30,10 +51,7 @@ format:
     link-external-newwindow: true
     css: styles.css
     markdown: default
-    
+
 toc-title: On this page
-      
+
 number-sections: true
-
-
-

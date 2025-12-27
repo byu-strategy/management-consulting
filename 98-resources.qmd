@@ -1,38 +1,249 @@
----
-title: "More Resources"
-format: html
-editor: visual
----
+# Resources
 
-- [STRATEGYU](https://strategyu.co/)
-- [Slideworks](https://slideworks.io/)
-- [Management Consulted](https://managementconsulted.com/)
+A curated collection of resources to support your consulting preparation and projects.
 
+## Case Interview Preparation
 
-## Prompts
+### Case Practice Platforms
+
+- [PrepLounge](https://www.preplounge.com/) – Case partner matching and practice cases
+- [CaseCoach](https://www.casecoach.com/) – Structured case practice
+- [Management Consulted](https://managementconsulted.com/) – Frameworks, cases, and coaching
+
+### Firm Resources
+
+- [McKinsey Practice Cases](https://www.mckinsey.com/careers/interviewing) – Official sample cases
+- [BCG Interactive Cases](https://www.bcg.com/careers/interviews) – Online practice with feedback
+- [Bain Case Prep](https://www.bain.com/careers/interview-prep/) – Case examples and tips
+
+### Video Resources
+
+- Victor Cheng's Case Interview videos on YouTube
+- Firm-produced case walkthroughs
+- MCA workshop recordings (when available)
+
+## Company Research
+
+### Financial Data
+
+- [SEC EDGAR](https://www.sec.gov/edgar) – 10-Ks, 10-Qs, proxy statements
+- [Yahoo Finance](https://finance.yahoo.com/) – Quick financial snapshots
+- Company investor relations pages – Earnings calls, presentations
+
+### Industry Research
+
+- [IBISWorld](https://www.ibisworld.com/) – Industry reports (BYU Library access)
+- [Statista](https://www.statista.com/) – Statistics and market data
+- [McKinsey Insights](https://www.mckinsey.com/featured-insights) – Industry perspectives
+
+### News and Analysis
+
+- [Wall Street Journal](https://www.wsj.com/)
+- [Financial Times](https://www.ft.com/)
+- [Bloomberg](https://www.bloomberg.com/)
+- Industry-specific publications
+
+## Slide Design and Communication
+
+### Slide Resources
+
+- [STRATEGYU](https://strategyu.co/) – Consulting slide techniques
+- [Slideworks](https://slideworks.io/) – Slide templates and inspiration
+- Company investor presentations – Real-world examples
+
+### Communication Guides
+
+- *The Pyramid Principle* by Barbara Minto (book)
+- *Slide:ology* by Nancy Duarte (book)
+- *Say It with Charts* by Gene Zelazny (book)
+
+## Excel and Analytics
+
+### Excel Learning
+
+- [ExcelJet](https://exceljet.net/) – Functions, shortcuts, tutorials
+- LinkedIn Learning Excel courses (BYU access)
+- Practice datasets from course materials
+
+### Key Shortcuts (Mac/Windows)
+
+| Action | Mac | Windows |
+|--------|-----|---------|
+| Copy | ⌘C | Ctrl+C |
+| Paste | ⌘V | Ctrl+V |
+| Paste values | ⌘+Shift+V | Ctrl+Shift+V |
+| Fill down | ⌘D | Ctrl+D |
+| Fill right | ⌘R | Ctrl+R |
+| Go to | ⌘G | Ctrl+G |
+| Find | ⌘F | Ctrl+F |
+| Insert row | Ctrl+Shift+= | Ctrl+Shift+= |
+| Delete row | Ctrl+- | Ctrl+- |
+| Format cells | ⌘1 | Ctrl+1 |
+
+## AI Tools and Prompts
+
+### Tools
+
+- [Claude](https://claude.ai/) – AI assistant for analysis and writing
+- [VS Code](https://code.visualstudio.com/) – Code editor with Claude integration
+- [Cursor](https://cursor.sh/) – AI-powered code editor
+
+### Sample Prompts
+
+#### Company Research
+
+```
+I'm analyzing [Company X] for a strategic diagnostic. Based on their
+10-K and recent earnings calls, help me identify:
+1. Their core business model and revenue drivers
+2. Key risks they've disclosed
+3. Strategic initiatives they're pursuing
+4. 2-3 potential strategic challenges
+
+Cite specific evidence for each point.
+```
+
+#### Competitive Benchmarking
+
+```
+I'm comparing [Company X] against [Competitors A, B, C] in the
+[industry] market. Help me:
+1. Identify the 4-5 most important metrics to compare
+2. Summarize how each company performs on these metrics
+3. Identify 2-3 key insights about Company X's competitive position
+
+Format as a comparison table where possible.
+```
+
+#### Framework Building
+
+```
+I'm working on a case about [situation]. Help me build a MECE
+framework to analyze this problem. The framework should:
+1. Have 3-4 main buckets
+2. Include key questions under each bucket
+3. Be tailored to this specific situation
+
+Then suggest which bucket I should prioritize and why.
+```
+
+#### Slide Drafting
+
+```
+I need to communicate [insight] in one executive slide. Please:
+1. Draft an action title (statement, not label)
+2. Suggest a visual format (chart type, layout)
+3. Write 3-4 supporting bullets
+4. Identify what data I need to make this compelling
+```
+
+#### Growth Strategy Analysis
 
 ::: {.callout-note collapse=true}
 
-### Company Growth Ideas
+### Full Growth Analysis Prompt
 
-Drop your biz into this and it’ll map your competitors, find untapped levers, and rank your best growth plays.
+This detailed prompt helps map competitors, find opportunities, and prioritize growth plays.
 
-Feels like hiring a $20k strategy consultant.
+```
+<instructions>
+You are a top-tier strategy consultant with deep expertise in
+competitive analysis, growth loops, pricing, and unit-economics-driven
+product strategy. If information is unavailable, state that explicitly.
+</instructions>
 
-Here's the prompt
+<context>
+<business_name>{{COMPANY}}</business_name>
+<industry>{{INDUSTRY}}</industry>
+<current_focus>
+{{Brief one-paragraph description of what the company does today,
+including key revenue streams, pricing model, customer segments,
+and any known growth tactics in use}}
+</current_focus>
+<known_challenges>
+{{List or paragraph of the biggest obstacles you're aware of –
+e.g., slowing user growth, rising CAC, regulatory pressure}}
+</known_challenges>
+</context>
 
-```{}
-<instructions> You are a top-tier strategy consultant with deep expertise in competitive analysis, growth loops, pricing, and unit-economics-driven product strategy. If information is unavailable, state that explicitly. </instructions>
+<task>
+1. Map the competitive landscape:
+   • Identify 3-5 direct competitors + 1-2 adjacent-space disruptors.
+   • Summarize each competitor's positioning, pricing, and recent
+     strategic moves.
+2. Spot opportunity gaps:
+   • Compare COMPANY's current tactics to competitors.
+   • Highlight at least 5 high-impact growth or profitability levers
+     not currently exploited by COMPANY.
+3. Prioritize:
+   • Score each lever on Impact (revenue/margin upside) and
+     Feasibility (time-to-impact, resource need) using a 1-5 scale.
+   • Recommend the top 3 actions with the strongest Impact × Feasibility.
+</task>
 
-<context> <business_name>{{COMPANY}}</business_name> <industry>{{INDUSTRY}}</industry> <current_focus> {{Brief one-paragraph description of what the company does today, including key revenue streams, pricing model, customer segments, and any known growth tactics in use}} </current_focus> <known_challenges> {{List or paragraph of the biggest obstacles you’re aware of – e.g., slowing user growth, rising CAC, regulatory pressure}} </known_challenges> </context>
-
-<task> 1. Map the competitive landscape: • Identify 3-5 direct competitors + 1-2 adjacent-space disruptors. • Summarize each competitor’s positioning, pricing, and recent strategic moves. 2. Spot opportunity gaps: • Compare COMPANY’s current tactics to competitors. • Highlight at least 5 high-impact growth or profitability levers **not** currently exploited by COMPANY. 3. Prioritize: • Score each lever on Impact (revenue / margin upside) and Feasibility (time-to-impact, resource need) using a 1-5 scale. • Recommend the top 3 actions with the strongest Impact × Feasibility. </task>
-
-<approach> - Go VERY deep. Research far more than you normally would. Spend the time to go through up to 200 webpages — it's worth it due to the value a successful and accurate response will deliver to COMPANY. - Don’t just look at articles, forums, etc. — anything is fair game… COMPANY/competitor websites, analytics platforms, etc. </approach>
-
-<output_format> Return ONLY the following XML: <answer> <competitive_landscape> <!-- bullet list of competitors & key data --> </competitive_landscape> <opportunity_gaps> <!-- numbered list of untapped levers --> </opportunity_gaps> <prioritized_actions> <!-- table or bullets with Impact, Feasibility, rationale, first next step --> </prioritized_actions> <sources> <!-- numbered list of URLs or publication titles --> </sources> </answer> </output_format>
+<output_format>
+Return structured sections for:
+- Competitive Landscape (bullet list of competitors & key data)
+- Opportunity Gaps (numbered list of untapped levers)
+- Prioritized Actions (table with Impact, Feasibility, rationale)
+- Sources (numbered list of references)
+</output_format>
 ```
 
-[Source: This ChatGPT prompt = $20k growth consultant.](https://www.reddit.com/r/ChatGPT/comments/1kcxeh7/this_chatgpt_prompt_20k_growth_consultant/)
-
 :::
+
+## Networking and Career
+
+### LinkedIn Resources
+
+- BYU Alumni in Consulting (search and connect)
+- Firm company pages for news and culture
+- Professional networking best practices
+
+### Resume Resources
+
+- Career Services resume reviews
+- MCA peer resume workshops
+- Sample consulting resumes (ask your TA)
+
+### Interview Preparation
+
+- Glassdoor interview reviews (with caution)
+- Vault Career Guide to Consulting
+- Firm-specific prep guides
+
+## Books Worth Reading
+
+### Consulting Skills
+
+- *The McKinsey Way* by Ethan Rasiel – Inside consulting
+- *The Pyramid Principle* by Barbara Minto – Structured communication
+- *Case in Point* by Marc Cosentino – Case interview prep
+
+### Strategy
+
+- *Good Strategy Bad Strategy* by Richard Rumelt – Strategic thinking
+- *Competitive Strategy* by Michael Porter – Classic framework
+- *Blue Ocean Strategy* by Kim & Mauborgne – Creating new markets
+
+### Personal Development
+
+- *Thinking, Fast and Slow* by Daniel Kahneman – Decision-making
+- *The Trusted Advisor* by David Maister – Client relationships
+- *Mindset* by Carol Dweck – Growth mindset
+
+## Templates and Tools
+
+### Available in Learning Suite
+
+- Resume template
+- One-pager diagnostic template
+- Competitive benchmark template
+- Capstone slide template
+- Case practice log
+
+### External Tools
+
+- [Canva](https://www.canva.com/) – Quick graphics and presentations
+- [Miro](https://miro.com/) – Virtual whiteboarding
+- [Notion](https://www.notion.so/) – Note-taking and organization

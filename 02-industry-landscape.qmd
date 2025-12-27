@@ -1,32 +1,30 @@
----
-title: "Overview of Management Consulting"
-format: html
-editor: visual
----
+# The Consulting Industry Landscape
 
-## The History and Landscape of Management Consulting
+Understanding the consulting industry—its history, major players, and current trends—helps you make informed decisions about where to focus your recruiting efforts and how to position yourself effectively.
 
-Elijah Test
+## The History of Management Consulting
 
 ### Early Roots (1880s–1920s): Birth of Scientific Management
 
-- Frederick Winslow Taylor: Often considered the father of management consulting, Taylor pioneered scientific management or "Taylorism" in the late 19th and early 20th centuries, emphasizing efficiency and productivity through time-and-motion studies.
-- Arthur D. Little (founded 1886): Initially a chemical consulting firm, it became one of the first to advise on broader business strategy and innovation.
+- **Frederick Winslow Taylor**: Often considered the father of management consulting, Taylor pioneered scientific management or "Taylorism" in the late 19th and early 20th centuries, emphasizing efficiency and productivity through time-and-motion studies.
+- **Arthur D. Little (founded 1886)**: Initially a chemical consulting firm, it became one of the first to advise on broader business strategy and innovation.
 
 ### Institutionalization (1920s–1950s): The Rise of General Consulting Firms
-- Booz Allen Hamilton (founded 1914): One of the first firms to offer consulting on organization and strategy.
-- McKinsey & Company (founded 1926): James O. McKinsey introduced accounting-based management principles and later, under Marvin Bower’s leadership, pioneered the professional ethos and structured problem-solving approach still used today.
+
+- **Booz Allen Hamilton (founded 1914)**: One of the first firms to offer consulting on organization and strategy.
+- **McKinsey & Company (founded 1926)**: James O. McKinsey introduced accounting-based management principles and later, under Marvin Bower's leadership, pioneered the professional ethos and structured problem-solving approach still used today.
 
 Focus during this period was on organizational structure, cost control, and formal management systems.
 
 ### Post-War Expansion (1950s–1970s): Strategy Takes Center Stage
 
 - The post-WWII boom led to globalization and complex operations, creating demand for external strategic advice.
-- Boston Consulting Group (BCG) was founded in 1963 by Bruce Henderson and introduced landmark strategic tools like the Experience Curve and BCG Matrix.
+- **Boston Consulting Group (BCG)** was founded in 1963 by Bruce Henderson and introduced landmark strategic tools like the Experience Curve and BCG Matrix.
 - Strategic consulting emerged as a distinct domain, emphasizing market positioning, competitive advantage, and long-term planning.
 
-### Professionalization and Globalization (1980s–1990s):
-- Bain & Company (founded 1973) differentiated itself by focusing on long-term client relationships and measurable impact.
+### Professionalization and Globalization (1980s–1990s)
+
+- **Bain & Company (founded 1973)** differentiated itself by focusing on long-term client relationships and measurable impact.
 - Firms expanded internationally, serving Fortune 500 clients across industries.
 - Consultants became influential in mergers & acquisitions, privatization, and operational restructuring.
 - The 1990s saw the rise of IT consulting (e.g., Accenture, IBM Consulting) alongside traditional strategy firms.
@@ -39,20 +37,20 @@ Focus during this period was on organizational structure, cost control, and form
     - Data analytics & AI
     - Sustainability and ESG
 - Boutique firms and freelance platforms (e.g., Toptal, Catalant) challenge traditional models.
-- There is growing scrutiny around ethics, diversity, and impact (e.g., McKinsey’s work with governments and controversial clients).
+- There is growing scrutiny around ethics, diversity, and impact.
 
 ### Key Contributions to Business Thinking
 
-Frameworks like Porter’s Five Forces, the GE-McKinsey matrix, value chain analysis, and zero-based budgeting were either developed or popularized by consulting firms.
-Management consulting has significantly influenced MBA education, corporate strategy, and even public policy.
+Frameworks like Porter's Five Forces, the GE-McKinsey matrix, value chain analysis, and zero-based budgeting were either developed or popularized by consulting firms. Management consulting has significantly influenced MBA education, corporate strategy, and even public policy.
 
-## Overview of major firms (MBB, Big Four, boutiques)
+## Overview of Major Firms
 
 ### MBB (McKinsey, BCG, Bain): The Strategy Elite
 
 The "MBB" firms represent the pinnacle of strategy consulting, known for their prestigious client base, rigorous analytical approaches, and significant influence on global business practices.
 
 #### McKinsey & Company
+
 - **Founded:** 1926 by James O. McKinsey
 - **Headquarters:** New York City
 - **Focus Areas:** Corporate strategy, organizational transformation, operations, digital, and analytics
@@ -64,6 +62,7 @@ The "MBB" firms represent the pinnacle of strategy consulting, known for their p
 - **Notable Work:** Strategic restructuring for Fortune 500 companies, public sector transformation, healthcare system redesign
 
 #### Boston Consulting Group (BCG)
+
 - **Founded:** 1963 by Bruce Henderson
 - **Headquarters:** Boston, Massachusetts
 - **Focus Areas:** Strategy, digital ventures, innovation, corporate development
@@ -75,6 +74,7 @@ The "MBB" firms represent the pinnacle of strategy consulting, known for their p
 - **Notable Work:** Market entry strategies, portfolio optimization, transformation programs
 
 #### Bain & Company
+
 - **Founded:** 1973 by Bill Bain
 - **Headquarters:** Boston, Massachusetts
 - **Focus Areas:** Strategy, private equity consulting, customer strategy, M&A
@@ -90,6 +90,7 @@ The "MBB" firms represent the pinnacle of strategy consulting, known for their p
 Originally accounting firms, the Big Four have evolved into massive professional services organizations offering consulting alongside audit, tax, and advisory services.
 
 #### Deloitte
+
 - **Consulting Arm:** Deloitte Consulting
 - **Focus Areas:** Technology implementation, digital transformation, human capital, strategy, operations
 - **Distinctive Features:**
@@ -99,6 +100,7 @@ Originally accounting firms, the Big Four have evolved into massive professional
   - Deloitte Digital competes directly with tech consultancies
 
 #### PwC (PricewaterhouseCoopers)
+
 - **Consulting Arm:** PwC Advisory/Strategy&
 - **Focus Areas:** Deals, technology consulting, risk advisory, digital transformation
 - **Distinctive Features:**
@@ -108,6 +110,7 @@ Originally accounting firms, the Big Four have evolved into massive professional
   - Significant presence in financial services
 
 #### EY (Ernst & Young)
+
 - **Consulting Arm:** EY-Parthenon (Strategy), EY Consulting
 - **Focus Areas:** Strategy, transactions, business transformation, technology
 - **Distinctive Features:**
@@ -117,6 +120,7 @@ Originally accounting firms, the Big Four have evolved into massive professional
   - Focus on entrepreneurship and innovation ecosystems
 
 #### KPMG
+
 - **Consulting Arm:** KPMG Advisory
 - **Focus Areas:** Risk consulting, management consulting, deal advisory, technology
 - **Distinctive Features:**
@@ -132,71 +136,103 @@ Boutique consultancies offer deep expertise in specific industries or functional
 #### Strategy Boutiques
 
 **Oliver Wyman**
+
 - Focus: Financial services, aviation, healthcare strategy
 - Distinctive: Quantitative modeling expertise, industry-specific practices
 
 **L.E.K. Consulting**
+
 - Focus: Corporate strategy, M&A, shareholder value
 - Distinctive: Strong analytical foundation, private equity orientation
 
 **Simon-Kucher & Partners**
+
 - Focus: Pricing strategy, marketing, sales optimization
 - Distinctive: World leader in pricing consulting
 
 **Roland Berger**
+
 - Focus: Strategy, particularly in Europe and automotive sector
 - Distinctive: European heritage, restructuring expertise
 
 #### Technology and Digital Boutiques
 
 **ThoughtWorks**
+
 - Focus: Software development, digital transformation, agile practices
 - Distinctive: Social justice mission, developer-centric approach
 
 **West Monroe**
+
 - Focus: Technology implementation, business operations, financial services
 - Distinctive: Strong in technology strategy and execution
 
 #### Operations and Implementation Specialists
 
 **AlixPartners**
+
 - Focus: Turnaround, restructuring, performance improvement
 - Distinctive: Results-driven, interim management services
 
 **FTI Consulting**
+
 - Focus: Corporate finance, restructuring, economic consulting
 - Distinctive: Expert testimony, forensic analysis
 
 **Kearney (A.T. Kearney)**
+
 - Focus: Operations, procurement, supply chain strategy
 - Distinctive: Strong in manufacturing and automotive industries
 
 #### Industry-Specific Boutiques
 
 **ZS Associates**
+
 - Focus: Healthcare, pharmaceuticals, sales force effectiveness
 - Distinctive: Data and analytics heritage, life sciences focus
 
 **Huron Consulting**
+
 - Focus: Healthcare, higher education, commercial sectors
 - Distinctive: Deep expertise in healthcare operations and strategy
 
 **NERA Economic Consulting**
+
 - Focus: Economic and financial analysis, antitrust, regulation
 - Distinctive: PhD economists, litigation support
 
-### Key Differences Across Firm Types
+## Key Differences Across Firm Types
 
-**Prestige and Brand:** MBB firms command highest prestige, Big Four offer scale and breadth, boutiques offer specialization
+| Factor | MBB | Big Four | Boutiques |
+|--------|-----|----------|-----------|
+| **Prestige** | Highest | High | Varies (top boutiques very prestigious) |
+| **Compensation** | Highest | Competitive | Varies widely |
+| **Work-Life Balance** | Most demanding | Generally better | Varies by firm |
+| **Exit Opportunities** | C-suite, PE | Corporate functions | Industry-specific roles |
+| **Project Types** | CEO-level strategy | Implementation & tech | Specialized domains |
+| **Partner Interaction** | Less | Moderate | Often more |
 
-**Compensation:** Generally MBB > Boutiques (top-tier) > Big Four, though significant variation exists
+## Finding Your Fit
 
-**Work-Life Balance:** Typically better at Big Four, varies widely at boutiques, most challenging at MBB
+As you research firms, consider:
 
-**Exit Opportunities:** MBB alumni networks strongest for C-suite and PE roles, Big Four strong for corporate functions, boutiques excellent for industry-specific roles
+1. **What type of work excites you?** Pure strategy, technology implementation, turnaround, industry-specific?
+2. **What culture do you want?** Highly competitive? Collaborative? Mission-driven?
+3. **What exit opportunities matter?** C-suite? Private equity? Industry leadership?
+4. **What lifestyle trade-offs are you willing to make?** Hours, travel, compensation?
 
-**Project Types:** MBB focuses on CEO-level strategy, Big Four on implementation and technology, boutiques on specialized domains
+There's no universally "best" firm—the best firm is the one that aligns with your goals, values, and working style.
 
-**Client Interaction:** Smaller boutiques often provide more partner-level attention and specialized expertise
+## Recruiting Timeline for Sophomores
 
-## Trends in the industry and early recruiting timelines
+For BYU sophomores targeting summer 2026 internships:
+
+| Timeline | Activity |
+|----------|----------|
+| **Fall 2025** | Start networking, join MCA, research firms |
+| **Winter 2026** | This course! Resume building, case practice, active networking |
+| **Spring 2026** | Applications open at many firms, continue networking |
+| **Summer 2026** | Peak recruiting season, interviews |
+| **Fall 2026** | Some firms recruit, offers extended |
+
+Early engagement matters. Start networking now, even if applications seem far away.

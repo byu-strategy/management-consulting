@@ -1,0 +1,193 @@
+# Project 2: Competitive Benchmark
+
+Building on your company diagnostic, this project adds a competitive dimension. You'll compare your target company against key competitors to identify relative strengths, weaknesses, and strategic implications.
+
+## Project Overview
+
+| Element | Details |
+|---------|---------|
+| **Deliverable** | 3-slide competitive benchmark |
+| **Due** | Week 10 (Thursday) |
+| **Format** | Individual |
+| **Submission** | PowerPoint/PDF uploaded to Learning Suite |
+
+## Why Benchmarking Matters
+
+Strategy is relative. A company's performance and position only makes sense in context:
+
+- Is 10% margin good? (Depends on the industry)
+- Is 5% growth strong? (Depends on the market)
+- Is the cost structure efficient? (Depends on peers)
+
+Competitive benchmarking answers: **How does the company compare, and what does that mean for strategy?**
+
+## Selecting Comparables
+
+Choose 2-4 competitors for your comparison. Good comparables are:
+
+- **Same industry** – Facing similar market dynamics
+- **Similar business model** – Comparable operations
+- **Data available** – Public companies with accessible financials
+
+Consider including:
+
+- **Direct competitors** – Firms competing for the same customers
+- **Aspirational peers** – Best-in-class companies to learn from
+- **Emerging threats** – New entrants or disruptors
+
+## Benchmarking Dimensions
+
+Depending on your company, compare across relevant dimensions:
+
+### Financial Performance
+
+| Metric | What It Shows |
+|--------|---------------|
+| Revenue growth | Market share dynamics |
+| Profit margin | Pricing power, efficiency |
+| Return on assets | Capital efficiency |
+| Revenue per employee | Labor productivity |
+
+### Strategic Position
+
+| Dimension | What to Compare |
+|-----------|----------------|
+| Market share | Relative position |
+| Geographic reach | Scale and presence |
+| Product portfolio | Breadth vs. focus |
+| Customer segments | Who they serve |
+
+### Operational Metrics
+
+| Metric | What It Shows |
+|--------|---------------|
+| Inventory turnover | Working capital efficiency |
+| Customer acquisition cost | Marketing efficiency |
+| NPS/Customer satisfaction | Brand strength |
+| R&D intensity | Innovation investment |
+
+Choose 4-6 metrics most relevant to your company's strategic challenges.
+
+## 3-Slide Structure
+
+### Slide 1: Competitive Landscape Overview
+
+**Purpose:** Set the stage by showing who the key players are
+
+**Content:**
+
+- Brief description of the competitive set
+- Key market dynamics
+- Positioning map or framework showing relative positions
+
+**Example title:** "Three types of players compete in the grocery market: national chains, regional grocers, and discount disruptors"
+
+### Slide 2: Performance Comparison
+
+**Purpose:** Show how your company compares on key metrics
+
+**Content:**
+
+- Comparison table or chart
+- 4-6 key metrics
+- Visual highlighting of relative strengths/weaknesses
+
+**Example title:** "Target company leads on customer loyalty but trails peers on margin efficiency"
+
+### Slide 3: Strategic Implications
+
+**Purpose:** Draw conclusions about what the comparison means
+
+**Content:**
+
+- 2-3 key insights from the comparison
+- What this means for the company's strategy
+- Questions or areas for further analysis
+
+**Example title:** "Margin gap suggests opportunity in supply chain optimization and private label expansion"
+
+## Slide Design Principles
+
+Apply what you learned about communication:
+
+### Action Titles
+
+Every slide has a headline that states the insight:
+
+❌ "Financial Comparison"
+✅ "Target company's margin lags industry average by 3 percentage points"
+
+### Clean Exhibits
+
+- One main chart or table per slide
+- Clear labels and legends
+- Highlight the key insight with color or callouts
+- Remove chart junk
+
+### Consistent Formatting
+
+- Same fonts throughout
+- Consistent color scheme
+- Professional look
+
+## Data Sources
+
+For competitive benchmarking:
+
+| Source | What You'll Get |
+|--------|-----------------|
+| 10-Ks and annual reports | Financial metrics, segment data |
+| Industry databases | Market share, growth rates |
+| Investor presentations | Strategic priorities, KPIs |
+| Analyst reports | Industry context, forecasts |
+| News and press | Recent developments |
+
+## AI-Assisted Analysis
+
+Use AI to help synthesize competitive data:
+
+> "I'm comparing [Company X] against [Competitors A, B, C] in the [industry] market. Based on their financial data and public information, help me:
+> 1. Identify the 4-5 most important metrics to compare
+> 2. Summarize how each company performs on these metrics
+> 3. Identify 2-3 key insights about Company X's competitive position
+>
+> Format as a comparison table where possible."
+
+Then verify data and refine with your own analysis.
+
+## Evaluation Criteria
+
+| Criterion | Weight | Description |
+|-----------|--------|-------------|
+| **Insight Quality** | 35% | Are the comparative insights meaningful and strategic? |
+| **Analysis Rigor** | 25% | Is the comparison methodologically sound with accurate data? |
+| **Slide Quality** | 25% | Are slides clear, professional, and action-titled? |
+| **Synthesis** | 15% | Do you draw implications from the comparison? |
+
+## Common Mistakes to Avoid
+
+| Mistake | How to Avoid |
+|---------|--------------|
+| Showing data without insight | Focus on what the comparison means |
+| Too many metrics | Pick 4-6 that matter most |
+| Inconsistent comparisons | Use same time period, same definition |
+| Weak titles | Every slide needs an action title |
+| No "so what" | Conclude with strategic implications |
+
+## Timeline
+
+| When | What |
+|------|------|
+| Week 9 | Select competitors, gather data |
+| Week 10 Tuesday | Draft complete, bring for feedback |
+| Week 10 Thursday | Final version due |
+
+## Building on Project 1
+
+This project should deepen your Project 1 analysis:
+
+- Your diagnostic identified strategic challenges
+- Competitive benchmarking shows how peers handle similar challenges
+- Together, they build toward your value-add hypothesis (Project 3)
+
+Think of these projects as building blocks toward your capstone proposal.

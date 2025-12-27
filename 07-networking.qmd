@@ -1,0 +1,262 @@
+# Networking and Resume
+
+Getting a consulting interview requires more than a strong resume—it requires relationships. This chapter covers how to network authentically, build trust, and create application materials that stand out.
+
+## The Trust Equation
+
+Before diving into networking tactics, understand what makes people want to help you. The **Trust Equation**, developed by David Maister, captures the components of trustworthiness:
+
+$$
+\text{Trust} = \frac{\text{Credibility} + \text{Reliability} + \text{Intimacy}}{\text{Self-Orientation}}
+$$
+
+Let's break this down:
+
+### Credibility
+
+> "I can trust what they say about the topic."
+
+Credibility comes from:
+
+- **Expertise** – Do you know what you're talking about?
+- **Track record** – Have you demonstrated competence?
+- **Credentials** – Do you have relevant qualifications?
+
+**In networking:** Show you've done your homework. Demonstrate genuine understanding of the firm, the industry, or the person's work.
+
+### Reliability
+
+> "I can depend on them to do what they say."
+
+Reliability comes from:
+
+- **Consistency** – Do you follow through on commitments?
+- **Responsiveness** – Do you reply promptly and professionally?
+- **Predictability** – Can people count on you?
+
+**In networking:** If you say you'll follow up, follow up. Send thank-you notes within 24 hours. Do what you commit to.
+
+### Intimacy
+
+> "I feel comfortable sharing information with them."
+
+Intimacy comes from:
+
+- **Empathy** – Do you understand the other person's perspective?
+- **Discretion** – Can you be trusted with sensitive information?
+- **Connection** – Is there genuine rapport?
+
+**In networking:** Be genuinely curious about the other person. Share appropriately about yourself. Create real human connection, not just transactional exchange.
+
+### Self-Orientation (The Denominator)
+
+> "How much are they focused on themselves vs. me?"
+
+Self-orientation is the trust killer. High self-orientation looks like:
+
+- Only talking about yourself
+- Asking for things without giving
+- Transparently transactional behavior
+- Not listening
+
+**In networking:** Focus on the other person. Ask questions. Be helpful. The relationship should feel balanced, not extractive.
+
+## The Networking Mindset
+
+Effective networking isn't about collecting contacts—it's about building genuine relationships with people you find interesting and who might find you interesting too.
+
+### Shift Your Frame
+
+| Transactional Mindset | Relationship Mindset |
+|----------------------|---------------------|
+| "What can this person do for me?" | "What can I learn from this person?" |
+| "How do I get a referral?" | "How do I build a genuine connection?" |
+| "I need to impress them" | "I want to have a real conversation" |
+
+### The Long Game
+
+Networking isn't about getting a job next week. It's about building relationships that may help you throughout your career. People want to help people they like and trust—and that takes time.
+
+## Building Your Network
+
+### Start with Who You Know
+
+Map your existing network:
+
+- **BYU connections** – Professors, classmates, MCA members, alumni
+- **Family and friends** – Who works in business? Who knows consultants?
+- **Work experience** – Former colleagues, supervisors, clients
+- **Extracurriculars** – Club members, volunteer organizations
+
+### Expanding Your Network
+
+To reach people you don't know:
+
+1. **Alumni networks** – BYU alumni in consulting are often willing to help
+2. **LinkedIn** – Professional connection requests with personalized notes
+3. **Events** – MCA events, firm presentations, career fairs
+4. **Warm introductions** – Ask existing contacts to connect you
+
+### The Outreach Email
+
+A good outreach email is:
+
+- **Brief** – Respect their time (under 150 words)
+- **Specific** – Why this person specifically?
+- **Clear ask** – What do you want? (Usually a 20-minute call)
+- **Easy to say yes** – Offer flexible timing
+
+**Template:**
+
+> Subject: BYU student seeking advice on consulting careers
+>
+> Hi [Name],
+>
+> I'm a sophomore at BYU studying [major], and I came across your profile while researching [firm]. I noticed you [specific observation—worked on healthcare, went to BYU, etc.].
+>
+> I'm exploring careers in management consulting and would love to learn from your experience. Would you have 20 minutes for a call in the next few weeks?
+>
+> I'm flexible on timing—happy to work around your schedule.
+>
+> Thank you,
+> [Your name]
+> [Phone] | [LinkedIn]
+
+### The Coffee Chat
+
+Coffee chats (or phone calls) are your chance to build connection and learn. Structure:
+
+**First 5 minutes:** Build rapport
+
+- Thank them for their time
+- Brief background on yourself (30 seconds)
+- Transition to learning about them
+
+**Middle 15 minutes:** Learn about them
+
+Ask open-ended questions:
+
+- "What drew you to consulting originally?"
+- "What's been most surprising about the job?"
+- "What kind of work have you found most interesting?"
+- "How would you describe the culture at [firm]?"
+- "What advice would you give someone in my position?"
+
+**Last 5 minutes:** Wrap up
+
+- Ask if there's anyone else they'd recommend you speak with
+- Confirm next steps if any
+- Thank them genuinely
+
+### After the Conversation
+
+- **Send a thank-you note within 24 hours** – Reference something specific from the conversation
+- **Add to your tracker** – Log the conversation and any follow-ups
+- **Follow through on any commitments** – If you said you'd send something, send it
+- **Stay in touch** – Check in periodically (not just when you need something)
+
+## Your Networking Tracker
+
+Maintain a spreadsheet tracking:
+
+| Column | Purpose |
+|--------|---------|
+| Name | Contact name |
+| Firm | Company |
+| Role | Title/level |
+| Connection | How you're connected |
+| Last contact | Date of last interaction |
+| Notes | Key takeaways from conversations |
+| Follow-up | What to do next |
+
+Update this weekly. Your TA will review it during feedback sessions.
+
+## The Consulting Resume
+
+Your resume is often the first impression you make. In consulting, the bar is high—every bullet needs to demonstrate impact.
+
+### Resume Format
+
+- **One page** – No exceptions for undergrads
+- **Clean, professional** – Standard fonts, consistent formatting
+- **Reverse chronological** – Most recent first
+
+### The Quantified Bullet Formula
+
+Every bullet should follow this structure:
+
+> **[Action verb] + [what you did] + [quantified scope] + [quantified impact]**
+
+**Before (weak):**
+> "Helped with marketing campaigns"
+
+**After (strong):**
+> "Led 3-person team to design digital marketing campaign, increasing website traffic by 45% and generating 200 qualified leads in 6 weeks"
+
+### Resume Sections
+
+**1. Header**
+
+- Name, phone, email, LinkedIn
+- No photo, no address needed
+
+**2. Education**
+
+- University, degree, graduation date
+- GPA (if above 3.5)
+- Relevant coursework (if applicable)
+- Honors, scholarships
+
+**3. Experience**
+
+- 3-5 bullets per role, all quantified
+- Focus on leadership, impact, problem-solving
+
+**4. Leadership/Activities**
+
+- Campus organizations, volunteer work
+- Focus on leadership roles and impact
+
+**5. Skills/Interests (optional)**
+
+- Technical skills (Excel, SQL, Python)
+- Languages
+- Interests (keep professional)
+
+### Common Resume Mistakes
+
+| Mistake | Fix |
+|---------|-----|
+| Describing duties, not impact | Lead with results, not responsibilities |
+| No quantification | Add numbers: revenue, %, time saved, team size |
+| Too long | Cut ruthlessly; one page maximum |
+| Typos | Proofread. Then proofread again. |
+| Generic bullets | Specific achievements, not vague claims |
+
+## Resume Workshop Process
+
+1. **Draft V1** – Complete first draft with quantified bullets
+2. **TA Review** – Detailed feedback from your TA
+3. **Draft V2** – Incorporate feedback, polish formatting
+4. **Peer Review** – Exchange with classmates for fresh eyes
+5. **Final Version** – Interview-ready resume
+
+## Your Development Plan
+
+After your TA reviews your resume, you'll identify gaps—sections that need more development. Create a plan to fill these gaps:
+
+**Example development plan:**
+
+| Gap | Action | Timeline |
+|-----|--------|----------|
+| Limited leadership | Take on MCA committee role | This semester |
+| No finance experience | Excel modeling certificate | Next 2 weeks |
+| Weak GPA | Prioritize academics; retake key classes | Ongoing |
+
+## Practice Exercise
+
+1. **Calculate your Trust Equation** – For a recent networking interaction, rate yourself 1-10 on Credibility, Reliability, Intimacy, and Self-Orientation. What could you improve?
+
+2. **Draft an outreach email** – Write an email to someone at one of your target firms. Have a partner critique it.
+
+3. **Rewrite your resume bullets** – Take your top 3 experience bullets and rewrite them using the quantified formula. Share with your TA.

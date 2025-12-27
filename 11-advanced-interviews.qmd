@@ -1,0 +1,223 @@
+# Advanced Interview Preparation
+
+By this point, you've learned case fundamentals and practiced several cases. This chapter covers advanced techniques for case interviews and the behavioral interview—the other half of consulting recruiting.
+
+## Advanced Case Techniques
+
+### Handling Ambiguity
+
+Real consulting problems—and advanced cases—are messier than textbook examples. When a case feels unclear:
+
+1. **Acknowledge the ambiguity** – "This is a complex situation with multiple possible angles."
+2. **State your assumptions** – "I'm going to assume X and Y. Does that align with your expectations?"
+3. **Proceed with a hypothesis** – "My initial hypothesis is... Let me test that."
+4. **Stay flexible** – Be ready to pivot when you learn more
+
+The interviewer wants to see how you handle uncertainty—not whether you have the perfect answer from the start.
+
+### Non-Standard Cases
+
+Beyond classic profitability and market entry:
+
+**Public sector cases:**
+- Different success metrics (impact vs. profit)
+- Political and stakeholder considerations
+- Budget constraints
+
+**Non-profit cases:**
+- Mission vs. financial sustainability
+- Donor and beneficiary dynamics
+- Scale and efficiency trade-offs
+
+**Unusual industries:**
+- Don't panic—apply first principles
+- Ask clarifying questions about the business model
+- Use the same structured thinking
+
+### Candidate-Led vs. Interviewer-Led
+
+**Interviewer-led cases** (more common at McKinsey):
+- The interviewer guides you through specific questions
+- Less framework building, more rapid-fire analysis
+- Focus on quick, clear answers to each question
+
+**Candidate-led cases** (more common at BCG/Bain):
+- You drive the case forward
+- Build your framework, then systematically work through it
+- Take more ownership of direction
+
+Know which style each firm uses and practice accordingly.
+
+### Real-Time Synthesis
+
+Throughout the case, periodically synthesize:
+
+> "Let me step back. We've learned that revenue is declining due to volume loss in the core segment, driven by a new competitor. Costs are stable. This suggests we should focus on competitive response rather than cost cutting. Does that align with your read?"
+
+This shows you're maintaining the through-line, not just answering individual questions.
+
+### Handling Curveballs
+
+When the interviewer throws something unexpected:
+
+1. **Don't panic** – Take a breath
+2. **Buy time if needed** – "That's an interesting twist. Let me think for a moment."
+3. **Apply first principles** – What would logically follow?
+4. **State your thinking** – Walk through your reasoning
+
+The curveball tests your composure as much as your analysis.
+
+## The Behavioral Interview
+
+Case interviews assess problem-solving. Behavioral interviews assess everything else: leadership, teamwork, resilience, motivation.
+
+### What Firms Are Evaluating
+
+| Dimension | What They're Looking For |
+|-----------|-------------------------|
+| **Leadership** | Can you influence others? Do you take initiative? |
+| **Teamwork** | Do you collaborate effectively? Can you handle conflict? |
+| **Achievement** | Do you have a track record of impact? |
+| **Resilience** | How do you handle setbacks and pressure? |
+| **Motivation** | Why consulting? Why this firm? Is it authentic? |
+| **Judgment** | Do you make sound decisions? Do you learn from mistakes? |
+
+### The PARADE Framework
+
+Structure your behavioral stories using PARADE:
+
+| Element | Purpose | Time |
+|---------|---------|------|
+| **P**roblem | Set the context and challenge | 15% |
+| **A**ction | What you specifically did | 40% |
+| **R**easoning | Why you made those choices | 15% |
+| **A**nswer | The outcome/result | 15% |
+| **D**evelopment | What you learned | 10% |
+| **E**xtension | How you'd apply this in consulting | 5% |
+
+### Building Your Story Bank
+
+Develop 8-10 stories that cover common themes:
+
+| Theme | Example Prompt |
+|-------|---------------|
+| Leadership | "Tell me about a time you led a team" |
+| Teamwork | "Describe a challenging team situation" |
+| Conflict | "Tell me about a disagreement with a colleague" |
+| Failure | "Describe a time something didn't go as planned" |
+| Achievement | "What's your proudest accomplishment?" |
+| Initiative | "Tell me about something you did that wasn't required" |
+| Influence | "How have you persuaded someone resistant to change?" |
+| Pressure | "Describe a high-stakes situation you navigated" |
+
+### Story Quality Checklist
+
+Good behavioral stories are:
+
+- **Specific** – A real example, not hypothetical
+- **Recent** – Ideally within the last 2-3 years
+- **Your role** – Focus on what you did, not the team
+- **Quantified** – Include numbers where possible
+- **Honest** – Don't embellish; interviewers probe
+
+### The "Why Consulting?" Question
+
+This question trips up many candidates. Avoid generic answers.
+
+**Weak answer:**
+> "I want to work with smart people on interesting problems."
+
+**Strong answer:**
+> "I've realized I'm at my best when solving complex problems with structure and data. In my internship at [company], I noticed I gravitated toward the analytical projects—like when I analyzed our customer churn and presented recommendations to leadership. Consulting lets me do that across industries, which is exciting because I'm still figuring out where I want to specialize long-term. I'm particularly drawn to [firm] because of [specific reason—culture, work type, people you've met]."
+
+Elements of a strong answer:
+- Self-awareness about why consulting fits you
+- Specific evidence from your experience
+- Why this firm specifically
+- Authentic, not performative
+
+### The "Why This Firm?" Question
+
+Research matters. Know:
+
+- Recent projects or client work (from case competitions, news, alumni)
+- Culture and values (from coffee chats)
+- What differentiates them from other firms
+- Specific people you've talked to
+
+**Template:**
+> "I've been drawn to [firm] for three reasons. First, [something about their work or approach]. Second, [something about culture you've observed]. Third, everyone I've spoken with—including [name]—has reinforced that [specific cultural observation]. That aligns with how I like to work."
+
+## Coachability in Interviews
+
+Interviewers are assessing whether you'll be good to work with. Coachability signals:
+
+### What Coachability Looks Like
+
+- **Taking hints gracefully** – "Good point, let me adjust my approach."
+- **Building on feedback** – Incorporate what the interviewer suggests
+- **Asking for input** – "I'm thinking of approaching it this way. Does that seem right?"
+- **Admitting uncertainty** – "I'm not sure, but here's my hypothesis."
+
+### What Uncoachability Looks Like
+
+- **Defensiveness** – Arguing when redirected
+- **Rigidity** – Sticking to your original answer despite hints
+- **Overconfidence** – Acting like you have all the answers
+- **Not listening** – Missing cues from the interviewer
+
+## Mock Interview Practice
+
+### TA Mock Sessions
+
+Your TA will conduct mock interviews:
+
+- **Casing midterm** – Two full mock cases (Week 10)
+- **Casing final** – Rigorous evaluation (Week 15)
+
+### Peer Practice
+
+Exchange mock interviews with classmates:
+
+- Practice both giving and receiving cases
+- Provide structured feedback using the rubric
+- Simulate real interview conditions (time pressure, professional setting)
+
+### Self-Recording
+
+Record yourself doing cases:
+
+- Listen for filler words ("um," "like")
+- Watch for nervous habits
+- Check if your structure is clear
+- Identify where you get stuck
+
+## Interview Day Tips
+
+### Before the Interview
+
+- Research the firm and interviewer (LinkedIn)
+- Review your stories and notes
+- Get a good night's sleep
+- Eat breakfast; bring water
+
+### During the Interview
+
+- Make eye contact and smile
+- Take notes on the case prompt
+- Ask for a moment to think when needed
+- Thank the interviewer at the end
+
+### After the Interview
+
+- Send a thank-you note within 24 hours
+- Reflect on what went well and what to improve
+- Don't over-analyze; move on to the next one
+
+## Practice Exercise
+
+1. **Write out 3 behavioral stories** using the PARADE framework. Practice telling them in 2 minutes each.
+
+2. **Draft your "Why Consulting?"** answer. Have a partner critique it for authenticity and specificity.
+
+3. **Complete 2 mock cases** this week with TAs or peers. Document your areas for improvement.

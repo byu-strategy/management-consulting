@@ -1,5 +1,87 @@
----
-title: "References"
-format: html
-editor: visual
----
+# References
+
+## Core Frameworks and Concepts
+
+### Problem-Solving and Structure
+
+McKinsey & Company. (2023). *McKinsey Problem-Solving Method*. Internal training materials.
+
+Rasiel, E. M. (1999). *The McKinsey Way: Using the Techniques of the World's Top Strategic Consultants to Help You and Your Business*. McGraw-Hill.
+
+Rasiel, E. M., & Friga, P. N. (2002). *The McKinsey Mind: Understanding and Implementing the Problem-Solving Tools and Management Techniques of the World's Top Strategic Consulting Firm*. McGraw-Hill.
+
+### Communication
+
+Minto, B. (2009). *The Pyramid Principle: Logic in Writing and Thinking* (3rd ed.). Pearson.
+
+Zelazny, G. (2001). *Say It with Charts: The Executive's Guide to Visual Communication* (4th ed.). McGraw-Hill.
+
+Duarte, N. (2008). *Slide:ology: The Art and Science of Creating Great Presentations*. O'Reilly Media.
+
+### Trust and Client Relationships
+
+Maister, D. H., Green, C. H., & Galford, R. M. (2000). *The Trusted Advisor*. Free Press.
+
+Maister, D. H. (1997). *True Professionalism: The Courage to Care About Your People, Your Clients, and Your Career*. Free Press.
+
+## Case Interview Preparation
+
+Cosentino, M. P. (2020). *Case in Point: Complete Case Interview Preparation* (11th ed.). Burgee Press.
+
+Cheng, V. (2012). *Case Interview Secrets: A Former McKinsey Interviewer Reveals How to Get Multiple Job Offers in Consulting*. Innovation Press.
+
+## Strategy
+
+Porter, M. E. (1985). *Competitive Advantage: Creating and Sustaining Superior Performance*. Free Press.
+
+Porter, M. E. (1980). *Competitive Strategy: Techniques for Analyzing Industries and Competitors*. Free Press.
+
+Rumelt, R. P. (2011). *Good Strategy Bad Strategy: The Difference and Why It Matters*. Crown Business.
+
+Kim, W. C., & Mauborgne, R. (2015). *Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant* (Expanded ed.). Harvard Business Review Press.
+
+## Decision-Making and Thinking
+
+Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
+
+Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.
+
+## Industry and Consulting History
+
+Kiechel, W. (2010). *The Lords of Strategy: The Secret Intellectual History of the New Corporate World*. Harvard Business Press.
+
+O'Shea, J., & Madigan, C. (1997). *Dangerous Company: The Consulting Powerhouses and the Businesses They Save and Ruin*. Times Books.
+
+## Academic Foundations
+
+### Problem Structuring
+
+Rosenhead, J., & Mingers, J. (Eds.). (2001). *Rational Analysis for a Problematic World Revisited: Problem Structuring Methods for Complexity, Uncertainty and Conflict* (2nd ed.). Wiley.
+
+### Organizational Behavior
+
+Argyris, C. (1985). *Strategy, Change and Defensive Routines*. Pitman.
+
+Schein, E. H. (2016). *Organizational Culture and Leadership* (5th ed.). Wiley.
+
+### Economics of Consulting
+
+Greenwood, R., & Empson, L. (2003). The professional partnership: Relic or exemplary form of governance? *Organization Studies*, 24(6), 909-933.
+
+## Online Resources and Publications
+
+Harvard Business Review. (Various). Articles on strategy, leadership, and consulting.
+
+McKinsey Quarterly. (Various). *McKinsey & Company*. https://www.mckinsey.com/quarterly
+
+BCG Henderson Institute. (Various). *Boston Consulting Group*. https://www.bcg.com/publications
+
+Bain Insights. (Various). *Bain & Company*. https://www.bain.com/insights/
+
+## Data and Research Sources
+
+U.S. Securities and Exchange Commission. EDGAR Database. https://www.sec.gov/edgar
+
+IBISWorld. Industry Market Research Reports. https://www.ibisworld.com/
+
+Statista. Statistics and Market Data. https://www.statista.com/
