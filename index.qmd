@@ -12,7 +12,8 @@ format:
 *WINTER 2026*
 
 **Instructor:** Scott Murff
-**TAs:** Carson Fellows, Tatum Frazier, Ambrose Aggabao, EJ Smith, Grant Hill, Avery Pate, Grace Dyer, David Fillmore
+**TAs:** Carson Fellows, Tatum Frazier, Ambrose Aggabao, EJ Smith, Grant Hill, Avery Pate, Grace Dyer
+**Case Coach:** David Fillmore
 **Class Time:** Tuesday/Thursday 9:30 – 10:45 AM
 **Class Location:** TBD
 **Office Hours:** TBD
