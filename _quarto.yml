@@ -31,7 +31,7 @@ book:
     - part: "Course Goals"
       chapters:
         - 09-land-an-offer.qmd
-        - 10-your-first-engagement.qmd
+        - 10-do-client-work.qmd
     - part: "Resources"
       chapters:
         - 97-ta-handbook.qmd
