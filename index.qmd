@@ -41,7 +41,7 @@ By the end of this course, you will develop proficiency in eight core areas:
 | **Structured Problem-Solving** | Decompose ambiguous problems using MECE logic and hypothesis-driven thinking |
 | **Clear Communication** | Apply the Pyramid Principle; write action-titled slides; deliver crisp verbal updates |
 | **Analytics & Modeling** | Build models in Excel; synthesize data into insights; estimate with confidence |
-| **Workstream Ownership** | Manage analyses from start to finish; deliver quality work on deadline |
+| **Workstream Ownership** | Act with high agency; own work end-to-end; anticipate needs and drive outcomes without waiting to be told |
 | **Client Hands** | Interact professionally with senior stakeholders; build trust through credibility |
 | **Teamwork** | Collaborate across team structures; give and receive feedback effectively |
 | **Coachability** | Incorporate feedback rapidly; demonstrate growth through iteration |
