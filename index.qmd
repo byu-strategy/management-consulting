@@ -132,7 +132,7 @@ Late work accepted up to 9 days late with a 10% penalty per day:
 
 ### Behavioral Stories
 
-Build a bank of 8-10 stories using the PARADE framework for common behavioral questions.
+Build a bank of 5+ polished stories using the PARADE framework for common behavioral questions.
 
 ### Networking Tracker
 

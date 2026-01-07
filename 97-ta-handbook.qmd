@@ -30,10 +30,10 @@ Approximately 50 students are registered, with seven teaching assistants. Each T
 | Touchpoint | Timing | Purpose |
 |:-----------|:-------|:--------|
 | Goals Chat | Week 2 | Establish recruiting goals and development focus |
-| Feedback Session 1 | Week 4 | Progress check on resume and networking |
-| Feedback Session 2 | Week 7 | Mid-semester check-in, case practice feedback |
-| Feedback Session 3 | Week 10 | Interview prep assessment |
-| Feedback Session 4 | Week 13 | Final reflection and capstone prep |
+| Feedback Session 1 | Week 6 | Progress check on resume and networking |
+| Feedback Session 2 | Week 9 | Mid-semester check-in, case practice feedback |
+| Feedback Session 3 | Week 11 | Interview prep assessment |
+| Feedback Session 4 | Week 14 | Final reflection and capstone prep |
 
 ## Individual Mentoring
 

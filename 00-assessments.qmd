@@ -82,7 +82,7 @@ A consulting-ready resume and active networking are essential for landing interv
 
 Submit two versions of your resume throughout the semester:
 
-- **Resume v1 (Week 4)**: Initial consulting-formatted resume
+- **Resume v1 (Week 5)**: Initial consulting-formatted resume
 - **Resume v2 (Week 7)**: Revised resume incorporating TA feedback
 
 Your resume should:
@@ -160,9 +160,9 @@ Behavioral interviews are a critical component of consulting recruiting. The PAR
 - **P**roblem: What was the situation or challenge?
 - **A**ction: What specific actions did YOU take?
 - **R**esult: What was the outcome? (Quantify where possible)
-- **A**pplication: How does this demonstrate the competency being assessed?
-- **D**evelopment: What did you learn?
-- **E**nergy: Convey genuine enthusiasm and ownership
+- **A**pplication: How does this relate to consulting?
+- **D**ifferentiation: What made your approach unique?
+- **E**vidence: Proof points and specifics
 
 **Requirements**
 
