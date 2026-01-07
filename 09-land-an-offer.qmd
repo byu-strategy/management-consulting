@@ -38,7 +38,7 @@ $$Trust = \frac{Credibility + Reliability + Intimacy}{Self\text{-}Orientation}$$
 - ❌ Forget to follow up
 - ❌ Only reach out when you need something
 
-### Coffee Chat Structure
+### Smoothie Chat Structure
 
 | Phase | Time | Focus |
 |:------|:-----|:------|
@@ -201,7 +201,7 @@ Prepare 8-10 stories that can flex across questions. Each story should:
 - TA-led sessions in pods
 - Peer practice (case exchange)
 - MCA mock interview events
-- Online practice (RocketBlocks, PrepLounge)
+- Online practice ([Management Consulted](https://managementconsulted.com/marriott-registration/))
 
 ## Recruiting Timeline
 
@@ -224,7 +224,7 @@ Prepare 8-10 stories that can flex across questions. Each story should:
 
 ### This Month
 
-- [ ] Complete 3 coffee chats
+- [ ] Complete 3 smoothie chats
 - [ ] Practice 2 cases
 - [ ] Build 3 PARADE stories
 
