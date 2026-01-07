@@ -34,6 +34,7 @@ book:
         - 10-your-first-engagement.qmd
     - part: "Resources"
       chapters:
+        - 97-ta-handbook.qmd
         - 98-resources.qmd
         - 99-references.qmd
 

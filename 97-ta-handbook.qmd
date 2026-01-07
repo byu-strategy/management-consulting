@@ -1,0 +1,288 @@
+---
+title: "TA Handbook"
+---
+
+*A guide for STRAT 325 Teaching Assistants*
+
+## Introduction
+
+Thank you for contributing your time and effort to STRAT 325. This course is designed as a high-touch experience where students receive sustained, individualized support as they develop consulting skills and navigate the recruiting process.
+
+You will be assigned to one **pod** of 7-8 students who become your primary responsibility throughout the semester. Your role is to mentor these students as they build mastery of the Consultant's OS and prepare for management consulting recruiting.
+
+### Your Role
+
+Unlike traditional TA roles focused primarily on grading, this position emphasizes mentorship. You will:
+
+- Develop deeper relationships with students in your pod
+- Provide individualized guidance, feedback, and accountability
+- Support students through group-based projects
+- Help teams structure their thinking, diagnose weaknesses, and improve execution
+
+### Success Metrics
+
+Your barometer for success: by semester's end, your students have demonstrated mastery of the Consultant's OS and have had repeated, meaningful opportunities to practice each skill across both recruiting preparation and applied consulting work.
+
+## Pod Structure
+
+Approximately 50 students are registered, with seven teaching assistants. Each TA oversees approximately 7-8 students organized into a pod.
+
+| Touchpoint | Timing | Purpose |
+|:-----------|:-------|:--------|
+| Goals Chat | Week 2 | Establish recruiting goals and development focus |
+| Feedback Session 1 | Week 4 | Progress check on resume and networking |
+| Feedback Session 2 | Week 7 | Mid-semester check-in, case practice feedback |
+| Feedback Session 3 | Week 10 | Interview prep assessment |
+| Feedback Session 4 | Week 13 | Final reflection and capstone prep |
+
+## Individual Mentoring
+
+Most assignments in this course are completed individually. Your role is to assess progress against the Consultant's OS toolkit, helping students build both external competence in core skills and internal confidence in applying those skills under ambiguity and pressure.
+
+### Goals Chat
+
+**What it is:** A one-on-one conversation at the beginning of the semester where each student articulates their goals and you establish alignment and accountability.
+
+**Topics to cover:**
+
+- Long-term academic and career goals
+- Near-term recruiting and internship objectives
+- Plans for summer 2026 (if not finalized)
+- Top-choice consulting firms and rationale
+- Which toolkit components they consider weakest or want to focus on most
+
+**Sample questions:**
+
+1. What does an ideal first 5-10 years of your career look like, and why?
+2. What does "success" look like at the end of this recruiting season?
+3. What are your plans for summer 2026, and how will that strengthen your candidacy?
+4. Which firms are at the top of your list? What differentiates them in your mind?
+5. Which Consultant's OS skills are your biggest opportunities for development?
+6. How should I push you to success? What's your preferred learning style?
+
+**Grading the goals worksheet:**
+
+Students should clearly articulate:
+
+- **Summer 2026 plans**: Concrete strategy for securing an internship, or if already secured, how they'll maximize learning
+- **Development plans**: Honest assessment of current capability across the toolkit, with targeted actions for improvement
+- **Underlying motivation**: A genuine "why" connecting personal goals, career objectives, and effort required—not generic rationale
+
+### Feedback Sessions
+
+Consulting firms operate with a strong feedback culture prioritizing rapid, iterative improvement. This course reflects that standard.
+
+**Structure:**
+
+- 10-minute meetings, 4 times per semester
+- Focus on the Consultant's OS toolkit, not grading optimization
+- Synthesize 1-3 concrete, actionable takeaways for coming weeks
+- Connect feedback to upcoming assignments or milestones
+
+**Approach:**
+
+- **High support + high expectations**: Feedback should be timely, candid, and growth-oriented
+- **Build, don't discourage**: At least 80% of the conversation should focus on what the student is doing well
+- **Specific and actionable**: "Your frameworks are getting more MECE—next, focus on stating your hypothesis before diving into branches"
+
+### Resume Reviews
+
+After class instruction on resumes, students produce a consulting-ready resume built around quantified scope and impact.
+
+**Your responsibilities:**
+
+1. **Resume v1 review**: Provide detailed feedback on bullet quality, formatting, experience selection, and clarity
+2. **Identify gaps**: Note which sections need development (Education, Experience, Leadership, Skills)
+3. **Resume v2 review**: Grade based on polish, responsiveness to feedback, and quality of development plan
+
+**What to look for:**
+
+- Each bullet communicates scale, responsibility, and results
+- Quantified scope (team size, budget, users) and quantified impact (% improvement, revenue, outcomes)
+- Strong action verbs and leadership demonstration
+- Error-free, professionally formatted
+
+### Networking Tracker
+
+Students create a spreadsheet to track recruiting and networking progress.
+
+**Required components:**
+
+- Target firms list
+- Networking activity log (who, what discussed, next steps)
+- Planned outreach
+
+**Your responsibility:**
+
+- Confirm the tracker is effective and actively used
+- Reference during feedback sessions to assess progress and identify next steps
+- Grade initial submission on completeness; subsequent check-ins on completion basis
+
+### Behavioral Stories (PARADE)
+
+Students prepare structured behavioral stories using the PARADE framework.
+
+| Element | Description |
+|:--------|:------------|
+| **P**roblem | The core challenge or situation faced |
+| **A**ction | Specific actions the student personally took |
+| **R**esult | Outcome or result achieved (quantified where possible) |
+| **A**pplication | How this relates to consulting |
+| **D**ifferentiation | What made their approach unique |
+| **E**vidence | Proof points and specifics |
+
+**Guidance:**
+
+- Students should build a thoughtful inventory of meaningful, tailored stories—not a large volume of generic examples
+- Stories should be versatile and adaptable across different behavioral questions
+- Focus on common themes: leadership, teamwork, conflict, failure, decision-making under ambiguity
+- Avoid over-indexing on firm-specific behavioral expectations
+
+## Case Interview Support
+
+A significant portion of student development comes from repeated case practice. Throughout the semester, students case with peers, TAs, and MCA members.
+
+### Casing Components
+
+| Component | Description | Grading |
+|:----------|:------------|:--------|
+| **Case Workshop** | Pod introduction to casing fundamentals (early semester) | Attendance |
+| **Practice Cases** | Minimum 8 cases over the semester | Completion |
+| **Pieces of a Case** | 5 focused assignments (framework, quant, exhibits, brainstorm, synthesis) | Rubric |
+| **Casing Midterm** | 2 full mock cases (one with assigned TA, one with different TA) | Light grading |
+| **Casing Final** | Rigorously graded evaluation | Full rubric |
+
+### General Guidelines
+
+**Mindset:** Students should leave every case feeling encouraged to continue. Progress comes through repetition and reflection.
+
+**Before the case:**
+
+1. Ask how many cases they've completed
+2. Identify their perceived strengths and weaknesses
+3. Establish a specific goal for this case (clarity, synthesis, math speed, etc.)
+4. Select a case you know well that aligns with their goal
+
+**During the case:**
+
+- Treat it as a true interview—take structured notes, track timing
+- Use the case evaluation rubric
+- Give students the benefit of the doubt during weaker segments
+- Stay engaged; coachability can only be demonstrated with attentive coaching
+
+**After the case:**
+
+1. Ask for their self-reflection first (what went well, what was challenging)
+2. Balance reinforcement of strengths with specific guidance on improvement
+3. Provide concrete, actionable recommendations (math drills, framework practice, synthesis exercises)
+4. If they performed poorly and know it, focus on encouragement and perspective—setbacks are normal
+
+### Case Evaluation Rubric
+
+| Section | What to Evaluate | Strong Performance | Common Weaknesses |
+|:--------|:-----------------|:-------------------|:------------------|
+| **Prompt & Clarification** | Synthesis, engagement, clarifying questions | Restates objective, asks 1-2 high-impact questions, confirms metrics/constraints | Parrots prompt, asks too many low-value questions, misses constraints |
+| **Framework** | Hypothesis-driven, MECE, personalization, prioritization | Tailored MECE framework, clear hypothesis, explains how branches connect, identifies starting point | Generic frameworks, no prioritization |
+| **Brainstorming** | Structure, quantity, creativity, relevance | Organized buckets, many relevant ideas, creativity grounded in business logic | Unstructured dumping, too few ideas |
+| **Quantitative** | Verbalization, structure, speed, accuracy, interpretation | Explains approach first, clean assumptions, accurate calculation, clear "so what" | Silent math, messy setup, no interpretation |
+| **Exhibit Interpretation** | Synthesis, takeaways, implications | Leads with headline insight, identifies key trends, connects to business decisions | Reads line-by-line, misses key insight |
+| **Recommendation** | Clarity, reasoning, risks, next steps | Clear recommendation up front, prioritized reasoning, acknowledges risks, outlines next steps | Vague recommendation, omits risks |
+| **General Behaviors** | Engagement, professionalism, coachability, communication | Concise, engaged, adapts to feedback, sound judgment | Rambling, defensive, poor prioritization |
+
+### Firm Differences Disclaimer
+
+While case styles differ across firms, avoid over-indexing firm-specific nuances during the course. The goal is building a strong generalist foundation that transfers across firms.
+
+Use a broadly generalist style (similar to BCG) as the baseline. Once students secure interviews at specific firms, they can adjust their approach. Firm-specific customization comes *after* mastery of fundamentals.
+
+## Group Project Support
+
+Students complete four progressive consulting projects that build on each other.
+
+| Project | Due | Scope | Team | Deliverable |
+|:--------|:----|:------|:-----|:------------|
+| **Company Diagnostic** | Week 8 | Outside-in analysis | Individual | 1-page analysis |
+| **Competitive Benchmark** | Week 10 | Industry comparison | Individual | 3 slides |
+| **Value-Add Hypothesis** | Week 12 | Opportunity identification | Pairs | 5 slides |
+| **Capstone Proposal** | Week 14 | Full strategic proposal | Teams of 3 | 15-20 slides + presentation |
+
+### Your Role in Projects
+
+**For individual projects (P1, P2):**
+
+- Provide feedback on structure and analysis quality
+- Help students identify gaps in their outside-in research
+- Coach on slide design and executive communication
+
+**For team projects (P3, Capstone):**
+
+- Help teams structure their thinking and divide work effectively
+- Facilitate healthy team dynamics and conflict resolution
+- Coach on storyline development and presentation delivery
+- Observe team coordination during capstone presentations
+
+### Project Coaching Tips
+
+| Project | Focus Areas |
+|:--------|:------------|
+| **Diagnostic** | Problem definition, fact base quality, "so what" insights |
+| **Benchmark** | Metric selection, visual presentation, strategic implications |
+| **Value-Add** | Hypothesis clarity, MECE approach, quantified impact |
+| **Capstone** | Storyline flow, executive summary, recommendation specificity, team coordination |
+
+## MCA Coordination
+
+The course is designed to complement the Management Consulting Association. Students attend required MCA events to reinforce skill development and community engagement.
+
+**Your responsibility:**
+
+- Update student scores in Learning Suite based on event attendance submissions
+- For students with extenuating circumstances (athletic conflicts, etc.), coordinate makeup assignments as needed
+
+## Summer Planning
+
+Near the end of the semester, students submit a two-part summer plan.
+
+**Part 1: Recruiting Portfolio**
+
+- Resume, networking tracker, case logs, behavioral stories, reflections
+- All recruiting materials developed during the semester
+
+**Part 2: Summer Action Plan**
+
+- Specific actions with defined timelines and expected outcomes
+- Concrete casing strategy (number of cases, partners, schedule)
+- Clear goals for the recruiting season
+
+**Your responsibility:**
+
+- Review the summer plan during final feedback session
+- Pressure-test the plan, identify gaps, suggest refinements
+- Grade final submission on organization, detail, and responsiveness to feedback
+- Encourage students to establish an accountability mechanism (mentor check-ins, peer accountability partner)
+
+## Best Practices Summary
+
+### Do
+
+- Maintain high support paired with high expectations
+- Deliver feedback that is timely, specific, and actionable
+- Focus 80% on what students are doing well
+- Help students set clear goals before each case or assignment
+- Reference the Consultant's OS framework consistently
+- Build confidence alongside competence
+
+### Don't
+
+- Over-index on firm-specific nuances early in the semester
+- Pile on negative feedback when a student already knows they struggled
+- Let feedback sessions become grading discussions
+- Skip the goal-setting conversation before cases
+- Assume students know what they need to work on
+
+## Resources
+
+- Detailed grading rubrics: Available in Learning Suite
+- Case library: Shared TA folder
+- Framework templates: Course website Resources section
+- Escalation: Contact Professor Murff for students who appear to be struggling significantly
