@@ -8,38 +8,38 @@ Below is the planned daily schedule organized around *The Consultant's OS*. Each
 ## Daily Schedule
 
 ::: {.callout-note}
-**Feb 18 (Tuesday)** follows Monday instruction schedule per the academic calendar. No T/Th class meets that day.
+**Feb 17 (Tuesday)** follows Monday instruction schedule per the academic calendar. No T/Th class meets that day.
 :::
 
 | Wk | Date | Phase | OS Action | Recruiting | Client Work | Due |
 |:--:|:-----|:------|:----------|:-----------|:------------|:----|
-| 1 | Th Jan 9 | **Foundation** | Intro to *The Consultant's OS* | [Why firms hire; target research](97-activities.qmd#s1-recruiting) | [What consultants deliver; target selection](97-activities.qmd#s1-client) | Target Cos |
-| 2 | T Jan 14 |  | AI as Operating Amplifier | [AI for firm research & networking](97-activities.qmd#s2-recruiting) | [Intro to Claude Code](97-activities.qmd#s2-client) | [Goals Chat](00-assessments.qmd#ta-pod-engagement) |
-| 2 | Th Jan 16 |  | AI as Operating Amplifier | [AI-assisted company research](97-activities.qmd#s3-recruiting) | [Claude Code hands-on](97-activities.qmd#s3-client) | Quiz 1: [Consulting Industry](01-what-is-consulting.qmd) |
-| 3 | T Jan 21 | **Think Clearly** | [1.1 Diagnose](05-think-clearly.qmd#os-1-1) | [Diagnose firm hiring needs](97-activities.qmd#s4-recruiting) | [Diagnose strategic situation](97-activities.qmd#s4-client) | – |
-| 3 | Th Jan 23 |  | [1.1 Diagnose](05-think-clearly.qmd#os-1-1) | [Self-assessment: your fit gaps](97-activities.qmd#s5-recruiting) | [Root cause analysis](97-activities.qmd#s5-client) | Quiz 2: [OS](02-consultants-os.qmd), [1.1](05-think-clearly.qmd#os-1-1) |
-| 4 | T Jan 28 |  | [1.2 Define](05-think-clearly.qmd#os-1-2) | [Gap: "you now" → "hireable you"](97-activities.qmd#s6-recruiting) | [Define client problem](97-activities.qmd#s6-client) | – |
-| 4 | Th Jan 30 |  | [1.3 Frame](05-think-clearly.qmd#os-1-3) | [Frame recruiting decision set](97-activities.qmd#s7-recruiting) | [Frame client decision & constraints](97-activities.qmd#s7-client) | Quiz 3: [1.2](05-think-clearly.qmd#os-1-2), [1.3](05-think-clearly.qmd#os-1-3) |
-| 5 | T Feb 4 |  | [1.4 Hypothesize](05-think-clearly.qmd#os-1-4) | ["I'm the right hire because..."](97-activities.qmd#s8-recruiting) | ["Company should do X because..."](97-activities.qmd#s8-client) | – |
-| 5 | Th Feb 6 |  | [1.6 MECE](05-think-clearly.qmd#os-1-6) | [MECE resume proof points](97-activities.qmd#s9-recruiting) | [Build MECE issue tree](97-activities.qmd#s9-client) | Quiz 4: [1.4](05-think-clearly.qmd#os-1-4), [1.6](05-think-clearly.qmd#os-1-6); [Resume v1](00-assessments.qmd#resume-and-networking) |
-| 6 | T Feb 11 | **Get Right Answer** | [2.2 Outside-In](06-get-right-answer.qmd#os-2-2) | [Research firms/roles/people](97-activities.qmd#s10-recruiting) | [Build fact base](97-activities.qmd#s10-client) | [TA Session 1](00-assessments.qmd#ta-pod-engagement) |
-| 6 | Th Feb 13 |  | [2.2 Outside-In](06-get-right-answer.qmd#os-2-2) | [Trust Equation; smoothie chat prep](97-activities.qmd#s11-recruiting) | [Outside-in research workshop](97-activities.qmd#s11-client) | Quiz 5: [2.2](06-get-right-answer.qmd#os-2-2) |
-| 7 | Th Feb 20 |  | [2.4 Quick Math](06-get-right-answer.qmd#os-2-4) | [Case: market sizing](97-activities.qmd#s12-recruiting) | [Estimate opportunities](97-activities.qmd#s12-client) | Quiz 6: [2.3](06-get-right-answer.qmd#os-2-3), [2.4](06-get-right-answer.qmd#os-2-4); [Resume v2](00-assessments.qmd#resume-and-networking) |
-| 8 | T Feb 25 |  | [2.6 Synthesize](06-get-right-answer.qmd#os-2-6) | [Case: driving to recommendation](97-activities.qmd#s13-recruiting) | [Synthesize into "so what"](97-activities.qmd#s13-client) | – |
-| 8 | Th Feb 27 |  | [2.6 Synthesize](06-get-right-answer.qmd#os-2-6) | [Case synthesis workshop](97-activities.qmd#s14-recruiting) | [P1 workshop: synthesizing](97-activities.qmd#s14-client) | **[P1: Diagnostic](00-assessments.qmd#company-diagnostic)** |
-| 9 | T Mar 4 | **Move Forward** | [3.1 Workplan](07-move-work-forward.qmd#os-3-1) | [Build recruiting workplan](97-activities.qmd#s15-recruiting) | [Build project workplan](97-activities.qmd#s15-client) | [TA Session 2](00-assessments.qmd#ta-pod-engagement) |
-| 9 | Th Mar 6 |  | [3.2 Own](07-move-work-forward.qmd#os-3-2) | [Own job search: outreach → offer](97-activities.qmd#s16-recruiting) | [Own analysis: question → answer](97-activities.qmd#s16-client) | Quiz 7: [2.6](06-get-right-answer.qmd#os-2-6), [3.1](07-move-work-forward.qmd#os-3-1) |
-| 10 | T Mar 11 |  | [3.7 Move](07-move-work-forward.qmd#os-3-7) | [Case: navigating ambiguity](97-activities.qmd#s17-recruiting) | [Analytical calls with incomplete data](97-activities.qmd#s17-client) | – |
-| 10 | Th Mar 13 |  | [3.6 Manage Up](07-move-work-forward.qmd#os-3-6) | [Update TA on recruiting progress](97-activities.qmd#s18-recruiting) | [P2 workshop: competitive analysis](97-activities.qmd#s18-client) | **[P2: Benchmark](00-assessments.qmd#competitive-benchmark)** |
-| 11 | T Mar 18 | **Create Impact** | [4.1 Storyline](08-create-impact.qmd#os-4-1) | [PARADE structure](97-activities.qmd#s19-recruiting) | [Slide storylines: SCQA](97-activities.qmd#s19-client) | [TA Session 3](00-assessments.qmd#ta-pod-engagement) |
-| 11 | Th Mar 20 |  | [4.1 Storyline](08-create-impact.qmd#os-4-1) | [PARADE workshop](97-activities.qmd#s20-recruiting) | [Building persuasive decks](97-activities.qmd#s20-client) | Quiz 8: [4.1](08-create-impact.qmd#os-4-1) |
-| 12 | T Mar 25 |  | [4.2 Brevity](08-create-impact.qmd#os-4-2) | [Behavioral: crisp 2-min answers](97-activities.qmd#s21-recruiting) | [Lead with the answer](97-activities.qmd#s21-client) | – |
-| 12 | Th Mar 27 |  | [4.2 Brevity](08-create-impact.qmd#os-4-2) | [Behavioral practice session](97-activities.qmd#s22-recruiting) | [P3 workshop: exec presentations](97-activities.qmd#s22-client) | **[P3: Value-Add](00-assessments.qmd#value-add-hypothesis)** |
-| 13 | T Apr 1 |  | [4.4 Trust](08-create-impact.qmd#os-4-4) | [Fit interviews: character & judgment](97-activities.qmd#s23-recruiting) | [Building stakeholder trust](97-activities.qmd#s23-client) | – |
-| 13 | Th Apr 3 |  | [4.3 Tailor](08-create-impact.qmd#os-4-3) | [Handling difficult fit questions](97-activities.qmd#s24-recruiting) | [Prewiring; difficult conversations](97-activities.qmd#s24-client) | Quiz 9: [4.3](08-create-impact.qmd#os-4-3), [4.4](08-create-impact.qmd#os-4-4); [PARADE Stories](00-assessments.qmd#behavioral-stories) |
-| 14 | T Apr 8 |  | [4.8 Feedback](08-create-impact.qmd#os-4-8) | [Mock interview feedback](97-activities.qmd#s25-recruiting) | [Revise deliverables](97-activities.qmd#s25-client) | [TA Session 4](00-assessments.qmd#ta-pod-engagement) |
-| 14 | Th Apr 10 |  | [4.7 Coordinate](08-create-impact.qmd#os-4-7) | – | [Capstone team coordination](97-activities.qmd#s26-client) | Quiz 10: [4.2](08-create-impact.qmd#os-4-2), [4.7](08-create-impact.qmd#os-4-7) |
-| 15 | T Apr 15 | **Integration** | Full OS in Action | [Course wrap-up](97-activities.qmd#s27-recruiting) | [Capstone Presentations](97-activities.qmd#s27-client) | **[Capstone](00-assessments.qmd#capstone-proposal)**, [Case Log](00-assessments.qmd#case-practice-log), [Networking](00-assessments.qmd#resume-and-networking) |
+| 1 | Th Jan 8 | **Foundation** | Intro to *The Consultant's OS* | [Why firms hire; target research](97-activities.qmd#s1-recruiting) | [What consultants deliver; target selection](97-activities.qmd#s1-client) | Target Cos |
+| 2 | T Jan 13 |  | AI as Operating Amplifier | [AI for firm research & networking](97-activities.qmd#s2-recruiting) | [Intro to Claude Code](97-activities.qmd#s2-client) | [Goals Chat](00-assessments.qmd#ta-pod-engagement) |
+| 2 | Th Jan 15 |  | AI as Operating Amplifier | [AI-assisted company research](97-activities.qmd#s3-recruiting) | [Claude Code hands-on](97-activities.qmd#s3-client) | Quiz 1: [Consulting Industry](01-what-is-consulting.qmd) |
+| 3 | T Jan 20 | **Think Clearly** | [1.1 Diagnose](05-think-clearly.qmd#os-1-1) | [Diagnose firm hiring needs](97-activities.qmd#s4-recruiting) | [Diagnose strategic situation](97-activities.qmd#s4-client) | – |
+| 3 | Th Jan 22 |  | [1.1 Diagnose](05-think-clearly.qmd#os-1-1) | [Self-assessment: your fit gaps](97-activities.qmd#s5-recruiting) | [Root cause analysis](97-activities.qmd#s5-client) | Quiz 2: [OS](02-consultants-os.qmd), [1.1](05-think-clearly.qmd#os-1-1) |
+| 4 | T Jan 27 |  | [1.2 Define](05-think-clearly.qmd#os-1-2) | [Gap: "you now" → "hireable you"](97-activities.qmd#s6-recruiting) | [Define client problem](97-activities.qmd#s6-client) | – |
+| 4 | Th Jan 29 |  | [1.3 Frame](05-think-clearly.qmd#os-1-3) | [Frame recruiting decision set](97-activities.qmd#s7-recruiting) | [Frame client decision & constraints](97-activities.qmd#s7-client) | Quiz 3: [1.2](05-think-clearly.qmd#os-1-2), [1.3](05-think-clearly.qmd#os-1-3) |
+| 5 | T Feb 3 |  | [1.4 Hypothesize](05-think-clearly.qmd#os-1-4) | ["I'm the right hire because..."](97-activities.qmd#s8-recruiting) | ["Company should do X because..."](97-activities.qmd#s8-client) | – |
+| 5 | Th Feb 5 |  | [1.6 MECE](05-think-clearly.qmd#os-1-6) | [MECE resume proof points](97-activities.qmd#s9-recruiting) | [Build MECE issue tree](97-activities.qmd#s9-client) | Quiz 4: [1.4](05-think-clearly.qmd#os-1-4), [1.6](05-think-clearly.qmd#os-1-6); [Resume v1](00-assessments.qmd#resume-and-networking) |
+| 6 | T Feb 10 | **Get Right Answer** | [2.2 Outside-In](06-get-right-answer.qmd#os-2-2) | [Research firms/roles/people](97-activities.qmd#s10-recruiting) | [Build fact base](97-activities.qmd#s10-client) | [TA Session 1](00-assessments.qmd#ta-pod-engagement) |
+| 6 | Th Feb 12 |  | [2.2 Outside-In](06-get-right-answer.qmd#os-2-2) | [Trust Equation; smoothie chat prep](97-activities.qmd#s11-recruiting) | [Outside-in research workshop](97-activities.qmd#s11-client) | Quiz 5: [2.2](06-get-right-answer.qmd#os-2-2) |
+| 7 | Th Feb 19 |  | [2.4 Quick Math](06-get-right-answer.qmd#os-2-4) | [Case: market sizing](97-activities.qmd#s12-recruiting) | [Estimate opportunities](97-activities.qmd#s12-client) | Quiz 6: [2.3](06-get-right-answer.qmd#os-2-3), [2.4](06-get-right-answer.qmd#os-2-4); [Resume v2](00-assessments.qmd#resume-and-networking) |
+| 8 | T Feb 24 |  | [2.6 Synthesize](06-get-right-answer.qmd#os-2-6) | [Case: driving to recommendation](97-activities.qmd#s13-recruiting) | [Synthesize into "so what"](97-activities.qmd#s13-client) | – |
+| 8 | Th Feb 26 |  | [2.6 Synthesize](06-get-right-answer.qmd#os-2-6) | [Case synthesis workshop](97-activities.qmd#s14-recruiting) | [P1 workshop: synthesizing](97-activities.qmd#s14-client) | **[P1: Diagnostic](00-assessments.qmd#company-diagnostic)** |
+| 9 | T Mar 3 | **Move Forward** | [3.1 Workplan](07-move-work-forward.qmd#os-3-1) | [Build recruiting workplan](97-activities.qmd#s15-recruiting) | [Build project workplan](97-activities.qmd#s15-client) | [TA Session 2](00-assessments.qmd#ta-pod-engagement) |
+| 9 | Th Mar 5 |  | [3.2 Own](07-move-work-forward.qmd#os-3-2) | [Own job search: outreach → offer](97-activities.qmd#s16-recruiting) | [Own analysis: question → answer](97-activities.qmd#s16-client) | Quiz 7: [2.6](06-get-right-answer.qmd#os-2-6), [3.1](07-move-work-forward.qmd#os-3-1) |
+| 10 | T Mar 10 |  | [3.7 Move](07-move-work-forward.qmd#os-3-7) | [Case: navigating ambiguity](97-activities.qmd#s17-recruiting) | [Analytical calls with incomplete data](97-activities.qmd#s17-client) | – |
+| 10 | Th Mar 12 |  | [3.6 Manage Up](07-move-work-forward.qmd#os-3-6) | [Update TA on recruiting progress](97-activities.qmd#s18-recruiting) | [P2 workshop: competitive analysis](97-activities.qmd#s18-client) | **[P2: Benchmark](00-assessments.qmd#competitive-benchmark)** |
+| 11 | T Mar 17 | **Create Impact** | [4.1 Storyline](08-create-impact.qmd#os-4-1) | [PARADE structure](97-activities.qmd#s19-recruiting) | [Slide storylines: SCQA](97-activities.qmd#s19-client) | [TA Session 3](00-assessments.qmd#ta-pod-engagement) |
+| 11 | Th Mar 19 |  | [4.1 Storyline](08-create-impact.qmd#os-4-1) | [PARADE workshop](97-activities.qmd#s20-recruiting) | [Building persuasive decks](97-activities.qmd#s20-client) | Quiz 8: [4.1](08-create-impact.qmd#os-4-1) |
+| 12 | T Mar 24 |  | [4.2 Brevity](08-create-impact.qmd#os-4-2) | [Behavioral: crisp 2-min answers](97-activities.qmd#s21-recruiting) | [Lead with the answer](97-activities.qmd#s21-client) | – |
+| 12 | Th Mar 26 |  | [4.2 Brevity](08-create-impact.qmd#os-4-2) | [Behavioral practice session](97-activities.qmd#s22-recruiting) | [P3 workshop: exec presentations](97-activities.qmd#s22-client) | **[P3: Value-Add](00-assessments.qmd#value-add-hypothesis)** |
+| 13 | T Mar 31 |  | [4.4 Trust](08-create-impact.qmd#os-4-4) | [Fit interviews: character & judgment](97-activities.qmd#s23-recruiting) | [Building stakeholder trust](97-activities.qmd#s23-client) | – |
+| 13 | Th Apr 2 |  | [4.3 Tailor](08-create-impact.qmd#os-4-3) | [Handling difficult fit questions](97-activities.qmd#s24-recruiting) | [Prewiring; difficult conversations](97-activities.qmd#s24-client) | Quiz 9: [4.3](08-create-impact.qmd#os-4-3), [4.4](08-create-impact.qmd#os-4-4); [PARADE Stories](00-assessments.qmd#behavioral-stories) |
+| 14 | T Apr 7 |  | [4.8 Feedback](08-create-impact.qmd#os-4-8) | [Mock interview feedback](97-activities.qmd#s25-recruiting) | [Revise deliverables](97-activities.qmd#s25-client) | [TA Session 4](00-assessments.qmd#ta-pod-engagement) |
+| 14 | Th Apr 9 |  | [4.7 Coordinate](08-create-impact.qmd#os-4-7) | – | [Capstone team coordination](97-activities.qmd#s26-client) | Quiz 10: [4.2](08-create-impact.qmd#os-4-2), [4.7](08-create-impact.qmd#os-4-7) |
+| 15 | T Apr 14 | **Integration** | Full OS in Action | [Course wrap-up](97-activities.qmd#s27-recruiting) | [Capstone Presentations](97-activities.qmd#s27-client) | **[Capstone](00-assessments.qmd#capstone-proposal)**, [Case Log](00-assessments.qmd#case-practice-log), [Networking](00-assessments.qmd#resume-and-networking) |
 
 ---
 
@@ -58,11 +58,11 @@ Below is the planned daily schedule organized around *The Consultant's OS*. Each
 
 Throughout the semester, you will meet with your TA pod for:
 
-- **Goals Chat (Week 2 - Jan 14-16)**: 15-minute individual meeting to discuss recruiting goals
-- **Feedback Session 1 (Week 6 - Feb 11-13)**: Progress check on resume and networking
-- **Feedback Session 2 (Week 9 - Mar 4-6)**: Mid-semester check-in, case practice feedback
-- **Feedback Session 3 (Week 11 - Mar 18-20)**: Interview prep assessment
-- **Feedback Session 4 (Week 14 - Apr 8-10)**: Final reflection and next steps before capstone
+- **Goals Chat (Week 2 - Jan 13-15)**: 15-minute individual meeting to discuss recruiting goals
+- **Feedback Session 1 (Week 6 - Feb 10-12)**: Progress check on resume and networking
+- **Feedback Session 2 (Week 9 - Mar 3-5)**: Mid-semester check-in, case practice feedback
+- **Feedback Session 3 (Week 11 - Mar 17-19)**: Interview prep assessment
+- **Feedback Session 4 (Week 14 - Apr 7-9)**: Final reflection and next steps before capstone
 
 ---
 
@@ -83,11 +83,10 @@ Case practice is essential preparation for consulting interviews. The recommende
 ::: {.callout-note}
 ## Important Academic Dates
 
-- **Jan 8**: First day of classes (Wed), first T/Th class is Jan 9
-- **Jan 15**: Last day to add/drop without a "W"
-- **Jan 20**: Martin Luther King Jr. Day (Monday holiday), does not affect T/Th class
-- **Feb 12**: Withdraw deadline (1st term)
-- **Feb 18 (Tuesday)**: Follows Monday instruction schedule per the academic calendar. No T/Th class meets that day.
-- **Apr 15**: Last T/Th class; Capstone Presentations
-- **Apr 16**: Last day of classes
+- **Jan 6**: First day of classes (Tue), first T/Th class is Jan 8
+- **Jan 13**: Last day to add/drop without a "W"
+- **Jan 19**: Martin Luther King Jr. Day (Monday holiday), does not affect T/Th class
+- **Feb 11**: Withdraw deadline (1st term)
+- **Feb 17 (Tuesday)**: Follows Monday instruction schedule per the academic calendar. No T/Th class meets that day.
+- **Apr 14**: Last T/Th class; Capstone Presentations; Last day of classes
 :::
