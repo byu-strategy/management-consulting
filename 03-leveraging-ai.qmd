@@ -2,11 +2,11 @@
 title: "Leveraging AI"
 ---
 
-AI is not a separate topic in this course—it's how you'll apply the Consultant's OS more effectively. From Week 2 onward, you'll learn to use AI tools to accelerate your research, analysis, and communication.
+AI is not a separate topic in this course, rather it's how you'll apply nearly every part of *The Consultant's OS* more effectively. From Week 2 onward, you'll learn to use AI tools to accelerate your research, analysis, and communication.
 
 ## AI as Your Operating Amplifier
 
-Think of AI as an amplifier for the Consultant's OS:
+Think of AI as an amplifier for *The Consultant's OS*:
 
 | OS Capability | Without AI | With AI |
 |:--------------|:-----------|:--------|
@@ -15,7 +15,7 @@ Think of AI as an amplifier for the Consultant's OS:
 | **Communication** | Multiple draft cycles | Accelerated refinement |
 | **Learning** | Wait for feedback | Instant practice partner |
 
-AI doesn't replace the OS—it makes each action faster and more powerful.
+AI doesn't replace the OS but makes each action faster and more powerful.
 
 ## Tools You'll Use
 

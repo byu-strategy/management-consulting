@@ -6,18 +6,18 @@ title: "The Consultant's OS"
 
 ## What is the Consultant's OS?
 
-The Consultant's OS is the mental operating system that drives performance at top consulting firms. It's not a single framework—it's a complete way of thinking, working, and communicating that you can apply to any professional challenge.
+*The Consultant's OS* is the behavioral operating system that drives performance at top consulting firms. It's not a single framework but a complete way of thinking, working, and communicating that you can apply to any professional challenge.
 
-This course teaches you the OS so you can:
+This course teaches you *The Consultant's OS* and you will apply it to two contexts:
 
-1. **Land an offer** through networking, resume building, and interview preparation
-2. **Deliver real impact** by building consulting proposals and pitch decks using outside-in analysis
+1. **Landing a consulting offer** through networking, resume building, and interview preparation
+2. **Delivering real impact** by building consulting proposals and pitch decks using outside-in analysis
 
 The same OS that helps you structure a case interview helps you structure a client recommendation. The same approach that helps you network effectively helps you build trust with stakeholders.
 
 ## The Four Imperatives
 
-The Consultant's OS is organized around four imperatives—fundamental questions that drive every piece of consulting work:
+The Consultant's OS is organized around four imperatives. The imperitive call upon you to answer the four fundamental questions that drive every piece of consulting work:
 
 | Imperative | Guiding Question |
 |:-----------|:-----------------|
@@ -26,24 +26,88 @@ The Consultant's OS is organized around four imperatives—fundamental questions
 | **Move Work Forward** | Is the work actually progressing toward a decision? |
 | **Create Impact with People** | Do people understand, trust, and act on this work? |
 
-Each imperative contains specific **core actions**—the concrete behaviors that consultants practice until they become automatic.
+Each imperative contains specific **core actions** that describe the concrete behaviors that consultants practice.
+
+### 1. Think Clearly
+**Guiding Question:** Are we solving the right problem in the right way?
+
+| Core Action | Toolkit Component |
+|:------------|:------------------|
+| Diagnose the current state to understand what is happening and why **(0)** 🔺 | Structured Problem-Solving |
+| Define the problem (the gap between the current state and the desired state) **(1)** 🔺 | Structured Problem-Solving |
+| Frame the problem: articulate the decision set for closing the gap and commit to success criteria, constraints, trade-offs, and what is in vs. out of scope **(1)** 🔺 | Structured Problem-Solving |
+| State a provisional Day-1 hypothesis about which decision to make 🔺 | Structured Problem-Solving |
+| Articulate explicit "what would have to be true" hypotheses for that decision to succeed **(3)** 🔺 | Structured Problem-Solving |
+| Disaggregate those hypotheses into MECE issues designed to test them efficiently **(2)** ◯ ◯ | Structured Problem-Solving |
+| Prioritize decision-critical issues and hypotheses based on likelihood of changing the decision and magnitude of impact **(3)** ◯ ◯ | Structured Problem-Solving |
+| Explicitly exclude questions and analyses that would not change the decision | Structured Problem-Solving |
+
+### 2. Get to the Right Answer
+**Guiding Question:** What do the facts and data actually say?
+
+| Core Action | Toolkit Component |
+|:------------|:------------------|
+| Design analyses to confirm or falsify priority "must-be-true" hypotheses **(5)** 🔺 | Analytics & Modeling |
+| Build an outside-in fact base using best-available data **(5)** | Analytics & Modeling |
+| State assumptions explicitly and identify appropriate proxies **(5)** ◯ ◯ | Analytics & Modeling |
+| Perform back-of-the-envelope calculations to bound answers **(5)** | Analytics & Modeling |
+| Build models and run sensitivities to understand drivers, uncertainty, and risk **(5)** ◯ ◯ | Analytics & Modeling |
+| Synthesize analytical results into clear answers to the decision **(6)** 🔺 | Clear Communication |
+
+### 3. Move Work Forward
+**Guiding Question:** Is the work actually progressing toward a decision?
+
+| Core Action | Toolkit Component |
+|:------------|:------------------|
+| Translate prioritized hypotheses into a concrete, decision-oriented workplan with milestones **(4)** 🔺 | Workstream Ownership |
+| Own a workstream end-to-end, from decision-relevant question to answer | Workstream Ownership |
+| Sequence work to deliver insight early and reduce decision risk | Workstream Ownership |
+| Reprioritize tasks dynamically as new information changes the decision outlook | Workstream Ownership |
+| Identify risks, dependencies, and bottlenecks before they stall progress | Workstream Ownership |
+| Manage up with concise updates that surface implications for the decision | Workstream Ownership |
+| Advance the work using best-available information, without waiting for certainty | Tolerance for Ambiguity |
+
+### 4. Create Impact with People
+**Guiding Question:** Do people understand, trust, and act on this work?
+
+| Core Action | Toolkit Component |
+|:------------|:------------------|
+| Craft a storyline that links insights to the decision and its implications **(6)** 🔺 | Clear Communication |
+| Communicate recommendations with clear logic, explicit trade-offs, and executive-level brevity **(7)** 🔺 | Clear Communication |
+| Tailor messages to senior audiences and stakeholder concerns **(7)** 🔺 | Client Hands |
+| Build trust by demonstrating judgment, reliability, and empathy | Client Hands |
+| Coordinate effectively across team members to present a unified decision narrative | Teamwork & Collaboration |
+| Actively solicit feedback and adjust thinking and output in response | Coachability |
 
 ## The Eight Toolkit Components
 
-As you practice the core actions, you develop eight interconnected skills that firms evaluate during recruiting:
+As you practice the core actions, you develop eight interconnected skills and mindsets that together are commonly referred to as the consulting "toolkit".
 
 | Component | What It Means |
 |:----------|:--------------|
 | **Structured Problem-Solving** | Decompose ambiguous problems using MECE logic and hypothesis-driven thinking |
-| **Analytics & Modeling** | Build models in Excel; synthesize data into insights; estimate with confidence |
+| **Analytics & Modeling** | Build models in Excel, Python or other quantitative tools; synthesize data into insights; estimate with confidence |
 | **Clear Communication** | Apply the Pyramid Principle; write action-titled slides; deliver crisp verbal updates |
-| **Workstream Ownership** | Act with high agency; own work end-to-end; anticipate needs and drive outcomes without waiting to be told |
+| **Workstream Ownership** | Act with high agency by owning a workstream end-to-end; anticipate needs and drive outcomes without waiting to be told |
 | **Tolerance for Ambiguity** | Navigate uncertainty; make progress without complete information |
 | **Client Hands** | Interact professionally with senior stakeholders; build trust through credibility |
-| **Teamwork & Collaboration** | Collaborate across team structures; give and receive feedback effectively |
+| **Teamwork & Collaboration** | Collaborate effectively with team members and other stakeholders; give and receive feedback |
 | **Coachability** | Incorporate feedback rapidly; demonstrate growth through iteration |
 
-These aren't separate skills to learn in isolation—they emerge naturally as you practice the core actions within each imperative.
+These skills emerge as you practice the core actions within each imperative.
+
+### Toolkit Components by Imperative
+
+| Component | Primary Imperative |
+|:----------|:-------------------|
+| Structured Problem-Solving | Think Clearly |
+| Analytics & Modeling | Get to the Right Answer |
+| Clear Communication | Get to the Right Answer, Create Impact with People |
+| Workstream Ownership | Move Work Forward |
+| Tolerance for Ambiguity | Move Work Forward |
+| Client Hands | Create Impact with People |
+| Teamwork & Collaboration | Create Impact with People |
+| Coachability | Create Impact with People |
 
 ## How This Course Uses the OS
 
@@ -56,23 +120,23 @@ Each chapter in "The Four Imperatives" section covers one imperative in depth:
 
 For each core action, you'll see how it applies to:
 
-- **Recruiting**: How this action helps you land an offer
+- **Job search**: How this action helps you land an offer
 - **Client work**: How this action helps you deliver impact
 
 ## The McKinsey 7-Step Problem-Solving Process
 
-The OS core actions align with McKinsey's classic 7-step process:
+The OS core actions include but extend beyond McKinsey's classic 7-step problem-solving process:
 
-| Step | Description | OS Imperative |
-|:----:|:------------|:--------------|
-| 0 | Diagnose the current state | Think Clearly |
-| 1 | Define the problem | Think Clearly |
-| 2 | Structure the problem (MECE) | Think Clearly |
-| 3 | Prioritize issues | Think Clearly |
-| 4 | Plan the work | Move Work Forward |
-| 5 | Conduct analyses | Get to the Right Answer |
-| 6 | Synthesize findings | Get to the Right Answer / Create Impact |
-| 7 | Communicate recommendations | Create Impact with People |
+| Step | Name | Description | OS Imperative |
+|:----:|:-----|:------------|:--------------|
+| 0 | Diagnose the current state | Understand what is happening and why before defining the problem | Think Clearly |
+| 1 | Define the problem | Write a clear, precise problem statement that specifies what decision must be made, under what constraints, and by when | Think Clearly |
+| 2 | Disaggregate the problem | Break the problem into mutually exclusive, collectively exhaustive (MECE) components so the team can work in parallel and think clearly | Think Clearly |
+| 3 | Prioritize the issues | Focus on the branches that matter most—those with the biggest impact and that are realistically changeable | Think Clearly |
+| 4 | Develop a work plan | Decide what analyses to run, who will do them, how deep to go, and on what timeline (with iteration built in) | Move Work Forward |
+| 5 | Conduct the analysis | Start with simple heuristics and descriptive statistics, then move to deeper analysis as needed; constantly test assumptions | Get to the Right Answer |
+| 6 | Synthesize the findings | Integrate results into a coherent, insight-driven answer—not just analysis—clearly addressing "What should we do?" | Get to the Right Answer / Create Impact |
+| 7 | Communicate and motivate action | Tell a compelling story, acknowledge uncertainty, and drive alignment so the organization actually acts on the recommendation | Create Impact with People |
 
 Throughout this course, core actions aligned to these steps are annotated with **(0)** through **(7)**.
 
@@ -83,6 +147,14 @@ Throughout this course, core actions aligned to these steps are annotated with *
 | **(n)** | McKinsey 7-Step Problem-Solving Process step number |
 | 🔺 | Pyramid Principle (top-down, answer-first logic) |
 | ◯ ◯ | MECE / Venn logic (complete, non-overlapping structure) |
+
+**🔺 The Pyramid Principle**
+
+The Pyramid Principle, developed by Barbara Minto at McKinsey, is a communication framework that structures ideas top-down: **lead with the answer, then support it with evidence**. Instead of building to a conclusion, you state your recommendation first, then group supporting arguments into logical clusters. This approach respects your audience's time, makes your logic transparent, and ensures your message lands even if the conversation gets cut short. Every slide, email, and verbal update in consulting follows this pattern.
+
+**◯ ◯ MECE (Mutually Exclusive, Collectively Exhaustive)**
+
+MECE is the gold standard for structuring problems. **Mutually Exclusive** means categories don't overlap—each item belongs in exactly one bucket. **Collectively Exhaustive** means the categories cover everything—nothing falls through the cracks. When you build an issue tree, segment a market, or structure a case, MECE ensures you've carved the problem into clean, complete pieces. If your structure isn't MECE, you'll either double-count (overlapping) or miss something important (gaps).
 
 ## Your OS Starts Now
 

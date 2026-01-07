@@ -24,7 +24,8 @@ quarto preview 01-welcome.qmd
 - **`references.bib`** - BibTeX bibliography
 - **`styles.css`** - Custom CSS overrides
 - **`images/`** - Image assets
-- **`_site/`** - Build output directory (gitignored)
+
+The site is only rendered via GitHub actions and never rendered locally, only previewed.
 
 ## Chapter Organization
 
@@ -63,6 +64,18 @@ This course is designed to help you learn and apply the Consultant's OS to do tw
 2. **Make you an effective consultant right now and prepared to excel on Day 1 by conducting real consutling proposal and pitch decks using outside in analysis just like a real consultant would**
 
 The course organizes consulting skills into **4 Imperatives**, each with a guiding question, core operating actions, and associated toolkit components.
+
+**McKinsey 7-Step Problem-Solving Process**
+
+| Step | Name | Description |
+|------|------|-------------|
+| 1 | Define the problem | Write a clear, precise problem statement that specifies what decision must be made, under what constraints, and by when. |
+| 2 | Disaggregate the problem | Break the problem into mutually exclusive, collectively exhaustive (MECE) components so the team can work in parallel and think clearly. |
+| 3 | Prioritize the issues | Focus on the branches that matter most—those with the biggest impact and that are realistically changeable. |
+| 4 | Develop a work plan | Decide what analyses to run, who will do them, how deep to go, and on what timeline (with iteration built in). |
+| 5 | Conduct the analysis | Start with simple heuristics and descriptive statistics, then move to deeper analysis as needed; constantly test assumptions. |
+| 6 | Synthesize the findings | Integrate results into a coherent, insight-driven answer—not just analysis—clearly addressing "What should we do?" |
+| 7 | Communicate and motivate action | Tell a compelling story, acknowledge uncertainty, and drive alignment so the organization actually acts on the recommendation. |
 
 **Core Operating Actions**
 
