@@ -20,16 +20,16 @@ format:
 
 ## Course Overview
 
-Welcome to *Intro to Management Consulting* (STRAT 325). This course gives you the **McKinsey consultant toolkit**—the core skills that drive success in top-tier consulting and beyond.
+Welcome to *Intro to Management Consulting* (STRAT 325). This course teaches you the **Consultant's OS**—the professional operating system that drives success at top-tier consulting firms and beyond.
 
-The course operates on two parallel tracks:
+You'll apply this OS to two course goals:
 
-| Track | Focus | Outcome |
-|-------|-------|---------|
-| **Interview Prep** | Networking, resume, case interviews, behavioral stories | Land the offer |
-| **Applied Consulting** | Company analysis, competitive benchmarking, strategic proposals | Build the skills |
+| Goal | Focus | Outcome |
+|:-----|:------|:--------|
+| **Land an Offer** | Networking, resume, case interviews, behavioral stories | Secure a consulting internship |
+| **Build the Skills** | Company analysis, competitive benchmarking, strategic proposals | Deliver real consulting work |
 
-These tracks reinforce each other. The skills you build through applied projects make you better at interviews. The interview prep sharpens your ability to structure problems and communicate clearly.
+These goals reinforce each other. The same OS that helps you structure a case interview helps you structure a client recommendation. The same approach that builds your networking skills builds trust with stakeholders.
 
 ### The Consultant Toolkit
 
