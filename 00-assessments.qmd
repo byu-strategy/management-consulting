@@ -338,7 +338,7 @@ Produce a 3-slide deck:
 
 **Overview**
 
-Working in pairs, you'll develop a hypothesis for how consulting could create value for one of your target companies. This is the core of client development—demonstrating insight that could lead to an engagement.
+Working in pairs, you'll develop a hypothesis for how consulting could create value for one of your target companies. This is the core of client development: demonstrating insight that could lead to an engagement.
 
 **Requirements**
 

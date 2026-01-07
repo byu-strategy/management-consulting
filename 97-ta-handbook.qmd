@@ -66,7 +66,7 @@ Students should clearly articulate:
 
 - **Summer 2026 plans**: Concrete strategy for securing an internship, or if already secured, how they'll maximize learning
 - **Development plans**: Honest assessment of current capability across the toolkit, with targeted actions for improvement
-- **Underlying motivation**: A genuine "why" connecting personal goals, career objectives, and effort required—not generic rationale
+- **Underlying motivation**: A genuine "why" connecting personal goals, career objectives, and effort required, not generic rationale
 
 ### Feedback Sessions
 
@@ -83,7 +83,7 @@ Consulting firms operate with a strong feedback culture prioritizing rapid, iter
 
 - **High support + high expectations**: Feedback should be timely, candid, and growth-oriented
 - **Build, don't discourage**: At least 80% of the conversation should focus on what the student is doing well
-- **Specific and actionable**: "Your frameworks are getting more MECE—next, focus on stating your hypothesis before diving into branches"
+- **Specific and actionable**: "Your frameworks are getting more MECE. Next, focus on stating your hypothesis before diving into branches"
 
 ### Resume Reviews
 
@@ -133,7 +133,7 @@ Students prepare structured behavioral stories using the PARADE framework.
 
 **Guidance:**
 
-- Students should build a thoughtful inventory of meaningful, tailored stories—not a large volume of generic examples
+- Students should build a thoughtful inventory of meaningful, tailored stories, not a large volume of generic examples
 - Stories should be versatile and adaptable across different behavioral questions
 - Focus on common themes: leadership, teamwork, conflict, failure, decision-making under ambiguity
 - Avoid over-indexing on firm-specific behavioral expectations
@@ -165,7 +165,7 @@ A significant portion of student development comes from repeated case practice. 
 
 **During the case:**
 
-- Treat it as a true interview—take structured notes, track timing
+- Treat it as a true interview: take structured notes, track timing
 - Use the case evaluation rubric
 - Give students the benefit of the doubt during weaker segments
 - Stay engaged; coachability can only be demonstrated with attentive coaching
@@ -175,7 +175,7 @@ A significant portion of student development comes from repeated case practice. 
 1. Ask for their self-reflection first (what went well, what was challenging)
 2. Balance reinforcement of strengths with specific guidance on improvement
 3. Provide concrete, actionable recommendations (math drills, framework practice, synthesis exercises)
-4. If they performed poorly and know it, focus on encouragement and perspective—setbacks are normal
+4. If they performed poorly and know it, focus on encouragement and perspective because setbacks are normal
 
 ### Case Evaluation Rubric
 

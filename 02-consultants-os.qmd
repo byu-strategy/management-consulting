@@ -2,7 +2,7 @@
 title: "The Consultant's OS"
 ---
 
-*A professional operating system for solving problems, delivering work, and creating impact—in recruiting and in client engagements.*
+*A professional operating system for solving problems, delivering work, and creating impact, both in recruiting and in client engagements.*
 
 ## What is the Consultant's OS?
 
@@ -14,6 +14,43 @@ This course teaches you *The Consultant's OS* and you will apply it to two conte
 2. **Delivering real impact** by building consulting proposals and pitch decks using outside-in analysis
 
 The same OS that helps you structure a case interview helps you structure a client recommendation. The same approach that helps you network effectively helps you build trust with stakeholders.
+
+At the heart of the Consultant's OS is structured problem-solving. McKinsey's 7-step process is among the most influential problem-solving frameworks in consulting, and variations of it appear across firms and business schools.
+
+## The McKinsey 7-Step Problem-Solving Process
+
+| Step | Name | Description | OS Imperative |
+|:----:|:-----|:------------|:--------------|
+| 0 | Diagnose the current state | Understand what is happening and why before defining the problem | Think Clearly |
+| 1 | Define the problem | Write a clear, precise problem statement that specifies what decision must be made, under what constraints, and by when | Think Clearly |
+| 2 | Disaggregate the problem | Break the problem into mutually exclusive, collectively exhaustive (MECE) components so the team can work in parallel and think clearly | Think Clearly |
+| 3 | Prioritize the issues | Focus on the branches that matter most: those with the biggest impact and that are realistically changeable | Think Clearly |
+| 4 | Develop a work plan | Decide what analyses to run, who will do them, how deep to go, and on what timeline (with iteration built in) | Move Work Forward |
+| 5 | Conduct the analysis | Start with simple heuristics and descriptive statistics, then move to deeper analysis as needed; constantly test assumptions | Get to the Right Answer |
+| 6 | Synthesize the findings | Integrate results into a coherent, insight-driven answer (not just analysis), clearly addressing "What should we do?" | Get to the Right Answer / Create Impact |
+| 7 | Communicate and motivate action | Tell a compelling story, acknowledge uncertainty, and drive alignment so the organization actually acts on the recommendation | Create Impact with People |
+
+Throughout this course, we build on the 7-step process. Core actions aligned to specific steps are annotated with **(0)** through **(7)**.
+
+But problem-solving is only part of the story. The Consultant's OS extends beyond analytical rigor to include the professional behaviors that turn good analysis into real impact: owning your work, navigating ambiguity, building trust, and communicating with clarity. These capabilities are what separate consultants who deliver insight from those who drive change.
+
+Two foundational concepts appear throughout the Consultant's OS: the Pyramid Principle for communication and MECE for structure. You'll see these referenced with symbols in the core actions.
+
+## The Pyramid Principle
+
+The Pyramid Principle, developed by Barbara Minto at McKinsey, is a communication framework that structures ideas top-down: **lead with the answer, then support it with evidence**. Instead of building to a conclusion, you state your recommendation first, then group supporting arguments into logical clusters. This approach respects your audience's time, makes your logic transparent, and ensures your message lands even if the conversation gets cut short. Every slide, email, and verbal update in consulting follows this pattern.
+
+### MECE (Mutually Exclusive, Collectively Exhaustive)
+
+MECE is the gold standard for structuring problems. **Mutually Exclusive** means categories don't overlap, so each item belongs in exactly one bucket. **Collectively Exhaustive** means the categories cover everything, so nothing falls through the cracks. When you build an issue tree, segment a market, or structure a case, MECE ensures you've carved the problem into clean, complete pieces. If your structure isn't MECE, you'll either double-count (overlapping) or miss something important (gaps). Being perfectly MECE isn't always possible, but striving for it forces clarity and exposes flaws in your thinking.
+
+## Symbol Legend
+
+| Symbol | Meaning |
+|:-------|:--------|
+| **(n)** | McKinsey 7-Step Problem-Solving Process step number |
+| 🔺 | Pyramid Principle (top-down, answer-first logic) |
+| ◯ ◯ | MECE / Venn logic (complete, non-overlapping structure) |
 
 ## The Four Imperatives
 
@@ -31,53 +68,53 @@ Each imperative contains specific **core actions** that describe the concrete be
 ### 1. Think Clearly
 **Guiding Question:** Are we solving the right problem in the right way?
 
-| Core Action | Toolkit Component |
-|:------------|:------------------|
-| Diagnose the current state to understand what is happening and why **(0)** 🔺 | Structured Problem-Solving |
-| Define the problem (the gap between the current state and the desired state) **(1)** 🔺 | Structured Problem-Solving |
-| Frame the problem: articulate the decision set for closing the gap and commit to success criteria, constraints, trade-offs, and what is in vs. out of scope **(1)** 🔺 | Structured Problem-Solving |
-| State a provisional Day-1 hypothesis about which decision to make 🔺 | Structured Problem-Solving |
-| Articulate explicit "what would have to be true" hypotheses for that decision to succeed **(3)** 🔺 | Structured Problem-Solving |
-| Disaggregate those hypotheses into MECE issues designed to test them efficiently **(2)** ◯ ◯ | Structured Problem-Solving |
-| Prioritize decision-critical issues and hypotheses based on likelihood of changing the decision and magnitude of impact **(3)** ◯ ◯ | Structured Problem-Solving |
-| Explicitly exclude questions and analyses that would not change the decision | Structured Problem-Solving |
+| Core Action | Description | Toolkit |
+|:------------|:------------|:--------|
+| Diagnose the Current State **(0)** 🔺 | Understand what's happening and why | Structured Problem-Solving |
+| Define the Problem **(1)** 🔺 | Identify the gap between current and desired state | Structured Problem-Solving |
+| Frame the Problem **(1)** 🔺 | Articulate the decision set, constraints, and scope | Structured Problem-Solving |
+| State a Day-1 Hypothesis 🔺 | Form a provisional view about which decision to make | Structured Problem-Solving |
+| Articulate "What Would Have to Be True" **(3)** 🔺 | Make your critical assumptions explicit and testable | Structured Problem-Solving |
+| Disaggregate into MECE Issues **(2)** ◯ ◯ | Break hypotheses into non-overlapping, comprehensive components | Structured Problem-Solving |
+| Prioritize by Decision Impact **(3)** ◯ ◯ | Focus on what would actually change the answer | Structured Problem-Solving |
+| Exclude Non-Decision Questions | Know what NOT to analyze | Structured Problem-Solving |
 
 ### 2. Get to the Right Answer
 **Guiding Question:** What do the facts and data actually say?
 
-| Core Action | Toolkit Component |
-|:------------|:------------------|
-| Design analyses to confirm or falsify priority "must-be-true" hypotheses **(5)** 🔺 | Analytics & Modeling |
-| Build an outside-in fact base using best-available data **(5)** | Analytics & Modeling |
-| State assumptions explicitly and identify appropriate proxies **(5)** ◯ ◯ | Analytics & Modeling |
-| Perform back-of-the-envelope calculations to bound answers **(5)** | Analytics & Modeling |
-| Build models and run sensitivities to understand drivers, uncertainty, and risk **(5)** ◯ ◯ | Analytics & Modeling |
-| Synthesize analytical results into clear answers to the decision **(6)** 🔺 | Clear Communication |
+| Core Action | Description | Toolkit |
+|:------------|:------------|:--------|
+| Design Hypothesis-Testing Analyses **(5)** 🔺 | Build analyses that will prove or disprove critical assumptions | Analytics & Modeling |
+| Build an Outside-In Fact Base **(5)** | Gather external data before relying on internal opinions | Analytics & Modeling |
+| State Assumptions Explicitly **(5)** ◯ ◯ | Make your assumptions visible and find good proxies | Analytics & Modeling |
+| Bound Answers with Quick Math **(5)** | Establish reasonable ranges before building complex models | Analytics & Modeling |
+| Build Models and Run Sensitivities **(5)** ◯ ◯ | Test how sensitive outcomes are to key assumptions | Analytics & Modeling |
+| Synthesize into Clear Answers **(6)** 🔺 | Climb from data to insight to recommendation | Clear Communication |
 
 ### 3. Move Work Forward
 **Guiding Question:** Is the work actually progressing toward a decision?
 
-| Core Action | Toolkit Component |
-|:------------|:------------------|
-| Translate prioritized hypotheses into a concrete, decision-oriented workplan with milestones **(4)** 🔺 | Workstream Ownership |
-| Own a workstream end-to-end, from decision-relevant question to answer | Workstream Ownership |
-| Sequence work to deliver insight early and reduce decision risk | Workstream Ownership |
-| Reprioritize tasks dynamically as new information changes the decision outlook | Workstream Ownership |
-| Identify risks, dependencies, and bottlenecks before they stall progress | Workstream Ownership |
-| Manage up with concise updates that surface implications for the decision | Workstream Ownership |
-| Advance the work using best-available information, without waiting for certainty | Tolerance for Ambiguity |
+| Core Action | Description | Toolkit |
+|:------------|:------------|:--------|
+| Create a Workplan **(4)** 🔺 | Convert structured thinking into owners, deliverables, and deadlines | Workstream Ownership |
+| Own Your Workstream | Take full responsibility from question to answer | Workstream Ownership |
+| Sequence for Early Insight | Generate useful findings as early as possible | Workstream Ownership |
+| Reprioritize Dynamically | Adapt to new information without losing momentum | Workstream Ownership |
+| Anticipate Risks and Bottlenecks | Identify problems before they become crises | Workstream Ownership |
+| Manage Up | Surface what your manager needs to know | Workstream Ownership |
+| Move Without Certainty | Progress with best-available information | Tolerance for Ambiguity |
 
 ### 4. Create Impact with People
 **Guiding Question:** Do people understand, trust, and act on this work?
 
-| Core Action | Toolkit Component |
-|:------------|:------------------|
-| Craft a storyline that links insights to the decision and its implications **(6)** 🔺 | Clear Communication |
-| Communicate recommendations with clear logic, explicit trade-offs, and executive-level brevity **(7)** 🔺 | Clear Communication |
-| Tailor messages to senior audiences and stakeholder concerns **(7)** 🔺 | Client Hands |
-| Build trust by demonstrating judgment, reliability, and empathy | Client Hands |
-| Coordinate effectively across team members to present a unified decision narrative | Teamwork & Collaboration |
-| Actively solicit feedback and adjust thinking and output in response | Coachability |
+| Core Action | Description | Toolkit |
+|:------------|:------------|:--------|
+| Craft a Storyline **(6)** 🔺 | Build a narrative arc from situation to recommendation | Clear Communication |
+| Communicate with Executive Brevity **(7)** 🔺 | Lead with the answer, support with evidence | Clear Communication |
+| Tailor to Stakeholders **(7)** 🔺 | Different audiences need different messages | Client Hands |
+| Build Trust | Demonstrate judgment, reliability, and empathy | Client Hands |
+| Coordinate as a Team | Present with consistent messaging and smooth handoffs | Teamwork & Collaboration |
+| Seek Feedback | Constantly improve through input from others | Coachability |
 
 ## The Eight Toolkit Components
 
@@ -122,39 +159,6 @@ For each core action, you'll see how it applies to:
 
 - **Job search**: How this action helps you land an offer
 - **Client work**: How this action helps you deliver impact
-
-## The McKinsey 7-Step Problem-Solving Process
-
-The OS core actions include but extend beyond McKinsey's classic 7-step problem-solving process:
-
-| Step | Name | Description | OS Imperative |
-|:----:|:-----|:------------|:--------------|
-| 0 | Diagnose the current state | Understand what is happening and why before defining the problem | Think Clearly |
-| 1 | Define the problem | Write a clear, precise problem statement that specifies what decision must be made, under what constraints, and by when | Think Clearly |
-| 2 | Disaggregate the problem | Break the problem into mutually exclusive, collectively exhaustive (MECE) components so the team can work in parallel and think clearly | Think Clearly |
-| 3 | Prioritize the issues | Focus on the branches that matter most—those with the biggest impact and that are realistically changeable | Think Clearly |
-| 4 | Develop a work plan | Decide what analyses to run, who will do them, how deep to go, and on what timeline (with iteration built in) | Move Work Forward |
-| 5 | Conduct the analysis | Start with simple heuristics and descriptive statistics, then move to deeper analysis as needed; constantly test assumptions | Get to the Right Answer |
-| 6 | Synthesize the findings | Integrate results into a coherent, insight-driven answer—not just analysis—clearly addressing "What should we do?" | Get to the Right Answer / Create Impact |
-| 7 | Communicate and motivate action | Tell a compelling story, acknowledge uncertainty, and drive alignment so the organization actually acts on the recommendation | Create Impact with People |
-
-Throughout this course, core actions aligned to these steps are annotated with **(0)** through **(7)**.
-
-## Symbols Used in This Course
-
-| Symbol | Meaning |
-|:-------|:--------|
-| **(n)** | McKinsey 7-Step Problem-Solving Process step number |
-| 🔺 | Pyramid Principle (top-down, answer-first logic) |
-| ◯ ◯ | MECE / Venn logic (complete, non-overlapping structure) |
-
-**🔺 The Pyramid Principle**
-
-The Pyramid Principle, developed by Barbara Minto at McKinsey, is a communication framework that structures ideas top-down: **lead with the answer, then support it with evidence**. Instead of building to a conclusion, you state your recommendation first, then group supporting arguments into logical clusters. This approach respects your audience's time, makes your logic transparent, and ensures your message lands even if the conversation gets cut short. Every slide, email, and verbal update in consulting follows this pattern.
-
-**◯ ◯ MECE (Mutually Exclusive, Collectively Exhaustive)**
-
-MECE is the gold standard for structuring problems. **Mutually Exclusive** means categories don't overlap—each item belongs in exactly one bucket. **Collectively Exhaustive** means the categories cover everything—nothing falls through the cracks. When you build an issue tree, segment a market, or structure a case, MECE ensures you've carved the problem into clean, complete pieces. If your structure isn't MECE, you'll either double-count (overlapping) or miss something important (gaps).
 
 ## Your OS Starts Now
 

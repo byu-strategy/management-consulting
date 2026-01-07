@@ -106,7 +106,7 @@ Try these starter exercises:
 
 ### The 80/20 Rule
 
-AI can get you 80% of the way quickly. The last 20%—judgment, nuance, client context—is where you add value. Never outsource your thinking entirely.
+AI can get you 80% of the way quickly. The last 20%, including judgment, nuance, and client context, is where you add value. Never outsource your thinking entirely.
 
 ## Weekly AI Integration
 

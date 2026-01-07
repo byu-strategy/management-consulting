@@ -12,16 +12,22 @@ format:
 *WINTER 2026*
 
 **Instructor:** Scott Murff
+
 **TAs:** Carson Fellows, Tatum Frazier, Ambrose Aggabao, EJ Smith, Grant Hill, Avery Pate, Grace Dyer
+
 **Case Coach:** David Fillmore
-**Class Time:** Tuesday/Thursday 9:30 – 10:45 AM
-**Class Location:** TBD
+
+**Class Time:** Tuesday/Thursday 12:30 – 1:45 PM
+
+**Class Location:** W240
+
 **Office Hours:** TBD
+
 **LMS:** LearningSuite
 
 ## Course Overview
 
-Welcome to *Intro to Management Consulting* (STRAT 325). This course teaches you the **Consultant's OS**—the professional operating system that drives success at top-tier consulting firms and beyond.
+Welcome to *Intro to Management Consulting* (STRAT 325). This course teaches you the **Consultant's OS**, the professional operating system that drives success at top-tier consulting firms and beyond.
 
 You'll apply this OS to two course goals:
 
@@ -49,7 +55,7 @@ By the end of this course, you will develop proficiency in eight core areas:
 
 ### AI as Your Operating System
 
-AI is not a separate topic—it's how you'll apply every skill in this course. From Week 2, you'll learn to use AI tools (Claude, VS Code/Cursor) to accelerate your research, analysis, and communication. Every project expects AI-assisted work.
+AI is not a separate topic. It's how you'll apply every skill in this course. From Week 2, you'll learn to use AI tools (Claude, VS Code/Cursor) to accelerate your research, analysis, and communication. Every project expects AI-assisted work.
 
 ## Learning Outcomes
 
@@ -69,7 +75,7 @@ See the [full schedule](00-schedule.qmd) for weekly topics, reading quizzes, and
 
 ## Client Work Projects
 
-Projects are progressive—each builds on the last:
+Projects are progressive, and each builds on the last:
 
 | Project | Due | Scope | Team | Deliverable |
 |---------|-----|-------|------|-------------|
@@ -194,7 +200,7 @@ I teach in a conversational style that includes cold calling. If you'd rather I 
 
 ### Mission and Aims
 
-The mission of Brigham Young University—founded, supported, and guided by The Church of Jesus Christ of Latter-day Saints—is to assist individuals in their quest for perfection and eternal life.
+The mission of Brigham Young University, founded, supported, and guided by The Church of Jesus Christ of Latter-day Saints, is to assist individuals in their quest for perfection and eternal life.
 
 BYU seeks to develop students of faith, intellect, and character who have the skills and the desire to continue learning and to serve others throughout their lives.
 

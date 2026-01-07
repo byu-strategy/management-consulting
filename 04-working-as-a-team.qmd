@@ -2,7 +2,7 @@
 title: "Working as a Team"
 ---
 
-Before diving into consulting content, we need to establish how we'll work together. At McKinsey, every engagement begins with a "team launch"—a session where team members align on norms, roles, and working styles. We'll do the same.
+Before diving into consulting content, we need to establish how we'll work together. At top consulting firms, every engagement begins with a "team launch," a session where team members align on norms, roles, and working styles. We'll do the same.
 
 ## Why Teaming Matters
 
@@ -55,7 +55,7 @@ We'll hold ourselves to the same standard:
 
 ## Working Styles
 
-People work differently. Understanding your style—and your teammates' styles—reduces friction.
+People work differently. Understanding your style, and your teammates' styles, reduces friction.
 
 ### Common Style Dimensions
 
@@ -90,13 +90,13 @@ On an engagement, common roles include:
 
 In this class:
 
-- Your **TA** is like an EM—guiding, coaching, not doing your work
-- **You** are like an Associate—owning your workstream end-to-end
+- Your **TA** is like an EM: guiding, coaching, not doing your work
+- **You** are like an Associate: owning your workstream end-to-end
 - On **capstone teams**, you'll rotate leadership responsibilities
 
 ## Giving and Receiving Feedback
 
-Feedback is the engine of improvement. Consultants get feedback constantly—after every client meeting, every deliverable, every presentation.
+Feedback is the engine of improvement. Consultants get feedback constantly: after every client meeting, every deliverable, every presentation.
 
 ### Giving Feedback
 

@@ -4,19 +4,19 @@ title: "2. Get to the Right Answer"
 
 **Guiding Question:** What do the facts and data actually say?
 
-The second imperative is about finding truth. You've structured the problem—now you need to answer it with evidence, not opinion.
+The second imperative is about finding truth. You've structured the problem, and now you need to answer it with evidence, not opinion.
 
 ## Core Actions
 
-### 2.1 Design analyses to confirm or falsify priority hypotheses **(5)** 🔺
+### 2.1 Design Hypothesis-Testing Analyses **(5)** 🔺
 
-*Toolkit: Analytics & Modeling*
+*Build analyses that will prove or disprove critical assumptions*
 
-Don't just gather data—design specific analyses that will prove or disprove your critical hypotheses.
+Don't just gather data. Design specific analyses that will prove or disprove your critical hypotheses.
 
 | Recruiting Application | Client Work Application |
 |:-----------------------|:------------------------|
-| Design how you'll test your fit for each firm—what specific evidence will you gather? | Design analyses that directly test your "what would have to be true" conditions |
+| Design how you'll test your fit for each firm: what specific evidence will you gather? | Design analyses that directly test your "what would have to be true" conditions |
 
 **Analysis Design Principles:**
 
@@ -25,15 +25,15 @@ Don't just gather data—design specific analyses that will prove or disprove yo
 3. **Consider alternatives**: What would disconfirm your hypothesis?
 4. **Be efficient**: What's the minimum analysis to decide?
 
-### 2.2 Build an outside-in fact base using best-available data **(5)**
+### 2.2 Build an Outside-In Fact Base **(5)**
 
-*Toolkit: Analytics & Modeling*
+*Gather external data before relying on internal opinions*
 
 Gather facts from external sources before relying on internal opinions. Public information reveals a lot.
 
 | Recruiting Application | Client Work Application |
 |:-----------------------|:------------------------|
-| Research firms, roles, and people before outreach—know who you're talking to | Build a fact base from filings, news, competitor data, industry reports |
+| Research firms, roles, and people before outreach so you know who you're talking to | Build a fact base from filings, news, competitor data, industry reports |
 
 **Outside-In Sources:**
 
@@ -56,9 +56,9 @@ $$Trust = \frac{Credibility + Reliability + Intimacy}{Self\text{-}Orientation}$$
 - **Intimacy**: Can they be vulnerable with you?
 - **Self-Orientation**: Are you in it for you or them?
 
-### 2.3 State assumptions explicitly and identify appropriate proxies **(5)** ◯ ◯
+### 2.3 State Assumptions Explicitly **(5)** ◯ ◯
 
-*Toolkit: Analytics & Modeling*
+*Make your assumptions visible and find good proxies*
 
 You never have perfect data. Make your assumptions explicit so others can evaluate them.
 
@@ -74,15 +74,15 @@ You never have perfect data. Make your assumptions explicit so others can evalua
 - Identify which assumptions matter most (sensitivity)
 - Find proxies: "We don't have X, but Y is a reasonable proxy because..."
 
-### 2.4 Perform back-of-envelope calculations to bound answers **(5)**
+### 2.4 Bound Answers with Quick Math **(5)**
 
-*Toolkit: Analytics & Modeling*
+*Establish reasonable ranges before building complex models*
 
 Before building complex models, do quick math to establish reasonable ranges.
 
 | Recruiting Application | Client Work Application |
 |:-----------------------|:------------------------|
-| Case interviews: market sizing, estimation problems | Bound the answer before diving deep—is this a $10M or $10B opportunity? |
+| Case interviews: market sizing, estimation problems | Bound the answer before diving deep: is this a $10M or $10B opportunity? |
 
 **Market Sizing Framework:**
 
@@ -100,9 +100,9 @@ Before building complex models, do quick math to establish reasonable ranges.
 - Cups per day: ~2 = ~2M cups/day
 - Add commuters/tourists: +50% = ~3M cups/day
 
-### 2.5 Build models and run sensitivities **(5)** ◯ ◯
+### 2.5 Build Models and Run Sensitivities **(5)** ◯ ◯
 
-*Toolkit: Analytics & Modeling*
+*Test how sensitive outcomes are to key assumptions*
 
 When more rigor is needed, build structured models and test how sensitive outcomes are to key assumptions.
 
@@ -118,9 +118,9 @@ When more rigor is needed, build structured models and test how sensitive outcom
 4. **Highlight key drivers**: What moves the needle?
 5. **Run sensitivities**: What if assumptions are wrong?
 
-### 2.6 Synthesize analytical results into clear answers to the decision **(6)** 🔺
+### 2.6 Synthesize into Clear Answers **(6)** 🔺
 
-*Toolkit: Clear Communication*
+*Climb from data to insight to recommendation*
 
 Analysis isn't done until you've answered the question. "So what?" is the most important question.
 

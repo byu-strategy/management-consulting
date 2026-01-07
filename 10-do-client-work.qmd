@@ -2,7 +2,7 @@
 title: "Do Client Work"
 ---
 
-This chapter brings together everything in the Consultant's OS as it applies to client work. Through your projects this semester, you'll practice being a consultant—not just learning about consulting.
+This chapter brings together everything in the Consultant's OS as it applies to client work. Through your projects this semester, you'll practice being a consultant, not just learning about consulting.
 
 ## The Consulting OS in Practice
 
@@ -41,7 +41,7 @@ Clients pay for:
 
 ### What You're Simulating
 
-A quick outside-in assessment—the kind you'd do in the first week of an engagement to understand the client's situation.
+A quick outside-in assessment, the kind you'd do in the first week of an engagement to understand the client's situation.
 
 ### OS Application
 
@@ -65,7 +65,7 @@ Your diagnostic should answer:
 
 ### What You're Simulating
 
-A competitive analysis—comparing your target company to peers to identify strengths, weaknesses, and opportunities.
+A competitive analysis, comparing your target company to peers to identify strengths, weaknesses, and opportunities.
 
 ### OS Application
 
@@ -88,7 +88,7 @@ Your benchmark should include:
 
 ### What You're Simulating
 
-Opportunity identification—proposing where a consulting engagement could add value.
+Opportunity identification, proposing where a consulting engagement could add value.
 
 ### OS Application
 
@@ -113,7 +113,7 @@ Your value-add should include:
 
 ### What You're Simulating
 
-A full consulting proposal—the kind you'd present to a CEO or board at the end of an engagement.
+A full consulting proposal, the kind you'd present to a CEO or board at the end of an engagement.
 
 ### OS Application
 
@@ -218,4 +218,4 @@ When you land the job, your first engagement will feel fast. Here's what to expe
 | **6-7** | Synthesis, storyline development |
 | **8** | Steering committee prep, presentation |
 
-You'll be ready—because you'll have practiced the OS all semester.
+You'll be ready because you'll have practiced the OS all semester.

@@ -120,12 +120,12 @@ Case practice is essential preparation for consulting interviews. The recommende
 ::: {.callout-note}
 ## Important Academic Dates
 
-- **Jan 8**: First day of classes (Wed) — first T/Th class is Jan 9
+- **Jan 8**: First day of classes (Wed), first T/Th class is Jan 9
 - **Jan 15**: Last day to add/drop without a "W"
-- **Jan 20**: Martin Luther King Jr. Day (Monday holiday) — does not affect T/Th class
+- **Jan 20**: Martin Luther King Jr. Day (Monday holiday), does not affect T/Th class
 - **Feb 12**: Withdraw deadline (1st term)
-- **Feb 17**: Presidents Day (Monday holiday) — does not affect T/Th class
-- **Feb 18**: Monday Instruction — T/Th class does NOT meet
+- **Feb 17**: Presidents Day (Monday holiday), does not affect T/Th class
+- **Feb 18**: Monday Instruction, T/Th class does NOT meet
 - **Apr 15**: Last T/Th class; Capstone Presentations
 - **Apr 16**: Last day of classes
 :::

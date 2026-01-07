@@ -8,11 +8,11 @@ The fourth imperative is where consulting becomes real. Your analysis only creat
 
 ## Core Actions
 
-### 4.1 Craft a storyline that links insights to the decision **(6)** 🔺
+### 4.1 Craft a Storyline **(6)** 🔺
 
-*Toolkit: Clear Communication*
+*Build a narrative arc from situation to recommendation*
 
-Don't just present findings—tell a story that leads logically to your recommendation.
+Don't just present findings. Tell a story that leads logically to your recommendation.
 
 | Recruiting Application | Client Work Application |
 |:-----------------------|:------------------------|
@@ -46,9 +46,9 @@ Start with the answer, then support it with evidence.
 - **D**ifferentiation: What made your approach unique?
 - **E**vidence: Quantify where possible
 
-### 4.2 Communicate with clear logic, explicit trade-offs, and executive brevity **(7)** 🔺
+### 4.2 Communicate with Executive Brevity **(7)** 🔺
 
-*Toolkit: Clear Communication*
+*Lead with the answer, support with evidence*
 
 Executives are busy. Communicate with clarity and concision.
 
@@ -76,9 +76,9 @@ Executives are busy. Communicate with clarity and concision.
 
 If you were interrupted after 30 seconds, would they know your main point? Structure every communication so the answer comes first.
 
-### 4.3 Tailor messages to senior audiences and stakeholder concerns **(7)** 🔺
+### 4.3 Tailor to Stakeholders **(7)** 🔺
 
-*Toolkit: Client Hands*
+*Different audiences need different messages*
 
 Different audiences need different messages. Know your stakeholders.
 
@@ -102,9 +102,9 @@ Different audiences need different messages. Know your stakeholders.
 3. Frame recommendations in their terms
 4. Address objections before they're raised
 
-### 4.4 Build trust by demonstrating judgment, reliability, and empathy
+### 4.4 Build Trust
 
-*Toolkit: Client Hands*
+*Demonstrate judgment, reliability, and empathy*
 
 Trust is the foundation of influence. Without it, even perfect analysis fails.
 
@@ -125,9 +125,9 @@ $$Trust = \frac{Credibility + Reliability + Intimacy}{Self\text{-}Orientation}$$
 | **Intimacy** | Listen; remember personal details; be human |
 | **Low Self-Orientation** | Focus on their success, not your credit |
 
-### 4.5 Prewire stakeholders before formal presentations
+### 4.5 Prewire Stakeholders
 
-*Toolkit: Client Hands*
+*Never surprise decision-makers in a meeting*
 
 Never surprise stakeholders in a meeting. Prewire your recommendations.
 
@@ -143,9 +143,9 @@ Never surprise stakeholders in a meeting. Prewire your recommendations.
 4. **Build support**: Convert skeptics before the room
 5. **No surprises**: Everyone should know what's coming
 
-### 4.6 Navigate difficult conversations and deliver hard messages constructively
+### 4.6 Navigate Difficult Conversations
 
-*Toolkit: Client Hands*
+*Deliver hard messages constructively*
 
 Sometimes you have to tell people things they don't want to hear.
 
@@ -161,11 +161,11 @@ Sometimes you have to tell people things they don't want to hear.
 
 **Example:**
 
-- "I understand you've invested heavily in this product line (Yes). The data shows it's not recovering—we recommend sunsetting it (No). This frees resources to invest in your highest-growth segments (Yes)."
+- "I understand you've invested heavily in this product line (Yes). The data shows it's not recovering, so we recommend sunsetting it (No). This frees resources to invest in your highest-growth segments (Yes)."
 
-### 4.7 Coordinate effectively across team members to present a unified narrative
+### 4.7 Coordinate as a Team
 
-*Toolkit: Teamwork & Collaboration*
+*Present with consistent messaging and smooth handoffs*
 
 In consulting, you rarely present alone. Teams must be aligned.
 
@@ -180,9 +180,9 @@ In consulting, you rarely present alone. Teams must be aligned.
 3. **Support each other**: No contradictions or surprises
 4. **One voice**: Consistent framing and recommendations
 
-### 4.8 Actively solicit feedback and adjust
+### 4.8 Seek Feedback
 
-*Toolkit: Coachability*
+*Constantly improve through input from others*
 
 The best consultants constantly improve through feedback.
 
@@ -212,7 +212,7 @@ The Create Impact actions flow:
 Craft Storyline → Communicate Clearly → Tailor to Stakeholders → Build Trust → Prewire → Handle Hard Conversations → Coordinate → Seek Feedback
 ```
 
-This is where consulting becomes influence—and where careers are made.
+This is where consulting becomes influence, and where careers are made.
 
 ## Practice This Week
 

@@ -2,7 +2,7 @@
 title: "What is Consulting?"
 ---
 
-Understanding the consulting industry—its history, major players, and what consultants actually do—helps you make informed decisions about where to focus your recruiting efforts and how to position yourself effectively.
+Understanding the consulting industry, its history, major players, and what consultants actually do, helps you make informed decisions about where to focus your recruiting efforts and how to position yourself effectively.
 
 ## What Consultants Actually Do
 
@@ -150,7 +150,7 @@ Boutique consultancies offer deep expertise in specific industries or functional
 | **Prestige** | Highest | High | Varies (top boutiques very prestigious) |
 | **Compensation** | Highest | Competitive | Varies widely |
 | **Work-Life Balance** | Most demanding | Generally better | Varies by firm |
-| **Exit Opportunities** | C-suite, PE | Corporate functions | Industry-specific roles |
+| **Exit Opportunities** | Big Tech, PE | Corporate functions | Industry-specific roles |
 | **Project Types** | CEO-level strategy | Implementation & tech | Specialized domains |
 
 ## Finding Your Fit
@@ -162,17 +162,17 @@ As you research firms, consider:
 3. **What exit opportunities matter?** Tech? Private equity? Industry leadership?
 4. **What lifestyle trade-offs are you willing to make?** Hours, travel, compensation?
 
-There's no universally "best" firm—the best firm is the one that aligns with your goals, values, and working style.
+There's no universally "best" firm. The best firm is the one that aligns with your goals, values, and working style.
 
 ## Beyond "MBB or Bust"
 
 A common trap in consulting recruiting is the "MBB or bust" mentality. Let's put some numbers in perspective:
 
-**The math is humbling.** McKinsey, BCG, and Bain each typically hire about 3 students per year from BYU—and that's from the entire university, all majors combined. That means roughly 9 MBB spots total. With hundreds of qualified candidates competing, landing an MBB offer involves significant luck alongside preparation and fit.
+**The math is humbling.** McKinsey, BCG, and Bain each typically hire about 3 students per year from BYU, and that's from the entire university, all majors combined. That means roughly 9 MBB spots total. With hundreds of qualified candidates competing, landing an MBB offer involves significant luck alongside preparation and fit.
 
-**MBB isn't now-or-never.** Many successful MBB consultants didn't start there. Common paths include excelling at a Big Four firm, boutique, or in industry for 2-3 years and then lateraling into MBB—or returning to business school and recruiting for MBB as a post-MBA candidate. If MBB is your long-term goal, an initial role elsewhere isn't a detour—it's building the experience and skills that make you a stronger candidate later.
+**MBB isn't now-or-never.** Many successful MBB consultants didn't start there. Common paths include excelling at a Big Four firm, boutique, or in industry for 2-3 years and then lateraling into MBB, or returning to business school and recruiting for MBB as a post-MBA candidate. If MBB is your long-term goal, an initial role elsewhere isn't a detour. It's building the experience and skills that make you a stronger candidate later.
 
-**MBB tenure is often short by design.** The "up or out" culture at MBB firms means average tenure is just 2-4 years, with roughly 40% of consultants leaving within their first two years. The intensity is the point—these firms are designed to be career accelerators, not career destinations for most. By contrast, many boutique and Big Four practices offer paths to longer tenures without the same relentless pressure, allowing you to build deep expertise and sustainable careers over 5-10+ years.
+**MBB tenure is often short by design.** The "up or out" culture at MBB firms means average tenure is just 2-4 years, with roughly 40% of consultants leaving within their first two years. The intensity is the point: these firms are designed to be career accelerators, not career destinations for most. By contrast, many boutique and Big Four practices offer paths to longer tenures without the same relentless pressure, allowing you to build deep expertise and sustainable careers over 5-10+ years.
 
 **Other firms may be a better fit.** Consider what you actually want from your career and life:
 
@@ -182,7 +182,7 @@ A common trap in consulting recruiting is the "MBB or bust" mentality. Let's put
 
 Many boutique and Big Four firms offer excellent work, strong compensation, and more sustainable lifestyles. A firm where you can thrive, grow, and maintain balance may serve your long-term career better than burning out at a more "prestigious" option.
 
-**Don't let prestige distort your judgment.** The consulting industry is vast. BYU students have placed at 30+ firms, each offering meaningful work and strong career trajectories. Cast a wide net, stay open-minded, and optimize for fit—not just brand name.
+**Don't let prestige distort your judgment.** The consulting industry is vast. BYU students have placed at 30+ firms, each offering meaningful work and strong career trajectories. Cast a wide net, stay open-minded, and optimize for fit, not just brand name.
 
 ## Recruiting Timeline
 
