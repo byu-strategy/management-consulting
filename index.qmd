@@ -27,7 +27,7 @@ format:
 
 ## Course Overview
 
-Welcome to *Intro to Management Consulting* (STRAT 325). This course teaches you the **Consultant's OS**, the professional operating system that drives success at top-tier consulting firms and beyond.
+Welcome to *Intro to Management Consulting* (STRAT 325). This course teaches you *The Consultant's OS*, a professional operating system that drives success at top-tier consulting firms and beyond.
 
 You'll apply this OS to two course goals:
 
@@ -36,7 +36,7 @@ You'll apply this OS to two course goals:
 | **Land an Offer** | Networking, resume, case interviews, behavioral stories | Secure a consulting internship |
 | **Build the Skills** | Company analysis, competitive benchmarking, strategic proposals | Deliver real consulting work |
 
-These goals reinforce each other. The same OS that helps you structure a case interview helps you structure a client recommendation. The same approach that builds your networking skills builds trust with stakeholders.
+These goals reinforce each other. The same OS that helps you structure a case interview helps you deliver impactful client work. The same approach that builds your networking skills builds trust with stakeholders.
 
 ### The Consultant Toolkit
 
@@ -175,10 +175,6 @@ Scott holds a Master's degree in Management Science & Engineering from Stanford 
 Recommended readings will be provided through Learning Suite and the course website.
 
 ## Classroom Culture
-
-### Prayer in Class
-
-We begin each class with prayer. Each class member is invited to be voice for the prayer at least once throughout the semester. If you'd rather not be voice for a prayer, please let me know on the first day of class.
 
 ### Laptop Policy
 
