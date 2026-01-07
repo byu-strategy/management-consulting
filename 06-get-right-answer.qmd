@@ -8,7 +8,7 @@ The second imperative is about finding truth. You've structured the problem, and
 
 ## Core Actions
 
-### 2.1 Design Hypothesis-Testing Analyses **(5)** 🔺
+### 2.1 Design Hypothesis-Testing Analyses **(5)** 🔺 {#os-2-1}
 
 *Build analyses that will prove or disprove critical assumptions*
 
@@ -25,7 +25,7 @@ Don't just gather data. Design specific analyses that will prove or disprove you
 3. **Consider alternatives**: What would disconfirm your hypothesis?
 4. **Be efficient**: What's the minimum analysis to decide?
 
-### 2.2 Build an Outside-In Fact Base **(5)**
+### 2.2 Build an Outside-In Fact Base **(5)** {#os-2-2}
 
 *Gather external data before relying on internal opinions*
 
@@ -56,7 +56,7 @@ $$Trust = \frac{Credibility + Reliability + Intimacy}{Self\text{-}Orientation}$$
 - **Intimacy**: Can they be vulnerable with you?
 - **Self-Orientation**: Are you in it for you or them?
 
-### 2.3 State Assumptions Explicitly **(5)** ◯ ◯
+### 2.3 State Assumptions Explicitly **(5)** ◯ ◯ {#os-2-3}
 
 *Make your assumptions visible and find good proxies*
 
@@ -74,7 +74,7 @@ You never have perfect data. Make your assumptions explicit so others can evalua
 - Identify which assumptions matter most (sensitivity)
 - Find proxies: "We don't have X, but Y is a reasonable proxy because..."
 
-### 2.4 Bound Answers with Quick Math **(5)**
+### 2.4 Bound Answers with Quick Math **(5)** {#os-2-4}
 
 *Establish reasonable ranges before building complex models*
 
@@ -100,7 +100,7 @@ Before building complex models, do quick math to establish reasonable ranges.
 - Cups per day: ~2 = ~2M cups/day
 - Add commuters/tourists: +50% = ~3M cups/day
 
-### 2.5 Build Models and Run Sensitivities **(5)** ◯ ◯
+### 2.5 Build Models and Run Sensitivities **(5)** ◯ ◯ {#os-2-5}
 
 *Test how sensitive outcomes are to key assumptions*
 
@@ -118,7 +118,7 @@ When more rigor is needed, build structured models and test how sensitive outcom
 4. **Highlight key drivers**: What moves the needle?
 5. **Run sensitivities**: What if assumptions are wrong?
 
-### 2.6 Synthesize into Clear Answers **(6)** 🔺
+### 2.6 Synthesize into Clear Answers **(6)** 🔺 {#os-2-6}
 
 *Climb from data to insight to recommendation*
 

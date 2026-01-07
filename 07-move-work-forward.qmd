@@ -8,7 +8,7 @@ The third imperative is about execution. Clear thinking and right answers mean n
 
 ## Core Actions
 
-### 3.1 Create a Workplan **(4)** 🔺
+### 3.1 Create a Workplan **(4)** 🔺 {#os-3-1}
 
 *Convert structured thinking into owners, deliverables, and deadlines*
 
@@ -36,7 +36,7 @@ Convert your structured thinking into a concrete plan with owners, deliverables,
 
 Start each day and week with explicit plans.
 
-### 3.2 Own Your Workstream
+### 3.2 Own Your Workstream {#os-3-2}
 
 *Take full responsibility from question to answer*
 
@@ -59,7 +59,7 @@ Take full responsibility for your piece, from question to answer, not just task 
 - Handing off incomplete work
 - Letting things fall through cracks
 
-### 3.3 Sequence for Early Insight
+### 3.3 Sequence for Early Insight {#os-3-3}
 
 *Generate useful findings as early as possible*
 
@@ -76,7 +76,7 @@ Structure your work to generate useful insights as early as possible. Don't save
 3. **Show progress**: Regular updates maintain confidence
 4. **Create options**: Early insights allow course correction
 
-### 3.4 Reprioritize Dynamically
+### 3.4 Reprioritize Dynamically {#os-3-4}
 
 *Adapt to new information without losing momentum*
 
@@ -93,7 +93,7 @@ The plan will change. Good consultants adapt without losing momentum.
 - Constraints shift (timeline, resources, scope)
 - Client feedback redirects focus
 
-### 3.5 Anticipate Risks and Bottlenecks
+### 3.5 Anticipate Risks and Bottlenecks {#os-3-5}
 
 *Identify problems before they become crises*
 
@@ -112,7 +112,7 @@ Anticipate problems before they become crises.
 | **Stakeholder** | Decision-maker changes view | Prewire, get early input |
 | **Technical** | Model doesn't work | Test approach before building |
 
-### 3.6 Manage Up
+### 3.6 Manage Up {#os-3-6}
 
 *Surface what your manager needs to know*
 
@@ -132,7 +132,7 @@ Keep your manager informed with updates that surface what they need to know.
 
 Keep it brief. One page. One minute.
 
-### 3.7 Move Without Certainty
+### 3.7 Move Without Certainty {#os-3-7}
 
 *Progress with best-available information*
 

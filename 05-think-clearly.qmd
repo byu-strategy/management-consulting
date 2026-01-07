@@ -8,7 +8,7 @@ The first imperative is about structuring your thinking before you start working
 
 ## Core Actions
 
-### 1.1 Diagnose the Current State **(0)** 🔺
+### 1.1 Diagnose the Current State **(0)** 🔺 {#os-1-1}
 
 *Understand what's happening and why*
 
@@ -26,7 +26,7 @@ Before defining a problem, you need to understand the current situation. What's 
 3. Ask "why" multiple times to get to root causes
 4. Separate symptoms from underlying issues
 
-### 1.2 Define the Problem **(1)** 🔺
+### 1.2 Define the Problem **(1)** 🔺 {#os-1-2}
 
 *Identify the gap between current and desired state*
 
@@ -48,7 +48,7 @@ A problem is a gap between where you are and where you want to be. A well-define
 - **Weak:** "We need to grow"
 - **Strong:** "Revenue has declined 15% over 2 years while the market grew 5%; we need to identify the root causes and develop a plan to return to market growth rates within 18 months"
 
-### 1.3 Frame the Problem **(1)** 🔺
+### 1.3 Frame the Problem **(1)** 🔺 {#os-1-3}
 
 *Articulate the decision set, constraints, and scope*
 
@@ -66,7 +66,7 @@ Framing means establishing what's in scope vs. out, what success looks like, and
 - What constraints must we work within?
 - Who are the key stakeholders?
 
-### 1.4 State a Day-1 Hypothesis 🔺
+### 1.4 State a Day-1 Hypothesis 🔺 {#os-1-4}
 
 *Form a provisional view about which decision to make*
 
@@ -83,7 +83,7 @@ Don't wait until you have all the facts to form a view. State a hypothesis early
 - Prevents "boiling the ocean" (analyzing everything)
 - Allows you to iterate as you learn
 
-### 1.5 Articulate "What Would Have to Be True" **(3)** 🔺
+### 1.5 Articulate "What Would Have to Be True" **(3)** 🔺 {#os-1-5}
 
 *Make your critical assumptions explicit and testable*
 
@@ -101,7 +101,7 @@ For your hypothesis to be right, certain things must be true. Make these explici
 4. Prioritize: which are most uncertain? Most impactful if wrong?
 5. Design tests for the most critical ones
 
-### 1.6 Disaggregate into MECE Issues **(2)** ◯ ◯
+### 1.6 Disaggregate into MECE Issues **(2)** ◯ ◯ {#os-1-6}
 
 *Break hypotheses into non-overlapping, comprehensive components*
 
@@ -123,7 +123,7 @@ Break down your hypotheses into non-overlapping, comprehensive components.
 - Market = Segment A + Segment B + Segment C
 - Options = Do nothing, Do X, Do Y
 
-### 1.7 Prioritize by Decision Impact **(3)** ◯ ◯
+### 1.7 Prioritize by Decision Impact **(3)** ◯ ◯ {#os-1-7}
 
 *Focus on what would actually change the answer*
 
@@ -139,7 +139,7 @@ Not all issues are equal. Focus on what would change the decision.
 - **Uncertainty**: How confident are we already?
 - **Feasibility**: Can we actually test this?
 
-### 1.8 Exclude Non-Decision Questions
+### 1.8 Exclude Non-Decision Questions {#os-1-8}
 
 *Know what NOT to analyze*
 

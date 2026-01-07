@@ -8,7 +8,7 @@ The fourth imperative is where consulting becomes real. Your analysis only creat
 
 ## Core Actions
 
-### 4.1 Craft a Storyline **(6)** 🔺
+### 4.1 Craft a Storyline **(6)** 🔺 {#os-4-1}
 
 *Build a narrative arc from situation to recommendation*
 
@@ -46,7 +46,7 @@ Start with the answer, then support it with evidence.
 - **D**ifferentiation: What made your approach unique?
 - **E**vidence: Quantify where possible
 
-### 4.2 Communicate with Executive Brevity **(7)** 🔺
+### 4.2 Communicate with Executive Brevity **(7)** 🔺 {#os-4-2}
 
 *Lead with the answer, support with evidence*
 
@@ -76,7 +76,7 @@ Executives are busy. Communicate with clarity and concision.
 
 If you were interrupted after 30 seconds, would they know your main point? Structure every communication so the answer comes first.
 
-### 4.3 Tailor to Stakeholders **(7)** 🔺
+### 4.3 Tailor to Stakeholders **(7)** 🔺 {#os-4-3}
 
 *Different audiences need different messages*
 
@@ -102,7 +102,7 @@ Different audiences need different messages. Know your stakeholders.
 3. Frame recommendations in their terms
 4. Address objections before they're raised
 
-### 4.4 Build Trust
+### 4.4 Build Trust {#os-4-4}
 
 *Demonstrate judgment, reliability, and empathy*
 
@@ -125,7 +125,7 @@ $$Trust = \frac{Credibility + Reliability + Intimacy}{Self\text{-}Orientation}$$
 | **Intimacy** | Listen; remember personal details; be human |
 | **Low Self-Orientation** | Focus on their success, not your credit |
 
-### 4.5 Prewire Stakeholders
+### 4.5 Prewire Stakeholders {#os-4-5}
 
 *Never surprise decision-makers in a meeting*
 
@@ -143,7 +143,7 @@ Never surprise stakeholders in a meeting. Prewire your recommendations.
 4. **Build support**: Convert skeptics before the room
 5. **No surprises**: Everyone should know what's coming
 
-### 4.6 Navigate Difficult Conversations
+### 4.6 Navigate Difficult Conversations {#os-4-6}
 
 *Deliver hard messages constructively*
 
@@ -163,7 +163,7 @@ Sometimes you have to tell people things they don't want to hear.
 
 - "I understand you've invested heavily in this product line (Yes). The data shows it's not recovering, so we recommend sunsetting it (No). This frees resources to invest in your highest-growth segments (Yes)."
 
-### 4.7 Coordinate as a Team
+### 4.7 Coordinate as a Team {#os-4-7}
 
 *Present with consistent messaging and smooth handoffs*
 
@@ -180,7 +180,7 @@ In consulting, you rarely present alone. Teams must be aligned.
 3. **Support each other**: No contradictions or surprises
 4. **One voice**: Consistent framing and recommendations
 
-### 4.8 Seek Feedback
+### 4.8 Seek Feedback {#os-4-8}
 
 *Constantly improve through input from others*
 
