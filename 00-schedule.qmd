@@ -1,0 +1,156 @@
+---
+title: "Schedule"
+editor: visual
+---
+
+Below is the planned daily schedule organized around the **Consultant's OS**. Each week introduces a core operating action and shows how students apply it to both recruiting and client work. Class meets **Tuesday/Thursday 12:30–1:45 PM**. Dates, topics, and assignments may adjust as needed.
+
+## Daily Schedule
+
+### Foundation (Weeks 1-2)
+
+| Day | Date | Quiz | OS Core Action (Original) | Recruiting Simulation | Client Work Simulation | Deliverable |
+|:---:|:-----|:-----|:--------------------------|:----------------------|:-----------------------|:------------|
+| T | Jan 7 | – | **Introduction to the Consultant's OS** | Understand why firms hire and what they evaluate | Understand what consultants deliver and how | – |
+| Th | Jan 9 | – | **Introduction to the Consultant's OS** | Target company research: apply diagnostic lens to firms you want to work for | Target company selection for semester projects | Target Companies |
+| T | Jan 14 | Quiz 1: Consulting Industry | **AI as Operating Amplifier** | Use AI for firm research and networking prep | Introduction to Claude Code | – |
+| Th | Jan 16 | – | **AI as Operating Amplifier** | AI-assisted company research workshop | Claude Code hands-on: analysis workflows | – |
+
+### Think Clearly (Weeks 3-5)
+
+| Day | Date | Quiz | OS Core Action (Original) | Recruiting Simulation | Client Work Simulation | Deliverable |
+|:---:|:-----|:-----|:--------------------------|:----------------------|:-----------------------|:------------|
+| T | Jan 21 | Quiz 2: Problem Definition | **Diagnose the current state to understand what is happening and why (0)** | Diagnose the firm's hiring needs; what do they look for? | Diagnose a company's strategic situation | – |
+| Th | Jan 23 | – | **Diagnose the current state (0)** | Diagnose your current fit gaps; self-assessment | Diagnose root causes: why is performance what it is? | – |
+| T | Jan 28 | Quiz 3: Framing & Hypotheses | **Define the problem: gap between current and desired state (1)** | Define the gap between "you now" and "hireable you" | Define the client's problem: current vs. desired performance | – |
+| Th | Jan 30 | – | **Frame the problem: decision set, constraints, scope (1)** | Frame your recruiting decision set; what's in/out of scope | Frame the client's decision; success criteria and constraints | – |
+| T | Feb 4 | Quiz 4: MECE & Issue Trees | **State a Day-1 hypothesis (3)** | Hypothesize: "I'm the right hire because X, Y, Z" | Hypothesize: "The company should do X because..." | – |
+| Th | Feb 6 | – | **Disaggregate into MECE issues (2-3)** | Structure resume with MECE proof points | Build MECE issue tree to test hypothesis | Resume v1 |
+
+### Get to the Right Answer (Weeks 6-8)
+
+| Day | Date | Quiz | OS Core Action (Original) | Recruiting Simulation | Client Work Simulation | Deliverable |
+|:---:|:-----|:-----|:--------------------------|:----------------------|:-----------------------|:------------|
+| T | Feb 11 | Quiz 5: Outside-In Research | **Build an outside-in fact base using best-available data (5)** | Research firms, roles, and people before outreach | Build fact base from filings, news, competitor data | – |
+| Th | Feb 13 | – | **Build an outside-in fact base (5)** | Networking: Trust Equation; research people before coffee chats | Outside-in research workshop | – |
+| T | Feb 18 | Quiz 6: Market Sizing | **Perform back-of-envelope calculations to bound answers (5)** | Case interviews: market sizing fundamentals | Estimate opportunity sizes; bound strategic answers | – |
+| Th | Feb 20 | – | **State assumptions explicitly; identify proxies (5)** | Case interviews: estimation under pressure | Making assumptions explicit; finding proxies | Resume v2 |
+| T | Feb 25 | Quiz 7: Synthesis | **Synthesize analytical results into clear answers (6)** | Case interviews: driving to a recommendation | Synthesize research into "so what" insights | – |
+| Th | Feb 27 | – | **Synthesize into clear answers (6)** | Case synthesis workshop | P1 workshop: synthesizing your diagnostic | **P1: Diagnostic** |
+
+### Move Work Forward (Weeks 9-10)
+
+| Day | Date | Quiz | OS Core Action (Original) | Recruiting Simulation | Client Work Simulation | Deliverable |
+|:---:|:-----|:-----|:--------------------------|:----------------------|:-----------------------|:------------|
+| T | Mar 4 | Quiz 8: Workplanning | **Translate hypotheses into a workplan with milestones (4)** | Build a recruiting workplan with milestones | Build a project workplan; structure your workstream | – |
+| Th | Mar 6 | – | **Own a workstream end-to-end** | Own your job search from outreach to offer | Own your analysis from question to answer | – |
+| T | Mar 11 | Quiz 9: Working with Ambiguity | **Advance the work without waiting for certainty** | Case interviews: navigating ambiguous prompts | Make analytical calls with incomplete data | – |
+| Th | Mar 13 | – | **Manage up with concise updates** | Update your TA on recruiting progress | P2 workshop: competitive analysis with incomplete data | **P2: Benchmark** |
+
+### Create Impact with People (Weeks 11-14)
+
+| Day | Date | Quiz | OS Core Action (Original) | Recruiting Simulation | Client Work Simulation | Deliverable |
+|:---:|:-----|:-----|:--------------------------|:----------------------|:-----------------------|:------------|
+| T | Mar 18 | Quiz 10: Pyramid Principle | **Craft a storyline that links insights to the decision (6)** | Behavioral stories: PARADE structure | Slide storylines: situation, complication, resolution | – |
+| Th | Mar 20 | – | **Craft a storyline (6)** | PARADE workshop: linking experience to role requirements | Building persuasive slide decks | – |
+| T | Mar 25 | Quiz 11: Executive Communication | **Communicate with clear logic and executive-level brevity (7)** | Behavioral delivery: crisp, confident, 2-minute answers | Present recommendations concisely; lead with the answer | – |
+| Th | Mar 27 | – | **Communicate with brevity (7)** | Behavioral practice session | P3 workshop: executive-level presentations | **P3: Value-Add** |
+| T | Apr 1 | Quiz 12: Stakeholder Management | **Build trust by demonstrating judgment, reliability, empathy** | Fit interviews: demonstrating character and judgment | Building trust with stakeholders | – |
+| Th | Apr 3 | – | **Tailor to stakeholder concerns (7)** | Handling difficult fit questions | Prewiring; navigating concerns; difficult conversations | Behavioral Stories |
+| T | Apr 8 | – | **Actively solicit feedback and adjust** | Mock interview feedback and iteration | Revise deliverables based on input | – |
+| Th | Apr 10 | – | **Coordinate effectively across team members** | – | Capstone team coordination; unified narrative | – |
+
+### Integration (Week 15)
+
+| Day | Date | Quiz | OS Core Action (Original) | Recruiting Simulation | Client Work Simulation | Deliverable |
+|:---:|:-----|:-----|:--------------------------|:----------------------|:-----------------------|:------------|
+| T | Apr 15 | – | **The Full OS in Action** | – | Capstone Presentations (Group 1) | – |
+| Th | Apr 17 | – | **The Full OS in Action** | – | Capstone Presentations (Group 2); Course Wrap-Up | **Capstone** |
+
+---
+
+## Reading Quizzes
+
+Reading quizzes are due at the **start of class on Tuesdays**. They cover the assigned readings for that week's OS concept.
+
+| Quiz | Date | Topic | Reading |
+|:-----|:-----|:------|:--------|
+| Quiz 1 | Jan 14 | Consulting Industry | TBD |
+| Quiz 2 | Jan 21 | Problem Definition | TBD |
+| Quiz 3 | Jan 28 | Framing & Hypotheses | TBD |
+| Quiz 4 | Feb 4 | MECE & Issue Trees | TBD |
+| Quiz 5 | Feb 11 | Outside-In Research | TBD |
+| Quiz 6 | Feb 18 | Market Sizing | TBD |
+| Quiz 7 | Feb 25 | Synthesis | TBD |
+| Quiz 8 | Mar 4 | Workplanning | TBD |
+| Quiz 9 | Mar 11 | Working with Ambiguity | TBD |
+| Quiz 10 | Mar 18 | Pyramid Principle | TBD |
+| Quiz 11 | Mar 25 | Executive Communication | TBD |
+| Quiz 12 | Apr 1 | Stakeholder Management | TBD |
+
+---
+
+## OS Imperatives Summary
+
+| Imperative | Weeks | Core Idea | Recruiting Version | Client Version |
+|:-----------|:-----:|:----------|:-------------------|:---------------|
+| **Think Clearly** | 3-5 | Structure the problem before solving it | Structure your story before telling it | Structure the analysis before researching |
+| **Get to the Right Answer** | 6-8 | Find facts, estimate, synthesize | Research firms/people; case math | Research companies; size opportunities |
+| **Move Work Forward** | 9-10 | Plan, execute, adapt | Manage your recruiting process | Manage your project workstream |
+| **Create Impact** | 11-14 | Communicate so people act | Tell stories that get you hired | Tell stories that move clients |
+
+---
+
+## Key Milestones
+
+| Milestone | Date | Description |
+|:----------|:-----|:------------|
+| Target Companies Selected | Jan 9 | Choose 3-5 companies for semester projects |
+| Goals Chat with TA | Jan 14-16 | 15-minute meeting to establish recruiting goals |
+| AI Workflow Operational | Jan 16 | Claude Code setup complete and integrated into workflow |
+| Resume v1 Complete | Feb 6 | Hypothesis-structured resume with MECE proof points |
+| Resume v2 Complete | Feb 20 | Refined resume with quantified impact |
+| P1: Company Diagnostic | Feb 27 | 1-page outside-in analysis |
+| P2: Competitive Benchmark | Mar 13 | 3-slide competitive comparison |
+| P3: Value-Add Hypothesis | Mar 27 | 5-slide opportunity identification |
+| Behavioral Stories Bank | Apr 3 | 5+ polished PARADE stories ready for interviews |
+| 8-10 Practice Cases | Apr 17 | Logged cases with reflection on improvement |
+| Capstone Presentation | Apr 15-17 | 15-20 slide integrated proposal |
+
+---
+
+## TA Pod Schedule
+
+Throughout the semester, you will meet with your TA pod for:
+
+- **Goals Chat (Week 2 - Jan 14-16)**: 15-minute individual meeting to discuss recruiting goals
+- **Feedback Session 1 (Week 6 - Feb 11-13)**: Progress check on resume and networking
+- **Feedback Session 2 (Week 9 - Mar 4-6)**: Mid-semester check-in, case practice feedback
+- **Feedback Session 3 (Week 11 - Mar 18-20)**: Interview prep assessment
+- **Feedback Session 4 (Week 14 - Apr 8-10)**: Final reflection and next steps before capstone
+
+---
+
+## Case Practice Sessions
+
+Case practice is essential preparation for consulting interviews. The recommended schedule:
+
+| Weeks | OS Phase | Focus | Minimum Cases |
+|:------|:---------|:------|:-------------:|
+| 1-5 | Think Clearly | Observing cases, learning to structure | 1-2 |
+| 6-8 | Get to the Right Answer | Math, estimation, synthesis | 3-4 |
+| 9-10 | Move Work Forward | Full cases with ambiguity | 2-3 |
+| 11-15 | Create Impact | Mock interviews, delivery polish | 2-3 |
+| **Total** | | | **8-12 cases** |
+
+---
+
+::: {.callout-note}
+## Important Dates
+
+- **Jan 14**: Last day to add/drop without a "W"
+- **Feb 11**: Withdraw deadline (1st term)
+- **Jan 20**: No class (Martin Luther King Jr. Day) - Monday holiday, does not affect Tue/Thu class
+- **Feb 17**: No class (Presidents Day) - Monday holiday, does not affect Tue/Thu class
+- **Apr 15-17**: Final Capstone Presentations
+:::

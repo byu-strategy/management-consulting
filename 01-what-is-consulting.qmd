@@ -1,6 +1,28 @@
-# The Consulting Industry Landscape
+---
+title: "What is Consulting?"
+---
 
-Understanding the consulting industry—its history, major players, and current trends—helps you make informed decisions about where to focus your recruiting efforts and how to position yourself effectively.
+Understanding the consulting industry—its history, major players, and what consultants actually do—helps you make informed decisions about where to focus your recruiting efforts and how to position yourself effectively.
+
+## What Consultants Actually Do
+
+At its core, consulting is about helping organizations solve problems they can't solve on their own. This might be because they:
+
+- Lack the expertise (specialized knowledge)
+- Lack the capacity (not enough people)
+- Lack the objectivity (too close to the problem)
+- Need external validation (board/investor credibility)
+
+### The Day-to-Day Reality
+
+A typical week as a junior consultant might include:
+
+- **Monday**: Team kickoff, review workplan, divide analyses
+- **Tuesday-Wednesday**: Build models, conduct research, synthesize findings
+- **Thursday**: Internal team check-in, refine storyline
+- **Friday**: Client working session or steering committee presentation
+
+The work is intellectually demanding, fast-paced, and highly collaborative.
 
 ## The History of Management Consulting
 
@@ -59,7 +81,6 @@ The "MBB" firms represent the pinnacle of strategy consulting, known for their p
   - Known for thought leadership through McKinsey Quarterly and McKinsey Global Institute
   - Alumni network includes numerous CEOs and public sector leaders
   - Pioneered the professional consulting model under Marvin Bower
-- **Notable Work:** Strategic restructuring for Fortune 500 companies, public sector transformation, healthcare system redesign
 
 #### Boston Consulting Group (BCG)
 
@@ -71,7 +92,6 @@ The "MBB" firms represent the pinnacle of strategy consulting, known for their p
   - BCG X focuses on tech build and digital products
   - Strong emphasis on social impact work
   - Known for collaborative, intellectually rigorous culture
-- **Notable Work:** Market entry strategies, portfolio optimization, transformation programs
 
 #### Bain & Company
 
@@ -83,123 +103,28 @@ The "MBB" firms represent the pinnacle of strategy consulting, known for their p
   - Dominant player in private equity consulting
   - Smaller and more selective than McKinsey
   - Strong emphasis on long-term client relationships
-- **Notable Work:** Due diligence for PE firms, performance improvement, customer loyalty strategies
 
 ### The Big Four: Audit Origins, Consulting Power
 
 Originally accounting firms, the Big Four have evolved into massive professional services organizations offering consulting alongside audit, tax, and advisory services.
 
-#### Deloitte
-
-- **Consulting Arm:** Deloitte Consulting
-- **Focus Areas:** Technology implementation, digital transformation, human capital, strategy, operations
-- **Distinctive Features:**
-  - Largest of the Big Four consulting practices
-  - Strong in government and public sector work
-  - Comprehensive end-to-end implementation capabilities
-  - Deloitte Digital competes directly with tech consultancies
-
-#### PwC (PricewaterhouseCoopers)
-
-- **Consulting Arm:** PwC Advisory/Strategy&
-- **Focus Areas:** Deals, technology consulting, risk advisory, digital transformation
-- **Distinctive Features:**
-  - Strategy& (formerly Booz & Company) acquired in 2014 for high-end strategy work
-  - Strong regulatory and compliance consulting
-  - Emphasis on trust and quality in client relationships
-  - Significant presence in financial services
-
-#### EY (Ernst & Young)
-
-- **Consulting Arm:** EY-Parthenon (Strategy), EY Consulting
-- **Focus Areas:** Strategy, transactions, business transformation, technology
-- **Distinctive Features:**
-  - EY-Parthenon acquired in 2014 to strengthen strategy capabilities
-  - Strong in corporate finance and restructuring
-  - Growing digital and analytics practices
-  - Focus on entrepreneurship and innovation ecosystems
-
-#### KPMG
-
-- **Consulting Arm:** KPMG Advisory
-- **Focus Areas:** Risk consulting, management consulting, deal advisory, technology
-- **Distinctive Features:**
-  - Smaller consulting practice compared to other Big Four
-  - Strong in risk, compliance, and regulatory work
-  - Healthcare and financial services expertise
-  - Focus on functional consulting (IT, supply chain, finance)
+| Firm | Consulting Arm | Strengths |
+|------|----------------|-----------|
+| **Deloitte** | Deloitte Consulting | Largest Big Four practice; government, digital |
+| **PwC** | Strategy& | Strategy (via Booz acquisition); financial services |
+| **EY** | EY-Parthenon | Strategy, transactions; corporate finance |
+| **KPMG** | KPMG Advisory | Risk, compliance, regulatory |
 
 ### Boutique Firms: Specialized Excellence
 
-Boutique consultancies offer deep expertise in specific industries or functional areas, often with more personalized service and specialized methodologies.
+Boutique consultancies offer deep expertise in specific industries or functional areas:
 
-#### Strategy Boutiques
-
-**Oliver Wyman**
-
-- Focus: Financial services, aviation, healthcare strategy
-- Distinctive: Quantitative modeling expertise, industry-specific practices
-
-**L.E.K. Consulting**
-
-- Focus: Corporate strategy, M&A, shareholder value
-- Distinctive: Strong analytical foundation, private equity orientation
-
-**Simon-Kucher & Partners**
-
-- Focus: Pricing strategy, marketing, sales optimization
-- Distinctive: World leader in pricing consulting
-
-**Roland Berger**
-
-- Focus: Strategy, particularly in Europe and automotive sector
-- Distinctive: European heritage, restructuring expertise
-
-#### Technology and Digital Boutiques
-
-**ThoughtWorks**
-
-- Focus: Software development, digital transformation, agile practices
-- Distinctive: Social justice mission, developer-centric approach
-
-**West Monroe**
-
-- Focus: Technology implementation, business operations, financial services
-- Distinctive: Strong in technology strategy and execution
-
-#### Operations and Implementation Specialists
-
-**AlixPartners**
-
-- Focus: Turnaround, restructuring, performance improvement
-- Distinctive: Results-driven, interim management services
-
-**FTI Consulting**
-
-- Focus: Corporate finance, restructuring, economic consulting
-- Distinctive: Expert testimony, forensic analysis
-
-**Kearney (A.T. Kearney)**
-
-- Focus: Operations, procurement, supply chain strategy
-- Distinctive: Strong in manufacturing and automotive industries
-
-#### Industry-Specific Boutiques
-
-**ZS Associates**
-
-- Focus: Healthcare, pharmaceuticals, sales force effectiveness
-- Distinctive: Data and analytics heritage, life sciences focus
-
-**Huron Consulting**
-
-- Focus: Healthcare, higher education, commercial sectors
-- Distinctive: Deep expertise in healthcare operations and strategy
-
-**NERA Economic Consulting**
-
-- Focus: Economic and financial analysis, antitrust, regulation
-- Distinctive: PhD economists, litigation support
+| Type | Example Firms | Focus |
+|------|---------------|-------|
+| **Strategy** | Oliver Wyman, L.E.K., Roland Berger | High-end strategy, often industry-specific |
+| **Operations** | Kearney, AlixPartners | Supply chain, turnaround, performance |
+| **Technology** | ThoughtWorks, West Monroe | Digital transformation, implementation |
+| **Industry-Specific** | ZS Associates, Huron | Healthcare, pharma, higher education |
 
 ## Key Differences Across Firm Types
 
@@ -210,7 +135,6 @@ Boutique consultancies offer deep expertise in specific industries or functional
 | **Work-Life Balance** | Most demanding | Generally better | Varies by firm |
 | **Exit Opportunities** | C-suite, PE | Corporate functions | Industry-specific roles |
 | **Project Types** | CEO-level strategy | Implementation & tech | Specialized domains |
-| **Partner Interaction** | Less | Moderate | Often more |
 
 ## Finding Your Fit
 
@@ -223,16 +147,15 @@ As you research firms, consider:
 
 There's no universally "best" firm—the best firm is the one that aligns with your goals, values, and working style.
 
-## Recruiting Timeline for Sophomores
+## Recruiting Timeline
 
-For BYU sophomores targeting summer 2026 internships:
+For BYU sophomores targeting summer 2027 internships:
 
 | Timeline | Activity |
 |----------|----------|
-| **Fall 2025** | Start networking, join MCA, research firms |
-| **Winter 2026** | This course! Resume building, case practice, active networking |
-| **Spring 2026** | Applications open at many firms, continue networking |
-| **Summer 2026** | Peak recruiting season, interviews |
-| **Fall 2026** | Some firms recruit, offers extended |
+| **Fall 2026** | Start networking, join MCA, research firms |
+| **Winter 2027** | This course! Resume building, case practice, active networking |
+| **Spring 2027** | Applications open at many firms, continue networking |
+| **Summer 2027** | Peak recruiting season, interviews |
 
 Early engagement matters. Start networking now, even if applications seem far away.

@@ -1,0 +1,162 @@
+---
+title: "Get to the Right Answer"
+---
+
+**Guiding Question:** What do the facts and data actually say?
+
+The second imperative is about finding truth. You've structured the problem—now you need to answer it with evidence, not opinion.
+
+## Core Actions
+
+### Design analyses to confirm or falsify priority hypotheses **(5)** 🔺
+
+*Toolkit: Analytics & Modeling*
+
+Don't just gather data—design specific analyses that will prove or disprove your critical hypotheses.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Design how you'll test your fit for each firm—what specific evidence will you gather? | Design analyses that directly test your "what would have to be true" conditions |
+
+**Analysis Design Principles:**
+
+1. **Start with the output**: What slide/exhibit will this create?
+2. **Work backward**: What data do you need?
+3. **Consider alternatives**: What would disconfirm your hypothesis?
+4. **Be efficient**: What's the minimum analysis to decide?
+
+### Build an outside-in fact base using best-available data **(5)**
+
+*Toolkit: Analytics & Modeling*
+
+Gather facts from external sources before relying on internal opinions. Public information reveals a lot.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Research firms, roles, and people before outreach—know who you're talking to | Build a fact base from filings, news, competitor data, industry reports |
+
+**Outside-In Sources:**
+
+| Source Type | Examples |
+|:------------|:---------|
+| **Financial** | 10-Ks, earnings transcripts, investor presentations |
+| **News** | Press releases, trade publications, analyst coverage |
+| **Competitive** | Competitor filings, industry reports, market research |
+| **Expert** | Interviews, surveys, published interviews |
+| **Digital** | Web traffic, social sentiment, job postings |
+
+**The Trust Equation for Networking:**
+
+When building relationships (a form of fact-gathering), remember:
+
+$$Trust = \frac{Credibility + Reliability + Intimacy}{Self\text{-}Orientation}$$
+
+- **Credibility**: Do you know what you're talking about?
+- **Reliability**: Do you do what you say?
+- **Intimacy**: Can they be vulnerable with you?
+- **Self-Orientation**: Are you in it for you or them?
+
+### State assumptions explicitly and identify appropriate proxies **(5)** ◯ ◯
+
+*Toolkit: Analytics & Modeling*
+
+You never have perfect data. Make your assumptions explicit so others can evaluate them.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| When estimating in case interviews, state your assumptions clearly | Document all assumptions; find proxies when direct data isn't available |
+
+**Assumption Best Practices:**
+
+- State assumptions at the start of any analysis
+- Distinguish facts from assumptions
+- Use ranges when uncertain
+- Identify which assumptions matter most (sensitivity)
+- Find proxies: "We don't have X, but Y is a reasonable proxy because..."
+
+### Perform back-of-envelope calculations to bound answers **(5)**
+
+*Toolkit: Analytics & Modeling*
+
+Before building complex models, do quick math to establish reasonable ranges.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Case interviews: market sizing, estimation problems | Bound the answer before diving deep—is this a $10M or $10B opportunity? |
+
+**Market Sizing Framework:**
+
+1. **Define what you're sizing**: Be specific
+2. **Choose an approach**: Top-down or bottom-up
+3. **Identify key drivers**: What factors determine the answer?
+4. **Make explicit assumptions**: State them clearly
+5. **Do the math**: Keep it simple, round numbers
+6. **Sanity check**: Does the answer make sense?
+
+**Example: Coffee Cups in Manhattan**
+
+- Population of Manhattan: ~1.6M
+- % who drink coffee: ~60% = ~1M coffee drinkers
+- Cups per day: ~2 = ~2M cups/day
+- Add commuters/tourists: +50% = ~3M cups/day
+
+### Build models and run sensitivities **(5)** ◯ ◯
+
+*Toolkit: Analytics & Modeling*
+
+When more rigor is needed, build structured models and test how sensitive outcomes are to key assumptions.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Case interviews: more complex estimation requiring a structured model | Build Excel models; test which variables drive the answer |
+
+**Model Building Principles:**
+
+1. **Separate inputs, calculations, outputs**: Clear structure
+2. **Label everything**: Units, sources, assumptions
+3. **Build in flexibility**: Easy to change assumptions
+4. **Highlight key drivers**: What moves the needle?
+5. **Run sensitivities**: What if assumptions are wrong?
+
+### Synthesize analytical results into clear answers to the decision **(6)** 🔺
+
+*Toolkit: Clear Communication*
+
+Analysis isn't done until you've answered the question. "So what?" is the most important question.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Case interviews: drive to a clear recommendation with supporting logic | Synthesize research into "so what" insights that directly answer the client's question |
+
+**Synthesis vs. Summary:**
+
+| Summary | Synthesis |
+|:--------|:----------|
+| "We found X, Y, and Z" | "X, Y, and Z mean you should do A" |
+| Lists facts | Draws conclusions |
+| Describes | Recommends |
+
+**The "So What" Ladder:**
+
+1. **Data**: "Revenue declined 15%"
+2. **Insight**: "Revenue declined because we lost share in the premium segment"
+3. **Implication**: "We need to reinvest in premium or accept margin erosion"
+4. **Recommendation**: "Invest $10M in premium product refresh"
+
+Always climb to recommendations.
+
+## Putting It Together
+
+The Get to the Right Answer actions flow:
+
+```
+Design Analysis → Build Fact Base → State Assumptions → Estimate/Bound → Model → Synthesize
+```
+
+You often iterate: synthesis reveals gaps that require more analysis. But you always end with a clear answer.
+
+## Practice This Week
+
+1. **Market sizing**: Estimate the annual revenue of coffee shops within 1 mile of BYU campus
+2. **Outside-in research**: Build a fact base on one of your target companies using only public sources
+3. **Synthesis**: Take 3 facts you found and write a "so what" statement

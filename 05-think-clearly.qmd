@@ -1,0 +1,170 @@
+---
+title: "Think Clearly"
+---
+
+**Guiding Question:** Are we solving the right problem in the right way?
+
+The first imperative is about structuring your thinking before you start working. Most failed projects fail here—they solve the wrong problem, or solve the right problem in an unstructured way that leads nowhere.
+
+## Core Actions
+
+### Diagnose the current state to understand what is happening and why **(0)** 🔺
+
+*Toolkit: Structured Problem-Solving*
+
+Before defining a problem, you need to understand the current situation. What's actually happening? What are the symptoms? What might be causing them?
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Diagnose the firm's hiring needs—what do they look for? What gaps are they trying to fill? | Diagnose the company's strategic situation—what's happening with their performance, market, competitors? |
+| Diagnose your current fit gaps—where are you strong vs. weak relative to what firms want? | Diagnose root causes—why is performance what it is? Don't stop at symptoms. |
+
+**How to Diagnose:**
+
+1. Gather observable facts (not opinions)
+2. Look for patterns and anomalies
+3. Ask "why" multiple times to get to root causes
+4. Separate symptoms from underlying issues
+
+### Define the problem (the gap between current and desired state) **(1)** 🔺
+
+*Toolkit: Structured Problem-Solving*
+
+A problem is a gap between where you are and where you want to be. A well-defined problem is half-solved.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Define the gap between "you now" and "hireable you"—what specific capabilities or experiences do you need? | Define the client's problem—what's the gap between current performance and desired performance? |
+
+**A Good Problem Statement:**
+
+- Is specific (not vague)
+- Is measurable (you know when it's solved)
+- States the gap clearly
+- Doesn't presuppose a solution
+
+**Example:**
+
+- ❌ "We need to grow"
+- ✅ "Revenue has declined 15% over 2 years while the market grew 5%; we need to identify the root causes and develop a plan to return to market growth rates within 18 months"
+
+### Frame the problem: articulate the decision set, constraints, and scope **(1)** 🔺
+
+*Toolkit: Structured Problem-Solving*
+
+Framing means establishing what's in scope vs. out, what success looks like, and what decisions are actually on the table.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Frame your recruiting decision set—which firms are realistic targets? What's in vs. out of scope for this recruiting cycle? | Frame the client's decision—what are they actually deciding between? What are the constraints (time, budget, org politics)? |
+
+**Framing Questions:**
+
+- What decisions need to be made?
+- What criteria will we use to decide?
+- What's explicitly out of scope?
+- What constraints must we work within?
+- Who are the key stakeholders?
+
+### State a provisional Day-1 hypothesis about which decision to make 🔺
+
+*Toolkit: Structured Problem-Solving*
+
+Don't wait until you have all the facts to form a view. State a hypothesis early—then test it.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Hypothesize: "I'm the right hire because X, Y, Z"—what's your core value proposition? | Hypothesize: "The company should do X because..."—what's your initial answer to the client's question? |
+
+**Why Hypothesize Early?**
+
+- Focuses your research on what matters
+- Makes your thinking explicit and testable
+- Prevents "boiling the ocean" (analyzing everything)
+- Allows you to iterate as you learn
+
+### Articulate explicit "what would have to be true" hypotheses **(3)** 🔺
+
+*Toolkit: Structured Problem-Solving*
+
+For your hypothesis to be right, certain things must be true. Make these explicit so you can test them.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| For "I'm the right hire," what must be true? (e.g., "My analytical skills are strong enough," "My story is compelling") | For "Company should do X," what must be true? (e.g., "Market is large enough," "Company has capabilities to execute") |
+
+**WWHTBT Framework:**
+
+1. State your hypothesis
+2. Ask: "For this to be right, what would have to be true?"
+3. List 3-5 critical conditions
+4. Prioritize: which are most uncertain? Most impactful if wrong?
+5. Design tests for the most critical ones
+
+### Disaggregate hypotheses into MECE issues **(2)** ◯ ◯
+
+*Toolkit: Structured Problem-Solving*
+
+Break down your hypotheses into non-overlapping, comprehensive components.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Structure your resume with MECE proof points—each bullet should be distinct and together they should cover your key strengths | Build a MECE issue tree—branches that don't overlap and together exhaust the problem space |
+
+**MECE Explained:**
+
+- **Mutually Exclusive**: No overlaps between categories
+- **Collectively Exhaustive**: Nothing left out
+
+**Common MECE Structures:**
+
+- Revenue = Price × Volume
+- Profit = Revenue - Costs
+- Market = Segment A + Segment B + Segment C
+- Options = Do nothing, Do X, Do Y
+
+### Prioritize issues based on decision impact **(3)** ◯ ◯
+
+*Toolkit: Structured Problem-Solving*
+
+Not all issues are equal. Focus on what would change the decision.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Prioritize which proof points to emphasize—lead with your strongest, most relevant evidence | Prioritize which hypotheses to test first—focus on high-uncertainty, high-impact issues |
+
+**Prioritization Criteria:**
+
+- **Impact**: If this is wrong, does it change the answer?
+- **Uncertainty**: How confident are we already?
+- **Feasibility**: Can we actually test this?
+
+### Explicitly exclude questions that wouldn't change the decision
+
+*Toolkit: Structured Problem-Solving*
+
+Equally important: know what NOT to analyze.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Don't waste time on aspects of your background that don't matter for this role | Don't boil the ocean—explicitly state what you're not analyzing and why |
+
+**The "So What" Test:**
+
+For any potential analysis, ask: "If we knew the answer, would it change our recommendation?" If no, skip it.
+
+## Putting It Together
+
+The Think Clearly actions flow naturally:
+
+```
+Diagnose → Define → Frame → Hypothesize → WWHTBT → Disaggregate → Prioritize → Exclude
+```
+
+In practice, you iterate. New information updates your hypothesis. Better framing changes your priorities. But you always start with structure.
+
+## Practice This Week
+
+1. **Problem definition exercise**: Take a challenge you're facing (academic, personal, career). Write a proper problem statement.
+2. **Issue tree exercise**: Build a MECE issue tree for "How should I prepare for consulting recruiting?"
+3. **WWHTBT exercise**: For your hypothesis "I can get a consulting offer," what would have to be true?

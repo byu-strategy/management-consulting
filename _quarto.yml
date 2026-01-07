@@ -11,33 +11,29 @@ book:
   author: "Scott Murff"
   date: "Winter 2026"
   chapters:
-    - index.qmd
-    - part: "Foundations + AI Setup"
+    - part: "Course Info"
       chapters:
-        - 01-welcome.qmd
-        - 02-industry-landscape.qmd
-        - 03-ai-workflow.qmd
-        - 04-structured-thinking.qmd
-    - part: "Building the Toolkit"
+        - index.qmd
+        - 00-schedule.qmd
+        - 00-assessments.qmd
+    - part: "Foundation"
       chapters:
-        - 05-communication.qmd
-        - 06-analytics.qmd
-        - 07-networking.qmd
-        - 08-casing-fundamentals.qmd
-    - part: "Applied Projects + Advanced Prep"
+        - 01-what-is-consulting.qmd
+        - 02-consultants-os.qmd
+        - 03-leveraging-ai.qmd
+        - 04-working-as-a-team.qmd
+    - part: "The Four Imperatives"
       chapters:
-        - 09-project-1.qmd
-        - 10-project-2.qmd
-        - 11-advanced-interviews.qmd
-    - part: "Integration & Capstone"
+        - 05-think-clearly.qmd
+        - 06-get-right-answer.qmd
+        - 07-move-work-forward.qmd
+        - 08-create-impact.qmd
+    - part: "Course Goals"
       chapters:
-        - 12-project-3.qmd
-        - 13-execution.qmd
-        - 14-capstone.qmd
-        - 15-first-year.qmd
-    - part: "Appendices"
+        - 09-land-an-offer.qmd
+        - 10-your-first-engagement.qmd
+    - part: "Resources"
       chapters:
-        - 97-mock-interviews.qmd
         - 98-resources.qmd
         - 99-references.qmd
 
@@ -51,6 +47,7 @@ format:
     link-external-newwindow: true
     css: styles.css
     markdown: default
+    number-sections: false
 
 toc-title: On this page
 

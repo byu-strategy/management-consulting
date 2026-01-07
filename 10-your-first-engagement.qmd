@@ -1,0 +1,221 @@
+---
+title: "Your First Engagement"
+---
+
+This chapter brings together everything in the Consultant's OS as it applies to client work. Through your projects this semester, you'll practice being a consultant—not just learning about consulting.
+
+## The Consulting OS in Practice
+
+The course projects simulate real consulting engagements:
+
+| Project | Consulting Parallel | OS Imperatives Used |
+|:--------|:-------------------|:--------------------|
+| **P1: Company Diagnostic** | Quick outside-in scan | Think Clearly, Get to the Right Answer |
+| **P2: Competitive Benchmark** | Competitive analysis | Get to the Right Answer, Create Impact |
+| **P3: Value-Add Hypothesis** | Opportunity identification | Think Clearly, Get to the Right Answer |
+| **Capstone** | Full strategic proposal | All Four Imperatives |
+
+## What Consultants Actually Deliver
+
+### Common Deliverables
+
+| Deliverable | Purpose | Typical Length |
+|:------------|:--------|:---------------|
+| **Diagnostic** | Assess current state, identify issues | 1-5 pages |
+| **Benchmark** | Compare to competitors/best practices | 3-10 slides |
+| **Strategic Options** | Evaluate paths forward | 10-20 slides |
+| **Implementation Plan** | Detail how to execute | 20-50 slides |
+| **Final Presentation** | Steering committee deck | 15-30 slides |
+
+### What Makes Consulting Valuable
+
+Clients pay for:
+
+1. **Outside perspective**: Objectivity they can't get internally
+2. **Specialized expertise**: Knowledge they don't have
+3. **Bandwidth**: Capacity they need temporarily
+4. **External validation**: Credibility with boards/investors
+5. **Implementation support**: Help making change happen
+
+## Project 1: Company Diagnostic
+
+### What You're Simulating
+
+A quick outside-in assessment—the kind you'd do in the first week of an engagement to understand the client's situation.
+
+### OS Application
+
+| OS Action | How You'll Apply It |
+|:----------|:--------------------|
+| Diagnose current state | Analyze company performance, market position |
+| Define the problem | Identify key strategic challenges |
+| Build outside-in fact base | Research using public sources |
+| Synthesize to insights | Distill findings into "so what" statements |
+
+### Deliverable: 1-Page Analysis
+
+Your diagnostic should answer:
+
+1. What does this company do?
+2. How is it performing (financially, competitively)?
+3. What are the key strategic challenges/opportunities?
+4. What questions would you want to explore further?
+
+## Project 2: Competitive Benchmark
+
+### What You're Simulating
+
+A competitive analysis—comparing your target company to peers to identify strengths, weaknesses, and opportunities.
+
+### OS Application
+
+| OS Action | How You'll Apply It |
+|:----------|:--------------------|
+| Build fact base | Research competitors using public data |
+| Estimate and bound | Size relative market positions |
+| Synthesize | Identify key differentiators and gaps |
+| Communicate clearly | Present findings in action-titled slides |
+
+### Deliverable: 3-Slide Deck
+
+Your benchmark should include:
+
+1. **Competitive landscape**: Who are the key players? How do they compare?
+2. **Your company's position**: Where does it stand? Strengths/weaknesses?
+3. **So what**: What does this mean for strategy?
+
+## Project 3: Value-Add Hypothesis
+
+### What You're Simulating
+
+Opportunity identification—proposing where a consulting engagement could add value.
+
+### OS Application
+
+| OS Action | How You'll Apply It |
+|:----------|:--------------------|
+| Define the problem | Articulate the strategic gap |
+| State a hypothesis | Propose a path forward |
+| Articulate WWHTBT | What would have to be true for this to work? |
+| Communicate with brevity | Present a clear recommendation |
+
+### Deliverable: 5-Slide Deck
+
+Your value-add should include:
+
+1. **The opportunity**: What's the strategic gap or opportunity?
+2. **The hypothesis**: What should the company do?
+3. **What would have to be true**: Key assumptions to test
+4. **Potential value**: How big is the prize?
+5. **Next steps**: How would you investigate further?
+
+## Capstone: Full Strategic Proposal
+
+### What You're Simulating
+
+A full consulting proposal—the kind you'd present to a CEO or board at the end of an engagement.
+
+### OS Application
+
+This is the full OS in action:
+
+| OS Imperative | Capstone Application |
+|:--------------|:---------------------|
+| Think Clearly | Clear problem definition, structured analysis |
+| Get to the Right Answer | Fact-based insights, quantified opportunities |
+| Move Work Forward | Project managed well, team coordination |
+| Create Impact | Compelling storyline, executive-ready presentation |
+
+### Deliverable: 15-20 Slide Deck + Presentation
+
+Your capstone should include:
+
+1. **Executive Summary**: The answer on one slide
+2. **Situation**: Context and problem definition
+3. **Analysis**: Key findings from your research
+4. **Recommendation**: What should the company do?
+5. **Implementation**: How should they execute?
+6. **Appendix**: Supporting analyses and data
+
+### Capstone Evaluation Criteria
+
+| Criterion | Weight | What We're Looking For |
+|:----------|:------:|:-----------------------|
+| Problem Definition | 15% | Clear, well-framed strategic question |
+| Analysis Quality | 25% | Rigorous, fact-based, insightful |
+| Recommendation | 20% | Actionable, supported by evidence |
+| Communication | 20% | Clear storyline, executive-ready slides |
+| Presentation | 15% | Confident delivery, handles questions |
+| Team Coordination | 5% | Unified narrative, smooth handoffs |
+
+## Building Consulting Skills
+
+### Outside-In Research
+
+Sources to master:
+
+| Source | What You'll Find |
+|:-------|:-----------------|
+| **10-K/Annual Reports** | Financial performance, strategy, risks |
+| **Earnings Calls** | Management commentary, analyst questions |
+| **Investor Presentations** | Strategy summary, key metrics |
+| **Industry Reports** | Market size, trends, competitive dynamics |
+| **News/Press Releases** | Recent developments, M&A, product launches |
+| **LinkedIn/Glassdoor** | Org structure, culture, hiring trends |
+
+### Slide Design Principles
+
+| Principle | Application |
+|:----------|:------------|
+| Action titles | Every title states a conclusion |
+| One message | Each slide makes one point |
+| Visual hierarchy | Most important information stands out |
+| Annotations | Call out key data points |
+| Source everything | Build credibility with citations |
+
+### Presenting to Executives
+
+1. **Start with the answer**: Don't build suspense
+2. **Be confident**: Own your recommendation
+3. **Anticipate questions**: Prepare for pushback
+4. **Stay flexible**: Be willing to dive deep or stay high
+5. **Know your backup**: Have appendix ready
+
+## From Class to Career
+
+### Skills You're Building
+
+| Skill | Class Practice | Career Application |
+|:------|:---------------|:-------------------|
+| Problem structuring | Issue trees, MECE | Client problem-solving |
+| Research synthesis | Outside-in analysis | Due diligence, market studies |
+| Quantitative analysis | Market sizing, modeling | Financial analysis, valuation |
+| Communication | Slide decks, presentations | Client deliverables |
+| Project management | Capstone coordination | Engagement management |
+
+### What Sets Apart the Best
+
+The difference between good and great:
+
+- **Good**: Follows the OS actions
+- **Great**: Makes connections others miss; generates novel insights
+
+- **Good**: Delivers what's asked
+- **Great**: Anticipates what's needed next
+
+- **Good**: Presents clearly
+- **Great**: Tells a compelling story that moves people to action
+
+## Your First 90 Days (Preview)
+
+When you land the job, your first engagement will feel fast. Here's what to expect:
+
+| Week | Focus |
+|:-----|:------|
+| **1** | Team launch, problem definition, workplan |
+| **2-3** | Build fact base, initial analyses |
+| **4-5** | Deep analysis, hypothesis refinement |
+| **6-7** | Synthesis, storyline development |
+| **8** | Steering committee prep, presentation |
+
+You'll be ready—because you'll have practiced the OS all semester.

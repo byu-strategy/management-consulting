@@ -1,0 +1,221 @@
+---
+title: "Create Impact with People"
+---
+
+**Guiding Question:** Do people understand, trust, and act on this work?
+
+The fourth imperative is where consulting becomes real. Your analysis only creates value if people understand it, believe it, and act on it. This is about communication, trust, and influence.
+
+## Core Actions
+
+### Craft a storyline that links insights to the decision **(6)** 🔺
+
+*Toolkit: Clear Communication*
+
+Don't just present findings—tell a story that leads logically to your recommendation.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Behavioral stories: use PARADE to link your experience to role requirements | Slide storylines: build a narrative arc from situation through analysis to recommendation |
+
+**The Pyramid Principle:**
+
+Start with the answer, then support it with evidence.
+
+```
+         [Main Message]
+              ↑
+    [Key Point 1] [Key Point 2] [Key Point 3]
+         ↑           ↑              ↑
+    [Evidence]   [Evidence]    [Evidence]
+```
+
+**SCQA Structure:**
+
+- **Situation**: Context the audience knows
+- **Complication**: What changed or what's the tension?
+- **Question**: What do we need to decide?
+- **Answer**: Our recommendation
+
+**PARADE Framework (for Behavioral Stories):**
+
+- **P**roblem/Context: What was the situation?
+- **A**ction: What did you specifically do?
+- **R**esult: What was the outcome?
+- **A**pplication: How does this relate to consulting?
+- **D**ifferentiation: What made your approach unique?
+- **E**vidence: Quantify where possible
+
+### Communicate with clear logic, explicit trade-offs, and executive brevity **(7)** 🔺
+
+*Toolkit: Clear Communication*
+
+Executives are busy. Communicate with clarity and concision.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Behavioral delivery: crisp, confident, 2-minute answers | Present recommendations concisely; lead with the answer, support with evidence |
+
+**Executive Communication Principles:**
+
+1. **Lead with the answer**: Don't build to your conclusion
+2. **Use action titles**: Every slide title should state a conclusion
+3. **One message per slide**: If you can't summarize it, split it
+4. **Quantify**: "Significant growth" → "23% growth"
+5. **Be explicit about trade-offs**: What are we giving up?
+
+**Action Titles:**
+
+| Weak Title | Action Title |
+|:-----------|:-------------|
+| "Market Analysis" | "Market is growing 8% annually, driven by premium segment" |
+| "Financial Overview" | "Margins have declined 300bps due to rising input costs" |
+| "Recommendations" | "Invest $10M in premium refresh to capture 15% market share" |
+
+**The 30-Second Rule:**
+
+If you were interrupted after 30 seconds, would they know your main point? Structure every communication so the answer comes first.
+
+### Tailor messages to senior audiences and stakeholder concerns **(7)** 🔺
+
+*Toolkit: Client Hands*
+
+Different audiences need different messages. Know your stakeholders.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Tailor your story to each firm's values and needs | Tailor presentations to what each stakeholder cares about |
+
+**Stakeholder Mapping:**
+
+| Stakeholder | What They Care About | Potential Concerns |
+|:------------|:--------------------|:-------------------|
+| CEO | Strategic direction, shareholder value | Will this work? What's the risk? |
+| CFO | ROI, cost, financial impact | Can we afford this? What's the payback? |
+| COO | Implementation, operations | Can we execute? What resources do we need? |
+| Board | Governance, risk, long-term value | Is this the right bet? |
+
+**Tailoring Principles:**
+
+1. Know what each stakeholder cares about
+2. Anticipate their questions and concerns
+3. Frame recommendations in their terms
+4. Address objections before they're raised
+
+### Build trust by demonstrating judgment, reliability, and empathy
+
+*Toolkit: Client Hands*
+
+Trust is the foundation of influence. Without it, even perfect analysis fails.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Fit interviews: demonstrate character, judgment, and cultural fit | Build trust through consistent delivery, honest communication, and genuine care for client success |
+
+**Trust Equation (reminder):**
+
+$$Trust = \frac{Credibility + Reliability + Intimacy}{Self\text{-}Orientation}$$
+
+**Building Trust:**
+
+| Component | How to Build It |
+|:----------|:----------------|
+| **Credibility** | Know your stuff; admit what you don't know |
+| **Reliability** | Do what you say; meet deadlines; follow up |
+| **Intimacy** | Listen; remember personal details; be human |
+| **Low Self-Orientation** | Focus on their success, not your credit |
+
+### Prewire stakeholders before formal presentations
+
+*Toolkit: Client Hands*
+
+Never surprise stakeholders in a meeting. Prewire your recommendations.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Before asking for a referral, build the relationship | Before the steering committee, share findings with key stakeholders individually |
+
+**Prewiring Principles:**
+
+1. **Identify key stakeholders**: Who needs to be aligned?
+2. **Meet individually**: Share findings, get reactions
+3. **Incorporate feedback**: Adjust recommendations if needed
+4. **Build support**: Convert skeptics before the room
+5. **No surprises**: Everyone should know what's coming
+
+### Navigate difficult conversations and deliver hard messages constructively
+
+*Toolkit: Client Hands*
+
+Sometimes you have to tell people things they don't want to hear.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Handle difficult fit questions with poise | Deliver tough messages about performance, strategy, or organization |
+
+**Yes-No-Yes Framework:**
+
+1. **Yes**: Affirm their perspective or concern
+2. **No**: Deliver the difficult message directly
+3. **Yes**: Offer a path forward or positive framing
+
+**Example:**
+
+- "I understand you've invested heavily in this product line (Yes). The data shows it's not recovering—we recommend sunsetting it (No). This frees resources to invest in your highest-growth segments (Yes)."
+
+### Coordinate effectively across team members to present a unified narrative
+
+*Toolkit: Teamwork & Collaboration*
+
+In consulting, you rarely present alone. Teams must be aligned.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| In group interviews or networking events, coordinate with peers | Present as a team with consistent messaging and smooth handoffs |
+
+**Team Presentation Principles:**
+
+1. **Align on the storyline**: Everyone knows the narrative
+2. **Clear handoffs**: Who covers what
+3. **Support each other**: No contradictions or surprises
+4. **One voice**: Consistent framing and recommendations
+
+### Actively solicit feedback and adjust
+
+*Toolkit: Coachability*
+
+The best consultants constantly improve through feedback.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| After mock interviews, ask for specific feedback and apply it | After presentations and deliverables, ask what could be better |
+
+**Seeking Feedback:**
+
+1. **Ask specifically**: "What's one thing I could improve?"
+2. **Listen fully**: Don't defend or explain
+3. **Thank them**: Feedback is a gift
+4. **Apply it**: Show improvement next time
+
+**Demonstrating Coachability:**
+
+- Before/after examples show growth
+- Rapid incorporation of feedback
+- Asking for feedback (not waiting for it)
+- Openness to being wrong
+
+## Putting It Together
+
+The Create Impact actions flow:
+
+```
+Craft Storyline → Communicate Clearly → Tailor to Stakeholders → Build Trust → Prewire → Handle Hard Conversations → Coordinate → Seek Feedback
+```
+
+This is where consulting becomes influence—and where careers are made.
+
+## Practice This Week
+
+1. **PARADE story**: Write one behavioral story using the PARADE framework
+2. **Action titles**: Take 3 slide titles and rewrite them as action titles
+3. **Prewiring exercise**: Plan how you would prewire a controversial recommendation

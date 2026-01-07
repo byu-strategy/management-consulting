@@ -1,0 +1,169 @@
+---
+title: "Move Work Forward"
+---
+
+**Guiding Question:** Is the work actually progressing toward a decision?
+
+The third imperative is about execution. Clear thinking and right answers mean nothing if the work doesn't get done. Consultants are valued for their ability to make progress—especially when conditions are uncertain.
+
+## Core Actions
+
+### Translate hypotheses into a workplan with milestones **(4)** 🔺
+
+*Toolkit: Workstream Ownership*
+
+Convert your structured thinking into a concrete plan with owners, deliverables, and deadlines.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Build a recruiting workplan—networking targets, application deadlines, case practice schedule | Build a project workplan with clear milestones and owners for each workstream |
+
+**Workplan Components:**
+
+| Element | Description |
+|:--------|:------------|
+| **Workstream** | Major area of work (e.g., "Market Analysis") |
+| **Key Question** | What are we trying to answer? |
+| **Analyses** | Specific work to be done |
+| **Owner** | Who's responsible |
+| **Due Date** | When it's needed |
+| **Dependencies** | What must happen first |
+
+**POD/POW Rhythm:**
+
+- **POD (Plan of the Day)**: What will you accomplish today?
+- **POW (Plan of the Week)**: What must be done this week?
+
+Start each day and week with explicit plans.
+
+### Own a workstream end-to-end
+
+*Toolkit: Workstream Ownership*
+
+Take full responsibility for your piece—from question to answer, not just task completion.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Own your job search from outreach to offer—don't wait for others to drive it | Own your analysis from question to answer—you're responsible for the insight, not just the spreadsheet |
+
+**What Ownership Looks Like:**
+
+- ✅ Anticipate what's needed before being asked
+- ✅ Flag risks and issues proactively
+- ✅ Deliver complete work, not half-finished drafts
+- ✅ Follow up on outstanding items
+- ❌ Wait for instructions
+- ❌ Hand off incomplete work
+- ❌ Let things fall through cracks
+
+### Sequence work to deliver insight early
+
+*Toolkit: Workstream Ownership*
+
+Structure your work to generate useful insights as early as possible—don't save everything for the end.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Start networking early—insights compound over time | Sequence analyses to test critical hypotheses first; don't save the hard questions for last |
+
+**Front-Loading Principles:**
+
+1. **Kill bad ideas fast**: Test the most uncertain assumptions first
+2. **Build on early wins**: Let initial findings guide later work
+3. **Show progress**: Regular updates maintain confidence
+4. **Create options**: Early insights allow course correction
+
+### Reprioritize dynamically as new information emerges
+
+*Toolkit: Workstream Ownership*
+
+The plan will change. Good consultants adapt without losing momentum.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Adjust your recruiting strategy as you learn—if a firm isn't a fit, redirect energy | Reprioritize analyses as you learn—new data might make some questions irrelevant |
+
+**When to Reprioritize:**
+
+- A key hypothesis is confirmed/killed (changes what matters)
+- New information surfaces (changes the problem)
+- Constraints shift (timeline, resources, scope)
+- Client feedback redirects focus
+
+### Identify risks, dependencies, and bottlenecks before they stall progress
+
+*Toolkit: Workstream Ownership*
+
+Anticipate problems before they become crises.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Know your recruiting bottlenecks—what could derail your timeline? | Identify project risks early—what could go wrong? What depends on what? |
+
+**Risk Management:**
+
+| Risk Type | Example | Mitigation |
+|:----------|:--------|:-----------|
+| **Data** | Can't get the data we need | Identify alternatives early |
+| **Timeline** | Key analysis takes longer | Start early, build buffer |
+| **Stakeholder** | Decision-maker changes view | Prewire, get early input |
+| **Technical** | Model doesn't work | Test approach before building |
+
+### Manage up with concise updates
+
+*Toolkit: Workstream Ownership*
+
+Keep your manager informed with updates that surface what they need to know.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Update your TA on recruiting progress—proactively, not just when asked | Keep your EM informed—they shouldn't be surprised |
+
+**Good Update Structure:**
+
+1. **Status**: Where are we? (On track / At risk / Behind)
+2. **Progress**: What did we accomplish?
+3. **Issues**: What's blocking us?
+4. **Asks**: What do we need from you?
+5. **Next Steps**: What's coming next?
+
+Keep it brief. One page. One minute.
+
+### Advance work using best-available information, without waiting for certainty
+
+*Toolkit: Tolerance for Ambiguity*
+
+Perfect information never arrives. Move forward with what you have.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Case interviews: make progress on ambiguous prompts without asking for more data | Make analytical calls with incomplete data—state assumptions and keep moving |
+
+**Working with Ambiguity:**
+
+| Wrong Approach | Right Approach |
+|:---------------|:---------------|
+| Wait for perfect data | Use best available, note limitations |
+| Ask endless clarifying questions | Make reasonable assumptions, state them |
+| Freeze when uncertain | Form a hypothesis and test it |
+| Seek false precision | Use ranges and sensitivities |
+
+**The 80/20 Rule:**
+
+You can often get 80% of the insight with 20% of the work. Know when "good enough" is good enough.
+
+## Putting It Together
+
+The Move Work Forward actions flow:
+
+```
+Workplan → Own → Sequence → Reprioritize → Manage Risk → Update → Progress Without Certainty
+```
+
+Execution is a continuous cycle, not a one-time event.
+
+## Practice This Week
+
+1. **Workplan exercise**: Create a recruiting workplan for the next 8 weeks—include networking, resume, case practice, applications
+2. **Managing up exercise**: Write a 5-bullet update on your recruiting progress as if you were updating your TA
+3. **Ambiguity exercise**: Take an ambiguous case prompt and make progress without asking clarifying questions—just state your assumptions

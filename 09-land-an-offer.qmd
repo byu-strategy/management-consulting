@@ -1,0 +1,236 @@
+---
+title: "Land an Offer"
+---
+
+This chapter brings together everything in the Consultant's OS as it applies to recruiting. The same skills that make you effective on engagements make you effective at landing the job.
+
+## The Recruiting OS
+
+Every element of the Consultant's OS applies directly to recruiting:
+
+| OS Imperative | Recruiting Application |
+|:--------------|:-----------------------|
+| **Think Clearly** | Structure your candidacy story; diagnose firm needs and your fit gaps |
+| **Get to the Right Answer** | Research firms and people; prepare for case interviews |
+| **Move Work Forward** | Manage your recruiting timeline; own your job search |
+| **Create Impact** | Tell compelling stories; build trust with recruiters and interviewers |
+
+## Networking
+
+### The Trust Equation in Action
+
+Networking is about building genuine relationships, not collecting contacts.
+
+$$Trust = \frac{Credibility + Reliability + Intimacy}{Self\text{-}Orientation}$$
+
+**Networking Dos:**
+
+- ✅ Research the person before reaching out
+- ✅ Come with thoughtful questions
+- ✅ Follow up when you say you will
+- ✅ Offer value (share an article, make an introduction)
+- ✅ Stay in touch, not just when you need something
+
+**Networking Don'ts:**
+
+- ❌ Ask for a job in the first conversation
+- ❌ Send generic outreach
+- ❌ Forget to follow up
+- ❌ Only reach out when you need something
+
+### Coffee Chat Structure
+
+| Phase | Time | Focus |
+|:------|:-----|:------|
+| **Opening** | 2-3 min | Thank them, establish rapport |
+| **Their Story** | 10-15 min | Learn about their experience |
+| **Your Questions** | 10-15 min | Thoughtful, researched questions |
+| **Closing** | 2-3 min | Thank, ask for referrals, establish next steps |
+
+### Networking Tracker
+
+Maintain a tracking spreadsheet:
+
+| Field | Purpose |
+|:------|:--------|
+| Name | Who |
+| Firm/Role | Where |
+| Connection | How you met/were introduced |
+| Last Contact | When |
+| Notes | Key takeaways |
+| Follow-up | What you committed to |
+| Status | Active/Dormant/Closed |
+
+## Resume
+
+### Resume as Hypothesis
+
+Your resume is a hypothesis: "I'm the right hire because X, Y, Z."
+
+Structure it with MECE proof points:
+
+- Each bullet should be distinct (no overlaps)
+- Together, bullets should tell a complete story
+- Lead with your strongest, most relevant evidence
+
+### Action Titles for Bullets
+
+Every bullet should lead with impact:
+
+| Weak | Strong |
+|:-----|:-------|
+| "Responsible for sales analysis" | "Increased sales 15% by identifying underserved customer segment" |
+| "Worked on financial models" | "Built $50M M&A valuation model used in board presentation" |
+| "Helped with marketing" | "Launched campus campaign reaching 2,000 students; 300 sign-ups" |
+
+### Quantify Everything
+
+- Revenue/cost impact
+- Scope (team size, budget, users)
+- Outcomes (% improvement, time saved)
+- Recognition (awards, promotions)
+
+## Case Interviews
+
+### The OS in Cases
+
+Case interviews test every imperative:
+
+| Case Element | OS Imperative |
+|:-------------|:--------------|
+| Clarifying the prompt | Think Clearly (Diagnose, Define) |
+| Structuring the problem | Think Clearly (MECE, Prioritize) |
+| Market sizing/estimation | Get to the Right Answer (Estimate, Assumptions) |
+| Analyzing data | Get to the Right Answer (Synthesize) |
+| Making a recommendation | Create Impact (Communicate with brevity) |
+| Handling ambiguity | Move Work Forward (Progress without certainty) |
+
+### Case Structure
+
+1. **Listen carefully**: Understand the prompt fully
+2. **Clarify**: Ask 1-2 questions to confirm understanding
+3. **Take time**: Ask for a moment to structure
+4. **Present structure**: Share your MECE framework
+5. **Work through**: Analyze systematically
+6. **Synthesize**: Deliver a clear recommendation
+
+### Market Sizing Framework
+
+1. Define what you're sizing
+2. Choose approach (top-down or bottom-up)
+3. Identify key drivers
+4. State assumptions explicitly
+5. Do the math (round numbers!)
+6. Sanity check
+
+### Case Practice Schedule
+
+| Weeks | Focus | Cases |
+|:------|:------|:-----:|
+| 1-5 | Observe, learn frameworks | 1-2 |
+| 6-8 | Math, estimation, synthesis | 3-4 |
+| 9-10 | Full cases with ambiguity | 2-3 |
+| 11-15 | Mock interviews, polish | 2-3 |
+| **Total** | | **8-12** |
+
+## Behavioral Interviews
+
+### PARADE Framework
+
+| Element | Description | Example |
+|:--------|:------------|:--------|
+| **P**roblem | Context/challenge | "Our team faced declining engagement..." |
+| **A**ction | What YOU did (specific) | "I personally led the analysis..." |
+| **R**esult | Outcome (quantified) | "...resulting in 30% improvement" |
+| **A**pplication | Link to consulting | "This is similar to how consultants..." |
+| **D**ifferentiation | What was unique | "What set this apart was..." |
+| **E**vidence | Proof points | "The client said..." |
+
+### Common Behavioral Questions
+
+Build stories for:
+
+1. Leadership
+2. Teamwork/collaboration
+3. Overcoming challenges
+4. Analytical problem-solving
+5. Influence without authority
+6. Failure and learning
+7. Why consulting?
+8. Why this firm?
+
+### Story Bank
+
+Prepare 8-10 stories that can flex across questions. Each story should:
+
+- Be 2-3 minutes when delivered
+- Have quantified results
+- Show YOUR contribution (not just the team's)
+- Be genuine (not fabricated)
+
+## Fit Interviews
+
+### What Firms Evaluate
+
+- **Judgment**: Do you make good decisions?
+- **Character**: Are you trustworthy?
+- **Cultural fit**: Will you thrive here?
+- **Motivation**: Do you really want this?
+
+### Demonstrating Fit
+
+| Quality | How to Show It |
+|:--------|:---------------|
+| Judgment | Share examples of difficult decisions |
+| Character | Be honest, including about weaknesses |
+| Cultural fit | Research the firm's values; show alignment |
+| Motivation | Be specific about why this firm |
+
+## Mock Interviews
+
+### Getting Maximum Value
+
+1. **Treat it like the real thing**: Full formality
+2. **Record if possible**: Watch yourself later
+3. **Ask for specific feedback**: "What's one thing to improve?"
+4. **Apply feedback immediately**: Show growth in next practice
+5. **Track improvement**: Note patterns across mocks
+
+### Mock Interview Resources
+
+- TA-led sessions in pods
+- Peer practice (case exchange)
+- MCA mock interview events
+- Online practice (RocketBlocks, PrepLounge)
+
+## Recruiting Timeline
+
+| When | Activity |
+|:-----|:---------|
+| **Now** | Research firms, start networking |
+| **Weeks 1-4** | Build target list, resume v1 |
+| **Weeks 5-8** | Active networking, resume refinement, case fundamentals |
+| **Weeks 9-12** | Case practice, behavioral prep, applications |
+| **Weeks 13-15** | Mock interviews, final polish |
+| **Post-Course** | Continue networking, applications, interviews |
+
+## Your Action Items
+
+### This Week
+
+- [ ] Create/update your networking tracker
+- [ ] Identify 5 target contacts at firms you're interested in
+- [ ] Draft resume v1
+
+### This Month
+
+- [ ] Complete 3 coffee chats
+- [ ] Practice 2 cases
+- [ ] Build 3 PARADE stories
+
+### This Semester
+
+- [ ] Network with 15+ people
+- [ ] Practice 8-12 cases
+- [ ] Complete 5+ mock interviews
+- [ ] Build bank of 8-10 behavioral stories

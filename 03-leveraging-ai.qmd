@@ -1,0 +1,133 @@
+---
+title: "Leveraging AI"
+---
+
+AI is not a separate topic in this course—it's how you'll apply the Consultant's OS more effectively. From Week 2 onward, you'll learn to use AI tools to accelerate your research, analysis, and communication.
+
+## AI as Your Operating Amplifier
+
+Think of AI as an amplifier for the Consultant's OS:
+
+| OS Capability | Without AI | With AI |
+|:--------------|:-----------|:--------|
+| **Research** | Hours of manual searching | Rapid synthesis of sources |
+| **Analysis** | Slow iteration on models | Fast hypothesis testing |
+| **Communication** | Multiple draft cycles | Accelerated refinement |
+| **Learning** | Wait for feedback | Instant practice partner |
+
+AI doesn't replace the OS—it makes each action faster and more powerful.
+
+## Tools You'll Use
+
+### Claude (Anthropic)
+
+Your primary AI assistant for:
+
+- Research synthesis and fact-finding
+- Structuring arguments and storylines
+- Case interview practice
+- Writing and editing
+
+### Claude Code / Cursor
+
+AI-assisted coding environment for:
+
+- Data analysis and visualization
+- Model building
+- Automating repetitive tasks
+- Working with large datasets
+
+## Setting Up Your AI Workflow
+
+### Step 1: Create Your Accounts
+
+1. **Claude**: Sign up at [claude.ai](https://claude.ai) (free tier is sufficient)
+2. **VS Code or Cursor**: Download and install on your laptop
+
+### Step 2: Configure Your Environment
+
+[Detailed setup instructions TBD]
+
+### Step 3: Practice the Basics
+
+Try these starter exercises:
+
+1. **Research synthesis**: "What are the key trends affecting [your target company's] industry?"
+2. **Structure building**: "Help me create a MECE issue tree for [problem]"
+3. **Case practice**: "Give me a market sizing question and walk through it with me"
+
+## AI-Assisted Consulting Actions
+
+### Think Clearly with AI
+
+| Core Action | How AI Helps |
+|:------------|:-------------|
+| Diagnose current state | Synthesize news, filings, analyst reports quickly |
+| Define the problem | Pressure-test your problem statement for clarity |
+| Build MECE structures | Generate and critique issue trees |
+
+### Get to the Right Answer with AI
+
+| Core Action | How AI Helps |
+|:------------|:-------------|
+| Build fact base | Research companies, industries, competitors rapidly |
+| Estimate and bound | Sanity-check assumptions, find benchmarks |
+| Synthesize | Draft "so what" statements, identify patterns |
+
+### Move Work Forward with AI
+
+| Core Action | How AI Helps |
+|:------------|:-------------|
+| Workplanning | Draft project plans, identify dependencies |
+| Progress without certainty | Explore multiple scenarios quickly |
+
+### Create Impact with AI
+
+| Core Action | How AI Helps |
+|:------------|:-------------|
+| Craft storylines | Structure Pyramid Principle arguments |
+| Communicate with brevity | Edit for conciseness, strengthen logic |
+| Prepare for stakeholders | Anticipate questions, practice responses |
+
+## AI Ethics and Professional Standards
+
+### What's Acceptable
+
+- Using AI to accelerate research you would do anyway
+- Getting feedback on your writing and logic
+- Practicing cases with AI as a partner
+- Generating first drafts that you then refine
+
+### What's Not Acceptable
+
+- Submitting AI-generated work as entirely your own without disclosure
+- Using AI during actual interviews (unless explicitly permitted)
+- Relying on AI without developing your own judgment
+
+### The 80/20 Rule
+
+AI can get you 80% of the way quickly. The last 20%—judgment, nuance, client context—is where you add value. Never outsource your thinking entirely.
+
+## Weekly AI Integration
+
+Throughout this course, AI is woven into every assignment:
+
+| Week | AI Application |
+|:-----|:---------------|
+| 2 | Setup and basic research |
+| 3-5 | Problem structuring and hypothesis testing |
+| 6-8 | Research synthesis and analysis |
+| 9-10 | Workplanning and iteration |
+| 11-14 | Communication refinement and practice |
+| 15 | Capstone polish |
+
+## Getting Started This Week
+
+By the end of Week 2, you should be able to:
+
+1. ✅ Access Claude and have a basic conversation
+2. ✅ Use Claude to research a company
+3. ✅ Set up VS Code or Cursor on your laptop
+4. ✅ Run a basic analysis with AI assistance
+
+Come to class ready to demonstrate your setup.

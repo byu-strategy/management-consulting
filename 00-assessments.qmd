@@ -1,0 +1,401 @@
+---
+title: "Assessments"
+editor: visual
+---
+
+## List of All Assessments
+
+The following assessments will be used to measure progress towards learning outcomes and to assign grades.
+
+| Type | Description | % of Grade | Points | Learning Outcome(s) Assessed |
+|------|-------------|------------|--------|------------------------------|
+| Participation | [TA Pod Engagement](#ta-pod-engagement) | 15% | 75 | 1,2,3 |
+| Interview Prep | [Resume & Networking](#resume-and-networking) | 15% | 75 | 3 |
+| Interview Prep | [Case Practice Log](#case-practice-log) | 10% | 50 | 1,3 |
+| Interview Prep | [Behavioral Stories (PARADE)](#behavioral-stories) | 10% | 50 | 2,3 |
+| Project | [Company Diagnostic (1-page)](#company-diagnostic) | 10% | 50 | 1,4 |
+| Project | [Competitive Benchmark (3-slide)](#competitive-benchmark) | 10% | 50 | 1,4 |
+| Project | [Value-Add Hypothesis (5-slide)](#value-add-hypothesis) | 10% | 50 | 1,2,4 |
+| Project | [Capstone Proposal (15-20 slide)](#capstone-proposal) | 20% | 100 | 1,2,4 |
+|  | **TOTAL** | **100%** | **500** |  |
+
+::: {style="font-size:0.65em;"}
+**Notes**
+
+1. Table of Learning Outcomes
+
+| Learning Outcome | Supported BYU Aims |
+|------------------|-------------------|
+| 1. Apply structured problem-solving frameworks (MECE, hypothesis-driven thinking, 80/20) to complex business problems | Intellectually Enlarging |
+| 2. Communicate effectively using the Pyramid Principle and executive-ready deliverables | Intellectually Enlarging, Lifelong Learning and Service |
+| 3. Navigate the consulting recruiting process through networking, resume optimization, and interview preparation | Lifelong Learning and Service |
+| 4. Conduct outside-in company analysis and develop value-add hypotheses | Intellectually Enlarging, Lifelong Learning and Service |
+:::
+
+---
+
+## Participation
+
+### TA Pod Engagement {#ta-pod-engagement}
+
+**Points**: 75 (15% of grade)
+
+**Overview**
+
+Your TA pod is your home base for the semester. Active engagement with your pod accelerates your learning and interview preparation.
+
+**Requirements**
+
+1. **Goals Chat (Week 2)**: 15-minute meeting with your TA to establish recruiting goals and development focus
+2. **Feedback Sessions (4x/semester)**: Attend all four scheduled 10-minute check-ins
+3. **Case Practice Participation**: Actively participate in pod case practice sessions
+4. **Peer Support**: Provide constructive feedback to pod members on resumes and case practice
+
+**Grading Rubric**
+
+| Component | Points |
+|-----------|--------|
+| Goals Chat completed | 15 |
+| Feedback Session 1 attended | 10 |
+| Feedback Session 2 attended | 10 |
+| Feedback Session 3 attended | 10 |
+| Feedback Session 4 attended | 10 |
+| Active participation in pod activities | 20 |
+| **Total** | **75** |
+
+---
+
+## Interview Preparation
+
+### Resume & Networking {#resume-and-networking}
+
+**Points**: 75 (15% of grade)
+
+**Overview**
+
+A consulting-ready resume and active networking are essential for landing interviews. This assessment tracks your progress building both.
+
+**Requirements**
+
+**Resume (50 points)**
+
+Submit two versions of your resume throughout the semester:
+
+- **Resume v1 (Week 4)**: Initial consulting-formatted resume
+- **Resume v2 (Week 7)**: Revised resume incorporating TA feedback
+
+Your resume should:
+
+- Follow consulting resume format (1 page, action-oriented bullets)
+- Quantify scope and impact for each experience
+- Use strong action verbs and demonstrate leadership
+- Be error-free and professionally formatted
+
+**Networking Tracker (25 points)**
+
+Maintain a networking tracker documenting your outreach throughout the semester:
+
+- **Minimum 10 networking conversations** with consulting professionals
+- Track: Name, company, date, key insights, follow-up actions
+- Include a mix of informational interviews, coffee chats, and firm events
+
+**Grading Rubric**
+
+| Component | Points |
+|-----------|--------|
+| Resume v1 submitted on time | 15 |
+| Resume v2 reflects meaningful improvement | 25 |
+| Resume is "client-ready" (error-free, professional) | 10 |
+| Networking tracker with 10+ documented conversations | 25 |
+| **Total** | **75** |
+
+---
+
+### Case Practice Log {#case-practice-log}
+
+**Points**: 50 (10% of grade)
+
+**Overview**
+
+Case interview mastery requires deliberate practice. This log documents your case practice journey throughout the semester.
+
+**Requirements**
+
+Complete a minimum of **8 practice cases** throughout the semester, documenting each in your case practice log.
+
+For each case, record:
+
+1. **Date and case partner** (pod member, TA, or external)
+2. **Case type** (profitability, market entry, M&A, pricing, etc.)
+3. **Your role** (interviewer or interviewee)
+4. **Key frameworks used**
+5. **What went well**
+6. **Areas for improvement**
+7. **Specific action items for next case**
+
+**Grading Rubric**
+
+| Component | Points |
+|-----------|--------|
+| 8+ cases documented | 30 |
+| Thoughtful reflection on each case | 15 |
+| Evidence of improvement over time | 5 |
+| **Total** | **50** |
+
+---
+
+### Behavioral Stories (PARADE) {#behavioral-stories}
+
+**Points**: 50 (10% of grade)
+
+**Due**: Week 13
+
+**Overview**
+
+Behavioral interviews are a critical component of consulting recruiting. The PARADE framework helps you structure compelling stories that demonstrate leadership, impact, and fit.
+
+**PARADE Framework**
+
+- **P**roblem: What was the situation or challenge?
+- **A**ction: What specific actions did YOU take?
+- **R**esult: What was the outcome? (Quantify where possible)
+- **A**pplication: How does this demonstrate the competency being assessed?
+- **D**evelopment: What did you learn?
+- **E**nergy: Convey genuine enthusiasm and ownership
+
+**Requirements**
+
+Develop a bank of **5 polished behavioral stories** covering different competencies:
+
+1. **Leadership/Initiative**: A time you led a team or took charge
+2. **Problem-Solving**: A time you solved a complex or ambiguous problem
+3. **Teamwork/Collaboration**: A time you worked effectively with others
+4. **Overcoming Challenges**: A time you faced adversity or failure
+5. **Impact/Achievement**: Your most significant professional or academic accomplishment
+
+Each story should be:
+
+- Written using the PARADE framework
+- 2-3 minutes when delivered verbally
+- Specific, with quantified results where possible
+- Practiced and refined through feedback
+
+**Deliverable**
+
+Submit a document containing all 5 behavioral stories formatted using PARADE.
+
+**Grading Rubric**
+
+| Component | Points |
+|-----------|--------|
+| All 5 stories complete and cover required competencies | 20 |
+| Stories follow PARADE structure | 15 |
+| Stories include specific, quantified results | 10 |
+| Stories are polished and interview-ready | 5 |
+| **Total** | **50** |
+
+---
+
+## Freemium Consulting Projects
+
+These four progressive projects build your consulting skills while creating tangible work products you can use in recruiting.
+
+### Company Diagnostic {#company-diagnostic}
+
+**Points**: 50 (10% of grade)
+
+**Due**: Week 8
+
+**Team**: Individual
+
+**Deliverable**: 1-page analysis
+
+**Overview**
+
+The Company Diagnostic is your first outside-in analysis. You'll assess one of your target companies and identify key strategic issues.
+
+**Requirements**
+
+Produce a 1-page diagnostic that includes:
+
+1. **Company Overview** (2-3 sentences): What does this company do? Market position?
+2. **Financial Health**: Key metrics (revenue, growth, margins) with 3-year trends
+3. **Strategic Position**: Competitive advantages and vulnerabilities
+4. **Key Challenges**: 2-3 strategic issues the company faces
+5. **Initial Hypothesis**: One area where consulting could add value
+
+**Sources**: Use public information (10-K, earnings calls, news, industry reports)
+
+**Grading Rubric**
+
+| Component | Points |
+|-----------|--------|
+| Company overview is clear and accurate | 5 |
+| Financial analysis is thorough with relevant metrics | 15 |
+| Strategic assessment demonstrates structured thinking | 15 |
+| Key challenges are insightful and well-supported | 10 |
+| Initial hypothesis is logical and actionable | 5 |
+| **Total** | **50** |
+
+---
+
+### Competitive Benchmark {#competitive-benchmark}
+
+**Points**: 50 (10% of grade)
+
+**Due**: Week 10
+
+**Team**: Individual
+
+**Deliverable**: 3-slide deck
+
+**Overview**
+
+Building on your diagnostic, this project benchmarks your target company against 2-3 competitors to identify relative strengths, weaknesses, and strategic implications.
+
+**Requirements**
+
+Produce a 3-slide deck:
+
+**Slide 1: Competitive Landscape**
+
+- Overview of 2-3 key competitors
+- Market share and positioning map
+
+**Slide 2: Benchmark Analysis**
+
+- Side-by-side comparison on 4-6 key metrics
+- Visual representation (table or chart)
+
+**Slide 3: Strategic Implications**
+
+- Key insights from the benchmark
+- Where your target company is winning/losing
+- Implications for strategy
+
+**Grading Rubric**
+
+| Component | Points |
+|-----------|--------|
+| Competitors appropriately selected and described | 10 |
+| Benchmark metrics are relevant and well-researched | 15 |
+| Slides are executive-ready (clear, visual, concise) | 15 |
+| Strategic insights are meaningful and well-supported | 10 |
+| **Total** | **50** |
+
+---
+
+### Value-Add Hypothesis {#value-add-hypothesis}
+
+**Points**: 50 (10% of grade)
+
+**Due**: Week 12
+
+**Team**: Pairs
+
+**Deliverable**: 5-slide deck
+
+**Overview**
+
+Working in pairs, you'll develop a hypothesis for how consulting could create value for one of your target companies. This is the core of "freemium consulting"—demonstrating insight that could lead to an engagement.
+
+**Requirements**
+
+Produce a 5-slide deck:
+
+**Slide 1: Executive Summary**
+
+- One-slide synthesis of your value-add hypothesis
+- Clear statement of the opportunity
+
+**Slide 2: Problem/Opportunity**
+
+- What challenge or opportunity have you identified?
+- Supporting evidence (data, trends, competitive dynamics)
+
+**Slide 3: Proposed Approach**
+
+- How would you structure the work?
+- Key workstreams or analyses
+
+**Slide 4: Expected Impact**
+
+- What value could this create? (revenue, cost, strategic)
+- How would you measure success?
+
+**Slide 5: Why Now / Why Us**
+
+- Why is this the right time to act?
+- What makes this actionable?
+
+**Grading Rubric**
+
+| Component | Points |
+|-----------|--------|
+| Problem/opportunity is clearly defined and compelling | 15 |
+| Approach is structured and logical (MECE) | 15 |
+| Expected impact is quantified where possible | 10 |
+| Slides follow Pyramid Principle (answer-first) | 10 |
+| **Total** | **50** |
+
+---
+
+### Capstone Proposal {#capstone-proposal}
+
+**Points**: 100 (20% of grade)
+
+**Due**: Week 14
+
+**Team**: Teams of 3
+
+**Deliverable**: 15-20 slide deck + 10-minute presentation
+
+**Overview**
+
+The Capstone Proposal is your culminating project. Your team will develop a full consulting proposal for a target company, integrating all the skills you've built throughout the semester.
+
+**Requirements**
+
+**Deck (80 points)**
+
+Produce a 15-20 slide consulting proposal:
+
+1. **Executive Summary** (1 slide): Synthesis of your recommendation
+2. **Situation Overview** (2-3 slides): Company context, industry dynamics, key challenges
+3. **Problem Definition** (2 slides): The specific issue you're addressing, supported by data
+4. **Analysis** (4-5 slides): Your analytical work (market sizing, benchmarks, frameworks)
+5. **Recommendations** (3-4 slides): Specific, actionable recommendations with supporting rationale
+6. **Implementation Roadmap** (2 slides): How the company would execute
+7. **Expected Impact** (1-2 slides): Quantified value creation
+
+**Presentation (20 points)**
+
+Deliver a 10-minute presentation of your proposal followed by 5 minutes of Q&A.
+
+**Grading Rubric**
+
+| Component | Points |
+|-----------|--------|
+| Executive summary is compelling and clear | 10 |
+| Situation analysis demonstrates deep understanding | 15 |
+| Problem is well-defined with supporting evidence | 15 |
+| Analysis is rigorous and MECE | 20 |
+| Recommendations are specific and actionable | 15 |
+| Implementation and impact are realistic | 5 |
+| Presentation delivery is professional and clear | 15 |
+| Q&A responses demonstrate deep knowledge | 5 |
+| **Total** | **100** |
+
+---
+
+## Feedback Surveys
+
+### Mid-Semester Feedback Survey
+
+If you complete this survey, we will take your lowest TA Pod Engagement score component and convert it to a perfect score.
+
+[Survey Link - TBD]
+
+### Student Ratings
+
+If you complete the official student ratings survey at the end of the semester, we will add 5 bonus points to your final grade.

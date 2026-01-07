@@ -1,0 +1,96 @@
+---
+title: "The Consultant's OS"
+---
+
+*A professional operating system for solving problems, delivering work, and creating impact—in recruiting and in client engagements.*
+
+## What is the Consultant's OS?
+
+The Consultant's OS is the mental operating system that drives performance at top consulting firms. It's not a single framework—it's a complete way of thinking, working, and communicating that you can apply to any professional challenge.
+
+This course teaches you the OS so you can:
+
+1. **Land an offer** through networking, resume building, and interview preparation
+2. **Deliver real impact** by building consulting proposals and pitch decks using outside-in analysis
+
+The same OS that helps you structure a case interview helps you structure a client recommendation. The same approach that helps you network effectively helps you build trust with stakeholders.
+
+## The Four Imperatives
+
+The Consultant's OS is organized around four imperatives—fundamental questions that drive every piece of consulting work:
+
+| Imperative | Guiding Question |
+|:-----------|:-----------------|
+| **Think Clearly** | Are we solving the right problem in the right way? |
+| **Get to the Right Answer** | What do the facts and data actually say? |
+| **Move Work Forward** | Is the work actually progressing toward a decision? |
+| **Create Impact with People** | Do people understand, trust, and act on this work? |
+
+Each imperative contains specific **core actions**—the concrete behaviors that consultants practice until they become automatic.
+
+## The Eight Toolkit Components
+
+As you practice the core actions, you develop eight interconnected skills that firms evaluate during recruiting:
+
+| Component | What It Means |
+|:----------|:--------------|
+| **Structured Problem-Solving** | Decompose ambiguous problems using MECE logic and hypothesis-driven thinking |
+| **Analytics & Modeling** | Build models in Excel; synthesize data into insights; estimate with confidence |
+| **Clear Communication** | Apply the Pyramid Principle; write action-titled slides; deliver crisp verbal updates |
+| **Workstream Ownership** | Manage analyses from start to finish; deliver quality work on deadline |
+| **Tolerance for Ambiguity** | Navigate uncertainty; make progress without complete information |
+| **Client Hands** | Interact professionally with senior stakeholders; build trust through credibility |
+| **Teamwork & Collaboration** | Collaborate across team structures; give and receive feedback effectively |
+| **Coachability** | Incorporate feedback rapidly; demonstrate growth through iteration |
+
+These aren't separate skills to learn in isolation—they emerge naturally as you practice the core actions within each imperative.
+
+## How This Course Uses the OS
+
+Each chapter in "The Four Imperatives" section covers one imperative in depth:
+
+- **Think Clearly**: Problem definition, framing, hypothesis development, MECE structures
+- **Get to the Right Answer**: Research, estimation, analysis, synthesis
+- **Move Work Forward**: Workplanning, execution, managing ambiguity
+- **Create Impact with People**: Storylines, communication, stakeholder management, feedback
+
+For each core action, you'll see how it applies to:
+
+- **Recruiting**: How this action helps you land an offer
+- **Client work**: How this action helps you deliver impact
+
+## The McKinsey 7-Step Problem-Solving Process
+
+The OS core actions align with McKinsey's classic 7-step process:
+
+| Step | Description | OS Imperative |
+|:----:|:------------|:--------------|
+| 0 | Diagnose the current state | Think Clearly |
+| 1 | Define the problem | Think Clearly |
+| 2 | Structure the problem (MECE) | Think Clearly |
+| 3 | Prioritize issues | Think Clearly |
+| 4 | Plan the work | Move Work Forward |
+| 5 | Conduct analyses | Get to the Right Answer |
+| 6 | Synthesize findings | Get to the Right Answer / Create Impact |
+| 7 | Communicate recommendations | Create Impact with People |
+
+Throughout this course, core actions aligned to these steps are annotated with **(0)** through **(7)**.
+
+## Symbols Used in This Course
+
+| Symbol | Meaning |
+|:-------|:--------|
+| **(n)** | McKinsey 7-Step Problem-Solving Process step number |
+| 🔺 | Pyramid Principle (top-down, answer-first logic) |
+| ◯ ◯ | MECE / Venn logic (complete, non-overlapping structure) |
+
+## Your OS Starts Now
+
+You don't wait until you're at a firm to start using the OS. You start now:
+
+- **Structure your resume** using the same logic you'd use for a client recommendation
+- **Research companies** for networking using the same outside-in approach you'd use for a diagnostic
+- **Practice cases** using the same hypothesis-driven thinking you'd use on an engagement
+- **Build your capstone** using the same storyline and communication principles you'd use for a steering committee
+
+The OS is how you'll work for the rest of your career. This course is where you install it.

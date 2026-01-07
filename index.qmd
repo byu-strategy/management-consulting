@@ -62,25 +62,9 @@ AI is not a separate topic—it's how you'll apply every skill in this course. F
 
 ## Schedule
 
-**Semester:** January 8 – April 16, 2026 (15 weeks)
+**Semester:** January 7 – April 15, 2026 (15 weeks)
 
-| Week | Dates | Tuesday | Thursday | Notes |
-|------|-------|---------|----------|-------|
-| 1 | Jan 8 | — | Syllabus, What is Consulting, Team Formation | |
-| 2 | Jan 13-15 | Industry Landscape | **AI Workflow Intro** | 🎤 Guest: Consultant |
-| 3 | Jan 20-22 | **AI for Consultants** (hands-on) | 7-Step Process + MECE | AI readings due |
-| 4 | Jan 27-29 | Pyramid Principle | Slide Writing Workshop | |
-| 5 | Feb 3-5 | Excel & Estimation | Market Sizing Practice | |
-| 6 | Feb 10-12 | Networking Strategy | Resume Workshop | 🎤 Guest: Recruiter |
-| 7 | Feb 17-19 | Case Fundamentals | Framework Practice | |
-| 8 | Feb 24-26 | Outside-In Analysis | **Project 1 Due** + Workshop | |
-| 9 | Mar 3-5 | Competitive Benchmarking | Advanced Casing | |
-| 10 | Mar 10-12 | Behavioral Prep | **Project 2 Due** + Story Workshop | 🎤 Guest: First-Year |
-| 11 | Mar 17-19 | Value-Add Hypothesis | Project 3 Workshop | *1 class missed* |
-| 12 | Mar 24-26 | Workplanning & Execution | **Project 3 Due** + AI Deep Dive | 🎤 Guest: Senior |
-| 13 | Mar 31-Apr 2 | Capstone Work Session | Capstone Presentations | |
-| 14 | Apr 7-9 | Capstone Presentations | First-Year Prep | |
-| 15 | Apr 14-16 | Course Wrap | **IN-CLASS FINAL** | |
+See the [full schedule](00-schedule.qmd) for weekly topics, reading quizzes, and assignment due dates.
 
 ## Projects (Freemium Consulting)
 
