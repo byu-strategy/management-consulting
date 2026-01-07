@@ -67,7 +67,7 @@ AI is not a separate topic—it's how you'll apply every skill in this course. F
 
 See the [full schedule](00-schedule.qmd) for weekly topics, reading quizzes, and assignment due dates.
 
-## Projects (Freemium Consulting)
+## Client Work Projects
 
 Projects are progressive—each builds on the last:
 
@@ -84,10 +84,10 @@ You choose your target company. All projects expect AI-assisted research and ana
 
 | Category | Weight | Components |
 |----------|--------|------------|
-| **Applied Projects** | 45% | P1 (10%), P2 (10%), P3 (10%), Capstone (15%) |
-| **Interview Prep** | 30% | Case log (10%), Behavioral stories (5%), Networking tracker (5%), Mock interviews (10%) |
-| **Participation** | 15% | Class engagement, workshops, peer feedback |
-| **Exercises** | 10% | Weekly skill-building assignments |
+| **Applied Projects** | 50% | P1 (10%), P2 (10%), P3 (10%), Capstone (20%) |
+| **Interview Prep** | 30% | Resume & Networking (10%), Case log (10%), Behavioral stories (10%) |
+| **Reading Quizzes** | 10% | 10 quizzes × 5 points each |
+| **Participation** | 10% | TA pod engagement, workshops, peer feedback |
 
 ### Grading Scale
 
@@ -105,8 +105,6 @@ You choose your target company. All projects expect AI-assisted research and ana
 | D | 63–66% | 1.0 |
 | D- | 60–62% | 0.7 |
 | E | Below 60% | 0.0 |
-
-The course is **not curved**. Every student can earn an A.
 
 ### Late Work Policy
 
@@ -155,7 +153,7 @@ Your TA is your primary resource for feedback, coaching, and support.
 
 ## Instructor Bio
 
-Scott Murff is an Associate Teaching Professor of Strategy at the BYU Marriott School of Business, where he also serves as program director and teaches courses on business strategy, decision-making, and artificial intelligence. He brings over 15 years of experience at the intersection of business and technology, having worked as a consultant, product manager, and data scientist.
+Scott Murff is an Associate Teaching Professor of Strategy at the BYU Marriott School of Business, where he also serves as program director and teaches courses on management consulting, product management, and artificial intelligence. He brings over 15 years of experience at the intersection of business and technology, having worked as a consultant, product manager, and data scientist.
 
 Prior to joining BYU, Scott spent nearly seven years at McKinsey & Company in roles ranging from analytics specialist consultant to principal product manager, where he led product development and performance management initiatives for Fortune 500 clients.
 

@@ -1,5 +1,5 @@
 ---
-title: "Create Impact with People"
+title: "4. Create Impact with People"
 ---
 
 **Guiding Question:** Do people understand, trust, and act on this work?
@@ -8,7 +8,7 @@ The fourth imperative is where consulting becomes real. Your analysis only creat
 
 ## Core Actions
 
-### Craft a storyline that links insights to the decision **(6)** 🔺
+### 4.1 Craft a storyline that links insights to the decision **(6)** 🔺
 
 *Toolkit: Clear Communication*
 
@@ -46,7 +46,7 @@ Start with the answer, then support it with evidence.
 - **D**ifferentiation: What made your approach unique?
 - **E**vidence: Quantify where possible
 
-### Communicate with clear logic, explicit trade-offs, and executive brevity **(7)** 🔺
+### 4.2 Communicate with clear logic, explicit trade-offs, and executive brevity **(7)** 🔺
 
 *Toolkit: Clear Communication*
 
@@ -76,7 +76,7 @@ Executives are busy. Communicate with clarity and concision.
 
 If you were interrupted after 30 seconds, would they know your main point? Structure every communication so the answer comes first.
 
-### Tailor messages to senior audiences and stakeholder concerns **(7)** 🔺
+### 4.3 Tailor messages to senior audiences and stakeholder concerns **(7)** 🔺
 
 *Toolkit: Client Hands*
 
@@ -102,7 +102,7 @@ Different audiences need different messages. Know your stakeholders.
 3. Frame recommendations in their terms
 4. Address objections before they're raised
 
-### Build trust by demonstrating judgment, reliability, and empathy
+### 4.4 Build trust by demonstrating judgment, reliability, and empathy
 
 *Toolkit: Client Hands*
 
@@ -125,7 +125,7 @@ $$Trust = \frac{Credibility + Reliability + Intimacy}{Self\text{-}Orientation}$$
 | **Intimacy** | Listen; remember personal details; be human |
 | **Low Self-Orientation** | Focus on their success, not your credit |
 
-### Prewire stakeholders before formal presentations
+### 4.5 Prewire stakeholders before formal presentations
 
 *Toolkit: Client Hands*
 
@@ -143,7 +143,7 @@ Never surprise stakeholders in a meeting. Prewire your recommendations.
 4. **Build support**: Convert skeptics before the room
 5. **No surprises**: Everyone should know what's coming
 
-### Navigate difficult conversations and deliver hard messages constructively
+### 4.6 Navigate difficult conversations and deliver hard messages constructively
 
 *Toolkit: Client Hands*
 
@@ -163,7 +163,7 @@ Sometimes you have to tell people things they don't want to hear.
 
 - "I understand you've invested heavily in this product line (Yes). The data shows it's not recovering—we recommend sunsetting it (No). This frees resources to invest in your highest-growth segments (Yes)."
 
-### Coordinate effectively across team members to present a unified narrative
+### 4.7 Coordinate effectively across team members to present a unified narrative
 
 *Toolkit: Teamwork & Collaboration*
 
@@ -180,7 +180,7 @@ In consulting, you rarely present alone. Teams must be aligned.
 3. **Support each other**: No contradictions or surprises
 4. **One voice**: Consistent framing and recommendations
 
-### Actively solicit feedback and adjust
+### 4.8 Actively solicit feedback and adjust
 
 *Toolkit: Coachability*
 

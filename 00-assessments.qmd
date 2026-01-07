@@ -9,8 +9,9 @@ The following assessments will be used to measure progress towards learning outc
 
 | Type | Description | % of Grade | Points | Learning Outcome(s) Assessed |
 |------|-------------|------------|--------|------------------------------|
-| Participation | [TA Pod Engagement](#ta-pod-engagement) | 15% | 75 | 1, 4 |
-| Interview Prep | [Resume & Networking](#resume-and-networking) | 15% | 75 | 5 |
+| Quizzes | [Reading Quizzes (10)](#reading-quizzes) | 10% | 50 | 1, 2, 3 |
+| Participation | [TA Pod Engagement](#ta-pod-engagement) | 10% | 50 | 1, 4 |
+| Interview Prep | [Resume & Networking](#resume-and-networking) | 10% | 50 | 5 |
 | Interview Prep | [Case Practice Log](#case-practice-log) | 10% | 50 | 1, 5 |
 | Interview Prep | [Behavioral Stories (PARADE)](#behavioral-stories) | 10% | 50 | 3, 5 |
 | Project | [Company Diagnostic (1-page)](#company-diagnostic) | 10% | 50 | 1, 2 |
@@ -35,11 +36,50 @@ Table of Learning Outcomes
 
 ---
 
+## Reading Quizzes {#reading-quizzes}
+
+**Points**: 50 (10% of grade)
+
+**Overview**
+
+Reading quizzes ensure you come to class prepared and have internalized core concepts before applying them. Quizzes are administered on **Thursdays** and cover that week's readings.
+
+**Requirements**
+
+- 10 quizzes throughout the semester (5 points each)
+- Quizzes are due at the **start of class** on Thursday
+- Cover the assigned readings for that week's OS concept
+- No quizzes on weeks when major projects are due (P1, P2, P3)
+
+**Quiz Topics**
+
+| Quiz | Week | Date | Topic |
+|:-----|:----:|:-----|:------|
+| 1 | 2 | Th Jan 16 | The Consulting Industry |
+| 2 | 3 | Th Jan 23 | Diagnosis & The Consultant's OS |
+| 3 | 4 | Th Jan 30 | Problem Definition & Framing |
+| 4 | 5 | Th Feb 6 | Hypotheses & MECE |
+| 5 | 6 | Th Feb 13 | Outside-In Research |
+| 6 | 7 | Th Feb 20 | Market Sizing & Estimation |
+| 7 | 9 | Th Mar 6 | Synthesis & Workplanning |
+| 8 | 11 | Th Mar 20 | Pyramid Principle & Storylining |
+| 9 | 13 | Th Apr 3 | Stakeholder Management & Trust |
+| 10 | 14 | Th Apr 10 | Executive Communication |
+
+**Grading Rubric**
+
+| Component | Points |
+|-----------|--------|
+| 10 quizzes × 5 points each | 50 |
+| **Total** | **50** |
+
+---
+
 ## Participation
 
 ### TA Pod Engagement {#ta-pod-engagement}
 
-**Points**: 75 (15% of grade)
+**Points**: 50 (10% of grade)
 
 **Overview**
 
@@ -56,13 +96,13 @@ Your TA pod is your home base for the semester. Active engagement with your pod 
 
 | Component | Points |
 |-----------|--------|
-| Goals Chat completed | 15 |
-| Feedback Session 1 attended | 10 |
-| Feedback Session 2 attended | 10 |
-| Feedback Session 3 attended | 10 |
-| Feedback Session 4 attended | 10 |
-| Active participation in pod activities | 20 |
-| **Total** | **75** |
+| Goals Chat completed | 10 |
+| Feedback Session 1 attended | 8 |
+| Feedback Session 2 attended | 8 |
+| Feedback Session 3 attended | 8 |
+| Feedback Session 4 attended | 8 |
+| Active participation in pod activities | 8 |
+| **Total** | **50** |
 
 ---
 
@@ -70,7 +110,7 @@ Your TA pod is your home base for the semester. Active engagement with your pod 
 
 ### Resume & Networking {#resume-and-networking}
 
-**Points**: 75 (15% of grade)
+**Points**: 50 (10% of grade)
 
 **Overview**
 
@@ -78,7 +118,7 @@ A consulting-ready resume and active networking are essential for landing interv
 
 **Requirements**
 
-**Resume (50 points)**
+**Resume (35 points)**
 
 Submit two versions of your resume throughout the semester:
 
@@ -92,7 +132,7 @@ Your resume should:
 - Use strong action verbs and demonstrate leadership
 - Be error-free and professionally formatted
 
-**Networking Tracker (25 points)**
+**Networking Tracker (15 points)**
 
 Maintain a networking tracker documenting your outreach throughout the semester:
 
@@ -104,11 +144,11 @@ Maintain a networking tracker documenting your outreach throughout the semester:
 
 | Component | Points |
 |-----------|--------|
-| Resume v1 submitted on time | 15 |
-| Resume v2 reflects meaningful improvement | 25 |
+| Resume v1 submitted on time | 10 |
+| Resume v2 reflects meaningful improvement | 15 |
 | Resume is "client-ready" (error-free, professional) | 10 |
-| Networking tracker with 10+ documented conversations | 25 |
-| **Total** | **75** |
+| Networking tracker with 10+ documented conversations | 15 |
+| **Total** | **50** |
 
 ---
 
@@ -197,7 +237,7 @@ Submit a document containing all 5 behavioral stories formatted using PARADE.
 
 ---
 
-## Freemium Consulting Projects
+## Client Work Projects
 
 These four progressive projects build your consulting skills while creating tangible work products you can use in recruiting.
 
@@ -298,7 +338,7 @@ Produce a 3-slide deck:
 
 **Overview**
 
-Working in pairs, you'll develop a hypothesis for how consulting could create value for one of your target companies. This is the core of "freemium consulting"—demonstrating insight that could lead to an engagement.
+Working in pairs, you'll develop a hypothesis for how consulting could create value for one of your target companies. This is the core of client development—demonstrating insight that could lead to an engagement.
 
 **Requirements**
 

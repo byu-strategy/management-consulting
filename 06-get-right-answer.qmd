@@ -1,5 +1,5 @@
 ---
-title: "Get to the Right Answer"
+title: "2. Get to the Right Answer"
 ---
 
 **Guiding Question:** What do the facts and data actually say?
@@ -8,7 +8,7 @@ The second imperative is about finding truth. You've structured the problem—no
 
 ## Core Actions
 
-### Design analyses to confirm or falsify priority hypotheses **(5)** 🔺
+### 2.1 Design analyses to confirm or falsify priority hypotheses **(5)** 🔺
 
 *Toolkit: Analytics & Modeling*
 
@@ -25,7 +25,7 @@ Don't just gather data—design specific analyses that will prove or disprove yo
 3. **Consider alternatives**: What would disconfirm your hypothesis?
 4. **Be efficient**: What's the minimum analysis to decide?
 
-### Build an outside-in fact base using best-available data **(5)**
+### 2.2 Build an outside-in fact base using best-available data **(5)**
 
 *Toolkit: Analytics & Modeling*
 
@@ -56,7 +56,7 @@ $$Trust = \frac{Credibility + Reliability + Intimacy}{Self\text{-}Orientation}$$
 - **Intimacy**: Can they be vulnerable with you?
 - **Self-Orientation**: Are you in it for you or them?
 
-### State assumptions explicitly and identify appropriate proxies **(5)** ◯ ◯
+### 2.3 State assumptions explicitly and identify appropriate proxies **(5)** ◯ ◯
 
 *Toolkit: Analytics & Modeling*
 
@@ -74,7 +74,7 @@ You never have perfect data. Make your assumptions explicit so others can evalua
 - Identify which assumptions matter most (sensitivity)
 - Find proxies: "We don't have X, but Y is a reasonable proxy because..."
 
-### Perform back-of-envelope calculations to bound answers **(5)**
+### 2.4 Perform back-of-envelope calculations to bound answers **(5)**
 
 *Toolkit: Analytics & Modeling*
 
@@ -100,7 +100,7 @@ Before building complex models, do quick math to establish reasonable ranges.
 - Cups per day: ~2 = ~2M cups/day
 - Add commuters/tourists: +50% = ~3M cups/day
 
-### Build models and run sensitivities **(5)** ◯ ◯
+### 2.5 Build models and run sensitivities **(5)** ◯ ◯
 
 *Toolkit: Analytics & Modeling*
 
@@ -118,7 +118,7 @@ When more rigor is needed, build structured models and test how sensitive outcom
 4. **Highlight key drivers**: What moves the needle?
 5. **Run sensitivities**: What if assumptions are wrong?
 
-### Synthesize analytical results into clear answers to the decision **(6)** 🔺
+### 2.6 Synthesize analytical results into clear answers to the decision **(6)** 🔺
 
 *Toolkit: Clear Communication*
 

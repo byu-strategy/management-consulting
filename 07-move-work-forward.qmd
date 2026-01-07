@@ -1,5 +1,5 @@
 ---
-title: "Move Work Forward"
+title: "3. Move Work Forward"
 ---
 
 **Guiding Question:** Is the work actually progressing toward a decision?
@@ -8,7 +8,7 @@ The third imperative is about execution. Clear thinking and right answers mean n
 
 ## Core Actions
 
-### Translate hypotheses into a workplan with milestones **(4)** 🔺
+### 3.1 Translate hypotheses into a workplan with milestones **(4)** 🔺
 
 *Toolkit: Workstream Ownership*
 
@@ -36,7 +36,7 @@ Convert your structured thinking into a concrete plan with owners, deliverables,
 
 Start each day and week with explicit plans.
 
-### Own a workstream end-to-end
+### 3.2 Own a workstream end-to-end
 
 *Toolkit: Workstream Ownership*
 
@@ -56,7 +56,7 @@ Take full responsibility for your piece—from question to answer, not just task
 - ❌ Hand off incomplete work
 - ❌ Let things fall through cracks
 
-### Sequence work to deliver insight early
+### 3.3 Sequence work to deliver insight early
 
 *Toolkit: Workstream Ownership*
 
@@ -73,7 +73,7 @@ Structure your work to generate useful insights as early as possible—don't sav
 3. **Show progress**: Regular updates maintain confidence
 4. **Create options**: Early insights allow course correction
 
-### Reprioritize dynamically as new information emerges
+### 3.4 Reprioritize dynamically as new information emerges
 
 *Toolkit: Workstream Ownership*
 
@@ -90,7 +90,7 @@ The plan will change. Good consultants adapt without losing momentum.
 - Constraints shift (timeline, resources, scope)
 - Client feedback redirects focus
 
-### Identify risks, dependencies, and bottlenecks before they stall progress
+### 3.5 Identify risks, dependencies, and bottlenecks before they stall progress
 
 *Toolkit: Workstream Ownership*
 
@@ -109,7 +109,7 @@ Anticipate problems before they become crises.
 | **Stakeholder** | Decision-maker changes view | Prewire, get early input |
 | **Technical** | Model doesn't work | Test approach before building |
 
-### Manage up with concise updates
+### 3.6 Manage up with concise updates
 
 *Toolkit: Workstream Ownership*
 
@@ -129,7 +129,7 @@ Keep your manager informed with updates that surface what they need to know.
 
 Keep it brief. One page. One minute.
 
-### Advance work using best-available information, without waiting for certainty
+### 3.7 Advance work using best-available information, without waiting for certainty
 
 *Toolkit: Tolerance for Ambiguity*
 

@@ -7,60 +7,58 @@ Below is the planned daily schedule organized around the **Consultant's OS**. Ea
 
 ## Daily Schedule
 
-::: {.callout-warning}
+::: {.callout-note}
 **Feb 18 (Tuesday)** follows Monday instruction schedule per the academic calendar. No T/Th class meets that day.
 :::
 
 | Wk | # | Day | Date | Phase | Quiz | OS Core Action | Job Search | Client Work  | Deliverable |
 |:--:|:-:|:---:|:-----|:------|:-----|:---------------|:----------------------|:-----------------------|:------------|
 | 1 | 1 | Th | Jan 9 | **Foundation** | – | Introduction to the Consultant's OS | Understand why firms hire; target company research | Understand what consultants deliver; target company selection | Target Companies |
-| 2 | 2 | T | Jan 14 | Foundation | Quiz 1 | AI as Operating Amplifier | Use AI for firm research and networking prep | Introduction to Claude Code | – |
-| 2 | 3 | Th | Jan 16 | Foundation | – | AI as Operating Amplifier | AI-assisted company research workshop | Claude Code hands-on: analysis workflows | – |
-| 3 | 4 | T | Jan 21 | **Think Clearly** | Quiz 2 | Diagnose the current state **(0)** | Diagnose the firm's hiring needs; what do they look for? | Diagnose a company's strategic situation | – |
-| 3 | 5 | Th | Jan 23 | Think Clearly | – | Diagnose the current state **(0)** | Diagnose your current fit gaps; self-assessment | Diagnose root causes: why is performance what it is? | – |
-| 4 | 6 | T | Jan 28 | Think Clearly | Quiz 3 | Define the problem **(1)** | Define the gap between "you now" and "hireable you" | Define the client's problem: current vs. desired performance | – |
-| 4 | 7 | Th | Jan 30 | Think Clearly | – | Frame the problem **(1)** | Frame your recruiting decision set; what's in/out of scope | Frame the client's decision; success criteria and constraints | – |
-| 5 | 8 | T | Feb 4 | Think Clearly | Quiz 4 | State a Day-1 hypothesis **(3)** | Hypothesize: "I'm the right hire because X, Y, Z" | Hypothesize: "The company should do X because..." | – |
-| 5 | 9 | Th | Feb 6 | Think Clearly | – | Disaggregate into MECE issues **(2-3)** | Structure resume with MECE proof points | Build MECE issue tree to test hypothesis | Resume v1 |
-| 6 | 10 | T | Feb 11 | **Get to the Right Answer** | Quiz 5 | Build an outside-in fact base **(5)** | Research firms, roles, and people before outreach | Build fact base from filings, news, competitor data | – |
-| 6 | 11 | Th | Feb 13 | Get to the Right Answer | – | Build an outside-in fact base **(5)** | Networking: Trust Equation; research people before smoothie chats | Outside-in research workshop | – |
-| 7 | 12 | Th | Feb 20 | Get to the Right Answer | Quiz 6 | Market sizing and assumptions **(5)** | Case interviews: market sizing and estimation under pressure | Estimate opportunity sizes; making assumptions explicit | Resume v2 |
-| 8 | 13 | T | Feb 25 | Get to the Right Answer | Quiz 7 | Synthesize analytical results **(6)** | Case interviews: driving to a recommendation | Synthesize research into "so what" insights | – |
-| 8 | 14 | Th | Feb 27 | Get to the Right Answer | – | Synthesize into clear answers **(6)** | Case synthesis workshop | P1 workshop: synthesizing your diagnostic | **P1: Diagnostic** |
-| 9 | 15 | T | Mar 4 | **Move Work Forward** | Quiz 8 | Translate hypotheses into a workplan **(4)** | Build a recruiting workplan with milestones | Build a project workplan; structure your workstream | – |
-| 9 | 16 | Th | Mar 6 | Move Work Forward | – | Own a workstream end-to-end | Own your job search from outreach to offer | Own your analysis from question to answer | – |
-| 10 | 17 | T | Mar 11 | Move Work Forward | Quiz 9 | Advance the work without waiting for certainty | Case interviews: navigating ambiguous prompts | Make analytical calls with incomplete data | – |
-| 10 | 18 | Th | Mar 13 | Move Work Forward | – | Manage up with concise updates | Update your TA on recruiting progress | P2 workshop: competitive analysis with incomplete data | **P2: Benchmark** |
-| 11 | 19 | T | Mar 18 | **Create Impact** | Quiz 10 | Craft a storyline **(6)** | Behavioral stories: PARADE structure | Slide storylines: situation, complication, resolution | – |
-| 11 | 20 | Th | Mar 20 | Create Impact | – | Craft a storyline **(6)** | PARADE workshop: linking experience to role requirements | Building persuasive slide decks | – |
-| 12 | 21 | T | Mar 25 | Create Impact | Quiz 11 | Communicate with executive brevity **(7)** | Behavioral delivery: crisp, confident, 2-minute answers | Present recommendations concisely; lead with the answer | – |
-| 12 | 22 | Th | Mar 27 | Create Impact | – | Communicate with brevity **(7)** | Behavioral practice session | P3 workshop: executive-level presentations | **P3: Value-Add** |
-| 13 | 23 | T | Apr 1 | Create Impact | Quiz 12 | Build trust with stakeholders | Fit interviews: demonstrating character and judgment | Building trust with stakeholders | – |
-| 13 | 24 | Th | Apr 3 | Create Impact | – | Tailor to stakeholder concerns **(7)** | Handling difficult fit questions | Prewiring; navigating concerns; difficult conversations | Behavioral Stories |
-| 14 | 25 | T | Apr 8 | Create Impact | – | Actively solicit feedback and adjust | Mock interview feedback and iteration | Revise deliverables based on input | – |
-| 14 | 26 | Th | Apr 10 | Create Impact | – | Coordinate across team members | – | Capstone team coordination; unified narrative | – |
+| 2 | 2 | T | Jan 14 |  | – | AI as Operating Amplifier | Use AI for firm research and networking prep | Introduction to Claude Code | – |
+| 2 | 3 | Th | Jan 16 |  | Quiz 1 | AI as Operating Amplifier | AI-assisted company research workshop | Claude Code hands-on: analysis workflows | – |
+| 3 | 4 | T | Jan 21 | **Think Clearly** | – | Diagnose the current state **(0)** | Diagnose the firm's hiring needs; what do they look for? | Diagnose a company's strategic situation | – |
+| 3 | 5 | Th | Jan 23 |  | Quiz 2 | Diagnose the current state **(0)** | Diagnose your current fit gaps; self-assessment | Diagnose root causes: why is performance what it is? | – |
+| 4 | 6 | T | Jan 28 |  | – | Define the problem **(1)** | Define the gap between "you now" and "hireable you" | Define the client's problem: current vs. desired performance | – |
+| 4 | 7 | Th | Jan 30 |  | Quiz 3 | Frame the problem **(1)** | Frame your recruiting decision set; what's in/out of scope | Frame the client's decision; success criteria and constraints | – |
+| 5 | 8 | T | Feb 4 |  | – | State a Day-1 hypothesis **(3)** | Hypothesize: "I'm the right hire because X, Y, Z" | Hypothesize: "The company should do X because..." | – |
+| 5 | 9 | Th | Feb 6 |  | Quiz 4 | Disaggregate into MECE issues **(2-3)** | Structure resume with MECE proof points | Build MECE issue tree to test hypothesis | Resume v1 |
+| 6 | 10 | T | Feb 11 | **Get to the Right Answer** | – | Build an outside-in fact base **(5)** | Research firms, roles, and people before outreach | Build fact base from filings, news, competitor data | – |
+| 6 | 11 | Th | Feb 13 |  | Quiz 5 | Build an outside-in fact base **(5)** | Networking: Trust Equation; research people before smoothie chats | Outside-in research workshop | – |
+| 7 | 12 | Th | Feb 20 |  | Quiz 6 | Market sizing and assumptions **(5)** | Case interviews: market sizing and estimation under pressure | Estimate opportunity sizes; making assumptions explicit | Resume v2 |
+| 8 | 13 | T | Feb 25 |  | – | Synthesize analytical results **(6)** | Case interviews: driving to a recommendation | Synthesize research into "so what" insights | – |
+| 8 | 14 | Th | Feb 27 |  | – | Synthesize into clear answers **(6)** | Case synthesis workshop | P1 workshop: synthesizing your diagnostic | **P1: Diagnostic** |
+| 9 | 15 | T | Mar 4 | **Move Work Forward** | – | Translate hypotheses into a workplan **(4)** | Build a recruiting workplan with milestones | Build a project workplan; structure your workstream | – |
+| 9 | 16 | Th | Mar 6 |  | Quiz 7 | Own a workstream end-to-end | Own your job search from outreach to offer | Own your analysis from question to answer | – |
+| 10 | 17 | T | Mar 11 |  | – | Advance the work without waiting for certainty | Case interviews: navigating ambiguous prompts | Make analytical calls with incomplete data | – |
+| 10 | 18 | Th | Mar 13 |  | – | Manage up with concise updates | Update your TA on recruiting progress | P2 workshop: competitive analysis with incomplete data | **P2: Benchmark** |
+| 11 | 19 | T | Mar 18 | **Create Impact** | – | Craft a storyline **(6)** | Behavioral stories: PARADE structure | Slide storylines: situation, complication, resolution | – |
+| 11 | 20 | Th | Mar 20 |  | Quiz 8 | Craft a storyline **(6)** | PARADE workshop: linking experience to role requirements | Building persuasive slide decks | – |
+| 12 | 21 | T | Mar 25 |  | – | Communicate with executive brevity **(7)** | Behavioral delivery: crisp, confident, 2-minute answers | Present recommendations concisely; lead with the answer | – |
+| 12 | 22 | Th | Mar 27 |  | – | Communicate with brevity **(7)** | Behavioral practice session | P3 workshop: executive-level presentations | **P3: Value-Add** |
+| 13 | 23 | T | Apr 1 |  | – | Build trust with stakeholders | Fit interviews: demonstrating character and judgment | Building trust with stakeholders | – |
+| 13 | 24 | Th | Apr 3 |  | Quiz 9 | Tailor to stakeholder concerns **(7)** | Handling difficult fit questions | Prewiring; navigating concerns; difficult conversations | Behavioral Stories |
+| 14 | 25 | T | Apr 8 |  | – | Actively solicit feedback and adjust | Mock interview feedback and iteration | Revise deliverables based on input | – |
+| 14 | 26 | Th | Apr 10 |  | Quiz 10 | Coordinate across team members | – | Capstone team coordination; unified narrative | – |
 | 15 | 27 | T | Apr 15 | **Integration** | – | The Full OS in Action | – | Capstone Presentations; Course Wrap-Up | **Capstone** |
 
 ---
 
 ## Reading Quizzes
 
-Reading quizzes are due at the **start of class**. They cover the assigned readings for that week's OS concept. Note: Quiz 6 is on Thursday Feb 20 due to Monday instruction on Feb 18.
+Reading quizzes are due at the **start of class on Thursdays**. They cover the assigned readings for that week's OS concept. No quizzes on weeks when major projects (P1, P2, P3) are due.
 
 | Quiz | Date | Topic | Reading |
 |:-----|:-----|:------|:--------|
-| Quiz 1 | T Jan 14 | Consulting Industry | TBD |
-| Quiz 2 | T Jan 21 | Problem Definition | TBD |
-| Quiz 3 | T Jan 28 | Framing & Hypotheses | TBD |
-| Quiz 4 | T Feb 4 | MECE & Issue Trees | TBD |
-| Quiz 5 | T Feb 11 | Outside-In Research | TBD |
-| Quiz 6 | Th Feb 20 | Market Sizing | TBD |
-| Quiz 7 | T Feb 25 | Synthesis | TBD |
-| Quiz 8 | T Mar 4 | Workplanning | TBD |
-| Quiz 9 | T Mar 11 | Working with Ambiguity | TBD |
-| Quiz 10 | T Mar 18 | Pyramid Principle | TBD |
-| Quiz 11 | T Mar 25 | Executive Communication | TBD |
-| Quiz 12 | T Apr 1 | Stakeholder Management | TBD |
+| Quiz 1 | Th Jan 16 | The Consulting Industry | TBD |
+| Quiz 2 | Th Jan 23 | Diagnosis & The Consultant's OS | TBD |
+| Quiz 3 | Th Jan 30 | Problem Definition & Framing | TBD |
+| Quiz 4 | Th Feb 6 | Hypotheses & MECE | TBD |
+| Quiz 5 | Th Feb 13 | Outside-In Research | TBD |
+| Quiz 6 | Th Feb 20 | Market Sizing & Estimation | TBD |
+| Quiz 7 | Th Mar 6 | Synthesis & Workplanning | TBD |
+| Quiz 8 | Th Mar 20 | Pyramid Principle & Storylining | TBD |
+| Quiz 9 | Th Apr 3 | Stakeholder Management & Trust | TBD |
+| Quiz 10 | Th Apr 10 | Executive Communication | TBD |
 
 ---
 
