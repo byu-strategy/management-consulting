@@ -9,27 +9,28 @@ The following assessments will be used to measure progress towards learning outc
 
 | Type | Description | % of Grade | Points | Learning Outcome(s) Assessed |
 |------|-------------|------------|--------|------------------------------|
-| Participation | [TA Pod Engagement](#ta-pod-engagement) | 15% | 75 | 1,2,3 |
-| Interview Prep | [Resume & Networking](#resume-and-networking) | 15% | 75 | 3 |
-| Interview Prep | [Case Practice Log](#case-practice-log) | 10% | 50 | 1,3 |
-| Interview Prep | [Behavioral Stories (PARADE)](#behavioral-stories) | 10% | 50 | 2,3 |
-| Project | [Company Diagnostic (1-page)](#company-diagnostic) | 10% | 50 | 1,4 |
-| Project | [Competitive Benchmark (3-slide)](#competitive-benchmark) | 10% | 50 | 1,4 |
-| Project | [Value-Add Hypothesis (5-slide)](#value-add-hypothesis) | 10% | 50 | 1,2,4 |
-| Project | [Capstone Proposal (15-20 slide)](#capstone-proposal) | 20% | 100 | 1,2,4 |
+| Participation | [TA Pod Engagement](#ta-pod-engagement) | 15% | 75 | 1, 4 |
+| Interview Prep | [Resume & Networking](#resume-and-networking) | 15% | 75 | 5 |
+| Interview Prep | [Case Practice Log](#case-practice-log) | 10% | 50 | 1, 5 |
+| Interview Prep | [Behavioral Stories (PARADE)](#behavioral-stories) | 10% | 50 | 3, 5 |
+| Project | [Company Diagnostic (1-page)](#company-diagnostic) | 10% | 50 | 1, 2 |
+| Project | [Competitive Benchmark (3-slide)](#competitive-benchmark) | 10% | 50 | 1, 2, 3 |
+| Project | [Value-Add Hypothesis (5-slide)](#value-add-hypothesis) | 10% | 50 | 1, 2, 3 |
+| Project | [Capstone Proposal (15-20 slide)](#capstone-proposal) | 20% | 100 | 1, 2, 3, 4 |
 |  | **TOTAL** | **100%** | **500** |  |
 
 ::: {style="font-size:0.65em;"}
 **Notes**
 
-1. Table of Learning Outcomes
+Table of Learning Outcomes
 
-| Learning Outcome | Supported BYU Aims |
-|------------------|-------------------|
-| 1. Apply structured problem-solving frameworks (MECE, hypothesis-driven thinking, 80/20) to complex business problems | Intellectually Enlarging |
-| 2. Communicate effectively using the Pyramid Principle and executive-ready deliverables | Intellectually Enlarging, Lifelong Learning and Service |
-| 3. Navigate the consulting recruiting process through networking, resume optimization, and interview preparation | Lifelong Learning and Service |
-| 4. Conduct outside-in company analysis and develop value-add hypotheses | Intellectually Enlarging, Lifelong Learning and Service |
+| # | Learning Outcome | BYU Aims Supported |
+|:-:|:-----------------|:-------------------|
+| 1 | Apply the Consultant's OS to define and solve client problems using MECE logic, issue trees, and hypothesis-driven analysis | Intellectually Enlarging |
+| 2 | Use AI-assisted tools (e.g., Claude, Copilot) to gather outside-in insights, build models, and test hypotheses with transparency and integrity | Lifelong Learning and Service; Character Building |
+| 3 | Communicate clear, executive-level recommendations using the Pyramid Principle and visual slide design | Intellectually Enlarging; Character Building |
+| 4 | Demonstrate Christlike professionalism through humility, judgment, and trustworthiness in team and client interactions | Spiritually Strengthening; Character Building |
+| 5 | Prepare for consulting interviews and internships by articulating a clear value proposition through resumes, networking, and behavioral interviews | Lifelong Learning and Service; Spiritually Strengthening |
 :::
 
 ---

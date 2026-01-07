@@ -52,13 +52,13 @@ AI is not a separate topic—it's how you'll apply every skill in this course. F
 
 ## Learning Outcomes
 
-| Learning Outcome | Target BYU Aim(s) |
-|-----------------|-------------------|
-| Decompose complex business problems into structured, solvable components using consulting frameworks | Intellectually Enlarging |
-| Craft and deliver persuasive, structured communication tailored to client and team settings | Intellectually Enlarging; Character Building |
-| Practice principles of Christlike leadership, including integrity, humility, and service, in consulting settings | Spiritually Strengthening; Character Building |
-| Collaborate effectively in teams | Character Building |
-| Articulate how consulting skills can be used to render service to others | Spiritually Strengthening; Lifelong Learning and Service |
+| # | Learning Outcome | BYU Aims Supported |
+|:-:|:-----------------|:-------------------|
+| 1 | Apply the Consultant's OS to define and solve client problems using MECE logic, issue trees, and hypothesis-driven analysis | Intellectually Enlarging |
+| 2 | Use AI-assisted tools (e.g., Claude, Copilot) to gather outside-in insights, build models, and test hypotheses with transparency and integrity | Lifelong Learning and Service; Character Building |
+| 3 | Communicate clear, executive-level recommendations using the Pyramid Principle and visual slide design | Intellectually Enlarging; Character Building |
+| 4 | Demonstrate Christlike professionalism through humility, judgment, and trustworthiness in team and client interactions | Spiritually Strengthening; Character Building |
+| 5 | Prepare for consulting interviews and internships by articulating a clear value proposition through resumes, networking, and behavioral interviews | Lifelong Learning and Service; Spiritually Strengthening |
 
 ## Schedule
 
