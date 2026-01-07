@@ -27,7 +27,7 @@ Table of Learning Outcomes
 
 | # | Learning Outcome | BYU Aims Supported |
 |:-:|:-----------------|:-------------------|
-| 1 | Apply the Consultant's OS to define and solve client problems using MECE logic, issue trees, and hypothesis-driven analysis | Intellectually Enlarging |
+| 1 | Apply *The Consultant's OS* to define and solve client problems using MECE logic, issue trees, and hypothesis-driven analysis | Intellectually Enlarging |
 | 2 | Use AI-assisted tools (e.g., Claude, Copilot) to gather outside-in insights, build models, and test hypotheses with transparency and integrity | Lifelong Learning and Service; Character Building |
 | 3 | Communicate clear, executive-level recommendations using the Pyramid Principle and visual slide design | Intellectually Enlarging; Character Building |
 | 4 | Demonstrate Christlike professionalism through humility, judgment, and trustworthiness in team and client interactions | Spiritually Strengthening; Character Building |
@@ -56,7 +56,7 @@ Reading quizzes ensure you come to class prepared and have internalized core con
 | Quiz | Week | Date | Topic |
 |:-----|:----:|:-----|:------|
 | 1 | 2 | Th Jan 16 | The Consulting Industry |
-| 2 | 3 | Th Jan 23 | Diagnosis & The Consultant's OS |
+| 2 | 3 | Th Jan 23 | Diagnosis & *The Consultant's OS* |
 | 3 | 4 | Th Jan 30 | Problem Definition & Framing |
 | 4 | 5 | Th Feb 6 | Hypotheses & MECE |
 | 5 | 6 | Th Feb 13 | Outside-In Research |

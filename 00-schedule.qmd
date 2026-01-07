@@ -3,7 +3,7 @@ title: "Schedule"
 editor: visual
 ---
 
-Below is the planned daily schedule organized around the **Consultant's OS**. Each week introduces a core operating action and shows how students apply it to both recruiting and client work. Class meets **Tuesday/Thursday 12:30–1:45 PM**. Dates, topics, and assignments may adjust as needed.
+Below is the planned daily schedule organized around *The Consultant's OS*. Each week introduces a core operating action and shows how students apply it to both recruiting and client work. Class meets **Tuesday/Thursday 12:30–1:45 PM**. Dates, topics, and assignments may adjust as needed.
 
 ## Daily Schedule
 
@@ -13,7 +13,7 @@ Below is the planned daily schedule organized around the **Consultant's OS**. Ea
 
 | Wk | # | Day | Date | Phase | Quiz | OS Core Action | Job Search | Client Work  | Deliverable |
 |:--:|:-:|:---:|:-----|:------|:-----|:---------------|:----------------------|:-----------------------|:------------|
-| 1 | 1 | Th | Jan 9 | **Foundation** | – | Introduction to the Consultant's OS | Understand why firms hire; target company research | Understand what consultants deliver; target company selection | Target Companies |
+| 1 | 1 | Th | Jan 9 | **Foundation** | – | Introduction to *The Consultant's OS* | Understand why firms hire; target company research | Understand what consultants deliver; target company selection | Target Companies |
 | 2 | 2 | T | Jan 14 |  | – | AI as Operating Amplifier | Use AI for firm research and networking prep | Introduction to Claude Code | – |
 | 2 | 3 | Th | Jan 16 |  | Quiz 1 | AI as Operating Amplifier | AI-assisted company research workshop | Claude Code hands-on: analysis workflows | – |
 | 3 | 4 | T | Jan 21 | **Think Clearly** | – | Diagnose the current state **(0)** | Diagnose the firm's hiring needs; what do they look for? | Diagnose a company's strategic situation | – |
@@ -50,7 +50,7 @@ Reading quizzes are due at the **start of class on Thursdays**. They cover the a
 | Quiz | Date | Topic | Reading |
 |:-----|:-----|:------|:--------|
 | Quiz 1 | Th Jan 16 | The Consulting Industry | TBD |
-| Quiz 2 | Th Jan 23 | Diagnosis & The Consultant's OS | TBD |
+| Quiz 2 | Th Jan 23 | Diagnosis & *The Consultant's OS* | TBD |
 | Quiz 3 | Th Jan 30 | Problem Definition & Framing | TBD |
 | Quiz 4 | Th Feb 6 | Hypotheses & MECE | TBD |
 | Quiz 5 | Th Feb 13 | Outside-In Research | TBD |

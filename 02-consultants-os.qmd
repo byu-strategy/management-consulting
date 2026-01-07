@@ -4,7 +4,7 @@ title: "The Consultant's OS"
 
 *A professional operating system for solving problems, delivering work, and creating impact, both in recruiting and in client engagements.*
 
-## What is the Consultant's OS?
+## What is *The Consultant's OS*?
 
 *The Consultant's OS* is the behavioral operating system that drives performance at top consulting firms. It's not a single framework but a complete way of thinking, working, and communicating that you can apply to any professional challenge.
 
@@ -15,7 +15,7 @@ This course teaches you *The Consultant's OS* and you will apply it to two conte
 
 The same OS that helps you structure a case interview helps you structure a client recommendation. The same approach that helps you network effectively helps you build trust with stakeholders.
 
-At the heart of the Consultant's OS is structured problem-solving. McKinsey's 7-step process is among the most influential problem-solving frameworks in consulting, and variations of it appear across firms and business schools.
+At the heart of *The Consultant's OS* is structured problem-solving. McKinsey's 7-step process is among the most influential problem-solving frameworks in consulting, and variations of it appear across firms and business schools.
 
 ## The McKinsey 7-Step Problem-Solving Process
 
@@ -32,9 +32,9 @@ At the heart of the Consultant's OS is structured problem-solving. McKinsey's 7-
 
 Throughout this course, we build on the 7-step process. Core actions aligned to specific steps are annotated with **(0)** through **(7)**.
 
-But problem-solving is only part of the story. The Consultant's OS extends beyond analytical rigor to include the professional behaviors that turn good analysis into real impact: owning your work, navigating ambiguity, building trust, and communicating with clarity. These capabilities are what separate consultants who deliver insight from those who drive change.
+But problem-solving is only part of the story. *The Consultant's OS* extends beyond analytical rigor to include the professional behaviors that turn good analysis into real impact: owning your work, navigating ambiguity, building trust, and communicating with clarity. These capabilities are what separate consultants who deliver insight from those who drive change.
 
-Two foundational concepts appear throughout the Consultant's OS: the Pyramid Principle for communication and MECE for structure. You'll see these referenced with symbols in the core actions.
+Two foundational concepts appear throughout *The Consultant's OS*: the Pyramid Principle for communication and MECE for structure. You'll see these referenced with symbols in the core actions.
 
 ## The Pyramid Principle
 
@@ -54,7 +54,7 @@ MECE is the gold standard for structuring problems. **Mutually Exclusive** means
 
 ## The Four Imperatives
 
-The Consultant's OS is organized around four imperatives. The imperitive call upon you to answer the four fundamental questions that drive every piece of consulting work:
+*The Consultant's OS* is organized around four imperatives. The imperitive call upon you to answer the four fundamental questions that drive every piece of consulting work:
 
 | Imperative | Guiding Question |
 |:-----------|:-----------------|

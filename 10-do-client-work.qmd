@@ -2,7 +2,7 @@
 title: "Do Client Work"
 ---
 
-This chapter brings together everything in the Consultant's OS as it applies to client work. Through your projects this semester, you'll practice being a consultant, not just learning about consulting.
+This chapter brings together everything in *The Consultant's OS* as it applies to client work. Through your projects this semester, you'll practice being a consultant, not just learning about consulting.
 
 ## The Consulting OS in Practice
 
