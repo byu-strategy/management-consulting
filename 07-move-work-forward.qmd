@@ -46,15 +46,18 @@ Take full responsibility for your piece, from question to answer, not just task 
 |:-----------------------|:------------------------|
 | Own your job search from outreach to offer, and don't wait for others to drive it | Own your analysis from question to answer because you're responsible for the insight, not just the spreadsheet |
 
-**What Ownership Looks Like:**
+**Ownership looks like:**
 
-- ✅ Anticipate what's needed before being asked
-- ✅ Flag risks and issues proactively
-- ✅ Deliver complete work, not half-finished drafts
-- ✅ Follow up on outstanding items
-- ❌ Wait for instructions
-- ❌ Hand off incomplete work
-- ❌ Let things fall through cracks
+- Anticipating what's needed before being asked
+- Flagging risks and issues proactively
+- Delivering complete work, not half-finished drafts
+- Following up on outstanding items
+
+**Ownership does not look like:**
+
+- Waiting for instructions
+- Handing off incomplete work
+- Letting things fall through cracks
 
 ### 3.3 Sequence for Early Insight
 

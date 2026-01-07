@@ -125,9 +125,9 @@ Throughout this course, AI is woven into every assignment:
 
 By the end of Week 2, you should be able to:
 
-1. ✅ Access Claude and have a basic conversation
-2. ✅ Use Claude to research a company
-3. ✅ Set up VS Code or Cursor on your laptop
-4. ✅ Run a basic analysis with AI assistance
+1. Access Claude and have a basic conversation
+2. Use Claude to research a company
+3. Set up VS Code or Cursor on your laptop
+4. Run a basic analysis with AI assistance
 
 Come to class ready to demonstrate your setup.

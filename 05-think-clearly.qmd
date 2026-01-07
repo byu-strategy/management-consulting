@@ -45,8 +45,8 @@ A problem is a gap between where you are and where you want to be. A well-define
 
 **Example:**
 
-- ❌ "We need to grow"
-- ✅ "Revenue has declined 15% over 2 years while the market grew 5%; we need to identify the root causes and develop a plan to return to market growth rates within 18 months"
+- **Weak:** "We need to grow"
+- **Strong:** "Revenue has declined 15% over 2 years while the market grew 5%; we need to identify the root causes and develop a plan to return to market growth rates within 18 months"
 
 ### 1.3 Frame the Problem **(1)** 🔺
 
