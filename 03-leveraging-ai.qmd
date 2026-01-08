@@ -19,7 +19,7 @@ AI doesn't replace the OS but makes each action faster and more powerful.
 
 ## Tools You'll Use
 
-### Claude (Anthropic)
+### Claude, ChatGPT, Gemini
 
 Your primary AI assistant for:
 
@@ -56,6 +56,64 @@ Try these starter exercises:
 2. **Structure building**: "Help me create a MECE issue tree for [problem]"
 3. **Case practice**: "Give me a market sizing question and walk through it with me"
 
+::: {.callout-tip collapse="true"}
+## Session 2 Activity: AI as Your Operating Amplifier {#session-2}
+
+### Recruiting: AI-powered networking prep
+
+Use AI to prepare for networking conversations by researching the person and firm before you reach out.
+
+```bash
+Help me prepare for a networking conversation with a consultant:
+
+**Person I'm Meeting**
+- Name: [NAME]
+- Firm: [FIRM NAME]
+- Role: [TITLE]
+- LinkedIn profile: [URL or key details]
+
+**Prep Questions**
+1. What does this person's career path tell me about what they value?
+2. What are 3 thoughtful questions I could ask that show I've done my homework?
+3. What aspects of my background might resonate with their experience?
+4. What's happening at their firm right now that I should know about?
+
+**Conversation Goals**
+Help me identify:
+- 1-2 specific things I want to learn from this conversation
+- How I can be helpful or interesting to them (not just ask for things)
+- A natural way to follow up after the conversation
+```
+
+### Client Work: Intro to Claude Code: 10-K analysis
+
+Learn to use AI to analyze financial filings and extract key insights from your target company's 10-K.
+
+```bash
+Help me analyze the 10-K filing for [COMPANY NAME]:
+
+**Company Overview**
+1. What does the company describe as its core business?
+2. What are the key segments and what % of revenue does each represent?
+3. What does management highlight as key competitive advantages?
+
+**Financial Analysis**
+4. What are the 3-year trends in revenue, gross margin, and operating margin?
+5. What are the largest expense categories and how are they trending?
+6. What does the cash flow statement tell us about the business model?
+
+**Risk Factors**
+7. What risks does management highlight as most significant?
+8. Are there any risks that seem understated or missing?
+
+**Management Discussion**
+9. What is management's narrative about the company's performance?
+10. What strategic priorities do they emphasize for the coming year?
+
+Summarize the key takeaways in 3-5 bullet points.
+```
+:::
+
 ## AI-Assisted Consulting Actions
 
 ### Think Clearly with AI
@@ -88,6 +146,89 @@ Try these starter exercises:
 | Craft storylines | Structure Pyramid Principle arguments |
 | Communicate with brevity | Edit for conciseness, strengthen logic |
 | Prepare for stakeholders | Anticipate questions, practice responses |
+
+::: {.callout-tip collapse="true"}
+## Session 3 Activity: AI Workflows & Team Norms {#session-3}
+
+### Recruiting: Build detailed firm research profile
+
+Use AI to build a comprehensive research profile on your target firms, going deeper than surface-level information.
+
+```bash
+Help me build a detailed research profile for [FIRM NAME]:
+
+**Firm Deep Dive**
+1. What is their official value proposition and how do they differentiate from competitors?
+2. What are their key practice areas and industry focuses?
+3. What notable projects or client work have they publicized recently?
+4. Who are their key leaders and what backgrounds do they have?
+
+**Culture and People**
+5. What do Glassdoor/Fishbowl reviews say about the culture (patterns, not outliers)?
+6. What do LinkedIn profiles of recent hires tell us about who they value?
+7. What do current employees post about on LinkedIn?
+
+**Recruiting Intelligence**
+8. When do they typically recruit? What's their timeline?
+9. What's their interview process? How many rounds?
+10. What types of cases do they tend to give?
+
+**My Fit Assessment**
+Based on all this research:
+- Where am I a strong fit?
+- Where do I have gaps to address?
+- What should I emphasize in conversations with this firm?
+
+Compile into a 2-page firm profile I can reference.
+```
+
+### Client Work: Create structured company analysis template
+
+Use AI to create a reusable template for analyzing companies throughout your project.
+
+```bash
+Help me create a structured analysis template for [COMPANY NAME] that I can use throughout the semester:
+
+**Company Profile Template**
+Create sections for:
+
+1. **Company Overview**
+   - Business description
+   - Key products/services
+   - Geographic footprint
+   - Ownership structure
+
+2. **Financial Summary**
+   - Revenue and growth trends (5-year)
+   - Profitability metrics
+   - Key financial ratios
+   - Capital structure
+
+3. **Strategic Position**
+   - Market position and share
+   - Key competitors
+   - Competitive advantages
+   - Strategic challenges
+
+4. **Industry Context**
+   - Market size and growth
+   - Key trends
+   - Regulatory environment
+   - Disruption risks
+
+5. **Management and Governance**
+   - Key executives
+   - Recent strategic decisions
+   - Stated priorities
+
+6. **Investment Thesis / Key Questions**
+   - Bull case
+   - Bear case
+   - Key uncertainties to resolve
+
+Make this a template I can populate and update as I gather more information.
+```
+:::
 
 ## AI Ethics and Professional Standards
 
@@ -125,8 +266,8 @@ Throughout this course, AI is woven into every assignment:
 
 By the end of Week 2, you should be able to:
 
-1. Access Claude and have a basic conversation
-2. Use Claude to research a company
+1. Access Claude Code within VS Code
+2. Use Claude Code or other AIs to research a company
 3. Set up VS Code or Cursor on your laptop
 4. Run a basic analysis with AI assistance
 

@@ -1,0 +1,141 @@
+/*-- scss:defaults --*/
+// BYU Brand Colors
+$sidebar-bg: #ffffff;
+$sidebar-fg: #4b5563;
+$sidebar-hl: #0057B8;
+
+// Link colors
+$link-color: #00509e;
+
+/*-- scss:rules --*/
+
+// ===== Sidebar Navigation =====
+#quarto-sidebar {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+// Book title in sidebar
+#quarto-sidebar .sidebar-title {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #002E5D;
+  line-height: 1.25;
+  margin-bottom: 0.75rem;
+}
+
+// Section headers (Course Info, Foundation, etc.)
+#quarto-sidebar .sidebar-item-section > .sidebar-item-text,
+#quarto-sidebar .sidebar-item-section > a > .sidebar-item-text {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #002E5D;
+  border-bottom: 1px solid #e5e7eb;
+  padding-bottom: 0.15rem;
+  margin-top: 1rem;
+  margin-bottom: 0.2rem;
+  display: block;
+}
+
+// Chapter/page links - FORCE small size
+#quarto-sidebar .sidebar-item .sidebar-item-text,
+#quarto-sidebar .sidebar-item a,
+#quarto-sidebar .sidebar-navigation .sidebar-item-text {
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #4b5563;
+  text-transform: none;
+  letter-spacing: normal;
+  line-height: 1.35;
+}
+
+// Hover state
+#quarto-sidebar .sidebar-item:hover .sidebar-item-text,
+#quarto-sidebar a:hover .sidebar-item-text {
+  color: #0057B8;
+}
+
+// Active state
+#quarto-sidebar .sidebar-item.active .sidebar-item-text,
+#quarto-sidebar .active .sidebar-item-text {
+  color: #0057B8;
+  font-weight: 500;
+}
+
+// Compact spacing
+#quarto-sidebar .sidebar-item {
+  padding: 0.15rem 0;
+  margin: 0;
+}
+
+#quarto-sidebar ul,
+#quarto-sidebar li,
+#quarto-sidebar .sidebar-item-container {
+  margin: 0;
+  padding: 0;
+}
+
+// Collapse icons
+#quarto-sidebar .bi {
+  font-size: 0.6rem;
+  color: #9ca3af;
+}
+
+// Search box
+#quarto-sidebar .sidebar-search {
+  margin-bottom: 0.75rem;
+}
+
+#quarto-sidebar input[type="search"],
+#quarto-sidebar input[type="text"] {
+  font-size: 0.75rem;
+  padding: 0.35rem 0.5rem;
+}
+
+// ===== Right TOC (On this page) =====
+#toc-title,
+.toc-title {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #002E5D;
+  margin-bottom: 0.5rem;
+}
+
+#TOC,
+.toc {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 0.75rem;
+}
+
+#TOC a,
+.toc a,
+#TOC li,
+.toc li {
+  color: #4b5563;
+  line-height: 1.35;
+  padding: 0.1rem 0;
+  margin: 0;
+}
+
+#TOC ul,
+.toc ul {
+  margin: 0;
+  padding-left: 0.75rem;
+}
+
+#TOC a:hover,
+.toc a:hover {
+  color: #0057B8;
+}
+
+#TOC .active a,
+.toc .active a,
+#TOC a.active,
+.toc a.active {
+  color: #0057B8;
+  font-weight: 500;
+}

@@ -36,6 +36,92 @@ Convert your structured thinking into a concrete plan with owners, deliverables,
 
 Start each day and week with explicit plans.
 
+::: {.callout-tip collapse="true"}
+## Session 15 Activity: Create a Workplan {#session-15}
+
+### Recruiting: Build recruiting workplan with milestones
+
+Create a comprehensive recruiting workplan with specific milestones and deadlines.
+
+```bash
+Help me build a recruiting workplan for the next [X weeks/months]:
+
+**My Recruiting Goals**
+- Target firms: [List your target firms by tier]
+- Target timeline: [When do applications open? Close?]
+- Current status: [Where am I now?]
+
+**Workstream 1: Networking**
+- Target contacts per week:
+- Key milestones:
+- Specific actions by week:
+
+**Workstream 2: Resume**
+- Key milestones (v1, v2, final):
+- Feedback cycles planned:
+- Deadlines:
+
+**Workstream 3: Case Practice**
+- Target cases per week:
+- Practice partners:
+- Milestones (# of cases, mock interviews):
+
+**Workstream 4: Applications**
+- Application deadlines by firm:
+- Materials needed for each:
+- Prep timeline:
+
+**Weekly POW Template**
+Create a template I can use each week with:
+- This week's priority tasks
+- Status on each workstream
+- Risks or blockers
+- Help needed
+```
+
+### Client Work: Build project workplan: analyses, data, timeline
+
+Create a workplan for your semester project with clear deliverables and deadlines.
+
+```bash
+Help me build a project workplan for [COMPANY NAME]:
+
+**Project Goals**
+- Final deliverable: Capstone Presentation
+- Intermediate deliverables: P1 (diagnostic), P2 (benchmark), P3 (hypothesis)
+- Key constraints: [Timeline, team size, data access]
+
+**Workstream Structure**
+For each deliverable, define:
+
+1. **P1: Company Diagnostic (Due: Week 8)**
+   - Key analyses needed:
+   - Data sources to gather:
+   - Milestones by week:
+
+2. **P2: Competitive Benchmark (Due: Week 10)**
+   - Key analyses needed:
+   - Data sources to gather:
+   - Milestones by week:
+
+3. **P3: Value-Add Hypothesis (Due: Week 12)**
+   - Key analyses needed:
+   - Data sources to gather:
+   - Milestones by week:
+
+4. **Capstone (Due: Week 15)**
+   - Integration work needed:
+   - Presentation prep:
+   - Milestones:
+
+**Dependencies**
+What needs to be done before what? Flag critical path items.
+
+**Risk Register**
+What could go wrong? What's the mitigation?
+```
+:::
+
 ### 3.2 Own Your Workstream {#os-3-2}
 
 *Take full responsibility from question to answer*
@@ -58,6 +144,84 @@ Take full responsibility for your piece, from question to answer, not just task 
 - Waiting for instructions
 - Handing off incomplete work
 - Letting things fall through cracks
+
+::: {.callout-tip collapse="true"}
+## Session 16 Activity: Own Your Workstream {#session-16}
+
+### Recruiting: Own job search—audit progress, build accountability
+
+Audit your recruiting progress and build systems for accountability.
+
+```bash
+Help me audit and own my recruiting job search:
+
+**Progress Audit**
+For each workstream, assess where I am:
+
+1. **Networking**
+   - Conversations completed: [#]
+   - Target: [#]
+   - Quality of conversations: [High/Medium/Low]
+   - Follow-ups pending: [List]
+
+2. **Resume**
+   - Current version: [v1/v2/final]
+   - Feedback received: [Yes/No]
+   - Action items remaining: [List]
+
+3. **Case Practice**
+   - Cases completed: [#]
+   - Target: [#]
+   - Areas of strength: [List]
+   - Areas for improvement: [List]
+
+4. **Applications**
+   - Deadlines coming up: [List]
+   - Materials ready: [Yes/No]
+   - Gaps to fill: [List]
+
+**Ownership Gaps**
+- What's falling through the cracks?
+- Where am I waiting for others instead of driving?
+- What am I avoiding?
+
+**Accountability System**
+Help me design:
+- Weekly check-in structure
+- Tracking system for progress
+- Commitment devices to stay on track
+```
+
+### Client Work: Practice status updates—own the insight, not just tasks
+
+Practice giving status updates that demonstrate ownership of insights, not just task completion.
+
+```bash
+Help me practice owning my workstream through status updates:
+
+**Current Project Status**
+[Describe where you are on your current deliverable]
+
+**Reframe: From Tasks to Insights**
+Instead of: "I completed the financial analysis"
+Practice: "The financial analysis revealed [insight] which means [implication]"
+
+**Status Update Exercise**
+Write a 5-bullet status update for your TA/manager:
+1. **Status**: [On track / At risk / Behind]
+2. **Key Insight**: What have you learned?
+3. **Progress**: What did you accomplish (framed as insights gained)?
+4. **Issues**: What's blocking you?
+5. **Next Steps**: What will you deliver next?
+
+**Feedback**
+Review my update:
+- Does it show ownership of the answer, not just tasks?
+- Is the insight clear and actionable?
+- Would a manager feel informed and confident?
+- What would make this update stronger?
+```
+:::
 
 ### 3.3 Sequence for Early Insight {#os-3-3}
 
@@ -132,6 +296,89 @@ Keep your manager informed with updates that surface what they need to know.
 
 Keep it brief. One page. One minute.
 
+::: {.callout-tip collapse="true"}
+## Session 18 Activity: Manage Up {#session-18}
+
+### Recruiting: Prepare concise TA update
+
+Practice managing up by preparing a concise update for your TA.
+
+```bash
+Help me prepare a concise update for my TA:
+
+**My Current Status**
+[Brief description of where you are in recruiting]
+
+**Draft Update**
+Using the 5-part structure, draft my update:
+
+1. **Status**: Am I on track, at risk, or behind on:
+   - Networking:
+   - Resume:
+   - Case practice:
+   - Overall timeline:
+
+2. **Progress**: What have I accomplished since our last check-in?
+   - [Specific accomplishments]
+
+3. **Issues**: What's blocking me or causing concern?
+   - [Specific blockers]
+
+4. **Asks**: What do I need help with?
+   - [Specific requests]
+
+5. **Next Steps**: What will I focus on next?
+   - [Specific priorities]
+
+**Format Check**
+- Is this under 1 page / 1 minute to deliver?
+- Am I being specific, not vague?
+- Am I surfacing issues, not hiding them?
+- Am I proposing solutions, not just problems?
+
+**Practice Delivery**
+Help me refine this to be crisp and confident.
+```
+
+### Client Work: P2 workshop—competitive benchmark
+
+Apply managing up skills while working on your P2 Competitive Benchmark deliverable.
+
+```bash
+Help me prepare my P2 Competitive Benchmark for [COMPANY NAME]:
+
+**P2 Requirements**
+3-slide deck:
+1. Competitive Landscape
+2. Benchmark Analysis
+3. Strategic Implications
+
+**Slide 1: Competitive Landscape**
+- Who are 2-3 key competitors?
+- How should I visualize market positioning?
+- What's the right framing for this slide's message?
+
+**Slide 2: Benchmark Analysis**
+- What 4-6 metrics should I compare?
+- How do I present this visually (table vs. chart)?
+- What's the action title for this slide?
+
+**Slide 3: Strategic Implications**
+- What are the key insights from the benchmark?
+- Where is my target company winning vs. losing?
+- What does this mean for strategy?
+
+**Feedback on Draft**
+[Paste your draft slides or key content]
+
+Review my P2:
+- Is my competitor selection justified?
+- Are my metrics relevant and well-researched?
+- Are my slides executive-ready?
+- Are my strategic insights meaningful?
+```
+:::
+
 ### 3.7 Move Without Certainty {#os-3-7}
 
 *Progress with best-available information*
@@ -154,6 +401,70 @@ Perfect information never arrives. Move forward with what you have.
 **The 80/20 Rule:**
 
 You can often get 80% of the insight with 20% of the work. Know when "good enough" is good enough.
+
+::: {.callout-tip collapse="true"}
+## Session 17 Activity: Move Without Certainty {#session-17}
+
+### Recruiting: Case—navigate ambiguous prompts
+
+Practice making progress on ambiguous case prompts without asking for more data.
+
+```bash
+Help me practice moving without certainty in a case:
+
+**Exercise Setup**
+Give me an ambiguous case prompt—one where important information is missing or unclear.
+
+**My Approach**
+[I'll work through this and share my approach]
+
+**Feedback Questions**
+Once I share my approach:
+1. Did I make reasonable assumptions (stated explicitly)?
+2. Did I keep moving instead of freezing?
+3. Did I identify what information would change my answer?
+4. Did I use ranges/sensitivities appropriately?
+5. Did I avoid false precision?
+
+**Follow-Up Pressure**
+Give me a follow-up that increases ambiguity or uncertainty. Help me practice staying confident while acknowledging limitations.
+```
+
+### Client Work: Make analytical calls with incomplete data
+
+Practice making analytical calls when you don't have all the data you'd like.
+
+```bash
+Help me practice making analytical calls with incomplete data:
+
+**My Current Analysis**
+[Describe an analysis you're working on where you're missing data]
+
+**What I Have**
+- Available data: [List]
+- Data I wish I had: [List]
+- Proxies I could use: [List]
+
+**Making the Call**
+Help me:
+1. **State assumptions explicitly**: What am I assuming in the absence of data?
+2. **Use reasonable proxies**: What similar data can I use?
+3. **Bound the answer**: What's the range of possible outcomes?
+4. **Identify the sensitivity**: What assumptions matter most?
+5. **Note the limitations**: What caveats should I include?
+
+**Draft Analysis**
+Based on available information, my conclusion is [X] because [reasons].
+Key assumptions: [List]
+Confidence level: [High/Medium/Low]
+What would change this: [List]
+
+**Feedback**
+- Is my approach reasonable given the constraints?
+- Am I being appropriately humble about uncertainty?
+- Am I still making progress toward an answer?
+```
+:::
 
 ## Putting It Together
 

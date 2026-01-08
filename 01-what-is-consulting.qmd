@@ -190,9 +190,174 @@ For BYU sophomores targeting summer 2027 internships:
 
 | Timeline | Activity |
 |----------|----------|
-| **Fall 2026** | Start networking, join MCA, research firms |
-| **Winter 2027** | This course! Resume building, case practice, active networking |
-| **Spring 2027** | Applications open at many firms, continue networking |
-| **Summer 2027** | Peak recruiting season, interviews |
+| **Fall 2025** | Start networking, join MCA, research firms |
+| **Winter 2026** | This course! Resume building, case practice, active networking |
+| **Spring 2026** | Applications open at many firms, continue networking |
+| **Summer 2026** | Peak recruiting season, interviews |
 
 Early engagement matters. Start networking now, even if applications seem far away.
+
+::: {.callout-tip collapse="true"}
+## Session 1 Activity: Getting Started {#session-1}
+
+### Recruiting: Research Target Firms
+
+Your first task is to understand the consulting landscape and identify firms that match your interests and goals. Using what you learned about firm types (MBB, Big Four, boutiques), research 2-3 firms you're considering.
+
+```bash
+I'm starting to research consulting firms for recruiting. Help me build a profile of [FIRM NAME]:
+
+**Firm Basics**
+1. What type of firm is this? (MBB, Big Four, boutique, other)
+2. What industries or functions do they specialize in?
+3. How large are they? (approximate headcount, office locations)
+
+**Value Proposition**
+4. What do they say makes them different from competitors?
+5. What's their reputation in the market? What are they known for?
+6. What types of projects or clients do they emphasize?
+
+**Hiring Criteria**
+7. What do they say they look for in candidates? (check careers page)
+8. What's their typical hiring process and timeline?
+9. Do they recruit from BYU? If so, how many hires typically per year?
+
+**Fit Assessment**
+10. Based on this profile, what excites me about this firm?
+11. What concerns or questions do I have?
+12. How does this firm compare to others I'm considering?
+
+Compile this into a 1-page firm profile I can reference throughout recruiting.
+```
+
+### Client Work: Select Your Target Company
+
+For your semester project, you'll analyze a real company using outside-in research. Today, evaluate whether a company you're interested in is a good fit for the project.
+
+```bash
+I'm selecting a company for a semester-long consulting analysis project. Help me evaluate [COMPANY NAME] as a potential target:
+
+**Data Availability Check**
+1. Is this company publicly traded? (I need access to 10-Ks, earnings calls, investor presentations)
+2. If private, is there sufficient public information available? (news, industry reports, competitor filings)
+3. What data sources can I access for this company?
+
+**Project Suitability**
+4. What industry are they in? Who are their main competitors?
+5. Are there visible strategic challenges or opportunities I could analyze?
+6. Is this company complex enough to sustain a semester of analysis, but not so large that it's overwhelming?
+
+**Personal Interest**
+7. Why am I interested in this company?
+8. Do I have any prior knowledge or connection to this industry?
+
+**Recommendation**
+Based on this evaluation, is this a good target company for my project? If not, what type of company should I look for instead?
+```
+
+**Good Target Company Criteria:**
+
+- Publicly traded (best) or well-covered private company
+- Clear industry with identifiable competitors
+- Visible strategic questions (growth, competition, transformation)
+- Size: Large enough to have rich data, small enough to understand
+:::
+
+::: {.callout-tip collapse="true"}
+## Session 27 Activity: The Full OS in Action {#session-27}
+
+### Recruiting: Course reflection & next steps
+
+Reflect on your journey through *The Consultant's OS* and plan your next steps in recruiting.
+
+```bash
+Help me reflect on my recruiting journey and plan next steps:
+
+**OS Skills Assessment**
+Rate my progress on each imperative (1-5, where 5 = job-ready):
+
+**Think Clearly**
+- Problem structuring: [1-5]
+- Hypothesis development: [1-5]
+- MECE thinking: [1-5]
+
+**Get to the Right Answer**
+- Market sizing: [1-5]
+- Research and synthesis: [1-5]
+- Estimation under pressure: [1-5]
+
+**Move Work Forward**
+- Working with ambiguity: [1-5]
+- Managing time and priorities: [1-5]
+
+**Create Impact**
+- Behavioral stories: [1-5]
+- Confident delivery: [1-5]
+- Executive communication: [1-5]
+
+**Recruiting Progress Summary**
+- Networking conversations completed:
+- Cases practiced:
+- Resume status:
+- Target firms:
+- Application timeline:
+
+**Gaps to Close**
+Based on my assessment, what are my top 3 areas to improve before real interviews?
+
+**Summer/Next Steps Plan**
+- If I have offers: How will I prepare for Day 1?
+- If I'm still recruiting: What's my plan for the next recruiting cycle?
+- Ongoing development: How will I continue building these skills?
+
+**Lessons Learned**
+- What was most valuable about this course?
+- What would I do differently if starting over?
+- What advice would I give to next year's students?
+```
+
+### Client Work: Capstone Presentations
+
+Present your capstone and demonstrate the full OS in action.
+
+```bash
+Help me prepare for my capstone presentation:
+
+**Pre-Presentation Checklist**
+
+**Storyline**
+- [ ] Our main recommendation is crystal clear
+- [ ] The SCQA flow makes sense
+- [ ] Every slide has an action title
+- [ ] The "so what" is obvious
+
+**Team Coordination**
+- [ ] Everyone knows their section
+- [ ] Handoffs are smooth and practiced
+- [ ] We have consistent messaging
+- [ ] We've rehearsed with timing
+
+**Q&A Preparation**
+- [ ] We've listed the 10 hardest questions we might get
+- [ ] We know who answers what
+- [ ] We have backup data ready
+- [ ] We've practiced handling pushback
+
+**Delivery**
+- [ ] Each person knows their key points cold
+- [ ] We're making eye contact, not reading slides
+- [ ] Our pace is appropriate (not rushing)
+- [ ] We sound confident but not arrogant
+
+**Last-Minute Polish**
+What final improvements should we make to the deck or our delivery?
+
+**Post-Presentation Reflection**
+After presenting:
+- What went well?
+- What would we do differently?
+- What feedback did we receive?
+- How did we demonstrate *The Consultant's OS*?
+```
+:::
+

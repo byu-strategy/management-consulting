@@ -46,6 +46,177 @@ Start with the answer, then support it with evidence.
 - **D**ifferentiation: What made your approach unique?
 - **E**vidence: Quantify where possible
 
+::: {.callout-tip collapse="true"}
+## Session 19 Activity: Storylines—Pyramid & SCQA {#session-19}
+
+### Recruiting: PARADE structure—build first behavioral story
+
+Build your first complete behavioral story using the PARADE framework.
+
+```bash
+Help me build my first PARADE behavioral story:
+
+**Story Context**
+Choose one of these competencies for your first story:
+- Leadership/Initiative
+- Problem-Solving
+- Teamwork
+- Overcoming Challenges
+- Impact/Achievement
+
+I'll focus on: [CHOOSE ONE]
+
+**My Experience**
+[Describe a specific experience briefly]
+
+**PARADE Structure**
+Help me structure this using PARADE:
+
+**P - Problem/Context** (2-3 sentences)
+What was the situation? What was at stake?
+
+**A - Action** (3-5 sentences)
+What specific actions did YOU take? (Use "I" not "we")
+
+**R - Result** (1-2 sentences)
+What was the outcome? Quantify if possible.
+
+**A - Application** (1 sentence)
+How does this relate to consulting?
+
+**D - Differentiation** (1 sentence)
+What made your approach unique?
+
+**E - Evidence** (quantify)
+What numbers demonstrate the impact?
+
+**Feedback**
+- Is this story compelling?
+- Is it the right length (2-3 minutes)?
+- Does it demonstrate the competency clearly?
+- What would make it stronger?
+```
+
+### Client Work: SCQA—structure your analysis storyline
+
+Use SCQA to structure the storyline for your analysis.
+
+```bash
+Help me structure my analysis storyline using SCQA:
+
+**My Analysis Topic**
+[Describe the analysis or recommendation you're presenting]
+
+**SCQA Framework**
+
+**S - Situation** (What the audience already knows)
+- Company context:
+- Market context:
+- What's familiar/accepted:
+
+**C - Complication** (What changed or what's the tension)
+- The problem or opportunity:
+- Why this matters now:
+- The tension or conflict:
+
+**Q - Question** (What we need to decide)
+- The specific question we're answering:
+- Why this question matters:
+
+**A - Answer** (Our recommendation)
+- The recommendation:
+- Key supporting points (3 max):
+
+**Story Arc**
+Write a 3-sentence version of my storyline:
+1. [Situation + Complication in one sentence]
+2. [Question implied or stated]
+3. [Answer with key support]
+
+**Feedback**
+- Is the complication compelling?
+- Is the question clear and answerable?
+- Does the answer follow logically?
+```
+:::
+
+::: {.callout-tip collapse="true"}
+## Session 20 Activity: Build Your Story Bank {#session-20}
+
+### Recruiting: PARADE workshop—develop 5 stories across competencies
+
+Build out your complete story bank with 5 stories covering different competencies.
+
+```bash
+Help me build my story bank with 5 PARADE stories:
+
+**Story Bank Planning**
+I need stories covering:
+1. Leadership/Initiative
+2. Problem-Solving
+3. Teamwork/Collaboration
+4. Overcoming Challenges
+5. Impact/Achievement
+
+**My Experiences**
+[List 5-7 potential experiences to choose from]
+
+**Story Selection**
+Help me:
+1. Match each experience to the best competency
+2. Avoid using the same experience twice
+3. Ensure variety (work, school, extracurricular)
+4. Select the most compelling story for each
+
+**Story Development**
+For each story, help me develop the PARADE structure:
+[We'll work through each one]
+
+**Cross-Check**
+- Do my stories overlap? (Different competencies should feel distinct)
+- Are they the right length? (2-3 minutes each)
+- Do they collectively paint a compelling picture of me as a candidate?
+- What gaps remain in my story bank?
+```
+
+### Client Work: Build persuasive slides with action titles
+
+Practice writing action titles and building persuasive slides.
+
+```bash
+Help me build persuasive slides with action titles:
+
+**My Key Findings**
+[List 3-5 key findings from your analysis]
+
+**Action Title Practice**
+For each finding, write an action title:
+
+Finding 1: [Your finding]
+- Weak title: [Topic-based title]
+- Action title: [Conclusion-based title]
+
+Finding 2: [Your finding]
+- Weak title: [Topic-based title]
+- Action title: [Conclusion-based title]
+
+[Continue for all findings]
+
+**Slide Structure**
+For your most important finding, design a complete slide:
+- Action title: [Conclusion]
+- Key message: [One sentence supporting the title]
+- Evidence: [Data/chart/proof]
+- So what: [Implication for the client]
+
+**Feedback**
+- Do my action titles state conclusions?
+- Would an executive understand the point in 5 seconds?
+- Is the evidence compelling?
+- Does the slide support the storyline?
+```
+:::
+
 ### 4.2 Communicate with Executive Brevity **(7)** 🔺 {#os-4-2}
 
 *Lead with the answer, support with evidence*
@@ -76,6 +247,174 @@ Executives are busy. Communicate with clarity and concision.
 
 If you were interrupted after 30 seconds, would they know your main point? Structure every communication so the answer comes first.
 
+::: {.callout-tip collapse="true"}
+## Session 21 Activity: Executive Brevity {#session-21}
+
+### Recruiting: Behavioral delivery—crisp 2-minute answers
+
+Practice delivering your behavioral stories with crisp, confident, 2-minute answers.
+
+```bash
+Help me practice delivering behavioral stories with executive brevity:
+
+**My Story**
+[Paste one of your PARADE stories]
+
+**Delivery Practice**
+
+1. **Time Check**
+   - Read the story aloud and time yourself
+   - Target: 2-2.5 minutes
+   - If over, what can I cut?
+
+2. **Opening Hook**
+   - Can I start with a compelling first sentence?
+   - Draft 3 alternative openings
+
+3. **Answer-First Structure**
+   - Does my story lead with the key point?
+   - Rewrite the opening to front-load the result
+
+4. **Crisp Language**
+   - Find 5 phrases to tighten
+   - Remove filler words and hedging language
+
+**Delivery Feedback**
+Rate my story on:
+- Clarity (1-5): Is the point obvious?
+- Confidence (1-5): Does it sound assured?
+- Brevity (1-5): Is every word necessary?
+- Impact (1-5): Is it memorable?
+
+What one change would most improve delivery?
+```
+
+### Client Work: Present recommendations—30-sec and 2-min versions
+
+Practice presenting your recommendations at different lengths for different contexts.
+
+```bash
+Help me practice presenting recommendations at executive length:
+
+**My Recommendation**
+[State your key recommendation from your project]
+
+**30-Second Version (Elevator Pitch)**
+If I only had 30 seconds with an executive:
+- What's the one sentence summary?
+- What's the key number or proof point?
+- What's the call to action?
+
+Draft my 30-second version:
+[Practice]
+
+**2-Minute Version (Status Update)**
+If I had 2 minutes in a meeting:
+- Opening: Answer first (15 sec)
+- Support 1: Key evidence (30 sec)
+- Support 2: Key evidence (30 sec)
+- Support 3: Key evidence (30 sec)
+- Close: Action/next steps (15 sec)
+
+Draft my 2-minute version:
+[Practice]
+
+**Feedback**
+- Do both versions lead with the answer?
+- Is the 30-second version memorable?
+- Does the 2-minute version have clear structure?
+- What should I cut or emphasize?
+```
+:::
+
+::: {.callout-tip collapse="true"}
+## Session 22 Activity: Confident Delivery {#session-22}
+
+### Recruiting: Behavioral interview simulation
+
+Practice a full behavioral interview with AI feedback.
+
+```bash
+Simulate a behavioral interview for me:
+
+**Interview Context**
+- Target firm type: [MBB / Big Four / Boutique]
+- Role: [Analyst / Associate]
+- Interview round: [Fit / Behavioral]
+
+**Interview Simulation**
+Ask me 5 behavioral questions, one at a time:
+1. Start with a standard opener (e.g., "Walk me through your resume")
+2. Then ask 4 competency-based questions
+3. Wait for my answer before asking the next question
+
+**My Answers**
+[I'll respond to each question]
+
+**Feedback After Each Answer**
+For each response, give me:
+- Strength: What worked well?
+- Improvement: What could be better?
+- Follow-up: What would an interviewer probe on?
+
+**Overall Assessment**
+After all 5 questions:
+- Where am I strongest?
+- Where do I need work?
+- Did I come across as confident and authentic?
+- What would make my answers more compelling?
+```
+
+### Client Work: P3 workshop—5-slide executive presentation
+
+Apply communication principles to create your P3 Value-Add Hypothesis presentation.
+
+```bash
+Help me create my P3 Value-Add Hypothesis presentation for [COMPANY NAME]:
+
+**P3 Requirements**
+5-slide deck:
+1. Executive Summary
+2. Problem/Opportunity
+3. Proposed Approach
+4. Expected Impact
+5. Why Now / Why Us
+
+**Slide-by-Slide Development**
+
+**Slide 1: Executive Summary**
+- One-slide synthesis of my hypothesis
+- Action title stating the recommendation
+- Key supporting points
+
+**Slide 2: Problem/Opportunity**
+- What challenge/opportunity have I identified?
+- What evidence supports it?
+- Action title for this slide:
+
+**Slide 3: Proposed Approach**
+- How would I structure the work?
+- Key workstreams or analyses
+- Action title for this slide:
+
+**Slide 4: Expected Impact**
+- What value could this create?
+- How would we measure success?
+- Action title for this slide:
+
+**Slide 5: Why Now / Why Us**
+- Why is this the right time?
+- What makes this actionable?
+- Action title for this slide:
+
+**Feedback**
+- Do all my action titles state conclusions?
+- Does the storyline flow logically?
+- Is each slide executive-ready?
+- What's missing or weak?
+```
+:::
+
 ### 4.3 Tailor to Stakeholders **(7)** 🔺 {#os-4-3}
 
 *Different audiences need different messages*
@@ -102,6 +441,91 @@ Different audiences need different messages. Know your stakeholders.
 3. Frame recommendations in their terms
 4. Address objections before they're raised
 
+::: {.callout-tip collapse="true"}
+## Session 24 Activity: Tailor & Handle Pushback {#session-24}
+
+### Recruiting: Handle difficult fit questions with poise
+
+Practice handling difficult or unexpected behavioral questions with confidence.
+
+```bash
+Help me practice handling difficult fit interview questions:
+
+**Difficult Question Types**
+1. Weakness questions: "What's your biggest weakness?"
+2. Failure questions: "Tell me about a time you failed"
+3. Conflict questions: "Tell me about a time you disagreed with a superior"
+4. Pressure questions: "Why should we hire you over other candidates?"
+5. Curveball questions: "What would you do if you had unlimited budget?"
+
+**Practice Session**
+Give me one difficult question at a time. I'll answer, then get feedback.
+
+**My Response Framework**
+For each answer:
+- Stay calm and composed
+- Answer honestly but strategically
+- Show self-awareness and growth
+- Keep it brief (1-2 minutes)
+
+**Feedback**
+For each response:
+- Did I maintain poise?
+- Was my answer honest without being damaging?
+- Did I show growth or learning?
+- What would make this stronger?
+
+**Common Traps**
+Help me avoid:
+- Being too negative about myself
+- Blaming others
+- Giving non-answers
+- Going too long
+```
+
+### Client Work: Prewiring practice; Yes-No-Yes for objections
+
+Practice prewiring stakeholders and handling objections using the Yes-No-Yes framework.
+
+```bash
+Help me practice prewiring and handling objections:
+
+**My Recommendation**
+[State your key recommendation]
+
+**Stakeholder Mapping**
+Who needs to be aligned before presenting?
+- Stakeholder 1: [Role, what they care about, likely concerns]
+- Stakeholder 2: [Role, what they care about, likely concerns]
+- Stakeholder 3: [Role, what they care about, likely concerns]
+
+**Prewiring Plan**
+For each stakeholder:
+- What will I share with them in advance?
+- What questions will I ask to get their input?
+- How will I incorporate their feedback?
+
+**Anticipated Objections**
+List 3-4 likely objections to your recommendation:
+1. [Objection]
+2. [Objection]
+3. [Objection]
+
+**Yes-No-Yes Responses**
+For each objection, prepare a response:
+
+Objection 1: [State objection]
+- YES (affirm): [Acknowledge their concern]
+- NO (redirect): [Address the issue directly]
+- YES (path forward): [Offer constructive way forward]
+
+[Continue for each objection]
+
+**Role Play**
+Let's practice: Give me one objection at a time and I'll respond using Yes-No-Yes.
+```
+:::
+
 ### 4.4 Build Trust {#os-4-4}
 
 *Demonstrate judgment, reliability, and empathy*
@@ -124,6 +548,86 @@ $$Trust = \frac{Credibility + Reliability + Intimacy}{Self\text{-}Orientation}$$
 | **Reliability** | Do what you say; meet deadlines; follow up |
 | **Intimacy** | Listen; remember personal details; be human |
 | **Low Self-Orientation** | Focus on their success, not your credit |
+
+::: {.callout-tip collapse="true"}
+## Session 23 Activity: Build Trust {#session-23}
+
+### Recruiting: Fit interviews—demonstrate character & judgment
+
+Prepare for fit interviews by demonstrating character, judgment, and cultural alignment.
+
+```bash
+Help me prepare to demonstrate character and judgment in fit interviews:
+
+**Character Dimensions**
+Consulting firms evaluate:
+- Integrity: Do you do the right thing?
+- Judgment: Do you make good decisions?
+- Humility: Can you admit mistakes?
+- Resilience: How do you handle adversity?
+- Curiosity: Are you genuinely interested in learning?
+
+**Story Mapping**
+For each dimension, identify a story that demonstrates it:
+- Integrity story: [Brief description]
+- Judgment story: [Brief description]
+- Humility story: [Brief description]
+- Resilience story: [Brief description]
+- Curiosity story: [Brief description]
+
+**Cultural Fit Questions**
+Prepare for questions like:
+- "Why consulting?"
+- "Why our firm specifically?"
+- "What do you do outside of work?"
+- "Tell me about a time you failed"
+
+**Practice Responses**
+Let me practice answering fit questions. Give me one at a time and provide feedback on:
+- Did I show authentic character?
+- Did I demonstrate good judgment?
+- Did I come across as someone they'd want on their team?
+```
+
+### Client Work: Stakeholder trust—map concerns, apply Trust Equation
+
+Map stakeholder concerns and develop a plan to build trust.
+
+```bash
+Help me apply the Trust Equation to key stakeholders:
+
+**Trust Equation Reminder**
+Trust = (Credibility + Reliability + Intimacy) / Self-Orientation
+
+**Stakeholder Analysis**
+For each key stakeholder in my project:
+
+**Stakeholder 1: [Name/Role]**
+- Their primary concerns:
+- What they care about most:
+
+Assess my trust components:
+- Credibility: How can I show I know what I'm talking about?
+- Reliability: How can I demonstrate follow-through?
+- Intimacy: How can I connect on a personal level?
+- Self-Orientation: How do I show this is about their success?
+
+**Trust-Building Plan**
+For each stakeholder:
+1. What specific action will increase credibility?
+2. What commitment will I make (and keep) to build reliability?
+3. What genuine connection can I make to build intimacy?
+4. How will I keep self-orientation low?
+
+**Red Flags**
+- Where might my credibility be questioned?
+- Where have I been unreliable?
+- What might make them think I'm self-oriented?
+
+**Improvement Plan**
+What's my #1 priority to build more trust with each stakeholder?
+```
+:::
 
 ### 4.5 Prewire Stakeholders {#os-4-5}
 
@@ -180,6 +684,66 @@ In consulting, you rarely present alone. Teams must be aligned.
 3. **Support each other**: No contradictions or surprises
 4. **One voice**: Consistent framing and recommendations
 
+::: {.callout-tip collapse="true"}
+## Session 26 Activity: Coordinate as a Team {#session-26}
+
+### Client Work: Capstone team coordination—unified narrative, handoffs
+
+Coordinate with your capstone team to create a unified presentation with smooth handoffs.
+
+```bash
+Help my team coordinate our capstone presentation:
+
+**Team Members**
+- [Name 1]: [Role/Section]
+- [Name 2]: [Role/Section]
+- [Name 3]: [Role/Section]
+
+**Storyline Alignment**
+First, let's align on our overall narrative:
+- What is our main recommendation?
+- What are the 3 key supporting points?
+- What's the "so what" for the client?
+
+Does everyone agree on this framing?
+
+**Section Ownership**
+Who presents what?
+- Opening/Context: [Owner]
+- Analysis Section 1: [Owner]
+- Analysis Section 2: [Owner]
+- Recommendations: [Owner]
+- Q&A Lead: [Owner]
+
+**Handoff Planning**
+For each transition:
+- Transition 1: [Person A] → [Person B]
+  - Last sentence from A:
+  - First sentence from B:
+
+- Transition 2: [Person B] → [Person C]
+  - Last sentence from B:
+  - First sentence from C:
+
+**Consistency Check**
+Review for alignment:
+- Are we using the same terminology?
+- Are our numbers consistent across sections?
+- Do our recommendations match across speakers?
+- Are our action titles telling one coherent story?
+
+**Rehearsal Plan**
+- When will we do a full run-through?
+- Who will give feedback?
+- What's our backup plan if someone loses track?
+
+**Q&A Coordination**
+- Who answers what types of questions?
+- How do we hand off if the wrong person gets a question?
+- What are the 5 hardest questions we might get, and who answers each?
+```
+:::
+
 ### 4.8 Seek Feedback {#os-4-8}
 
 *Constantly improve through input from others*
@@ -203,6 +767,110 @@ The best consultants constantly improve through feedback.
 - Rapid incorporation of feedback
 - Asking for feedback (not waiting for it)
 - Openness to being wrong
+
+::: {.callout-tip collapse="true"}
+## Session 25 Activity: Seek & Apply Feedback {#session-25}
+
+### Recruiting: Process mock interview feedback; build improvement plan
+
+Process feedback from mock interviews and create a structured improvement plan.
+
+```bash
+Help me process feedback and build an improvement plan:
+
+**Feedback Received**
+[Paste or summarize feedback from mock interviews, TA sessions, or practice partners]
+
+**Feedback Analysis**
+Organize feedback into categories:
+
+1. **Case Interview Feedback**
+   - Structuring:
+   - Math:
+   - Synthesis:
+   - Communication:
+
+2. **Behavioral Interview Feedback**
+   - Story content:
+   - Delivery:
+   - Authenticity:
+   - Brevity:
+
+3. **General Feedback**
+   - Confidence:
+   - Presence:
+   - Other:
+
+**Pattern Recognition**
+- What feedback have I heard multiple times?
+- What's my biggest strength?
+- What's my biggest area for improvement?
+
+**Improvement Plan**
+For my top 3 improvement areas:
+
+Area 1: [Issue]
+- Specific actions to improve:
+- How I'll practice:
+- How I'll know I've improved:
+
+Area 2: [Issue]
+- Specific actions to improve:
+- How I'll practice:
+- How I'll know I've improved:
+
+Area 3: [Issue]
+- Specific actions to improve:
+- How I'll practice:
+- How I'll know I've improved:
+
+**Timeline**
+- This week I'll focus on:
+- Next week I'll focus on:
+- Before my real interviews I'll:
+```
+
+### Client Work: Revise deliverables based on input
+
+Practice incorporating feedback to improve your deliverables.
+
+```bash
+Help me revise my deliverable based on feedback:
+
+**My Deliverable**
+[Paste or describe your deliverable - slide deck, analysis, memo]
+
+**Feedback Received**
+[Paste or summarize feedback from TA, professor, or peers]
+
+**Feedback Triage**
+Categorize feedback:
+- Must fix (critical issues):
+- Should fix (important improvements):
+- Could fix (nice to have):
+
+**Revision Plan**
+For each "must fix" item:
+- Original: [What it was]
+- Issue: [What was wrong]
+- Revised: [What it should be]
+- Why: [How this improves it]
+
+**Quality Check**
+After revisions:
+- Did I address all critical feedback?
+- Did the revisions improve clarity?
+- Did I maintain consistency?
+- Is it now client-ready?
+
+**Learning for Next Time**
+- What will I do differently on my next deliverable?
+- What feedback do I want to make sure I never get again?
+
+**Feedback Loop**
+Would you review my revisions and confirm they address the original feedback?
+```
+:::
 
 ## Putting It Together
 

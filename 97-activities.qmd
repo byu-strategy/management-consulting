@@ -6,7 +6,7 @@ Each class session is structured around a core OS Action. The first half covers 
 
 ---
 
-## 1. Th Jan 9 — Intro to *The Consultant's OS* {#s1}
+## 1. Th Jan 8 — Intro to *The Consultant's OS* {#s1}
 
 ### Recruiting {#s1-recruiting}
 
@@ -43,7 +43,7 @@ Give me a recommendation on whether this is a good target company for the projec
 
 ---
 
-## 2. T Jan 14 — AI as Operating Amplifier {#s2}
+## 2. T Jan 13 — AI as Operating Amplifier {#s2}
 
 ### Recruiting {#s2-recruiting}
 
@@ -81,7 +81,7 @@ Walk me through your process so I understand how to do this research systematica
 
 ---
 
-## 3. Th Jan 16 — AI as Operating Amplifier {#s3}
+## 3. Th Jan 15 — AI as Operating Amplifier {#s3}
 
 ### Recruiting {#s3-recruiting}
 
@@ -136,7 +136,7 @@ Create this as a structured document I can fill in and update.
 
 ---
 
-## 4. T Jan 21 — Diagnose {#s4}
+## 4. T Jan 20 — Diagnose {#s4}
 
 ### Recruiting {#s4-recruiting}
 
@@ -187,7 +187,7 @@ Synthesize into a 1-paragraph diagnosis: "Company X is experiencing [symptoms] p
 
 ---
 
-## 5. Th Jan 23 — Diagnose {#s5}
+## 5. Th Jan 22 — Diagnose {#s5}
 
 ### Recruiting {#s5-recruiting}
 
@@ -248,7 +248,7 @@ Based on available evidence, what's the most likely root cause and why?
 
 ---
 
-## 6. T Jan 28 — Define {#s6}
+## 6. T Jan 27 — Define {#s6}
 
 ### Recruiting {#s6-recruiting}
 
@@ -308,7 +308,7 @@ If not, refine the problem statement.
 
 ---
 
-## 7. Th Jan 30 — Frame {#s7}
+## 7. Th Jan 29 — Frame {#s7}
 
 ### Recruiting {#s7-recruiting}
 
@@ -378,7 +378,7 @@ Who needs to be convinced? What do they care about?
 
 ---
 
-## 8. T Feb 4 — Hypothesize {#s8}
+## 8. T Feb 3 — Hypothesize & WWHTBT {#s8}
 
 ### Recruiting {#s8-recruiting}
 
@@ -451,7 +451,7 @@ This is my starting point—I'll refine it as I gather more evidence.
 
 ---
 
-## 9. Th Feb 6 — MECE {#s9}
+## 9. Th Feb 5 — MECE & Prioritization {#s9}
 
 ### Recruiting {#s9-recruiting}
 
@@ -524,12 +524,18 @@ Branch 3: [Third major question]
 **Prioritization**
 Which branches/issues are most critical to test first? (Highest uncertainty + highest impact on the answer)
 
-Visualize this as an issue tree diagram.
+**Exclusion (The "So What" Test)**
+For each low-priority branch, ask: "If I knew the answer, would it change my recommendation?"
+- Which issues should I explicitly NOT analyze? Why?
+- What analyses would be interesting but wouldn't change the decision?
+- State what's out of scope and why.
+
+Visualize the prioritized issue tree, marking which branches are in scope vs. explicitly excluded.
 ```
 
 ---
 
-## 10. T Feb 11 — Outside-In {#s10}
+## 10. T Feb 10 — Outside-In {#s10}
 
 ### Recruiting {#s10-recruiting}
 
@@ -603,7 +609,7 @@ Compile into a fact pack with sources cited.
 
 ---
 
-## 11. Th Feb 13 — Outside-In {#s11}
+## 11. Th Feb 12 — Outside-In {#s11}
 
 ### Recruiting {#s11-recruiting}
 
@@ -674,7 +680,7 @@ Synthesize all findings into a "Key Insights" summary (5-7 bullet points).
 
 ---
 
-## 12. Th Feb 20 — Quick Math {#s12}
+## 12. Th Feb 19 — Quick Math {#s12}
 
 ### Recruiting {#s12-recruiting}
 
@@ -747,7 +753,7 @@ What's the range? "This opportunity is likely [$X to $Y], with the key swing fac
 
 ---
 
-## 13. T Feb 25 — Synthesize {#s13}
+## 13. T Feb 24 — Synthesize {#s13}
 
 ### Recruiting {#s13-recruiting}
 
@@ -811,7 +817,7 @@ This will form the backbone of my P1 Diagnostic.
 
 ---
 
-## 14. Th Feb 27 — Synthesize {#s14}
+## 14. Th Feb 26 — Synthesize {#s14}
 
 ### Recruiting {#s14-recruiting}
 
@@ -870,7 +876,7 @@ Format as a clean 1-page document.
 
 ---
 
-## 15. T Mar 4 — Workplan {#s15}
+## 15. T Mar 3 — Workplan {#s15}
 
 ### Recruiting {#s15-recruiting}
 
@@ -949,7 +955,7 @@ What are the 3 most important things to do this week?
 
 ---
 
-## 16. Th Mar 6 — Own {#s16}
+## 16. Th Mar 5 — Own {#s16}
 
 ### Recruiting {#s16-recruiting}
 
@@ -1017,7 +1023,7 @@ Let me practice ownership by presenting my workstream status:
 
 ---
 
-## 17. T Mar 11 — Move {#s17}
+## 17. T Mar 10 — Move {#s17}
 
 ### Recruiting {#s17-recruiting}
 
@@ -1086,7 +1092,7 @@ What additional information would I seek to derisk this call?
 
 ---
 
-## 18. Th Mar 13 — Manage Up {#s18}
+## 18. Th Mar 12 — Manage Up {#s18}
 
 ### Recruiting {#s18-recruiting}
 
@@ -1163,7 +1169,7 @@ Help me structure this into 3 slides:
 
 ---
 
-## 19. T Mar 18 — Storyline {#s19}
+## 19. T Mar 17 — Storyline {#s19}
 
 ### Recruiting {#s19-recruiting}
 
@@ -1247,7 +1253,7 @@ Each slide title should be an action title (a sentence, not a label).
 
 ---
 
-## 20. Th Mar 20 — Storyline {#s20}
+## 20. Th Mar 19 — Storyline {#s20}
 
 ### Recruiting {#s20-recruiting}
 
@@ -1322,7 +1328,7 @@ Reading just the titles in order, does the story make sense?
 
 ---
 
-## 21. T Mar 25 — Brevity {#s21}
+## 21. T Mar 24 — Brevity {#s21}
 
 ### Recruiting {#s21-recruiting}
 
@@ -1397,7 +1403,7 @@ After I deliver:
 
 ---
 
-## 22. Th Mar 27 — Brevity {#s22}
+## 22. Th Mar 26 — Brevity {#s22}
 
 ### Recruiting {#s22-recruiting}
 
@@ -1478,7 +1484,7 @@ Help me build my P3 Value-Add Hypothesis deck for [COMPANY NAME]:
 
 ---
 
-## 23. T Apr 1 — Trust {#s23}
+## 23. T Mar 31 — Trust {#s23}
 
 ### Recruiting {#s23-recruiting}
 
@@ -1548,7 +1554,7 @@ How would I address it without being defensive?
 
 ---
 
-## 24. Th Apr 3 — Tailor {#s24}
+## 24. Th Apr 2 — Tailor {#s24}
 
 ### Recruiting {#s24-recruiting}
 
@@ -1625,7 +1631,7 @@ How would I handle each with poise?
 
 ---
 
-## 25. T Apr 8 — Feedback {#s25}
+## 25. T Apr 7 — Feedback {#s25}
 
 ### Recruiting {#s25-recruiting}
 
@@ -1699,7 +1705,7 @@ What changed from v1 to v2? Can I articulate the improvement?
 
 ---
 
-## 26. Th Apr 10 — Coordinate {#s26}
+## 26. Th Apr 9 — Coordinate {#s26}
 
 ### Recruiting {#s26-recruiting}
 
@@ -1747,7 +1753,7 @@ Read through all our slides. Do we sound like one team or three individuals?
 
 ---
 
-## 27. T Apr 15 — Full OS in Action {#s27}
+## 27. T Apr 14 — Full OS in Action {#s27}
 
 ### Recruiting {#s27-recruiting}
 

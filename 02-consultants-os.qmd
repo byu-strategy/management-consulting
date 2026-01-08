@@ -17,7 +17,7 @@ The same OS that helps you structure a case interview helps you structure a clie
 
 At the heart of *The Consultant's OS* is structured problem-solving. McKinsey's 7-step process is among the most influential problem-solving frameworks in consulting, and variations of it appear across firms and business schools.
 
-## The McKinsey 7-Step Problem-Solving Process
+## The 7-Step Problem-Solving Process
 
 | Step | Name | Description | OS Imperative |
 |:----:|:-----|:------------|:--------------|
@@ -48,7 +48,7 @@ MECE is the gold standard for structuring problems. **Mutually Exclusive** means
 
 | Symbol | Meaning |
 |:-------|:--------|
-| **(n)** | McKinsey 7-Step Problem-Solving Process step number |
+| **(n)** | 7-Step Problem-Solving Process step number |
 | 🔺 | Pyramid Principle (top-down, answer-first logic) |
 | ◯ ◯ | MECE / Venn logic (complete, non-overlapping structure) |
 
@@ -170,3 +170,4 @@ You don't wait until you're at a firm to start using the OS. You start now:
 - **Build your capstone** using the same storyline and communication principles you'd use for a steering committee
 
 The OS is how you'll work for the rest of your career. This course is where you install it.
+

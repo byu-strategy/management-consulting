@@ -5,19 +5,19 @@ editor: visual
 
 ## List of All Assessments
 
-The following assessments will be used to measure progress towards learning outcomes and to assign grades.
+The following assessments will be used to measure progress towards learning outcomes and to assign grades. Assessments are organized by track: **Recruiting** (interview preparation) and **Client Work** (consulting projects).
 
-| Type | Description | % | Pts | OS Actions | LOs |
-|------|-------------|:-:|:---:|:-----------|:---:|
-| Quizzes | [Reading Quizzes (10)](#reading-quizzes) | 10 | 50 | Varies by week | 1,2,3 |
-| Participation | [TA Pod Engagement](#ta-pod-engagement) | 10 | 50 | [3.6](07-move-work-forward.qmd#os-3-6), [4.4](08-create-impact.qmd#os-4-4), [4.8](08-create-impact.qmd#os-4-8) | 1,4 |
-| Interview Prep | [Resume & Networking](#resume-and-networking) | 10 | 50 | [1.4](05-think-clearly.qmd#os-1-4), [1.6](05-think-clearly.qmd#os-1-6), [2.2](06-get-right-answer.qmd#os-2-2), [4.4](08-create-impact.qmd#os-4-4) | 5 |
-| Interview Prep | [Case Practice Log](#case-practice-log) | 10 | 50 | [1.1](05-think-clearly.qmd#os-1-1)–[1.7](05-think-clearly.qmd#os-1-7), [2.4](06-get-right-answer.qmd#os-2-4), [2.6](06-get-right-answer.qmd#os-2-6), [3.7](07-move-work-forward.qmd#os-3-7) | 1,5 |
-| Interview Prep | [Behavioral Stories (PARADE)](#behavioral-stories) | 10 | 50 | [4.1](08-create-impact.qmd#os-4-1), [4.2](08-create-impact.qmd#os-4-2) | 3,5 |
-| Project | [Company Diagnostic (1-page)](#company-diagnostic) | 10 | 50 | [1.1](05-think-clearly.qmd#os-1-1), [1.2](05-think-clearly.qmd#os-1-2), [2.2](06-get-right-answer.qmd#os-2-2) | 1,2 |
-| Project | [Competitive Benchmark (3-slide)](#competitive-benchmark) | 10 | 50 | [2.2](06-get-right-answer.qmd#os-2-2), [2.3](06-get-right-answer.qmd#os-2-3), [2.6](06-get-right-answer.qmd#os-2-6) | 1,2,3 |
-| Project | [Value-Add Hypothesis (5-slide)](#value-add-hypothesis) | 10 | 50 | [1.4](05-think-clearly.qmd#os-1-4), [1.5](05-think-clearly.qmd#os-1-5), [4.1](08-create-impact.qmd#os-4-1) | 1,2,3 |
-| Project | [Capstone Proposal (15-20 slide)](#capstone-proposal) | 20 | 100 | [1.1](05-think-clearly.qmd#os-1-1)–[4.8](08-create-impact.qmd#os-4-8) | 1,2,3,4 |
+| Track | Assessment | % | Pts | OS Actions | LOs |
+|:------|:-----------|:-:|:---:|:-----------|:---:|
+| Both | [Reading Quizzes (10)](#reading-quizzes) | 10 | 50 | Varies by week | 1,2,3 |
+| Both | [TA Pod Engagement](#ta-pod-engagement) | 10 | 50 | [3.6](07-move-work-forward.qmd#os-3-6), [4.4](08-create-impact.qmd#os-4-4), [4.8](08-create-impact.qmd#os-4-8) | 1,4 |
+| Recruiting | [Resume & Networking](#resume-and-networking) | 10 | 50 | [1.4](05-think-clearly.qmd#os-1-4), [1.6](05-think-clearly.qmd#os-1-6), [2.2](06-get-right-answer.qmd#os-2-2), [4.4](08-create-impact.qmd#os-4-4) | 5 |
+| Recruiting | [Case Practice Log](#case-practice-log) | 10 | 50 | [1.1](05-think-clearly.qmd#os-1-1)–[1.7](05-think-clearly.qmd#os-1-7), [2.4](06-get-right-answer.qmd#os-2-4), [2.6](06-get-right-answer.qmd#os-2-6), [3.7](07-move-work-forward.qmd#os-3-7) | 1,5 |
+| Recruiting | [Behavioral Stories (PARADE)](#behavioral-stories) | 10 | 50 | [4.1](08-create-impact.qmd#os-4-1), [4.2](08-create-impact.qmd#os-4-2) | 3,5 |
+| Client Work | [P1: Company Diagnostic](#company-diagnostic) | 10 | 50 | [1.1](05-think-clearly.qmd#os-1-1), [1.2](05-think-clearly.qmd#os-1-2), [2.2](06-get-right-answer.qmd#os-2-2) | 1,2 |
+| Client Work | [P2: Competitive Benchmark](#competitive-benchmark) | 10 | 50 | [2.2](06-get-right-answer.qmd#os-2-2), [2.3](06-get-right-answer.qmd#os-2-3), [2.6](06-get-right-answer.qmd#os-2-6) | 1,2,3 |
+| Client Work | [P3: Value-Add Hypothesis](#value-add-hypothesis) | 10 | 50 | [1.4](05-think-clearly.qmd#os-1-4), [1.5](05-think-clearly.qmd#os-1-5), [4.1](08-create-impact.qmd#os-4-1) | 1,2,3 |
+| Client Work | [Capstone Proposal](#capstone-proposal) | 20 | 100 | [1.1](05-think-clearly.qmd#os-1-1)–[4.8](08-create-impact.qmd#os-4-8) | 1,2,3,4 |
 |  | **TOTAL** | **100** | **500** |  |  |
 
 ::: {style="font-size:0.65em;"}
@@ -55,16 +55,16 @@ Reading quizzes ensure you come to class prepared and have internalized core con
 
 | Quiz | Week | Date | Topic |
 |:-----|:----:|:-----|:------|
-| 1 | 2 | Th Jan 16 | The Consulting Industry |
-| 2 | 3 | Th Jan 23 | Diagnosis & *The Consultant's OS* |
-| 3 | 4 | Th Jan 30 | Problem Definition & Framing |
-| 4 | 5 | Th Feb 6 | Hypotheses & MECE |
-| 5 | 6 | Th Feb 13 | Outside-In Research |
-| 6 | 7 | Th Feb 20 | Market Sizing & Estimation |
-| 7 | 9 | Th Mar 6 | Synthesis & Workplanning |
-| 8 | 11 | Th Mar 20 | Pyramid Principle & Storylining |
-| 9 | 13 | Th Apr 3 | Stakeholder Management & Trust |
-| 10 | 14 | Th Apr 10 | Executive Communication |
+| 1 | 2 | Th Jan 15 | The Consulting Industry |
+| 2 | 3 | Th Jan 22 | Diagnosis & *The Consultant's OS* |
+| 3 | 4 | Th Jan 29 | Problem Definition & Framing |
+| 4 | 5 | Th Feb 5 | Hypotheses & MECE |
+| 5 | 6 | Th Feb 12 | Outside-In Research |
+| 6 | 7 | Th Feb 19 | Market Sizing & Estimation |
+| 7 | 9 | Th Mar 5 | Synthesis & Workplanning |
+| 8 | 11 | Th Mar 19 | Pyramid Principle & Storylining |
+| 9 | 13 | Th Apr 2 | Stakeholder Management & Trust |
+| 10 | 14 | Th Apr 9 | Team Coordination & Communication |
 
 **Grading Rubric**
 
@@ -75,7 +75,7 @@ Reading quizzes ensure you come to class prepared and have internalized core con
 
 ---
 
-## Participation
+## Both Tracks
 
 ### TA Pod Engagement {#ta-pod-engagement}
 
@@ -106,7 +106,7 @@ Your TA pod is your home base for the semester. Active engagement with your pod 
 
 ---
 
-## Interview Preparation
+## Recruiting Track
 
 ### Resume & Networking {#resume-and-networking}
 
@@ -237,11 +237,11 @@ Submit a document containing all 5 behavioral stories formatted using PARADE.
 
 ---
 
-## Client Work Projects
+## Client Work Track
 
 These four progressive projects build your consulting skills while creating tangible work products you can use in recruiting.
 
-### Company Diagnostic {#company-diagnostic}
+### P1: Company Diagnostic {#company-diagnostic}
 
 **Points**: 50 (10% of grade)
 
@@ -280,7 +280,7 @@ Produce a 1-page diagnostic that includes:
 
 ---
 
-### Competitive Benchmark {#competitive-benchmark}
+### P2: Competitive Benchmark {#competitive-benchmark}
 
 **Points**: 50 (10% of grade)
 
@@ -326,7 +326,7 @@ Produce a 3-slide deck:
 
 ---
 
-### Value-Add Hypothesis {#value-add-hypothesis}
+### P3: Value-Add Hypothesis {#value-add-hypothesis}
 
 **Points**: 50 (10% of grade)
 
@@ -385,7 +385,7 @@ Produce a 5-slide deck:
 
 **Points**: 100 (20% of grade)
 
-**Due**: Week 14
+**Due**: Week 15 (Session 27)
 
 **Team**: Teams of 3
 

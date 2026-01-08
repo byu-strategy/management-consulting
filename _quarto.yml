@@ -44,7 +44,7 @@ bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     link-external-icon: true
     link-external-newwindow: true
     css: styles.css

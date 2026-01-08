@@ -26,6 +26,110 @@ Before defining a problem, you need to understand the current situation. What's 
 3. Ask "why" multiple times to get to root causes
 4. Separate symptoms from underlying issues
 
+::: {.callout-tip collapse="true"}
+## Session 4 Activity: Diagnose the Current State {#session-4}
+
+### Recruiting: Diagnose firm hiring needs
+
+Use AI to analyze what firms actually look for in candidates by examining patterns in recent hires.
+
+```bash
+Help me diagnose what [FIRM NAME] actually looks for in candidates:
+
+1. Analyze 5-10 LinkedIn profiles of recent hires (analysts/associates in the last 2 years). What patterns do you see in:
+   - Educational background
+   - Prior work experience
+   - Skills and certifications
+   - Extracurricular involvement
+
+2. Compare their stated criteria (from careers page) to the actual profiles of people they hired. Any gaps or surprises?
+
+3. What does this tell me about what they *really* value vs. what they *say* they value?
+
+4. Based on this diagnosis, where am I strong and where do I have gaps?
+
+My background: [BRIEF SUMMARY OF YOUR EXPERIENCE/EDUCATION]
+```
+
+### Client Work: Diagnose company's strategic situation
+
+Apply diagnostic thinking to understand what's happening with your target company and why.
+
+```bash
+Help me diagnose the current strategic situation for [COMPANY NAME]:
+
+**What's Happening (Symptoms)**
+1. What are the observable facts about their performance? (Revenue trends, market share, stock price, operational metrics)
+2. What are industry analysts and news sources saying about them?
+3. What is management saying in earnings calls about their situation?
+
+**Why It's Happening (Root Causes)**
+4. What external factors (market, competition, regulation) might explain these symptoms?
+5. What internal factors (strategy, operations, capabilities) might explain them?
+6. Are there patterns or anomalies that suggest deeper issues?
+
+**Diagnostic Summary**
+Synthesize into a 1-paragraph diagnosis: "Company X is experiencing [symptoms] primarily because [root causes]."
+```
+:::
+
+::: {.callout-tip collapse="true"}
+## Session 5 Activity: Root Cause Analysis {#session-5}
+
+### Recruiting: Self-assessment of fit gaps
+
+Conduct an honest self-assessment to diagnose where you're strong and where you have gaps relative to what firms want.
+
+```bash
+Help me conduct an honest self-assessment for consulting recruiting:
+
+**My Background**
+[Provide: Major, GPA, work experience, leadership roles, technical skills, relevant projects]
+
+**Diagnostic Questions**
+1. Based on what top consulting firms look for, rate me (Strong/Average/Gap) on:
+   - Academic credentials
+   - Leadership experience
+   - Analytical/quantitative skills
+   - Communication skills
+   - Industry knowledge
+   - "Interesting" factor / unique experiences
+
+2. For each "Gap" area, what's the root cause? (Lack of experience? Lack of evidence? Wrong framing?)
+
+3. Which gaps are addressable in [X months] before recruiting, and which are harder to change?
+
+4. What's my honest overall positioning: "I'm a [strong/competitive/stretch] candidate for [firm types] because [reasons]"
+
+Be direct—I need honest feedback, not encouragement.
+```
+
+### Client Work: Five Whys root cause analysis
+
+Use the Five Whys technique to trace symptoms to their root causes.
+
+```bash
+Help me conduct root cause analysis for [COMPANY NAME]:
+
+Starting symptom: [STATE THE KEY PERFORMANCE ISSUE YOU IDENTIFIED]
+
+**Five Whys Analysis**
+Walk through at least 5 levels of "why" to get to root causes:
+- Why is [symptom] happening?
+- Why is [first-level cause] happening?
+- (Continue until you reach actionable root causes)
+
+**Alternative Hypotheses**
+What are other possible explanations for the same symptom? (Generate at least 3 alternative root cause hypotheses)
+
+**Evidence Check**
+What evidence would confirm or refute each hypothesis? What data would I need?
+
+**Root Cause Summary**
+Based on available evidence, what's the most likely root cause and why?
+```
+:::
+
 ### 1.2 Define the Problem **(1)** 🔺 {#os-1-2}
 
 *Identify the gap between current and desired state*
@@ -48,6 +152,62 @@ A problem is a gap between where you are and where you want to be. A well-define
 - **Weak:** "We need to grow"
 - **Strong:** "Revenue has declined 15% over 2 years while the market grew 5%; we need to identify the root causes and develop a plan to return to market growth rates within 18 months"
 
+::: {.callout-tip collapse="true"}
+## Session 6 Activity: Define the Problem {#session-6}
+
+### Recruiting: Define the gap from "you now" to "hireable you"
+
+Apply problem definition to your recruiting journey by identifying the gap between where you are and where you need to be.
+
+```bash
+Help me define my recruiting "problem" as a gap:
+
+**Current State (Me Now)**
+[Summarize your self-assessment: key strengths and gaps]
+
+**Desired State (Hireable Me)**
+Based on what [TARGET FIRMS] want, what does a strong candidate look like?
+
+**Gap Definition**
+Write a clear problem statement: "To be competitive for [firm type], I need to close gaps in [specific areas], demonstrated by [specific evidence/achievements]."
+
+**Success Criteria**
+How will I know when I've closed each gap? What's the measurable target?
+
+**Constraints**
+- Time available: [X months until applications]
+- Resources: [What I have access to]
+- Non-negotiables: [Things I can't or won't change]
+
+Make sure my problem statement is specific, measurable, and doesn't presuppose a solution.
+```
+
+### Client Work: Define the client's problem
+
+Define the client's problem as the gap between current state and desired state.
+
+```bash
+Help me define the core strategic problem for [COMPANY NAME]:
+
+**Current State**
+Based on my diagnosis, summarize: Where is the company today? (Performance, position, capabilities)
+
+**Desired State**
+Based on management's stated goals, analyst expectations, or competitive benchmarks: Where do they want/need to be?
+
+**Gap Definition**
+Write a clear problem statement: "[Company] is currently [current state] but needs to [desired state]. The gap is [quantify if possible]."
+
+**Problem Statement Quality Check**
+- Is it specific (not vague)?
+- Is it measurable (we'll know when it's solved)?
+- Does it state the gap clearly?
+- Does it avoid presupposing a solution?
+
+If not, refine the problem statement.
+```
+:::
+
 ### 1.3 Frame the Problem **(1)** 🔺 {#os-1-3}
 
 *Articulate the decision set, constraints, and scope*
@@ -65,6 +225,72 @@ Framing means establishing what's in scope vs. out, what success looks like, and
 - What's explicitly out of scope?
 - What constraints must we work within?
 - Who are the key stakeholders?
+
+::: {.callout-tip collapse="true"}
+## Session 7 Activity: Frame the Decision {#session-7}
+
+### Recruiting: Frame your recruiting scope
+
+Frame your recruiting decision set: which firms are realistic targets, what constraints you're working within, and what success looks like.
+
+```bash
+Help me frame my consulting recruiting strategy:
+
+**Decision Set**
+What firms am I actually targeting? Be specific:
+- Tier 1 targets (dream firms):
+- Tier 2 targets (strong fit):
+- Tier 3 targets (backup options):
+
+**Explicitly Out of Scope**
+What am I NOT pursuing this cycle, and why?
+- Firm types I'm excluding:
+- Geographies I'm excluding:
+- Roles I'm excluding:
+
+**Constraints**
+- Timeline: [Key dates and deadlines]
+- Resources: [Time available per week, budget for travel, etc.]
+- Must-haves: [Non-negotiables in an offer]
+
+**Success Criteria**
+What does "success" look like for this recruiting cycle? (Be specific: # of interviews? Offer from X tier?)
+
+**Trade-offs I'm Making**
+What am I giving up by focusing this way? Am I comfortable with that?
+```
+
+### Client Work: Frame the client's decision
+
+Frame the client's strategic decision: what options are on the table, what criteria matter, and what constraints exist.
+
+```bash
+Help me frame the strategic decision for [COMPANY NAME]:
+
+**Decision Statement**
+What decision does the company need to make? Frame as: "Should the company [option A] or [option B] or [option C]?"
+
+**Success Criteria**
+How should they evaluate options? What matters most?
+- Financial criteria (ROI threshold, payback period)
+- Strategic criteria (market position, competitive advantage)
+- Operational criteria (feasibility, risk)
+- Rank these: What's the primary criterion?
+
+**Constraints**
+- Budget/investment limits
+- Timeline requirements
+- Organizational constraints (capabilities, culture, politics)
+- External constraints (regulatory, competitive)
+
+**Scope**
+- In scope: [What we're analyzing]
+- Out of scope: [What we're explicitly NOT addressing, and why]
+
+**Key Stakeholders**
+Who needs to be convinced? What do they care about?
+```
+:::
 
 ### 1.4 State a Day-1 Hypothesis 🔺 {#os-1-4}
 
@@ -100,6 +326,75 @@ For your hypothesis to be right, certain things must be true. Make these explici
 3. List 3-5 critical conditions
 4. Prioritize: which are most uncertain? Most impactful if wrong?
 5. Design tests for the most critical ones
+
+::: {.callout-tip collapse="true"}
+## Session 8 Activity: Hypothesize & WWHTBT {#session-8}
+
+### Recruiting: "I'm the right hire because..." + critical assumptions
+
+State your Day-1 hypothesis about why you're the right hire, then articulate what would have to be true for that to be correct.
+
+```bash
+Help me develop my recruiting hypothesis—my core value proposition:
+
+**My Hypothesis**
+Complete this statement with specifics: "I'm the right hire for [FIRM TYPE] because I bring:
+1. [Distinctive strength #1 with evidence]
+2. [Distinctive strength #2 with evidence]
+3. [Distinctive strength #3 with evidence]
+
+...and I'm a fit because [cultural/values alignment]."
+
+**Testing the Hypothesis**
+For each claim:
+- What evidence supports it?
+- What would disprove it?
+- How will networking conversations test it?
+
+**What Would Have to Be True**
+For my hypothesis to be correct:
+1. [Critical assumption #1]
+2. [Critical assumption #2]
+3. [Critical assumption #3]
+
+Which of these am I most uncertain about?
+
+**Refining**
+Based on this analysis, should I adjust my hypothesis? What's my sharpened value proposition?
+```
+
+### Client Work: Day-1 hypothesis + what would have to be true
+
+Develop a Day-1 hypothesis for your target company and articulate the critical assumptions that would have to be true.
+
+```bash
+Help me develop a Day-1 hypothesis for [COMPANY NAME]:
+
+Based on my diagnosis and problem definition, my initial hypothesis is:
+"[Company] should [specific action] because [reasoning]."
+
+**Supporting Logic**
+Why might this be the right answer?
+1. [Reason #1]
+2. [Reason #2]
+3. [Reason #3]
+
+**What Would Have to Be True**
+For this hypothesis to be correct:
+1. [Critical assumption about the market]
+2. [Critical assumption about the company's capabilities]
+3. [Critical assumption about implementation feasibility]
+4. [Critical assumption about financial impact]
+
+**Disconfirming Evidence**
+What evidence would make me abandon this hypothesis?
+
+**Alternative Hypotheses**
+What are 2-3 other hypotheses I should also consider?
+
+This is my starting point—I'll refine it as I gather more evidence.
+```
+:::
 
 ### 1.6 Disaggregate into MECE Issues **(2)** ◯ ◯ {#os-1-6}
 
@@ -152,6 +447,86 @@ Equally important: know what NOT to analyze.
 **The "So What" Test:**
 
 For any potential analysis, ask: "If we knew the answer, would it change our recommendation?" If no, skip it.
+
+::: {.callout-tip collapse="true"}
+## Session 9 Activity: MECE & Prioritization {#session-9}
+
+### Recruiting: MECE-structure resume proof points
+
+Structure your resume using MECE logic to ensure your proof points are distinct and comprehensive.
+
+```bash
+Help me MECE-structure my resume for consulting:
+
+**My Key Experiences**
+[List your main resume items: jobs, projects, leadership roles]
+
+**MECE Analysis**
+1. Map each bullet to a consulting competency:
+   - Analytical/Problem-solving
+   - Leadership/Initiative
+   - Communication/Influence
+   - Teamwork/Collaboration
+   - Results/Impact
+
+2. Check for MECE:
+   - Overlaps: Are any bullets saying the same thing?
+   - Gaps: Are any key competencies missing?
+
+3. For each bullet, ensure it has:
+   - Action verb (Led, Analyzed, Developed...)
+   - Scope (size of team, budget, project)
+   - Impact (quantified result)
+
+**Revised Bullets**
+Rewrite my top 5 bullets to be MECE and impactful.
+
+**Gap Fillers**
+If I have competency gaps, what experiences could I add or reframe?
+```
+
+### Client Work: Build MECE issue tree; prioritize branches
+
+Build a MECE issue tree for your hypothesis and prioritize which branches to analyze first.
+
+```bash
+Help me build a MECE issue tree for my hypothesis about [COMPANY NAME]:
+
+**Hypothesis**: [Your Day-1 hypothesis]
+
+**Issue Tree Structure**
+Break this into 3-4 main branches (MECE at each level):
+
+Branch 1: [First major question to answer]
+  - Sub-issue 1.1
+  - Sub-issue 1.2
+  - Sub-issue 1.3
+
+Branch 2: [Second major question]
+  - Sub-issue 2.1
+  - Sub-issue 2.2
+
+Branch 3: [Third major question]
+  - Sub-issue 3.1
+  - Sub-issue 3.2
+
+**MECE Check**
+- Are the branches mutually exclusive (no overlaps)?
+- Are they collectively exhaustive (nothing missing)?
+- Is each level MECE?
+
+**Prioritization**
+Which branches/issues are most critical to test first? (Highest uncertainty + highest impact on the answer)
+
+**Exclusion (The "So What" Test)**
+For each low-priority branch, ask: "If I knew the answer, would it change my recommendation?"
+- Which issues should I explicitly NOT analyze? Why?
+- What analyses would be interesting but wouldn't change the decision?
+- State what's out of scope and why.
+
+Visualize the prioritized issue tree, marking which branches are in scope vs. explicitly excluded.
+```
+:::
 
 ## Putting It Together
 
