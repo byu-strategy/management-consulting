@@ -56,9 +56,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-// Smooth scrolling
+// Smooth scrolling with offset for fixed header
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 70px;  // Account for fixed header height + some breathing room
 }
 
 // Custom selection color
@@ -327,9 +328,10 @@ em, i {
   color: $secondary;
   text-decoration: none;
   line-height: 1.4;
-  padding: 0.1rem 0;
-  transition: color 0.15s ease;
+  padding: 0.25rem 0.5rem;
+  transition: color 0.15s ease, background-color 0.15s ease;
   display: block;
+  border-radius: 0.375rem;
 }
 
 #TOC a:hover,
@@ -337,26 +339,25 @@ em, i {
   color: $navy;
 }
 
-#TOC .active a,
-.toc .active a {
-  color: $navy;
+#TOC .active > a,
+.toc .active > a,
+#TOC a.active,
+.toc a.active {
+  color: $navy !important;
   font-weight: 600;
+  background-color: rgba(0, 46, 93, 0.08);
 }
 
 // TOC left border indicator
 #TOC ul {
   border-left: 2px solid $border-color;
-  padding-left: 0.75rem;
+  padding-left: 0.5rem;
   margin: 0;
 }
 
 #TOC li {
   margin: 0;
   padding: 0;
-}
-
-#TOC .active > a {
-  position: relative;
 }
 
 // ===== BREADCRUMB =====
