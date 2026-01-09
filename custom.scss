@@ -223,21 +223,20 @@ em, i {
 #quarto-sidebar .sidebar-item-section > a > .sidebar-item-text,
 #quarto-sidebar .sidebar-item-section .sidebar-item-toggle + a .sidebar-item-text {
   font-family: $font-family-sans-serif !important;
-  font-size: 0.6875rem !important;
+  font-size: 0.75rem !important;
   font-weight: 700 !important;
   text-transform: uppercase !important;
-  letter-spacing: 0.08em !important;
+  letter-spacing: 0.06em !important;
   color: $navy !important;
-  margin-top: 1.25rem;
-  margin-bottom: 0.375rem;
-  padding: 0;
-  border-bottom: 1px solid $border-color;
-  padding-bottom: 0.25rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  padding: 0.5rem 0;
+  border-bottom: 2px solid $navy;
 }
 
 #quarto-sidebar .sidebar-item-section:first-child > .sidebar-item-text,
 #quarto-sidebar .sidebar-item-section:first-child > a > .sidebar-item-text {
-  margin-top: 0.25rem;
+  margin-top: 0.5rem;
 }
 
 // Chapter links
@@ -266,10 +265,28 @@ em, i {
 }
 
 // Collapse toggle icons
+#quarto-sidebar .sidebar-item-toggle {
+  display: flex;
+  align-items: center;
+  padding: 0.25rem;
+  margin-right: 0.25rem;
+  cursor: pointer;
+  border-radius: 0.25rem;
+  transition: background-color 0.15s ease;
+}
+
+#quarto-sidebar .sidebar-item-toggle:hover {
+  background-color: rgba(0, 46, 93, 0.08);
+}
+
+#quarto-sidebar .sidebar-item-toggle .bi,
+#quarto-sidebar .bi-chevron-right,
+#quarto-sidebar .bi-chevron-down,
 #quarto-sidebar .bi {
-  font-size: 0.625rem;
-  color: $muted;
-  opacity: 0.6;
+  font-size: 0.75rem !important;
+  color: $navy !important;
+  opacity: 1 !important;
+  transition: transform 0.2s ease;
 }
 
 // Hover state
