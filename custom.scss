@@ -1,141 +1,722 @@
 /*-- scss:defaults --*/
-// BYU Brand Colors
-$sidebar-bg: #ffffff;
-$sidebar-fg: #4b5563;
-$sidebar-hl: #0057B8;
 
-// Link colors
-$link-color: #00509e;
+// ===== COLOR PALETTE (Light Cream/Navy) =====
+$body-bg: #FDFCFB;               // Very light warm cream
+$body-color: #292524;            // Stone-800
+$link-color: #002E5D;            // Navy
+$link-hover-color: #001a3a;      // Darker navy on hover
+
+// Sidebar
+$sidebar-bg: #F9F8F6;            // Subtle cream for sidebar
+$sidebar-fg: #57534e;            // Stone-600
+$sidebar-hl: #002E5D;            // Navy
+
+// Callout backgrounds (warm tones)
+$callout-bg: #FAF9F7;            // Warm off-white for callouts
+
+// Semantic colors
+$secondary: #57534e;             // Stone-600
+$muted: #a8a29e;                 // Stone-400
+$light: #F5F3F0;
+$navy: #002E5D;
+
+// Borders
+$border-color: #e7e5e4;          // Stone-200
+$border-color-subtle: #f5f5f4;   // Stone-100
+
+// ===== TYPOGRAPHY =====
+$font-family-sans-serif: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+$font-family-serif: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
+$font-family-monospace: 'JetBrains Mono', 'SF Mono', Monaco, monospace;
+
+$font-size-root: 16px;
+$line-height-base: 1.75;
+
+$h1-font-size: 2.5rem;
+$h2-font-size: 1.75rem;
+$h3-font-size: 1.375rem;
+$h4-font-size: 1.125rem;
+
+$headings-font-weight: 400;
+$headings-line-height: 1.25;
+
+// ===== SPACING =====
+$spacer: 1rem;
+$paragraph-margin-bottom: 1.5rem;
 
 /*-- scss:rules --*/
 
-// ===== Sidebar Navigation =====
-#quarto-sidebar {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+// ===== GOOGLE FONTS IMPORT =====
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap');
+
+// ===== GLOBAL STYLES =====
+body {
+  background-color: $body-bg;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-// Book title in sidebar
-#quarto-sidebar .sidebar-title {
-  font-size: 0.8rem;
-  font-weight: 600;
-  color: #002E5D;
-  line-height: 1.25;
-  margin-bottom: 0.75rem;
+// Smooth scrolling
+html {
+  scroll-behavior: smooth;
 }
 
-// Section headers (Course Info, Foundation, etc.)
-#quarto-sidebar .sidebar-item-section > .sidebar-item-text,
-#quarto-sidebar .sidebar-item-section > a > .sidebar-item-text {
-  font-size: 0.7rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  color: #002E5D;
-  border-bottom: 1px solid #e5e7eb;
-  padding-bottom: 0.15rem;
-  margin-top: 1rem;
-  margin-bottom: 0.2rem;
-  display: block;
+// Custom selection color
+::selection {
+  background-color: rgba(0, 46, 93, 0.15);
+  color: $body-color;
 }
 
-// Chapter/page links - FORCE small size
-#quarto-sidebar .sidebar-item .sidebar-item-text,
-#quarto-sidebar .sidebar-item a,
-#quarto-sidebar .sidebar-navigation .sidebar-item-text {
-  font-size: 0.8rem;
+// Custom scrollbar
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: $border-color-subtle;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c8c4bd;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: $muted;
+}
+
+// ===== TYPOGRAPHY =====
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-serif;
+  color: $navy;
+  letter-spacing: -0.01em;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: $h1-font-size;
   font-weight: 400;
-  color: #4b5563;
-  text-transform: none;
-  letter-spacing: normal;
+  letter-spacing: -0.02em;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid $border-color;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  font-size: $h2-font-size;
+  margin-top: 3rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid $border-color;
+}
+
+h3 {
+  font-size: $h3-font-size;
+  font-weight: 700;
+}
+
+h4 {
+  font-size: $h4-font-size;
+  font-weight: 700;
+  color: $body-color;
+}
+
+// Body text refinements
+p {
+  margin-bottom: $paragraph-margin-bottom;
+}
+
+strong, b {
+  font-weight: 600;
+}
+
+em, i {
+  font-style: italic;
+}
+
+// ===== HEADER BANNER =====
+.book-header-banner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1030;
+  background: $sidebar-bg;
+  padding: 0.625rem 1.5rem;
+  border-bottom: 1px solid $border-color;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.book-header-banner img {
+  height: 36px;
+  width: auto;
+}
+
+.book-header-banner a::after {
+  display: none !important;
+}
+
+// Push sidebar and content below fixed header
+#quarto-sidebar {
+  top: 54px !important;
+  height: calc(100vh - 54px) !important;
+}
+
+#quarto-content {
+  margin-top: 54px;
+  background-color: $body-bg;
+}
+
+#quarto-margin-sidebar {
+  top: 54px !important;
+}
+
+// ===== SIDEBAR NAVIGATION =====
+#quarto-sidebar {
+  background: $sidebar-bg;
+  border-right: 1px solid $border-color;
+  padding: 1rem 1rem;
+  font-family: $font-family-sans-serif;
+}
+
+// Book title
+#quarto-sidebar .sidebar-title {
+  font-family: $font-family-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  color: $navy;
+  padding-bottom: 0.75rem;
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid $border-color;
+  line-height: 1.3;
+}
+
+// Search box styling
+#quarto-sidebar .sidebar-search {
+  margin-bottom: 0.625rem;
+}
+
+#quarto-sidebar input[type="search"],
+#quarto-sidebar input[type="text"] {
+  font-family: $font-family-sans-serif;
+  font-size: 0.8125rem;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid $border-color;
+  border-radius: 0.375rem;
+  background: $body-bg;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+#quarto-sidebar input[type="search"]:focus,
+#quarto-sidebar input[type="text"]:focus {
+  outline: none;
+  border-color: $navy;
+  box-shadow: 0 0 0 3px rgba(0, 46, 93, 0.1);
+}
+
+// Part headers (Course Info, Foundation, etc.)
+#quarto-sidebar .sidebar-item-section > .sidebar-item-text,
+#quarto-sidebar .sidebar-item-section > a > .sidebar-item-text,
+#quarto-sidebar .sidebar-item-section .sidebar-item-toggle + a .sidebar-item-text {
+  font-family: $font-family-sans-serif !important;
+  font-size: 0.6875rem !important;
+  font-weight: 700 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.08em !important;
+  color: $navy !important;
+  margin-top: 1.25rem;
+  margin-bottom: 0.375rem;
+  padding: 0;
+  border-bottom: 1px solid $border-color;
+  padding-bottom: 0.25rem;
+}
+
+#quarto-sidebar .sidebar-item-section:first-child > .sidebar-item-text,
+#quarto-sidebar .sidebar-item-section:first-child > a > .sidebar-item-text {
+  margin-top: 0.25rem;
+}
+
+// Chapter links
+#quarto-sidebar .sidebar-item:not(.sidebar-item-section) {
+  padding-left: 0.25rem;
+}
+
+#quarto-sidebar .sidebar-item .sidebar-item-text {
+  font-size: 0.8125rem;
+  font-weight: 400;
+  color: $sidebar-fg;
   line-height: 1.35;
+  transition: color 0.15s ease;
+}
+
+#quarto-sidebar .sidebar-item {
+  padding: 0.125rem 0;
+  margin: 0;
+}
+
+#quarto-sidebar ul,
+#quarto-sidebar li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+// Collapse toggle icons
+#quarto-sidebar .bi {
+  font-size: 0.625rem;
+  color: $muted;
+  opacity: 0.6;
 }
 
 // Hover state
 #quarto-sidebar .sidebar-item:hover .sidebar-item-text,
 #quarto-sidebar a:hover .sidebar-item-text {
-  color: #0057B8;
+  color: $navy;
 }
 
-// Active state
-#quarto-sidebar .sidebar-item.active .sidebar-item-text,
-#quarto-sidebar .active .sidebar-item-text {
-  color: #0057B8;
-  font-weight: 500;
+// Active/current page
+#quarto-sidebar .active,
+#quarto-sidebar .active .sidebar-item-text,
+#quarto-sidebar .sidebar-link.active,
+#quarto-sidebar a.active,
+#quarto-sidebar a.sidebar-link.active,
+#quarto-sidebar [aria-current="page"],
+#quarto-sidebar [aria-current="page"] .sidebar-item-text,
+.sidebar-item.active .sidebar-item-text,
+.sidebar-navigation .active .sidebar-item-text {
+  color: $navy !important;
+  font-weight: 600 !important;
 }
 
-// Compact spacing
-#quarto-sidebar .sidebar-item {
-  padding: 0.15rem 0;
-  margin: 0;
+// Active item background
+#quarto-sidebar .active > .sidebar-item-container,
+#quarto-sidebar .sidebar-item.active,
+#quarto-sidebar a.active,
+#quarto-sidebar [aria-current="page"] {
+  background-color: rgba(0, 46, 93, 0.08) !important;
+  border-radius: 0.375rem;
 }
 
-#quarto-sidebar ul,
-#quarto-sidebar li,
-#quarto-sidebar .sidebar-item-container {
-  margin: 0;
-  padding: 0;
+#quarto-sidebar a {
+  text-decoration: none;
 }
 
-// Collapse icons
-#quarto-sidebar .bi {
-  font-size: 0.6rem;
-  color: #9ca3af;
-}
-
-// Search box
-#quarto-sidebar .sidebar-search {
-  margin-bottom: 0.75rem;
-}
-
-#quarto-sidebar input[type="search"],
-#quarto-sidebar input[type="text"] {
-  font-size: 0.75rem;
-  padding: 0.35rem 0.5rem;
-}
-
-// ===== Right TOC (On this page) =====
+// ===== RIGHT TOC =====
 #toc-title,
 .toc-title {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-  font-size: 0.7rem;
+  font-family: $font-family-sans-serif;
+  font-size: 0.625rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
-  color: #002E5D;
+  letter-spacing: 0.1em;
+  color: $muted;
   margin-bottom: 0.5rem;
 }
 
 #TOC,
 .toc {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: $font-family-sans-serif;
   font-size: 0.75rem;
 }
 
 #TOC a,
-.toc a,
-#TOC li,
-.toc li {
-  color: #4b5563;
-  line-height: 1.35;
+.toc a {
+  color: $secondary;
+  text-decoration: none;
+  line-height: 1.4;
   padding: 0.1rem 0;
-  margin: 0;
-}
-
-#TOC ul,
-.toc ul {
-  margin: 0;
-  padding-left: 0.75rem;
+  transition: color 0.15s ease;
+  display: block;
 }
 
 #TOC a:hover,
 .toc a:hover {
-  color: #0057B8;
+  color: $navy;
 }
 
 #TOC .active a,
-.toc .active a,
-#TOC a.active,
-.toc a.active {
-  color: #0057B8;
-  font-weight: 500;
+.toc .active a {
+  color: $navy;
+  font-weight: 600;
+}
+
+// TOC left border indicator
+#TOC ul {
+  border-left: 2px solid $border-color;
+  padding-left: 0.75rem;
+  margin: 0;
+}
+
+#TOC li {
+  margin: 0;
+  padding: 0;
+}
+
+#TOC .active > a {
+  position: relative;
+}
+
+// ===== BREADCRUMB =====
+.breadcrumb {
+  font-family: $font-family-sans-serif;
+  font-size: 0.8125rem;
+  color: $muted;
+  margin-bottom: 1rem;
+}
+
+.breadcrumb a {
+  color: $secondary;
+  text-decoration: none;
+}
+
+.breadcrumb a:hover {
+  color: $navy;
+}
+
+// ===== TABLES =====
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  font-size: 0.9375rem;
+  background: $body-bg;
+}
+
+thead {
+  background-color: $sidebar-bg;
+  border-bottom: 2px solid $border-color;
+}
+
+th {
+  font-family: $font-family-sans-serif;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: $secondary;
+  padding: 0.875rem 1rem;
+  text-align: left;
+}
+
+td {
+  padding: 0.875rem 1rem;
+  border-bottom: 1px solid $border-color;
+  color: $body-color;
+  vertical-align: top;
+}
+
+// Zebra striping
+tbody tr:nth-child(even) {
+  background-color: $callout-bg;
+}
+
+tbody tr:hover {
+  background-color: #F7F6F4;
+}
+
+td:first-child {
+  font-weight: 600;
+  color: $navy;
+}
+
+// ===== CALLOUTS =====
+.callout,
+div.callout,
+div.callout-tip,
+div.callout-note,
+div.callout-warning,
+div.callout-caution,
+div.callout-important {
+  background-color: $callout-bg !important;
+  border: 1px solid $border-color !important;
+  border-left-width: 4px !important;
+  border-radius: 0.5rem;
+  margin: 2rem 0;
+  box-shadow: 0 1px 3px rgba(41, 37, 36, 0.03);
+}
+
+.callout-header {
+  font-family: $font-family-sans-serif;
+  font-weight: 700;
+  color: $body-color;
+  background: transparent !important;
+}
+
+.callout-body {
+  color: $secondary;
+  background: transparent !important;
+}
+
+// Override Quarto's colored callout backgrounds
+.callout-style-default,
+.callout-style-simple,
+.callout.callout-style-default,
+.callout.callout-style-simple {
+  background-color: $callout-bg !important;
+}
+
+// All callout types use navy accent for cohesion
+.callout-note,
+div.callout-note,
+.callout.callout-note {
+  border-left-color: $navy !important;
+  background-color: $callout-bg !important;
+}
+
+.callout-tip,
+div.callout-tip,
+.callout.callout-tip {
+  border-left-color: $navy !important;
+  background-color: $callout-bg !important;
+}
+
+.callout-warning,
+div.callout-warning,
+.callout.callout-warning {
+  background-color: $callout-bg !important;
+  border-left-color: #92400e !important;
+}
+
+.callout-caution,
+div.callout-caution,
+.callout.callout-caution {
+  background-color: $callout-bg !important;
+  border-left-color: #92400e !important;
+}
+
+.callout-important,
+div.callout-important,
+.callout.callout-important {
+  background-color: $callout-bg !important;
+  border-left-color: #991b1b !important;
+}
+
+// ===== CODE =====
+code {
+  font-family: $font-family-monospace;
+  font-size: 0.875em;
+  background-color: $sidebar-bg;
+  padding: 0.1875rem 0.5rem;
+  border-radius: 0.375rem;
+  color: $navy;
+}
+
+pre {
+  background-color: #2d2a26;
+  border: none;
+  border-radius: 0.625rem;
+  padding: 1.25rem 1.5rem;
+  margin: 2rem 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+pre code {
+  background: none;
+  padding: 0;
+  font-size: 0.875rem;
+  line-height: 1.65;
+  color: #e7e5e4;
+}
+
+// ===== BLOCKQUOTES =====
+blockquote {
+  border-left: 4px solid $navy;
+  margin: 2rem 0;
+  padding: 1rem 0 1rem 1.75rem;
+  background: linear-gradient(to right, rgba(0, 46, 93, 0.03), transparent);
+  border-radius: 0 0.5rem 0.5rem 0;
+}
+
+blockquote p {
+  font-family: $font-family-serif;
+  font-style: italic;
+  font-size: 1.0625rem;
+  color: $secondary;
+  margin-bottom: 0;
+}
+
+// ===== LINKS =====
+a {
+  color: $navy;
+  text-decoration: underline;
+  text-decoration-color: rgba(0, 46, 93, 0.3);
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  color: $link-hover-color;
+  text-decoration-color: $link-hover-color;
+}
+
+a:visited {
+  color: darken($navy, 10%);
+}
+
+// Navigation links - no underline
+#quarto-sidebar a,
+.toc a,
+nav a,
+.navbar a,
+.breadcrumb a {
+  text-decoration: none;
+}
+
+// ===== MAIN CONTENT =====
+#quarto-content {
+  background-color: $body-bg;
+}
+
+.content {
+  max-width: 50rem;
+  padding: 2.5rem 2rem;
+}
+
+// Hide author/date metadata
+#title-block-header .quarto-title-meta {
+  display: none;
+}
+
+// ===== LISTS =====
+ul, ol {
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+  line-height: 1.7;
+}
+
+// ===== HORIZONTAL RULES =====
+hr {
+  border: none;
+  border-top: 1px solid $border-color;
+  margin: 3rem 0;
+}
+
+// ===== FOCUS STATES =====
+a:focus,
+button:focus,
+input:focus,
+select:focus,
+textarea:focus {
+  outline: 2px solid $navy;
+  outline-offset: 2px;
+}
+
+// ===== RESPONSIVE =====
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  h3 {
+    font-size: 1.25rem;
+  }
+
+  .content {
+    padding: 1.5rem 1rem;
+  }
+
+  table {
+    font-size: 0.875rem;
+  }
+
+  th, td {
+    padding: 0.625rem 0.75rem;
+  }
+}
+
+// ===== FOOTER =====
+.book-footer {
+  margin-top: 4rem;
+  padding: 1.5rem 0;
+  border-top: 1px solid $border-color;
+}
+
+.book-footer .footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  max-width: 50rem;
+}
+
+.book-footer .footer-logo-wrap {
+  text-align: center;
+}
+
+.book-footer .footer-logo {
+  height: 32px;
+  width: auto;
+}
+
+.book-footer .footer-links {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-family: $font-family-sans-serif;
+  font-size: 0.8125rem;
+}
+
+.book-footer .footer-name {
+  color: $secondary;
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.book-footer .footer-name:hover {
+  color: $navy;
+}
+
+.book-footer .footer-icon {
+  color: $muted;
+  text-decoration: none;
+  transition: color 0.15s ease;
+  display: flex;
+  align-items: center;
+}
+
+.book-footer .footer-icon:hover {
+  color: $navy;
+}
+
+.book-footer .footer-icon svg {
+  display: block;
+}
+
+.book-footer a::after {
+  display: none !important;
+}
+
+// ===== PRINT STYLES =====
+@media print {
+  .book-header-banner,
+  #quarto-sidebar,
+  #quarto-margin-sidebar {
+    display: none !important;
+  }
+
+  body {
+    background: white;
+    color: black;
+  }
+
+  h1, h2, h3, h4 {
+    color: black;
+  }
+
+  a {
+    color: black;
+    text-decoration: none;
+  }
 }

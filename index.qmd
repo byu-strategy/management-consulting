@@ -9,21 +9,16 @@ format:
 
 # Syllabus
 
-*WINTER 2026*
-
-**Instructor:** Scott Murff
-
-**TAs:** Carson Fellows, Tatum Frazier, Ambrose Aggabao, EJ Smith, Grant Hill, Avery Pate, Grace Dyer
-
-**Case Coach:** David Fillmore
-
-**Class Time:** Tuesday/Thursday 12:30 – 1:45 PM
-
-**Class Location:** W240
-
-**Office Hours:** TBD
-
-**LMS:** LearningSuite
+|  |  |
+|:--|:--|
+| **Term** | Winter 2026 |
+| **Instructor** | Scott Murff |
+| **TAs** | Carson Fellows, Tatum Frazier, Ambrose Aggabao, EJ Smith, Grant Hill, Avery Pate, Grace Dyer |
+| **Case Coach** | David Fillmore |
+| **Class Time** | Tuesday/Thursday 12:30 – 1:45 PM |
+| **Location** | W240 |
+| **Office Hours** | TBD |
+| **LMS** | LearningSuite |
 
 ## Course Overview
 
