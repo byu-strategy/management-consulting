@@ -49,7 +49,7 @@ format:
       - custom.scss
     include-before-body: _header.html
     include-after-body: _footer.html
-    mainfont: IBM Plex Sans
+    mainfont: Inter
     monofont: JetBrains Mono
     fontsize: 1rem
     linestretch: 1.7

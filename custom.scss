@@ -24,10 +24,9 @@ $navy: #002E5D;
 $border-color: #e7e5e4;          // Stone-200
 $border-color-subtle: #f5f5f4;   // Stone-100
 
-// ===== TYPOGRAPHY (BYU Brand) =====
-$font-family-sans-serif: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-$font-family-serif: 'IBM Plex Sans', Georgia, 'Times New Roman', serif;  // Fallback for theme compatibility
-$font-family-secondary: 'Public Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+// ===== TYPOGRAPHY =====
+$font-family-sans-serif: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+$font-family-serif: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
 $font-family-monospace: 'JetBrains Mono', 'SF Mono', Monaco, monospace;
 
 $font-size-root: 16px;
@@ -47,8 +46,8 @@ $paragraph-margin-bottom: 1.5rem;
 
 /*-- scss:rules --*/
 
-// ===== GOOGLE FONTS IMPORT (BYU Brand) =====
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Public+Sans:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap');
+// ===== GOOGLE FONTS IMPORT =====
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap');
 
 // ===== GLOBAL STYLES =====
 body {
@@ -90,7 +89,7 @@ html {
 
 // ===== TYPOGRAPHY =====
 h1, h2, h3, h4, h5, h6 {
-  font-family: $font-family-sans-serif;
+  font-family: $font-family-serif;
   color: $navy;
   letter-spacing: -0.01em;
   margin-top: 2.5rem;
@@ -99,7 +98,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: $h1-font-size;
-  font-weight: 600;
+  font-weight: 400;
   letter-spacing: -0.02em;
   padding-bottom: 1rem;
   border-bottom: 2px solid $border-color;
@@ -108,7 +107,6 @@ h1 {
 
 h2 {
   font-size: $h2-font-size;
-  font-weight: 600;
   margin-top: 3rem;
   padding-bottom: 0.5rem;
   border-bottom: 1px solid $border-color;
@@ -116,12 +114,12 @@ h2 {
 
 h3 {
   font-size: $h3-font-size;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 h4 {
   font-size: $h4-font-size;
-  font-weight: 600;
+  font-weight: 700;
   color: $body-color;
 }
 
@@ -187,9 +185,9 @@ em, i {
 
 // Book title
 #quarto-sidebar .sidebar-title {
-  font-family: $font-family-sans-serif;
+  font-family: $font-family-serif;
   font-size: 1rem;
-  font-weight: 600;
+  font-weight: 400;
   color: $navy;
   padding-bottom: 0.75rem;
   margin-bottom: 0.5rem;
@@ -551,7 +549,7 @@ blockquote {
 }
 
 blockquote p {
-  font-family: $font-family-sans-serif;
+  font-family: $font-family-serif;
   font-style: italic;
   font-size: 1.0625rem;
   color: $secondary;
