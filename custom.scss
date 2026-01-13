@@ -631,27 +631,24 @@ textarea:focus {
 
 // ===== RESPONSIVE =====
 @media (max-width: 991.98px) {
-  // Mobile sidebar toggle button - position below fixed header
-  .sidebar-navigation .quarto-sidebar-toggle,
-  #quarto-sidebar-toggle,
-  .quarto-sidebar-toggle {
+  // Push Quarto's mobile header (with toggle button) below custom banner
+  #quarto-header.headroom {
     top: 54px !important;
-    z-index: 1025;
   }
 
-  // Mobile header - ensure it's above everything
+  // Mobile header banner - ensure it's above Quarto header
   .book-header-banner {
-    z-index: 1030;
+    z-index: 1040;
   }
 
-  // When sidebar is open on mobile, position it below header
+  // When sidebar is open on mobile, position it below both headers
   #quarto-sidebar {
-    top: 54px !important;
-    height: calc(100vh - 54px) !important;
+    top: 104px !important;  // 54px banner + ~50px quarto header
+    height: calc(100vh - 104px) !important;
     z-index: 1020;
   }
 
-  // Main content area needs margin for both header and toggle
+  // Main content area needs margin for both headers
   #quarto-content {
     margin-top: 54px;
   }
