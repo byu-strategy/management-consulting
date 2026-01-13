@@ -25,65 +25,106 @@ Your barometer for success: by semester's end, your students have demonstrated m
 
 ## Pod Structure
 
-Approximately 50 students are registered, with seven teaching assistants and one case coach. Each TA oversees approximately 7-8 students organized into a pod. The case coach (David Fillmore) supports case interview practice across all pods but does not have a dedicated pod or attend class sessions.
+Approximately 48 students are registered, with eight teaching assistants/case coaches. Each TA mentors approximately 6 students organized into a pod.
+
+### Pod Purpose
+
+Each pod serves three functions:
+
+1. **Support system**: People rooting for students' success and checking in on progress
+2. **Practice interview partners**: 5 peers to practice behavioral and case interviews with
+3. **Peer feedback**: Resume reviews, story refinement, and honest input
+
+### TA Touchpoints
 
 | Touchpoint | Timing | Purpose |
 |:-----------|:-------|:--------|
-| Goals Chat | Week 2 | Establish recruiting goals and development focus |
-| Feedback Session 1 | Week 6 | Progress check on resume and networking |
-| Feedback Session 2 | Week 9 | Mid-semester check-in, case practice feedback |
-| Feedback Session 3 | Week 11 | Interview prep assessment |
-| Feedback Session 4 | Week 14 | Final reflection and capstone prep |
+| Goals Worksheet + Chat | Week 2 | Establish recruiting goals and development focus |
+| TA Mentoring Session 1 | Weeks 4-5 | Baseline practice interview, identify focus areas |
+| TA Mentoring Session 2 | Weeks 9-10 | Progress check practice interview, calibrated feedback |
+| TA Mentoring Session 3 | Week 14 | Final practice interview evaluation with full context |
+
+**Note:** TA Mentoring Sessions replace the previous 4 feedback sessions. Each session is a full practice interview (behavioral + case) that allows you to track student growth over time.
 
 ## Individual Mentoring
 
 Most assignments in this course are completed individually. Your role is to assess progress against *The Consultant's OS* toolkit, helping students build both external competence in core skills and internal confidence in applying those skills under ambiguity and pressure.
 
-### Goals Chat
+### Goals Worksheet + Chat
 
-**What it is:** A one-on-one conversation at the beginning of the semester where each student articulates their goals and you establish alignment and accountability.
+**What it is:** Students complete a Goals Worksheet before meeting with you for a 20-minute conversation. This worksheet becomes a living document you'll reference throughout the semester in TA Mentoring Sessions.
 
-**Topics to cover:**
+**Goals Worksheet Sections:**
 
-- Long-term academic and career goals
-- Near-term recruiting and internship objectives
-- Plans for summer 2026 (if not finalized)
-- Top-choice consulting firms and rationale
-- Which toolkit components they consider weakest or want to focus on most
+1. **Career Direction**: Ideal first 2-4 years, summer 2026/2027 plans
+2. **Target Firms**: Top 3 firms with rationale
+3. **Self-Assessment**: Rate 1-4 on each practice interview rubric dimension
+4. **Development Focus**: 2-3 priority skills + action plan
+5. **Definition of Success**: What "winning" looks like by May
+6. **TA Notes**: Your observations, commitments made, flags to monitor
 
-**Sample questions:**
+**During the chat, explore:**
 
-1. What does an ideal first 5-10 years of your career look like, and why?
+1. What does an ideal first 2-4 years of your career look like, and why?
 2. What does "success" look like at the end of this recruiting season?
-3. What are your plans for summer 2026, and how will that strengthen your candidacy?
+3. What are your plans for summer 2026 and summer 2027?
 4. Which firms are at the top of your list? What differentiates them in your mind?
-5. Which *Consultant's OS* skills are your biggest opportunities for development?
+5. Which practice interview dimensions (behavioral or case) are your biggest opportunities for development?
 6. How should I push you to success? What's your preferred learning style?
 
-**Grading the goals worksheet:**
+**Grading the Goals Worksheet:**
 
 Students should clearly articulate:
 
-- **Summer 2026 plans**: Concrete strategy for securing an internship, or if already secured, how they'll maximize learning
-- **Development plans**: Honest assessment of current capability across the toolkit, with targeted actions for improvement
-- **Underlying motivation**: A genuine "why" connecting personal goals, career objectives, and effort required, not generic rationale
+- **Summer 2026 and 2027 plans**: Concrete strategy for securing an internship, or if already secured, how they'll maximize learning
+- **Development plans**: Honest self-assessment on the 6 rubric dimensions, with targeted actions for improvement
+- **Underlying motivation**: A genuine "why" connecting personal goals, career objectives, and effort required—not generic rationale
 
-### Feedback Sessions
+**Using the Worksheet Throughout the Semester:**
 
-Consulting firms operate with a strong feedback culture prioritizing rapid, iterative improvement. This course reflects that standard.
+Reference the Goals Worksheet in each TA Mentoring Session:
 
-**Structure:**
+- **Session 1**: "You said quantitative rigor was weak—let's focus on that in today's case"
+- **Session 2**: "Your self-assessment said Structure was a 2. Looking at your feedback data, you're now averaging 3.2. Great progress."
+- **Session 3**: "Did you achieve what you defined as success in Week 2?"
 
-- 10-minute meetings, 4 times per semester
-- Focus on *The Consultant's OS* toolkit, not grading optimization
-- Synthesize 1-3 concrete, actionable takeaways for coming weeks
-- Connect feedback to upcoming assignments or milestones
+### TA Mentoring Sessions
+
+You will conduct 3 practice interviews with each student over the semester. These sessions serve as both skill development and assessment opportunities.
+
+**Practice Interview Format:**
+
+Each session combines behavioral and case components, mirroring the actual MBB interview format:
+
+| Component | Time |
+|-----------|------|
+| Behavioral (1-2 questions) | 15-20 min |
+| Case | 30-35 min |
+| Feedback | 5-10 min |
+| **Total** | **~60 min** |
+
+**Session Focus:**
+
+| Session | Timing | Focus |
+|---------|--------|-------|
+| **Session 1** | Weeks 4-5 | Baseline assessment—identify strengths and focus areas |
+| **Session 2** | Weeks 9-10 | Progress check—compare to baseline, calibrate feedback |
+| **Session 3** | Week 14 | Final evaluation—assess growth, prepare for real interviews |
+
+**Key Guidelines:**
+
+- Use a **different behavioral story** and **different case** each session
+- Reference the **Goals Worksheet**: "You said X was weak—let's see how you've improved"
+- Complete the **feedback form** after each session so students can track their data
+- **Same TA for all 3 sessions** allows you to observe growth arc and provide contextual feedback
 
 **Approach:**
 
 - **High support + high expectations**: Feedback should be timely, candid, and growth-oriented
 - **Build, don't discourage**: At least 80% of the conversation should focus on what the student is doing well
 - **Specific and actionable**: "Your frameworks are getting more MECE. Next, focus on stating your hypothesis before diving into branches"
+
+**Your Load:** 3 sessions × 6 students = 18 sessions over the semester (~1.2 hrs/week)
 
 ### Resume Reviews
 
@@ -118,82 +159,142 @@ Students create a spreadsheet to track recruiting and networking progress.
 - Reference during feedback sessions to assess progress and identify next steps
 - Grade initial submission on completeness; subsequent check-ins on completion basis
 
-### Behavioral Stories (PARADE)
+## Practice Interview Support
 
-Students prepare structured behavioral stories using the PARADE framework.
+A significant portion of student development comes from repeated practice interviews. Each practice interview includes both behavioral and case components, mirroring the actual MBB interview format. Students complete 8 practice interviews: 5 with pod peers and 3 with you.
 
-| Element | Description |
-|:--------|:------------|
-| **P**roblem | The core challenge or situation faced |
-| **A**ction | Specific actions the student personally took |
-| **R**esult | Outcome or result achieved (quantified where possible) |
-| **A**pplication | How this relates to consulting |
-| **D**ifferentiation | What made their approach unique |
-| **E**vidence | Proof points and specifics |
+### Practice Interview Format
 
-**Guidance:**
+| Component | Time |
+|-----------|------|
+| Behavioral (1-2 questions) | 15-20 min |
+| Case | 30-35 min |
+| Feedback | 5-10 min |
+| **Total** | **~60 min** |
 
-- Students should build a thoughtful inventory of meaningful, tailored stories, not a large volume of generic examples
-- Stories should be versatile and adaptable across different behavioral questions
-- Focus on common themes: leadership, teamwork, conflict, failure, decision-making under ambiguity
-- Avoid over-indexing on firm-specific behavioral expectations
+### Practice Interview Rubric
 
-## Case Interview Support
+After each practice interview, the interviewer completes a feedback form. This creates a data trail students can use to track their improvement.
 
-A significant portion of student development comes from repeated case practice. Throughout the semester, students case with peers, TAs, and MCA members.
+**Behavioral Dimensions (3):**
 
-### Casing Components
+| Dimension | What to Evaluate |
+|-----------|------------------|
+| **Impact & Ownership** | Leadership shown, personal actions ("I" not "we"), quantified results |
+| **Teamwork & Collaboration** | Working with others, influence, navigating conflict |
+| **Presence & Fit** | Concise (~2 min), confident, authentic, likable |
 
-| Component | Description | Grading |
-|:----------|:------------|:--------|
-| **Case Workshop** | Pod introduction to casing fundamentals (early semester) | Attendance |
-| **Practice Cases** | Minimum 8 cases over the semester | Completion |
-| **Pieces of a Case** | 5 focused assignments (framework, quant, exhibits, brainstorm, synthesis) | Rubric |
-| **Casing Midterm** | 2 full mock cases (one with assigned TA, one with different TA) | Light grading |
-| **Casing Final** | Rigorously graded evaluation | Full rubric |
+**Case Dimensions (3):**
+
+| Dimension | What to Evaluate |
+|-----------|------------------|
+| **Structure & Approach** | MECE framework, tailored to problem, prioritized |
+| **Analytical Rigor** | Math setup, accuracy, "so what" interpretation |
+| **Hypothesis-Driven Recommendation** | Clear POV, insight-led synthesis, practical and actionable |
+
+**Scoring Scale (4-point):**
+
+| Score | Label | Meaning |
+|-------|-------|---------|
+| **1** | Not Yet | Significant gaps; needs foundational work |
+| **2** | Developing | Shows potential but inconsistent; clear areas to improve |
+| **3** | Solid | Meets expectations; ready for most interviews |
+| **4** | Strong | Exceeds expectations; would stand out in an interview |
+
+### Behavioral Scoring Anchors
+
+**Impact & Ownership**
+
+- **1**: Vague story, no clear results, says "we" throughout, can't articulate personal contribution
+- **2**: Has a story but results aren't quantified, unclear what they personally drove
+- **3**: Clear personal actions, quantified results, demonstrates leadership or initiative
+- **4**: Compelling ownership, impressive results with context/scale, clearly drove meaningful outcomes
+
+**Teamwork & Collaboration**
+
+- **1**: Story doesn't involve others, or throws teammates under the bus, no evidence of collaboration
+- **2**: Others mentioned but unclear how they worked together, surface-level teamwork
+- **3**: Clear collaboration, navigated different perspectives, elevated the team's work
+- **4**: Sophisticated influence, resolved real conflict, made others better, shows inclusive leadership
+
+**Presence & Fit**
+
+- **1**: Rambling (3+ min), nervous/robotic, hard to follow, wouldn't want to staff on a team
+- **2**: Understandable but too long or too short, filler words, comes across as rehearsed
+- **3**: Concise (~2 min), confident, natural delivery, likable
+- **4**: Crisp, engaging, authentic, memorable—would want this person on my team
+
+### Case Scoring Anchors
+
+**Structure & Approach**
+
+- **1**: No framework or completely generic, no prioritization
+- **2**: Has a framework but not tailored, missing MECE
+- **3**: Tailored MECE structure, logical prioritization
+- **4**: Insightful structure that unlocks the case, adapts as new info emerges
+
+**Analytical Rigor**
+
+- **1**: Can't set up the math, significant errors, no interpretation of results
+- **2**: Gets to an answer but messy setup, minor errors, or no "so what"
+- **3**: Clean setup, accurate math, interprets what the numbers mean for the decision
+- **4**: Efficient approach, creative shortcuts, surfaces insights others would miss
+
+**Hypothesis-Driven Recommendation**
+
+- **1**: No recommendation, or wishy-washy "it depends," no point of view
+- **2**: Has a recommendation but just summarizes analysis, no real insight
+- **3**: Clear POV with structured reasoning, acknowledges risks, actionable next steps
+- **4**: Sharp insight that reframes the problem, creative yet grounded, CEO would act on this
+
+### PARADE Framework for Behavioral Stories
+
+Students use the PARADE framework to structure their behavioral stories:
+
+| Element | Question | What "Good" Looks Like |
+|---------|----------|------------------------|
+| **P**roblem | What was the situation? | Specific context, stakes clear, sets up tension |
+| **A**ction | What did YOU do? | "I" not "we," concrete actions, shows initiative |
+| **R**esult | What was the outcome? | Quantified impact, clear resolution, meaningful scale |
+| **A**pplication | How does it relate to consulting? | Connects to skills firms value |
+| **D**ifferentiation | What made your approach unique? | Shows judgment, creativity, values |
+| **E**vidence | What proves this is true? | Specific details, numbers, names |
 
 ### General Guidelines
 
-**Mindset:** Students should leave every case feeling encouraged to continue. Progress comes through repetition and reflection.
+**Mindset:** Students should leave every practice interview feeling encouraged to continue. Progress comes through repetition and reflection.
 
-**Before the case:**
+**Before the interview:**
 
-1. Ask how many cases they've completed
-2. Identify their perceived strengths and weaknesses
-3. Establish a specific goal for this case (clarity, synthesis, math speed, etc.)
-4. Select a case you know well that aligns with their goal
+1. Ask how many practice interviews they've completed
+2. Reference their Goals Worksheet—what are they focusing on?
+3. Establish a specific goal for this session
+4. Select a case and behavioral question that align with their development needs
 
-**During the case:**
+**During the interview:**
 
 - Treat it as a true interview: take structured notes, track timing
-- Use the case evaluation rubric
+- Use the rubric to evaluate each dimension
 - Give students the benefit of the doubt during weaker segments
 - Stay engaged; coachability can only be demonstrated with attentive coaching
 
-**After the case:**
+**After the interview:**
 
 1. Ask for their self-reflection first (what went well, what was challenging)
-2. Balance reinforcement of strengths with specific guidance on improvement
-3. Provide concrete, actionable recommendations (math drills, framework practice, synthesis exercises)
-4. If they performed poorly and know it, focus on encouragement and perspective because setbacks are normal
-
-### Case Evaluation Rubric
-
-| Section | What to Evaluate | Strong Performance | Common Weaknesses |
-|:--------|:-----------------|:-------------------|:------------------|
-| **Prompt & Clarification** | Synthesis, engagement, clarifying questions | Restates objective, asks 1-2 high-impact questions, confirms metrics/constraints | Parrots prompt, asks too many low-value questions, misses constraints |
-| **Framework** | Hypothesis-driven, MECE, personalization, prioritization | Tailored MECE framework, clear hypothesis, explains how branches connect, identifies starting point | Generic frameworks, no prioritization |
-| **Brainstorming** | Structure, quantity, creativity, relevance | Organized buckets, many relevant ideas, creativity grounded in business logic | Unstructured dumping, too few ideas |
-| **Quantitative** | Verbalization, structure, speed, accuracy, interpretation | Explains approach first, clean assumptions, accurate calculation, clear "so what" | Silent math, messy setup, no interpretation |
-| **Exhibit Interpretation** | Synthesis, takeaways, implications | Leads with headline insight, identifies key trends, connects to business decisions | Reads line-by-line, misses key insight |
-| **Recommendation** | Clarity, reasoning, risks, next steps | Clear recommendation up front, prioritized reasoning, acknowledges risks, outlines next steps | Vague recommendation, omits risks |
-| **General Behaviors** | Engagement, professionalism, coachability, communication | Concise, engaged, adapts to feedback, sound judgment | Rambling, defensive, poor prioritization |
+2. Share your rubric scores and explain your reasoning
+3. Balance reinforcement of strengths with specific guidance on improvement
+4. Provide 1-3 concrete, actionable recommendations for their next practice interview
+5. Complete the feedback form so the data goes to their record
 
 ### Firm Differences Disclaimer
 
-While case styles differ across firms, avoid over-indexing firm-specific nuances during the course. The goal is building a strong generalist foundation that transfers across firms.
+While interview styles differ across firms, avoid over-indexing firm-specific nuances during the course. The goal is building a strong generalist foundation that transfers across MBB firms.
 
-Use a broadly generalist style (similar to BCG) as the baseline. Once students secure interviews at specific firms, they can adjust their approach. Firm-specific customization comes *after* mastery of fundamentals.
+- **McKinsey**: More hypothesis-driven, expects a POV early
+- **BCG**: More insight-focused, values creativity
+- **Bain**: More practical/results-oriented
+
+Use a broadly generalist style as the baseline. Firm-specific customization comes *after* mastery of fundamentals.
 
 ## Group Project Support
 

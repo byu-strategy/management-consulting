@@ -7,13 +7,12 @@ editor: visual
 
 The following assessments will be used to measure progress towards learning outcomes and to assign grades. Assessments are organized by track: **Recruiting** (interview preparation) and **Client Work** (consulting projects).
 
-| Track | Assessment | % | Pts | OS Actions | LOs |
+| Goal | Assessment | % | Pts | OS Actions | LOs |
 |:------|:-----------|:-:|:---:|:-----------|:---:|
 | Both | [Reading Quizzes (10)](#reading-quizzes) | 10 | 50 | Varies by week | 1,2,3 |
 | Both | [TA Pod Engagement](#ta-pod-engagement) | 10 | 50 | [3.6](07-move-work-forward.qmd#os-3-6), [4.4](08-create-impact.qmd#os-4-4), [4.8](08-create-impact.qmd#os-4-8) | 1,4 |
 | Recruiting | [Resume & Networking](#resume-and-networking) | 10 | 50 | [1.4](05-think-clearly.qmd#os-1-4), [1.6](05-think-clearly.qmd#os-1-6), [2.2](06-get-right-answer.qmd#os-2-2), [4.4](08-create-impact.qmd#os-4-4) | 5 |
-| Recruiting | [Case Practice Log](#case-practice-log) | 10 | 50 | [1.1](05-think-clearly.qmd#os-1-1)–[1.7](05-think-clearly.qmd#os-1-7), [2.4](06-get-right-answer.qmd#os-2-4), [2.6](06-get-right-answer.qmd#os-2-6), [3.7](07-move-work-forward.qmd#os-3-7) | 1,5 |
-| Recruiting | [Behavioral Stories (PARADE)](#behavioral-stories) | 10 | 50 | [4.1](08-create-impact.qmd#os-4-1), [4.2](08-create-impact.qmd#os-4-2) | 3,5 |
+| Recruiting | [Practice Interview Log](#practice-interview-log) | 20 | 100 | [1.1](05-think-clearly.qmd#os-1-1)–[1.7](05-think-clearly.qmd#os-1-7), [2.4](06-get-right-answer.qmd#os-2-4), [2.6](06-get-right-answer.qmd#os-2-6), [4.1](08-create-impact.qmd#os-4-1), [4.2](08-create-impact.qmd#os-4-2) | 1,3,5 |
 | Client Work | [P1: Company Diagnostic](#company-diagnostic) | 10 | 50 | [1.1](05-think-clearly.qmd#os-1-1), [1.2](05-think-clearly.qmd#os-1-2), [2.2](06-get-right-answer.qmd#os-2-2) | 1,2 |
 | Client Work | [P2: Competitive Benchmark](#competitive-benchmark) | 10 | 50 | [2.2](06-get-right-answer.qmd#os-2-2), [2.3](06-get-right-answer.qmd#os-2-3), [2.6](06-get-right-answer.qmd#os-2-6) | 1,2,3 |
 | Client Work | [P3: Value-Add Hypothesis](#value-add-hypothesis) | 10 | 50 | [1.4](05-think-clearly.qmd#os-1-4), [1.5](05-think-clearly.qmd#os-1-5), [4.1](08-create-impact.qmd#os-4-1) | 1,2,3 |
@@ -47,24 +46,10 @@ Reading quizzes ensure you come to class prepared and have internalized core con
 **Requirements**
 
 - 10 quizzes throughout the semester (5 points each)
-- Quizzes are due at the **start of class** on Thursday
+- Quizzes are administered at the **start of class** on Thursday
 - Cover the assigned readings for that week's OS concept
 - No quizzes on weeks when major projects are due (P1, P2, P3)
-
-**Quiz Topics**
-
-| Quiz | Week | Date | Topic |
-|:-----|:----:|:-----|:------|
-| 1 | 2 | Th Jan 15 | The Consulting Industry |
-| 2 | 3 | Th Jan 22 | Diagnosis & *The Consultant's OS* |
-| 3 | 4 | Th Jan 29 | Problem Definition & Framing |
-| 4 | 5 | Th Feb 5 | Hypotheses & MECE |
-| 5 | 6 | Th Feb 12 | Outside-In Research |
-| 6 | 7 | Th Feb 19 | Market Sizing & Estimation |
-| 7 | 9 | Th Mar 5 | Synthesis & Workplanning |
-| 8 | 11 | Th Mar 19 | Pyramid Principle & Storylining |
-| 9 | 13 | Th Apr 2 | Stakeholder Management & Trust |
-| 10 | 14 | Th Apr 9 | Team Coordination & Communication |
+- Quizzes are closed laptop and closed note
 
 **Grading Rubric**
 
@@ -83,25 +68,33 @@ Reading quizzes ensure you come to class prepared and have internalized core con
 
 **Overview**
 
-Your TA pod is your home base for the semester. Active engagement with your pod accelerates your learning and interview preparation.
+Your TA pod is your home base for the semester—a support system of people invested in your success. Your pod serves three purposes:
+
+1. **Support system**: People rooting for your success and checking in on your progress
+2. **Practice interview partners**: 5 peers to practice behavioral and case interviews with
+3. **Peer feedback**: Resume reviews, story refinement, and honest input
 
 **Requirements**
 
-1. **Goals Chat (Week 2)**: 15-minute meeting with your TA to establish recruiting goals and development focus
-2. **Feedback Sessions (4x/semester)**: Attend all four scheduled 10-minute check-ins
-3. **Case Practice Participation**: Actively participate in pod case practice sessions
-4. **Peer Support**: Provide constructive feedback to pod members on resumes and case practice
+1. **Goals Worksheet + Chat (Week 2)**: Complete the Goals Worksheet before meeting with your TA for a 20-minute conversation to establish recruiting goals and development focus. This worksheet becomes a living document referenced throughout the semester.
+
+2. **TA Mentoring Sessions (3x)**: Meet with your TA three times for combined practice interviews (behavioral + case) that track your growth:
+   - **Session 1 (Weeks 4-5)**: Baseline assessment, identify focus areas
+   - **Session 2 (Weeks 9-10)**: Progress check, calibrated feedback
+   - **Session 3 (Week 14)**: Final evaluation with full semester context
+
+3. **Peer Support**: Provide constructive feedback to pod members through practice interviews and resume reviews.
 
 **Grading Rubric**
 
 | Component | Points |
 |-----------|--------|
-| Goals Chat completed | 10 |
-| Feedback Session 1 attended | 8 |
-| Feedback Session 2 attended | 8 |
-| Feedback Session 3 attended | 8 |
-| Feedback Session 4 attended | 8 |
-| Active participation in pod activities | 8 |
+| Goals Worksheet + Chat completed | 10 |
+| TA Mentoring Session 1 completed | 10 |
+| TA Mentoring Session 2 completed | 10 |
+| TA Mentoring Session 3 completed | 10 |
+| Active participation in pod activities | 5 |
+| Peer support (feedback given to others) | 5 |
 | **Total** | **50** |
 
 ---
@@ -136,7 +129,7 @@ Your resume should:
 
 Maintain a networking tracker documenting your outreach throughout the semester:
 
-- **Minimum 10 networking conversations** with consulting professionals
+- **Minimum 5 networking conversations** with consulting professionals
 - Track: Name, company, date, key insights, follow-up actions
 - Include a mix of informational interviews, smoothie chats, and firm events
 
@@ -152,92 +145,126 @@ Maintain a networking tracker documenting your outreach throughout the semester:
 
 ---
 
-### Case Practice Log {#case-practice-log}
+### Practice Interview Log {#practice-interview-log}
 
-**Points**: 50 (10% of grade)
+**Points**: 100 (20% of grade)
 
 **Overview**
 
-Case interview mastery requires deliberate practice. This log documents your case practice journey throughout the semester.
+Interview mastery requires deliberate practice of both behavioral and case components. This log documents your practice interview journey throughout the semester. Each practice interview mirrors the actual MBB interview format: a behavioral question followed by a case.
+
+**Practice Interview Format**
+
+Each practice interview includes:
+
+| Component | Time |
+|-----------|------|
+| Behavioral (1-2 questions) | 15-20 min |
+| Case | 30-35 min |
+| Feedback | 5-10 min |
+| **Total** | **~60 min** |
 
 **Requirements**
 
-Complete a minimum of **8 practice cases** throughout the semester, documenting each in your case practice log.
+Complete a minimum of **8 practice interviews** as the interviewee:
 
-For each case, record:
+| Source | Sessions | Notes |
+|--------|----------|-------|
+| Pod peers | 5 | Practice with each pod member once |
+| TA | 3 | TA Mentoring Sessions (Weeks 4-5, 9-10, 14) |
+| **Total** | **8** | |
 
-1. **Date and case partner** (pod member, TA, or external)
-2. **Case type** (profitability, market entry, M&A, pricing, etc.)
-3. **Your role** (interviewer or interviewee)
-4. **Key frameworks used**
-5. **What went well**
-6. **Areas for improvement**
-7. **Specific action items for next case**
+When practicing with peers, take turns—you'll also serve as interviewer 5 times.
+
+**Feedback Collection**
+
+After each practice interview, the interviewer completes a feedback form evaluating:
+
+**Behavioral Dimensions:**
+
+- **Impact & Ownership**: Leadership shown, personal actions ("I" not "we"), quantified results
+- **Teamwork & Collaboration**: Working with others, influence, navigating conflict
+- **Presence & Fit**: Concise (~2 min), confident, authentic, likable
+
+**Case Dimensions:**
+
+- **Structure & Approach**: MECE framework, tailored to problem, prioritized
+- **Analytical Rigor**: Math setup, accuracy, "so what" interpretation
+- **Hypothesis-Driven Recommendation**: Clear POV, insight-led synthesis, practical and actionable
+
+Each dimension is rated on a 4-point scale:
+
+| Score | Label | Meaning |
+|-------|-------|---------|
+| 1 | Not Yet | Significant gaps; needs foundational work |
+| 2 | Developing | Shows potential but inconsistent |
+| 3 | Solid | Meets expectations; ready for most interviews |
+| 4 | Strong | Exceeds expectations; would stand out |
 
 **Grading Rubric**
 
 | Component | Points |
 |-----------|--------|
-| 8+ cases documented | 30 |
-| Thoughtful reflection on each case | 15 |
-| Evidence of improvement over time | 5 |
-| **Total** | **50** |
+| 8 practice interviews completed as interviewee | 50 |
+| Google Form feedback submitted for 5 peer interviews (as interviewer) | 20 |
+| Thoughtful reflection on improvement over time | 20 |
+| Evidence of growth across behavioral AND case dimensions | 10 |
+| **Total** | **100** |
 
 ---
 
-### Behavioral Stories (PARADE) {#behavioral-stories}
-
-**Points**: 50 (10% of grade)
-
-**Due**: Week 13
+### Behavioral Stories: PARADE Framework {#behavioral-stories}
 
 **Overview**
 
-Behavioral interviews are a critical component of consulting recruiting. The PARADE framework helps you structure compelling stories that demonstrate leadership, impact, and fit.
+Behavioral interviews are a critical component of consulting recruiting. The PARADE framework helps you structure compelling stories that demonstrate leadership, impact, and fit. You'll practice delivering these stories live during your 8 practice interviews.
 
 **PARADE Framework**
 
-- **P**roblem: What was the situation or challenge?
-- **A**ction: What specific actions did YOU take?
-- **R**esult: What was the outcome? (Quantify where possible)
-- **A**pplication: How does this relate to consulting?
-- **D**ifferentiation: What made your approach unique?
-- **E**vidence: Proof points and specifics
+| Element | Question to Answer | What "Good" Looks Like |
+|---------|-------------------|------------------------|
+| **P**roblem | What was the situation or challenge? | Specific context, stakes are clear, sets up tension |
+| **A**ction | What did YOU specifically do? | "I" not "we," concrete actions, shows initiative |
+| **R**esult | What was the outcome? | Quantified impact, clear resolution, meaningful scale |
+| **A**pplication | How does this relate to consulting? | Connects to skills firms value (leadership, problem-solving, collaboration) |
+| **D**ifferentiation | What made your approach unique? | Shows judgment, creativity, or values—not generic |
+| **E**vidence | What proves this is true? | Specific details, numbers, names that make it memorable |
 
-**Requirements**
+**Story Bank: 5 Competencies**
 
-Develop a bank of **5 polished behavioral stories** covering different competencies:
+Build stories covering these competencies—firms test for all of them:
 
-1. **Leadership/Initiative**: A time you led a team or took charge
-2. **Problem-Solving**: A time you solved a complex or ambiguous problem
-3. **Teamwork/Collaboration**: A time you worked effectively with others
-4. **Overcoming Challenges**: A time you faced adversity or failure
-5. **Impact/Achievement**: Your most significant professional or academic accomplishment
+| Competency | What Firms Are Testing |
+|------------|----------------------|
+| **Leadership/Initiative** | Can you take charge and drive outcomes? |
+| **Problem-Solving** | Can you navigate ambiguity and find solutions? |
+| **Teamwork/Collaboration** | Can you work effectively with others? |
+| **Overcoming Challenges** | Can you handle adversity and learn from failure? |
+| **Impact/Achievement** | What's your most impressive accomplishment? |
 
-Each story should be:
+**Quality Checklist**
 
-- Written using the PARADE framework
-- 2-3 minutes when delivered verbally
-- Specific, with quantified results where possible
-- Practiced and refined through feedback
+Before using a story in a practice interview, ask yourself:
 
-**Deliverable**
+- [ ] Can I tell it in under 2 minutes?
+- [ ] Do I have at least one quantified result?
+- [ ] Is my personal contribution crystal clear?
+- [ ] Would I be proud to tell this story to a senior partner?
+- [ ] Does it show a trait consulting firms value?
 
-Submit a document containing all 5 behavioral stories formatted using PARADE.
+**How This Is Assessed**
 
-**Grading Rubric**
+Behavioral stories are practiced live during your 8 practice interviews (see [Practice Interview Log](#practice-interview-log)). Each practice interview includes a behavioral component evaluated on:
 
-| Component | Points |
-|-----------|--------|
-| All 5 stories complete and cover required competencies | 20 |
-| Stories follow PARADE structure | 15 |
-| Stories include specific, quantified results | 10 |
-| Stories are polished and interview-ready | 5 |
-| **Total** | **50** |
+- **Impact & Ownership**: Clear results, personal actions
+- **Teamwork & Collaboration**: Working with others
+- **Presence & Fit**: Concise, confident, authentic delivery
+
+Your feedback data across 8 interviews shows your growth in behavioral interviewing over the semester.
 
 ---
 
-## Client Work Track
+## Client Work
 
 These four progressive projects build your consulting skills while creating tangible work products you can use in recruiting.
 

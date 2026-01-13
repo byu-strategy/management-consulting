@@ -22,15 +22,18 @@ Each pod includes:
 - **1 TA**: Your primary mentor, coach, and feedback-giver
 - **7-8 Students**: Your learning community for the semester
 
-Your pod is your home base for:
+Your pod serves three purposes:
+
+1. **Support system**: People rooting for your success and checking in on your progress
+2. **Practice interview partners**: 5 peers to practice behavioral and case interviews with
+3. **Peer feedback**: Resume reviews, story refinement, and honest input
 
 | Activity | Frequency |
 |:---------|:----------|
-| Goals chat | Week 2 |
-| Feedback sessions | 4x per semester |
-| Case practice | Ongoing |
-| Resume review | Weeks 5-6 |
-| Behavioral prep | Weeks 10-12 |
+| Goals Worksheet + Chat | Week 2 |
+| TA Mentoring Sessions | 3x per semester (Weeks 5, 9-10, 14) |
+| Practice interviews with peers | 5 sessions (ongoing) |
+| Resume review | Weeks 5-7 |
 
 ## Team Norms
 
@@ -120,9 +123,9 @@ Example: "In our case practice yesterday (situation), you jumped to a recommenda
 | Feedback Type | Frequency | From |
 |:--------------|:----------|:-----|
 | Project feedback | After each submission | TA + Professor |
-| Case practice feedback | Ongoing | Peers + TA |
-| Resume feedback | 2x | TA |
-| Behavioral feedback | As needed | TA |
+| Practice interview feedback | After each practice interview | Peers + TA |
+| Resume feedback | 2x (Weeks 5, 7) | TA |
+| TA Mentoring Sessions | 3x (Weeks 5, 9-10, 14) | TA |
 | Self-reflection | Mid-semester | You |
 
 ## Managing Conflict

@@ -14,32 +14,32 @@ Below is the planned daily schedule organized around *The Consultant's OS*. Each
 | Wk | # | Date | Topic | Recruiting | Client Work | Assessments |
 |:--:|:-:|:-----|:------|:-----------|:------------|:------------|
 | 1 | 1 | Th Jan 8 | [What Consultants Do](01-what-is-consulting.qmd) & [The Consultan's OS](02-consultants-os.qmd) | [Research target firms: value prop & hiring criteria](01-what-is-consulting.qmd#session-1) | [Select target company; evaluate data availability](01-what-is-consulting.qmd#session-1) | – |
-| 2 | 2 | T Jan 13 | [AI as Your Operating Amplifier](03-leveraging-ai.qmd) | [AI-powered networking prep](03-leveraging-ai.qmd#session-2) | [Intro to Claude Code: 10-K analysis](03-leveraging-ai.qmd#session-2) | [Goals Chat](00-assessments.qmd#ta-pod-engagement); [Case Log](00-assessments.qmd#case-practice-log) assigned; [Networking](00-assessments.qmd#resume-and-networking) assigned |
-| 2 | 3 | Th Jan 15 | [AI Workflows](03-leveraging-ai.qmd#ai-assisted-consulting-actions) & [Team Norms](04-working-as-a-team.qmd#team-norms) | [Build detailed firm research profile](03-leveraging-ai.qmd#session-3) | [Create structured company analysis template](03-leveraging-ai.qmd#session-3) | [Quiz 1](00-assessments.qmd#reading-quizzes) |
+| 2 | 2 | T Jan 13 | [AI as Your Operating Amplifier](03-leveraging-ai.qmd) | [AI-powered networking prep](03-leveraging-ai.qmd#session-2) | [Intro to Claude Code: 10-K analysis](03-leveraging-ai.qmd#session-2) | – |
+| 2 | 3 | Th Jan 15 | [AI Workflows](03-leveraging-ai.qmd#ai-assisted-consulting-actions) & [Team Norms](04-working-as-a-team.qmd#team-norms) | [Build detailed firm research profile](03-leveraging-ai.qmd#session-3) | [Create structured company analysis template](03-leveraging-ai.qmd#session-3) | [Quiz 1](00-assessments.qmd#reading-quizzes); [Goals Worksheet](00-assessments.qmd#ta-pod-engagement); [Practice Interview Log](00-assessments.qmd#practice-interview-log) assigned; [Networking](00-assessments.qmd#resume-and-networking) assigned |
 | 3 | 4 | T Jan 20 | [Diagnose the Current State](05-think-clearly.qmd#os-1-1) | [Diagnose firm hiring needs (analyze recent hires)](05-think-clearly.qmd#session-4) | [Diagnose company's strategic situation](05-think-clearly.qmd#session-4) | [P1](00-assessments.qmd#company-diagnostic) assigned |
 | 3 | 5 | Th Jan 22 | [Root Cause Analysis](05-think-clearly.qmd#os-1-1) | [Self-assessment: diagnose your fit gaps](05-think-clearly.qmd#session-5) | [Five Whys: trace symptoms to root causes](05-think-clearly.qmd#session-5) | [Quiz 2](00-assessments.qmd#reading-quizzes) |
 | 4 | 6 | T Jan 27 | [Define the Problem](05-think-clearly.qmd#os-1-2) | [Define gap: "you now" → "hireable you"](05-think-clearly.qmd#session-6) | [Define client's problem as current vs. desired state](05-think-clearly.qmd#session-6) | – |
 | 4 | 7 | Th Jan 29 | [Frame the Decision](05-think-clearly.qmd#os-1-3) | [Frame recruiting scope: targets, constraints, success criteria](05-think-clearly.qmd#session-7) | [Frame client decision: criteria, constraints, stakeholders](05-think-clearly.qmd#session-7) | [Quiz 3](00-assessments.qmd#reading-quizzes) |
-| 5 | 8 | T Feb 3 | [Hypothesize](05-think-clearly.qmd#os-1-4) & [WWHTBT](05-think-clearly.qmd#os-1-5) | ["I'm the right hire because..." + critical assumptions](05-think-clearly.qmd#session-8) | [Day-1 hypothesis + what would have to be true](05-think-clearly.qmd#session-8) | [PARADE](00-assessments.qmd#behavioral-stories) assigned |
+| 5 | 8 | T Feb 3 | [Hypothesize](05-think-clearly.qmd#os-1-4) & [WWHTBT](05-think-clearly.qmd#os-1-5) | ["I'm the right hire because..." + critical assumptions](05-think-clearly.qmd#session-8) | [Day-1 hypothesis + what would have to be true](05-think-clearly.qmd#session-8) | [TA Mentoring 1](00-assessments.qmd#ta-pod-engagement) |
 | 5 | 9 | Th Feb 5 | [MECE](05-think-clearly.qmd#os-1-6) & [Prioritization](05-think-clearly.qmd#os-1-7) | [MECE-structure resume proof points](05-think-clearly.qmd#session-9) | [Build MECE issue tree; prioritize branches](05-think-clearly.qmd#session-9) | [Quiz 4](00-assessments.qmd#reading-quizzes); [Resume v1](00-assessments.qmd#resume-and-networking) due |
-| 6 | 10 | T Feb 10 | [Build an Outside-In Fact Base](06-get-right-answer.qmd#os-2-2) | [Research firms, roles, and people before outreach](06-get-right-answer.qmd#session-10) | [Build fact base: financials, strategy, competitors, news](06-get-right-answer.qmd#session-10) | [TA Session 1](00-assessments.qmd#ta-pod-engagement) |
+| 6 | 10 | T Feb 10 | [Build an Outside-In Fact Base](06-get-right-answer.qmd#os-2-2) | [Research firms, roles, and people before outreach](06-get-right-answer.qmd#session-10) | [Build fact base: financials, strategy, competitors, news](06-get-right-answer.qmd#session-10) | – |
 | 6 | 11 | Th Feb 12 | [The Trust Equation](06-get-right-answer.qmd#os-2-2) | [Trust Equation prep for smoothie chats](06-get-right-answer.qmd#session-11) | [Outside-in research workshop: earnings calls & news](06-get-right-answer.qmd#session-11) | [Quiz 5](00-assessments.qmd#reading-quizzes) |
 | 7 | 12 | Th Feb 19 | [Quick Math & Estimation](06-get-right-answer.qmd#os-2-4) | [Case: market sizing under pressure](06-get-right-answer.qmd#session-12) | [Size opportunities with explicit assumptions](06-get-right-answer.qmd#session-12) | [Quiz 6](00-assessments.qmd#reading-quizzes); [Resume v2](00-assessments.qmd#resume-and-networking) due |
 | 8 | 13 | T Feb 24 | [Synthesize: From Data to Insight](06-get-right-answer.qmd#os-2-6) | [Case: driving to a recommendation](06-get-right-answer.qmd#session-13) | [Synthesize research into "so what" insights](06-get-right-answer.qmd#session-13) | – |
 | 8 | 14 | Th Feb 26 | [Synthesis Workshop](06-get-right-answer.qmd#os-2-6) | [Rapid synthesis exercises](06-get-right-answer.qmd#session-14) | [P1 workshop: 1-page diagnostic](06-get-right-answer.qmd#session-14) | **[P1](00-assessments.qmd#company-diagnostic) due**; [P2](00-assessments.qmd#competitive-benchmark) assigned |
-| 9 | 15 | T Mar 3 | [Create a Workplan](07-move-work-forward.qmd#os-3-1) | [Build recruiting workplan with milestones](07-move-work-forward.qmd#session-15) | [Build project workplan: analyses, data, timeline](07-move-work-forward.qmd#session-15) | [TA Session 2](00-assessments.qmd#ta-pod-engagement) |
+| 9 | 15 | T Mar 3 | [Create a Workplan](07-move-work-forward.qmd#os-3-1) | [Build recruiting workplan with milestones](07-move-work-forward.qmd#session-15) | [Build project workplan: analyses, data, timeline](07-move-work-forward.qmd#session-15) | [TA Mentoring 2](00-assessments.qmd#ta-pod-engagement) |
 | 9 | 16 | Th Mar 5 | [Own Your Workstream](07-move-work-forward.qmd#os-3-2) | [Own job search: audit progress, build accountability](07-move-work-forward.qmd#session-16) | [Practice status updates: own the insight, not just tasks](07-move-work-forward.qmd#session-16) | [Quiz 7](00-assessments.qmd#reading-quizzes) |
 | 10 | 17 | T Mar 10 | [Move Without Certainty](07-move-work-forward.qmd#os-3-7) | [Case: navigate ambiguous prompts](07-move-work-forward.qmd#session-17) | [Make analytical calls with incomplete data](07-move-work-forward.qmd#session-17) | – |
 | 10 | 18 | Th Mar 12 | [Manage Up](07-move-work-forward.qmd#os-3-6) | [Prepare concise TA update](07-move-work-forward.qmd#session-18) | [P2 workshop: competitive benchmark](07-move-work-forward.qmd#session-18) | **[P2](00-assessments.qmd#competitive-benchmark) due**; [P3](00-assessments.qmd#value-add-hypothesis) assigned |
-| 11 | 19 | T Mar 17 | [Storylines: Pyramid & SCQA](08-create-impact.qmd#os-4-1) | [PARADE structure: build first behavioral story](08-create-impact.qmd#session-19) | [SCQA: structure your analysis storyline](08-create-impact.qmd#session-19) | [TA Session 3](00-assessments.qmd#ta-pod-engagement) |
+| 11 | 19 | T Mar 17 | [Storylines: Pyramid & SCQA](08-create-impact.qmd#os-4-1) | [PARADE structure: build first behavioral story](08-create-impact.qmd#session-19) | [SCQA: structure your analysis storyline](08-create-impact.qmd#session-19) | – |
 | 11 | 20 | Th Mar 19 | [Build Your Story Bank](08-create-impact.qmd#os-4-1) | [PARADE workshop: develop 5 stories across competencies](08-create-impact.qmd#session-20) | [Build persuasive slides with action titles](08-create-impact.qmd#session-20) | [Quiz 8](00-assessments.qmd#reading-quizzes); [Capstone](00-assessments.qmd#capstone-proposal) assigned |
 | 12 | 21 | T Mar 24 | [Executive Brevity](08-create-impact.qmd#os-4-2) | [Behavioral delivery: crisp 2-minute answers](08-create-impact.qmd#session-21) | [Present recommendations: 30-sec and 2-min versions](08-create-impact.qmd#session-21) | – |
 | 12 | 22 | Th Mar 26 | [Confident Delivery](08-create-impact.qmd#os-4-2) | [Behavioral interview simulation](08-create-impact.qmd#session-22) | [P3 workshop: 5-slide executive presentation](08-create-impact.qmd#session-22) | **[P3](00-assessments.qmd#value-add-hypothesis) due** |
 | 13 | 23 | T Mar 31 | [Build Trust](08-create-impact.qmd#os-4-4) | [Fit interviews: demonstrate character & judgment](08-create-impact.qmd#session-23) | [Stakeholder trust: map concerns, apply Trust Equation](08-create-impact.qmd#session-23) | – |
-| 13 | 24 | Th Apr 2 | [Tailor & Handle Pushback](08-create-impact.qmd#os-4-3) | [Handle difficult fit questions with poise](08-create-impact.qmd#session-24) | [Prewiring practice; Yes-No-Yes for objections](08-create-impact.qmd#session-24) | [Quiz 9](00-assessments.qmd#reading-quizzes); [PARADE](00-assessments.qmd#behavioral-stories) due |
-| 14 | 25 | T Apr 7 | [Seek & Apply Feedback](08-create-impact.qmd#os-4-8) | [Process mock interview feedback; build improvement plan](08-create-impact.qmd#session-25) | [Revise deliverables based on input](08-create-impact.qmd#session-25) | [TA Session 4](00-assessments.qmd#ta-pod-engagement) |
+| 13 | 24 | Th Apr 2 | [Tailor & Handle Pushback](08-create-impact.qmd#os-4-3) | [Handle difficult fit questions with poise](08-create-impact.qmd#session-24) | [Prewiring practice; Yes-No-Yes for objections](08-create-impact.qmd#session-24) | [Quiz 9](00-assessments.qmd#reading-quizzes) |
+| 14 | 25 | T Apr 7 | [Seek & Apply Feedback](08-create-impact.qmd#os-4-8) | [Process practice interview feedback; build improvement plan](08-create-impact.qmd#session-25) | [Revise deliverables based on input](08-create-impact.qmd#session-25) | [TA Mentoring 3](00-assessments.qmd#ta-pod-engagement) |
 | 14 | 26 | Th Apr 9 | [Coordinate as a Team](08-create-impact.qmd#os-4-7) | – | [Capstone team coordination: unified narrative, handoffs](08-create-impact.qmd#session-26) | [Quiz 10](00-assessments.qmd#reading-quizzes) |
-| 15 | 27 | T Apr 14 | [The Full OS in Action](02-consultants-os.qmd) | [Course reflection & next steps](02-consultants-os.qmd#session-27) | [Capstone Presentations](02-consultants-os.qmd#session-27) | **[Capstone](00-assessments.qmd#capstone-proposal) due**; [Case Log](00-assessments.qmd#case-practice-log) due; [Networking](00-assessments.qmd#resume-and-networking) due |
+| 15 | 27 | T Apr 14 | [The Full OS in Action](02-consultants-os.qmd) | [Course reflection & next steps](02-consultants-os.qmd#session-27) | [Capstone Presentations](02-consultants-os.qmd#session-27) | **[Capstone](00-assessments.qmd#capstone-proposal) due**; [Practice Interview Log](00-assessments.qmd#practice-interview-log) due; [Networking](00-assessments.qmd#resume-and-networking) due |
 
 ---
 
@@ -62,11 +62,10 @@ Below is the planned daily schedule organized around *The Consultant's OS*. Each
 
 | Assessment | Assigned | Due |
 |:-----------|:---------|:----|
-| [Case Practice Log](00-assessments.qmd#case-practice-log) | Session 2 | Session 27 |
-| [Networking Tracker](00-assessments.qmd#resume-and-networking) | Session 2 | Session 27 |
+| [Practice Interview Log](00-assessments.qmd#practice-interview-log) | Session 3 | Session 27 |
+| [Networking Tracker](00-assessments.qmd#resume-and-networking) | Session 3 | Session 27 |
 | [Resume v1](00-assessments.qmd#resume-and-networking) | – | Session 9 |
 | [Resume v2](00-assessments.qmd#resume-and-networking) | Session 9 | Session 12 |
-| [PARADE Stories](00-assessments.qmd#behavioral-stories) | Session 8 | Session 24 |
 
 ### Client Work Track
 
@@ -81,27 +80,37 @@ Below is the planned daily schedule organized around *The Consultant's OS*. Each
 
 ## TA Pod Schedule
 
-Throughout the semester, you will meet with your TA pod for:
+Throughout the semester, you will meet with your TA for:
 
-- **Goals Chat (Week 2)**: 15-minute individual meeting to discuss recruiting goals
-- **TA Session 1 (Week 6)**: Progress check on resume and networking
-- **TA Session 2 (Week 9)**: Mid-semester check-in, case practice feedback
-- **TA Session 3 (Week 11)**: Interview prep assessment
-- **TA Session 4 (Week 14)**: Final reflection and next steps before capstone
+- **Goals Worksheet + Chat (Week 2)**: Complete the Goals Worksheet, then meet with your TA for a 20-minute conversation to establish recruiting goals and development focus
+- **TA Mentoring Session 1 (Week 5)**: Baseline practice interview—behavioral + case
+- **TA Mentoring Session 2 (Week 9)**: Progress check practice interview—track growth
+- **TA Mentoring Session 3 (Week 14)**: Final practice interview evaluation
+
+Each TA Mentoring Session is a full practice interview (~60 min) that includes a behavioral question followed by a case, mirroring the actual MBB interview format.
 
 ---
 
-## Case Practice Schedule
+## Practice Interview Schedule
 
-Case practice is essential preparation for consulting interviews. The recommended schedule:
+Practice interviews combine behavioral and case components. Complete 8 practice interviews as the interviewee:
 
-| Weeks | Phase | Focus | Minimum Cases |
-|:------|:------|:------|:-------------:|
-| 1–5 | Think Clearly | Observing cases, learning to structure | 1–2 |
-| 6–8 | Get to the Right Answer | Math, estimation, synthesis | 3–4 |
-| 9–10 | Move Work Forward | Full cases with ambiguity | 2–3 |
-| 11–15 | Create Impact | Mock interviews, delivery polish | 2–3 |
-| **Total** | | | **8–12 cases** |
+| Source | Sessions | Timing |
+|:-------|:--------:|:-------|
+| Pod peers | 5 | Practice with each pod member once (ongoing) |
+| TA | 3 | Weeks 5, 9, 14 |
+| **Total** | **8** | |
+
+**Recommended pacing:**
+
+| Weeks | Phase | Focus | Practice Interviews |
+|:------|:------|:------|:-------------------:|
+| 1–3 | Foundation | Goals, team norms | – |
+| 4–5 | Think Clearly | First practice interviews | 1–2 (including TA 1) |
+| 6–8 | Get to the Right Answer | Building skills | 2–3 |
+| 9–10 | Move Work Forward | Mid-semester check | 2 (including TA 2) |
+| 11–14 | Create Impact | Final polish | 2–3 (including TA 3) |
+| **Total** | | | **8** |
 
 ---
 

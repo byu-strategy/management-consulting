@@ -13,11 +13,10 @@ format:
 |:--|:--|
 | **Term** | Winter 2026 |
 | **Instructor** | Scott Murff |
-| **TAs** | Carson Fellows, Tatum Frazier, Ambrose Aggabao, EJ Smith, Grant Hill, Avery Pate, Grace Dyer |
-| **Case Coach** | David Fillmore |
+| **TAs/Coaches** | Carson Fellows, Tatum Frazier, Ambrose Aggabao, EJ Smith, Grant Hill, Avery Pate, Grace Dyer, David Fillmore|
 | **Class Time** | Tuesday/Thursday 12:30 – 1:45 PM |
 | **Location** | W240 |
-| **Office Hours** | TBD |
+| **Office Hours** | By Appointment |
 | **LMS** | LearningSuite |
 
 ## Course Overview
@@ -28,8 +27,8 @@ You'll apply this OS to two course goals:
 
 | Goal | Focus | Outcome |
 |:-----|:------|:--------|
-| **Land an Offer** | Networking, resume, case interviews, behavioral stories | Secure a consulting internship |
-| **Build the Skills** | Company analysis, competitive benchmarking, strategic proposals | Deliver real consulting work |
+| **Land an Offer** | Networking, resume, case interviews, behavioral stories | Secure or make progress towards a consulting internship |
+| **Do Client Work** | Company analysis, competitive benchmarking, strategic proposals | Deliver real consulting work |
 
 These goals reinforce each other. The same OS that helps you structure a case interview helps you deliver impactful client work. The same approach that builds your networking skills builds trust with stakeholders.
 
@@ -48,16 +47,16 @@ By the end of this course, you will develop proficiency in eight core areas:
 | **Coachability** | Incorporate feedback rapidly; demonstrate growth through iteration |
 | **Tolerance for Ambiguity** | Navigate uncertainty; make progress without complete information |
 
-### AI as Your Operating System
+### AI at the Core
 
-AI is not a separate topic. It's how you'll apply every skill in this course. From Week 2, you'll learn to use AI tools (Claude, VS Code/Cursor) to accelerate your research, analysis, and communication. Every project expects AI-assisted work.
+AI is not a separate topic. It's how you'll apply every skill in this course. From Week 2, you'll learn to use AI tools (Claude Code, VS Code/Cursor) to accelerate your research, analysis, and communication. Every project expects AI-assisted work.
 
 ## Learning Outcomes
 
 | # | Learning Outcome | BYU Aims Supported |
 |:-:|:-----------------|:-------------------|
 | 1 | Apply *The Consultant's OS* to define and solve client problems using MECE logic, issue trees, and hypothesis-driven analysis | Intellectually Enlarging |
-| 2 | Use AI-assisted tools (e.g., Claude, Copilot) to gather outside-in insights, build models, and test hypotheses with transparency and integrity | Lifelong Learning and Service; Character Building |
+| 2 | Use AI-assisted tools (e.g., Claude Code, Gemini) to gather outside-in insights, build models, and test hypotheses with transparency and integrity | Lifelong Learning and Service; Character Building |
 | 3 | Communicate clear, executive-level recommendations using the Pyramid Principle and visual slide design | Intellectually Enlarging; Character Building |
 | 4 | Demonstrate Christlike professionalism through humility, judgment, and trustworthiness in team and client interactions | Spiritually Strengthening; Character Building |
 | 5 | Prepare for consulting interviews and internships by articulating a clear value proposition through resumes, networking, and behavioral interviews | Lifelong Learning and Service; Spiritually Strengthening |
@@ -86,7 +85,7 @@ You choose your target company. All projects expect AI-assisted research and ana
 | Category | Weight | Components |
 |----------|--------|------------|
 | **Applied Projects** | 50% | P1 (10%), P2 (10%), P3 (10%), Capstone (20%) |
-| **Interview Prep** | 30% | Resume & Networking (10%), Case log (10%), Behavioral stories (10%) |
+| **Interview Prep** | 30% | Resume & Networking (10%), Practice Interview Log (20%) |
 | **Reading Quizzes** | 10% | 10 quizzes × 5 points each |
 | **Participation** | 10% | TA pod engagement, workshops, peer feedback |
 
@@ -120,37 +119,43 @@ Late work accepted up to 9 days late with a 10% penalty per day:
 
 ## Interview Prep Components
 
-### Case Practice
+### Practice Interviews
 
-| Component | Timing | Format |
-|-----------|--------|--------|
-| Case walkthrough | Weeks 7-8 | Pod-based intro with TA |
-| Pieces of a case | Weeks 7-12 | 5 focused assignments |
-| Practice cases | Ongoing | Peer-to-peer and TA sessions |
-| Casing midterm | Week 10 | 2 full mock cases |
-| Casing final | Week 15 | Rigorously graded evaluation |
+Practice interviews combine behavioral and case components, mirroring the actual MBB interview format. Complete **8 practice interviews** throughout the semester:
+
+| Source | Sessions | Notes |
+|--------|----------|-------|
+| Pod peers | 5 | Practice with each pod member once |
+| TA | 3 | TA Mentoring Sessions (Weeks 5, 9-10, 14) |
+| **Total** | **8** | |
+
+Each practice interview includes behavioral questions (~20 min) followed by a case (~35 min), with feedback afterward. Interviewers complete a feedback form after each session to track your growth across 6 dimensions.
 
 ### Behavioral Stories
 
-Build a bank of 5+ polished stories using the PARADE framework for common behavioral questions.
+Build a bank of 5+ polished stories using the PARADE framework for common behavioral questions. You'll practice delivering these stories live during your 8 practice interviews.
 
 ### Networking Tracker
 
-Maintain a tracking spreadsheet documenting outreach, smoothie chats, and relationship building. Your TA will review progress during feedback sessions.
+Maintain a tracking spreadsheet documenting outreach, smoothie chats, and relationship building. Your TA will review progress during TA Mentoring Sessions.
 
 ## TA Pod Structure
 
-You'll be assigned to a **pod** of 7-8 students with a dedicated TA who mentors you all semester:
+You'll be assigned to a **pod** of 6 students with a dedicated TA who mentors you all semester. Your pod serves as:
+
+1. **Support system**: People rooting for your success
+2. **Practice interview partners**: 5 peers to practice with
+3. **Peer feedback**: Resume reviews, story refinement, honest input
 
 | TA Touchpoint | Timing |
 |---------------|--------|
-| Goals chat | Week 2 |
-| Feedback sessions | 4x per semester |
-| Resume review | Weeks 5-6 |
-| Case practice | Ongoing |
-| Behavioral prep | Weeks 10-12 |
+| Goals Worksheet + Chat | Week 2 |
+| TA Mentoring Session 1 | Weeks 4-5 |
+| Resume reviews | Weeks 5-7 |
+| TA Mentoring Session 2 | Weeks 9-10 |
+| TA Mentoring Session 3 | Week 14 |
 
-Your TA is your primary resource for feedback, coaching, and support.
+Your TA is your primary resource for feedback, coaching, and support. The same TA conducts all 3 mentoring sessions so they can track your growth over the semester.
 
 ## Instructor Bio
 
