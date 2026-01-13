@@ -630,6 +630,33 @@ textarea:focus {
 }
 
 // ===== RESPONSIVE =====
+@media (max-width: 991.98px) {
+  // Mobile sidebar toggle button - position below fixed header
+  .sidebar-navigation .quarto-sidebar-toggle,
+  #quarto-sidebar-toggle,
+  .quarto-sidebar-toggle {
+    top: 54px !important;
+    z-index: 1025;
+  }
+
+  // Mobile header - ensure it's above everything
+  .book-header-banner {
+    z-index: 1030;
+  }
+
+  // When sidebar is open on mobile, position it below header
+  #quarto-sidebar {
+    top: 54px !important;
+    height: calc(100vh - 54px) !important;
+    z-index: 1020;
+  }
+
+  // Main content area needs margin for both header and toggle
+  #quarto-content {
+    margin-top: 54px;
+  }
+}
+
 @media (max-width: 768px) {
   h1 {
     font-size: 2rem;
