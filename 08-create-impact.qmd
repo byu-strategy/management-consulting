@@ -46,8 +46,8 @@ Start with the answer, then support it with evidence.
 - **D**ifferentiation: What made your approach unique?
 - **E**vidence: Quantify where possible
 
-::: {.callout-tip collapse="true"}
-## Session 19 Activity: Storylines—Pyramid & SCQA {#session-19}
+::: {#session-19 .callout-tip collapse="true"}
+## Session 19 Activity: Storylines—Pyramid & SCQA
 
 ### Recruiting: PARADE structure—build first behavioral story
 
@@ -140,8 +140,8 @@ Write a 3-sentence version of my storyline:
 ```
 :::
 
-::: {.callout-tip collapse="true"}
-## Session 20 Activity: Build Your Story Bank {#session-20}
+::: {#session-20 .callout-tip collapse="true"}
+## Session 20 Activity: Build Your Story Bank
 
 ### Recruiting: PARADE workshop—develop 5 stories across competencies
 
@@ -247,8 +247,8 @@ Executives are busy. Communicate with clarity and concision.
 
 If you were interrupted after 30 seconds, would they know your main point? Structure every communication so the answer comes first.
 
-::: {.callout-tip collapse="true"}
-## Session 21 Activity: Executive Brevity {#session-21}
+::: {#session-21 .callout-tip collapse="true"}
+## Session 21 Activity: Executive Brevity
 
 ### Recruiting: Behavioral delivery—crisp 2-minute answers
 
@@ -327,8 +327,8 @@ Draft my 2-minute version:
 ```
 :::
 
-::: {.callout-tip collapse="true"}
-## Session 22 Activity: Confident Delivery {#session-22}
+::: {#session-22 .callout-tip collapse="true"}
+## Session 22 Activity: Confident Delivery
 
 ### Recruiting: Behavioral interview simulation
 
@@ -441,8 +441,8 @@ Different audiences need different messages. Know your stakeholders.
 3. Frame recommendations in their terms
 4. Address objections before they're raised
 
-::: {.callout-tip collapse="true"}
-## Session 24 Activity: Tailor & Handle Pushback {#session-24}
+::: {#session-24 .callout-tip collapse="true"}
+## Session 24 Activity: Tailor & Handle Pushback
 
 ### Recruiting: Handle difficult fit questions with poise
 
@@ -549,8 +549,8 @@ $$Trust = \frac{Credibility + Reliability + Intimacy}{Self\text{-}Orientation}$$
 | **Intimacy** | Listen; remember personal details; be human |
 | **Low Self-Orientation** | Focus on their success, not your credit |
 
-::: {.callout-tip collapse="true"}
-## Session 23 Activity: Build Trust {#session-23}
+::: {#session-23 .callout-tip collapse="true"}
+## Session 23 Activity: Build Trust
 
 ### Recruiting: Fit interviews—demonstrate character & judgment
 
@@ -684,8 +684,8 @@ In consulting, you rarely present alone. Teams must be aligned.
 3. **Support each other**: No contradictions or surprises
 4. **One voice**: Consistent framing and recommendations
 
-::: {.callout-tip collapse="true"}
-## Session 26 Activity: Coordinate as a Team {#session-26}
+::: {#session-26 .callout-tip collapse="true"}
+## Session 26 Activity: Coordinate as a Team
 
 ### Client Work: Capstone team coordination—unified narrative, handoffs
 
@@ -768,8 +768,8 @@ The best consultants constantly improve through feedback.
 - Asking for feedback (not waiting for it)
 - Openness to being wrong
 
-::: {.callout-tip collapse="true"}
-## Session 25 Activity: Seek & Apply Feedback {#session-25}
+::: {#session-25 .callout-tip collapse="true"}
+## Session 25 Activity: Seek & Apply Feedback
 
 ### Recruiting: Process mock interview feedback; build improvement plan
 

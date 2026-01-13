@@ -4,7 +4,7 @@ title: "Leveraging AI"
 
 AI is not a separate topic in this course, rather it's how you'll apply nearly every part of *The Consultant's OS* more effectively. From Week 2 onward, you'll learn to use AI tools to accelerate your research, analysis, and communication.
 
-## AI as Your Operating Amplifier
+## AI as Your Amplifier
 
 Think of AI as an amplifier for *The Consultant's OS*:
 
@@ -39,14 +39,13 @@ AI-assisted coding environment for:
 
 ## Setting Up Your AI Workflow
 
-### Step 1: Create Your Accounts
+### Step 1: Install Software
 
-1. **Claude**: Sign up at [claude.ai](https://claude.ai) (free tier is sufficient)
-2. **VS Code or Cursor**: Download and install on your laptop
+1. **VS Code Cursor**: Download and install on your laptop
 
 ### Step 2: Configure Your Environment
 
-[Detailed setup instructions TBD]
+Demoed in Class
 
 ### Step 3: Practice the Basics
 
@@ -56,8 +55,8 @@ Try these starter exercises:
 2. **Structure building**: "Help me create a MECE issue tree for [problem]"
 3. **Case practice**: "Give me a market sizing question and walk through it with me"
 
-::: {.callout-tip collapse="true"}
-## Session 2 Activity: AI as Your Operating Amplifier {#session-2}
+::: {#session-2 .callout-tip collapse="true"}
+## Session 2 Activity: AI as Your Operating Amplifier
 
 ### Recruiting: AI-powered networking prep
 
@@ -147,8 +146,8 @@ Summarize the key takeaways in 3-5 bullet points.
 | Communicate with brevity | Edit for conciseness, strengthen logic |
 | Prepare for stakeholders | Anticipate questions, practice responses |
 
-::: {.callout-tip collapse="true"}
-## Session 3 Activity: AI Workflows & Team Norms {#session-3}
+::: {#session-3 .callout-tip collapse="true"}
+## Session 3 Activity: AI Workflows & Team Norms
 
 ### Recruiting: Build detailed firm research profile
 

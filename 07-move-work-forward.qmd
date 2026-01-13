@@ -36,8 +36,8 @@ Convert your structured thinking into a concrete plan with owners, deliverables,
 
 Start each day and week with explicit plans.
 
-::: {.callout-tip collapse="true"}
-## Session 15 Activity: Create a Workplan {#session-15}
+::: {#session-15 .callout-tip collapse="true"}
+## Session 15 Activity: Create a Workplan
 
 ### Recruiting: Build recruiting workplan with milestones
 
@@ -145,8 +145,8 @@ Take full responsibility for your piece, from question to answer, not just task 
 - Handing off incomplete work
 - Letting things fall through cracks
 
-::: {.callout-tip collapse="true"}
-## Session 16 Activity: Own Your Workstream {#session-16}
+::: {#session-16 .callout-tip collapse="true"}
+## Session 16 Activity: Own Your Workstream
 
 ### Recruiting: Own job search—audit progress, build accountability
 
@@ -296,8 +296,8 @@ Keep your manager informed with updates that surface what they need to know.
 
 Keep it brief. One page. One minute.
 
-::: {.callout-tip collapse="true"}
-## Session 18 Activity: Manage Up {#session-18}
+::: {#session-18 .callout-tip collapse="true"}
+## Session 18 Activity: Manage Up
 
 ### Recruiting: Prepare concise TA update
 
@@ -402,8 +402,8 @@ Perfect information never arrives. Move forward with what you have.
 
 You can often get 80% of the insight with 20% of the work. Know when "good enough" is good enough.
 
-::: {.callout-tip collapse="true"}
-## Session 17 Activity: Move Without Certainty {#session-17}
+::: {#session-17 .callout-tip collapse="true"}
+## Session 17 Activity: Move Without Certainty
 
 ### Recruiting: Case—navigate ambiguous prompts
 

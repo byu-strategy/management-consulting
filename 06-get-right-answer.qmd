@@ -56,8 +56,8 @@ $$Trust = \frac{Credibility + Reliability + Intimacy}{Self\text{-}Orientation}$$
 - **Intimacy**: Can they be vulnerable with you?
 - **Self-Orientation**: Are you in it for you or them?
 
-::: {.callout-tip collapse="true"}
-## Session 10 Activity: Build an Outside-In Fact Base {#session-10}
+::: {#session-10 .callout-tip collapse="true"}
+## Session 10 Activity: Build an Outside-In Fact Base
 
 ### Recruiting: Research firms, roles, and people before outreach
 
@@ -123,8 +123,8 @@ Organize all findings into a structured document I can reference throughout my p
 ```
 :::
 
-::: {.callout-tip collapse="true"}
-## Session 11 Activity: The Trust Equation {#session-11}
+::: {#session-11 .callout-tip collapse="true"}
+## Session 11 Activity: The Trust Equation
 
 ### Recruiting: Trust Equation prep for smoothie chats
 
@@ -241,8 +241,8 @@ Before building complex models, do quick math to establish reasonable ranges.
 - Cups per day: ~2 = ~2M cups/day
 - Add commuters/tourists: +50% = ~3M cups/day
 
-::: {.callout-tip collapse="true"}
-## Session 12 Activity: Quick Math & Estimation {#session-12}
+::: {#session-12 .callout-tip collapse="true"}
+## Session 12 Activity: Quick Math & Estimation
 
 ### Recruiting: Case—market sizing under pressure
 
@@ -354,8 +354,8 @@ Analysis isn't done until you've answered the question. "So what?" is the most i
 
 Always climb to recommendations.
 
-::: {.callout-tip collapse="true"}
-## Session 13 Activity: Synthesize—From Data to Insight {#session-13}
+::: {#session-13 .callout-tip collapse="true"}
+## Session 13 Activity: Synthesize—From Data to Insight
 
 ### Recruiting: Case—driving to a recommendation
 
@@ -417,8 +417,8 @@ Write a 3-sentence synthesis:
 ```
 :::
 
-::: {.callout-tip collapse="true"}
-## Session 14 Activity: Synthesis Workshop {#session-14}
+::: {#session-14 .callout-tip collapse="true"}
+## Session 14 Activity: Synthesis Workshop
 
 ### Recruiting: Rapid synthesis exercises
 

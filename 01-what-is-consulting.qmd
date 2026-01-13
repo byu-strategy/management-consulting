@@ -197,8 +197,8 @@ For BYU sophomores targeting summer 2027 internships:
 
 Early engagement matters. Start networking now, even if applications seem far away.
 
-::: {.callout-tip collapse="true"}
-## Session 1 Activity: Getting Started {#session-1}
+::: {#session-1 .callout-tip collapse="true"}
+## Session 1 Activity: Getting Started
 
 ### Recruiting: Research Target Firms
 
@@ -263,8 +263,8 @@ Based on this evaluation, is this a good target company for my project? If not, 
 - Size: Large enough to have rich data, small enough to understand
 :::
 
-::: {.callout-tip collapse="true"}
-## Session 27 Activity: The Full OS in Action {#session-27}
+::: {#session-27 .callout-tip collapse="true"}
+## Session 27 Activity: The Full OS in Action
 
 ### Recruiting: Course reflection & next steps
 
