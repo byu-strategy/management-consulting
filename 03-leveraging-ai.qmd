@@ -142,7 +142,7 @@ If your task involves any of these, reach for an agent. If you just need to thin
 
 **Recommended setup for this course:**
 
-- **Antigravity** (Google) — Our primary tool due to its generous free tier and tight integration with Gemini CLI
+- **Antigravity** (Google) — Our primary tool due to its generous free tier
 - **Claude Code** — Recommended for students who want the most capable agentic coding experience ($20/mo). You can access Claude Code from VS Code, Antigravity, or Cursor. 
 
 ### AI Coding Agents Comparison
