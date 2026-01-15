@@ -50,7 +50,7 @@ MECE is the gold standard for structuring problems. **Mutually Exclusive** means
 |:-------|:--------|
 | **(n)** | 7-Step Problem-Solving Process step number |
 | 🔺 | Pyramid Principle (top-down, answer-first logic) |
-| ◯ ◯ | MECE / Venn logic (complete, non-overlapping structure) |
+| ◯ ◯ | MECE logic (complete, non-overlapping structure) |
 
 ## The Four Imperatives
 
