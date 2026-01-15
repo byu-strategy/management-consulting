@@ -134,6 +134,8 @@ What counts as "action"? Anything beyond generating text:
 
 If your task involves any of these, reach for an agent. If you just need to think through a problem or get information, a chatbot in your browser is faster and simpler.
 
+## Setting Up Your AI Workflow
+
 ### The Tools
 
 **VS Code** is the open-source code editor (often called an IDE for Integrated Development Environment) that serves as the foundation for many AI coding tools. Both **Cursor** and **Antigravity** are built on top of VS Code, adding AI capabilities while preserving the familiar interface. If you learn one, you can use the others.
@@ -152,8 +154,6 @@ If your task involves any of these, reach for an agent. If you just need to thin
 | GitHub | Copilot | Free Tier | ✓ | ✓ | | ✓ ([github.com/copilot](https://github.com/copilot)) |
 | OpenAI | Codex | $20/mo | ✓ | ✓ | | ✓ ([chatgpt.com/codex](https://chatgpt.com/codex)) |
 | Cursor | Cursor | Free Tier | ✓ | | Cursor | ✓ ([cursor.com/agents](https://cursor.com/agents)) |
-
-## Setting Up Your AI Workflow
 
 ### Step 1: Install Software
 
