@@ -149,11 +149,11 @@ If your task involves any of these, reach for an agent. If you just need to thin
 
 | Company | Product | Student Cost | CLI | VS Code Extension | Dedicated IDE | Web |
 |:--------|:--------|:-------------|:---:|:-----------------:|:--------------|:---:|
-| Anthropic | Claude Code | $20/mo | ✓ | ✓ | | ✓ ([claude.ai/code](https://claude.ai/code)) |
-| Google | Gemini | Free Tier | ✓ | ✓ | Antigravity | ✓ ([aistudio.google.com](https://aistudio.google.com)) |
-| Microsoft | GitHubCopilot | Free Tier | ✓ | ✓ | VS Code | ✓ ([github.com/copilot](https://github.com/copilot)) |
-| OpenAI | Codex | $20/mo | ✓ | ✓ | | ✓ ([chatgpt.com/codex](https://chatgpt.com/codex)) |
-| Cursor | Cursor | Free Tier | ✓ | | Cursor | ✓ ([cursor.com/agents](https://cursor.com/agents)) |
+| Anthropic | Claude Code | $20/mo | ✓ | ✓ | | [claude.ai/code](https://claude.ai/code) |
+| Google | Gemini | Free Tier | ✓ | ✓ | Antigravity | [aistudio.google.com](https://aistudio.google.com) |
+| Microsoft | GitHubCopilot | Free Tier | ✓ | ✓ | VS Code | [github.com/copilot](https://github.com/copilot) |
+| OpenAI | Codex | $20/mo | ✓ | ✓ | | [chatgpt.com/codex](https://chatgpt.com/codex) |
+| Cursor | Cursor | Free Tier | ✓ | | Cursor | [cursor.com/agents](https://cursor.com/agents) |
 
 ### Step 1: Install Software
 
