@@ -151,7 +151,7 @@ If your task involves any of these, reach for an agent. If you just need to thin
 |:--------|:--------|:-------------|:---:|:-----------------:|:--------------|:---:|
 | Anthropic | Claude Code | $20/mo | ✓ | ✓ | | ✓ ([claude.ai/code](https://claude.ai/code)) |
 | Google | Gemini | Free Tier | ✓ | ✓ | Antigravity | ✓ ([aistudio.google.com](https://aistudio.google.com)) |
-| GitHub | Copilot | Free Tier | ✓ | ✓ | | ✓ ([github.com/copilot](https://github.com/copilot)) |
+| Microsoft | GitHubCopilot | Free Tier | ✓ | ✓ | VS Code | ✓ ([github.com/copilot](https://github.com/copilot)) |
 | OpenAI | Codex | $20/mo | ✓ | ✓ | | ✓ ([chatgpt.com/codex](https://chatgpt.com/codex)) |
 | Cursor | Cursor | Free Tier | ✓ | | Cursor | ✓ ([cursor.com/agents](https://cursor.com/agents)) |
 
