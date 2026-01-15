@@ -49,7 +49,7 @@ By the end of this course, you will develop proficiency in eight core areas:
 
 ### AI at the Core
 
-AI is not a separate topic. It's how you'll apply every skill in this course. From Week 2, you'll learn to use AI tools (Claude Code, VS Code/Cursor) to accelerate your research, analysis, and communication. Every project expects AI-assisted work.
+AI is not a separate topic. It's how you'll apply every skill in this course. From Week 2, you'll learn to use AI tools (Claude Code, VS Code/Cursor/Antigravity) to accelerate your research, analysis, and communication. Every project expects AI-assisted work.
 
 ## Learning Outcomes
 
@@ -167,12 +167,11 @@ Scott holds a Master's degree in Management Science & Engineering from Stanford 
 
 ## Required Materials
 
-- **LMS:** LearningSuite
-- **Communication:** Slack (required)
+- **LMS:** LearningSuite (used for turning in assignments and viewing grades only. See this course website for schedule and all other information)
 - **Laptop:** Mac or Windows with ability to run VS Code or Cursor
-- **AI Access:** Claude account (free tier sufficient)
+- **AI Access:** Paid or free versions of one or more of Claude Code, Gemini, Codex, Github Copilot CLI, Cursor, Antigravity
 
-Recommended readings will be provided through Learning Suite and the course website.
+Recommended readings will be provided through the course website.
 
 ## Classroom Culture
 
@@ -187,10 +186,10 @@ I teach in a conversational style that includes cold calling. If you'd rather I 
 ### Office Hours and Help
 
 - Start with AI tools and the course website
-- Use Slack to ask classmates
+- Use email teams to ask classmates
 - Attend TA or Professor office hours
-- Contact your TA via Slack or email
-- Contact Professor Murff via Slack or email
+- Contact your TA via email
+- Contact Professor Murff via email
 
 ## University Policies
 

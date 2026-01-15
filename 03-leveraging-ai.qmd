@@ -2,50 +2,334 @@
 title: "Leveraging AI"
 ---
 
-AI is not a separate topic in this course, rather it's how you'll apply nearly every part of *The Consultant's OS* more effectively. From Week 2 onward, you'll learn to use AI tools to accelerate your research, analysis, and communication.
+AI is not a standalone topic in this course. It is the way you will apply nearly every part of *The Consultant's OS* more effectively.
 
-## AI as Your Amplifier
+Starting in Week 2, you'll learn how to use AI tools to accelerate your research, sharpen your analysis, and improve how you are able to communicate. The OS remains the foundation; AI simply increases your leverage.
+
+## Getting Leverage with AI
 
 Think of AI as an amplifier for *The Consultant's OS*:
 
 | OS Capability | Without AI | With AI |
 |:--------------|:-----------|:--------|
-| **Research** | Hours of manual searching | Rapid synthesis of sources |
+| **Research** | Hours of manual searching | Rapid synthesis across sources |
 | **Analysis** | Slow iteration on models | Fast hypothesis testing |
 | **Communication** | Multiple draft cycles | Accelerated refinement |
-| **Learning** | Wait for feedback | Instant practice partner |
+| **Learning** | Delayed feedback | Instant practice partner |
 
-AI doesn't replace the OS but makes each action faster and more powerful.
+AI doesn't replace judgment, structure, or rigor. It makes each of them faster, cheaper, and more scalable.
 
-## Tools You'll Use
+You'll use two broad categories of AI tools in this course. Both rely on the same underlying language models. In principle, either could answer the same question.
 
-### Claude, ChatGPT, Gemini
+The difference isn't the underlying model but the tools wrapped around it. Web chatbots operate through a browser interface with limited, manual file uploads and limited agentic behavior. AI agents operate through you a code editor and terminal (CLI), with direct access to your file system, the ability to execute code, and the capacity to chain actions together. Same model but different capabilities.
 
-Your primary AI assistant for:
+This leads to an emerging discipline you'll practice throughout the course: **context engineering**, which is deciding what information an AI system has access to when it responds.
 
-- Research synthesis and fact-finding
-- Structuring arguments and storylines
-- Case interview practice
-- Writing and editing
+- **Prompt engineering** focuses on *how you ask*: wording, structure, and tactics for framing a request.
+- **Context engineering** focuses on *what the AI knows*: your files, your data, your project, and your constraints.
 
-### Claude Code / Cursor
+You can write a great prompt, but if the AI doesn't have access to your data, your documents, or know about your project, it can only be so helpful. Context engineering is about optimizing what information and tools the AI model has access to in order to push it's abilities far beyond what's possible from a prompt in a web based chatbot. 
 
-AI-assisted coding environment for:
+### Web Chatbots
 
-- Data analysis and visualization
-- Model building
-- Automating repetitive tasks
-- Working with large datasets
+**Tools:** [Claude](https://claude.ai), [ChatGPT](https://chatgpt.com), [Gemini](https://gemini.google.com)
+
+Web-based chatbots are amazing, almost magical conversational interfaces. You type; the AI responds; you refine. They live in your browser and require no setup.
+
+You can upload files to chatbots, but that context is manual and fragile. You decide what to upload, conversation by conversation. The AI sees only what you explicitly provide, cannot infer relationships across files, and forgets everything once the conversation ends.
+
+Chatbots are ideal when the AI doesn't need deep knowledge of your specific project. They shine in situations like:
+
+- **Research and synthesis** — Understanding industries, companies, or unfamiliar concepts
+- **Structuring thinking** — Building MECE frameworks, testing hypotheses, developing storylines
+- **Writing and editing** — Drafting emails, refining prose, sharpening arguments
+- **Practice and preparation** — Case interview drills, networking conversation prep
+
+When you just need to think, explore, or communicate, chatbots are often the fastest option.
+
+### AI Agents:
+
+**Tools:** Claude Code, Gemini CLI, GitHub Copilot, OpenAI Codex, Cursor
+
+AI agents use the same underlying models as web chatbots but they are accessed and operate primarily through a locally installed terminal or code editor such as VS Code, Antigravity, or Cursor. 
+
+That is, AI agents are accessed via tools that historically have been the domain of software developers and data scientists, in places where few consultants dared enter.
+
+For most of computing history, these tools required specialized knowledge that tools years to develop. You had to understand syntax, commands, file systems, and obscure error messages. Those knowledge barriers kept them largely confined to developers.
+
+**That barrier is now gone.**
+
+Large language models are fundamentally **text-in, text-out** systems. They excel at reading text, generating text, and reasoning over text.
+
+VS Code and the command line (terminal) are also fundamentally text-based:
+
+- Source files are text
+- Data files are often text
+- Logs and errors are text
+- Commands are text
+
+This makes them the **native habitat of LLMs**.
+
+Graphical user interfaces (GUIs) were designed for humans. Because we are vision-dominant, windows, icons, and buttons made computers easier to use. Even the name *Windows* is a self-reference to this design choice.
+But what is intuitive for humans is often unnecessary for AI agents, which operate natively in text.
+
+This has led to a "CLI renissance" where the command line is very much back in style and more powerful than ever before. 
+
+With AI agents assisting you, tools that once required years of training now allow you to describe what you want in plain English while the AI translates that intent into concrete actions.
+
+This is the quiet revolution that so far few people have put words to or are fully appreciating: **developer tools have become general-purpose thinking and execution tools for all knowledge workers.**
+
+Because agents operate inside your editor and terminal, they gain something chatbots cannot: **full context**.
+
+They can:
+
+- Read your project files
+- Understand how documents and data relate
+- Write new files and modify existing ones
+- Run code, see errors, and fix them
+- Chain multi-step workflows end to end
+
+A useful mental model:
+
+> A web chatbot knows everything about the world but nothing about your project.
+>
+> An AI agent knows everything about the world *and* can see exactly what you're working on.
+
+That difference matters enormously when you want to get the most out of AI models. 
+
+### Chatbots vs AI Agents
+
+| Criteria | Web Chatbot | AI Agent |
+|:---------|:------------|:---------|
+| **Response speed** | Faster | Slightly slower (reads files first) |
+| **Setup required** | None (just a browser) | Installation required |
+| **File context** | Manual upload, limited | Automatic, full project access |
+| **Code execution** | Limited (sandboxed Python) | Full (any language, your machine) |
+| **Output persists** | No (copy-paste) | Yes (writes to files) |
+| **Best for** | Thinking and drafting | Building and executing |
+
+### When to Use Each
+
+| If you need to... | Web Chatbot | AI Agent |
+|:------------------|:-----------:|:--------:|
+| Brainstorm ideas | ✓ | ✓ |
+| Research a company | ✓ | ✓ |
+| Structure an argument | ✓ | ✓ |
+| Practice a case interview | ✓ | |
+| Analyze *your* dataset | | ✓ |
+| Build a model from *your* data | | ✓ |
+| Create files or deliverables | | ✓ |
+| Automate a repetitive task | | ✓ |
+
+**Rule of thumb: if the AI needs to take action, use an agent. Otherwise, use whatever is fastest.**
+
+What counts as "action"? Anything beyond generating text:
+
+- **Reading your files** — analyzing datasets, reviewing documents, understanding your project
+- **Writing files** — creating deliverables, saving outputs, building persistent artifacts
+- **Running code** — executing scripts, testing solutions, iterating on errors
+- **Searching your system** — finding files, grepping through codebases, locating specific content
+- **Executing commands** — installing packages, running builds, interacting with APIs
+- **Chaining operations** — multi-step workflows where each step depends on the last
+
+If your task involves any of these, reach for an agent. If you just need to think through a problem or get information, a chatbot in your browser is faster and simpler.
+
+### The Tools
+
+**VS Code** is the open-source code editor (often called an IDE for Integrated Development Environment) that serves as the foundation for many AI coding tools. Both **Cursor** and **Antigravity** are built on top of VS Code, adding AI capabilities while preserving the familiar interface. If you learn one, you can use the others.
+
+**Recommended setup for this course:**
+
+- **Antigravity** (Google) — Our primary tool due to its generous free tier and tight integration with Gemini CLI
+- **Claude Code** — Recommended for students who want the most capable agentic coding experience ($20/mo). You can access Claude Code from VS Code, Antigravity, or Cursor. 
+
+### AI Coding Agents Comparison
+
+| Company | Product | Student Cost | CLI | VS Code Extension | Dedicated IDE | Web |
+|:--------|:--------|:-------------|:---:|:-----------------:|:--------------|:---:|
+| Anthropic | Claude Code | $20/mo | ✓ | ✓ | | ✓ ([claude.ai/code](https://claude.ai/code)) |
+| Google | Gemini | Free Tier | ✓ | ✓ | Antigravity | ✓ ([aistudio.google.com](https://aistudio.google.com)) |
+| GitHub | Copilot | Free Tier | ✓ | ✓ | | ✓ ([github.com/copilot](https://github.com/copilot)) |
+| OpenAI | Codex | $20/mo | ✓ | ✓ | | ✓ ([chatgpt.com/codex](https://chatgpt.com/codex)) |
+| Cursor | Cursor | Free Tier | ✓ | | Cursor | ✓ ([cursor.com/agents](https://cursor.com/agents)) |
 
 ## Setting Up Your AI Workflow
 
 ### Step 1: Install Software
 
-1. **VS Code Cursor**: Download and install on your laptop
+Download and install the following software on your laptop.
+
+1. [**Antigravity**](https://antigravity.google/)
+2. [**VS Code Cursor**](https://code.visualstudio.com/)
+3. [**Cursor**](https://cursor.com/)
 
 ### Step 2: Configure Your Environment
 
-Demoed in Class
+::: {.callout-tip}
+**Troubleshooting tip:** If at any point you get stuck or something is not working as expected, take a screenshot or copy/paste the command you ran plus error text into ChatGPT, Claude, or Gemini and ask for help troubleshooting.
+:::
+
+#### **Mac**
+
+Open VS Code and launch a new terminal (Terminal → New Terminal). The terminal should appear as a new window pane within VS Code.
+
+![](images/terminal.jpg)
+
+Copy/paste the following into the terminal and hit enter
+
+```bash
+# Download and install nvm:
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
+
+# in lieu of restarting the shell
+\. "$HOME/.nvm/nvm.sh"
+
+# Download and install Node.js:
+nvm install 24
+
+# Verify the Node.js version:
+node -v # Should print "v24.13.0".
+
+# Verify npm version:
+npm -v # Should print "11.6.2".
+
+```
+
+Once complete you are ready to install the AI agents by running the following commands in the terminal.
+
+**Claude Code:**
+```bash
+curl -fsSL https://claude.ai/install.sh | bash
+```
+
+After installation, run the following command in the terminal to activate the agent. (requires a paid Claude account, $20 per month)
+
+```bash
+claude
+```
+
+![](images/claude-start.png)
+
+**Google Gemini CLI:**
+```bash
+npm install -g @google/gemini-cli
+```
+
+After installation, run the following command in the terminal to activate the agent.
+
+```bash
+gemini
+```
+
+![](images/gemini.png)
+
+**GitHub Copilot:**
+```bash
+npm install -g @github/copilot
+copilot
+```
+
+After installation, run the following command in the terminal to activate the agent.
+
+```bash
+copilot
+```
+
+![](images/copilot.png)
+
+**OpenAI Codex:**
+```bash
+npm install -g @openai/codex
+codex
+```
+
+After installation, run the following command in the terminal to activate the agent.
+
+```bash
+codex
+```
+
+![](images/codex.png)
+
+
+#### **Windows**
+
+Open PowerShell as Administrator:
+
+1. Press Start
+2. Type PowerShell
+3. Right-click Windows PowerShell
+4. Select Run as administrator
+
+![](images/power-shell.png)
+
+Copy/paste the following into PowerShell and hit enter:
+
+```powershell
+# Download and install fnm (Fast Node Manager):
+winget install Schniz.fnm
+```
+
+Close and reopen PowerShell (as Administrator), then run:
+
+```powershell
+# Download and install Node.js:
+fnm install 24
+
+# Verify the Node.js version:
+node -v
+
+# Verify npm version:
+npm -v
+```
+
+Once complete you are ready to install the AI agents by running the following commands in the terminal.
+
+**Claude Code:**
+```powershell
+irm https://claude.ai/install.ps1 | iex
+```
+
+After installation, run the following command in the terminal to activate the agent. (requires a paid Claude account, $20 per month)
+
+```powershell
+claude
+```
+
+**Google Gemini CLI:**
+```powershell
+npm install -g @google/gemini-cli
+```
+
+After installation, run the following command in the terminal to activate the agent.
+
+```powershell
+gemini
+```
+
+**GitHub Copilot:**
+```powershell
+npm install -g @github/copilot
+```
+
+After installation, run the following command in the terminal to activate the agent.
+
+```powershell
+copilot
+```
+
+**OpenAI Codex:**
+```powershell
+npm install -g @openai/codex
+```
+
+After installation, run the following command in the terminal to activate the agent.
+
+```powershell
+codex
+``` 
+
+
 
 ### Step 3: Practice the Basics
 
