@@ -329,8 +329,6 @@ After installation, run the following command in the terminal to activate the ag
 codex
 ``` 
 
-
-
 ### Step 3: Practice the Basics
 
 Try these starter exercises:
@@ -532,26 +530,11 @@ Make this a template I can populate and update as I gather more information.
 
 AI can get you 80% of the way quickly. The last 20%, including judgment, nuance, and client context, is where you add value. Never outsource your thinking entirely.
 
-## Weekly AI Integration
-
-Throughout this course, AI is woven into every assignment:
-
-| Week | AI Application |
-|:-----|:---------------|
-| 2 | Setup and basic research |
-| 3-5 | Problem structuring and hypothesis testing |
-| 6-8 | Research synthesis and analysis |
-| 9-10 | Workplanning and iteration |
-| 11-14 | Communication refinement and practice |
-| 15 | Capstone polish |
-
 ## Getting Started This Week
 
 By the end of Week 2, you should be able to:
 
-1. Access Claude Code within VS Code
-2. Use Claude Code or other AIs to research a company
-3. Set up VS Code or Cursor on your laptop
-4. Run a basic analysis with AI assistance
+1. Access Claude Code or Gemini within VS Code, Anitgravity, or Cursor
+2. Use an AI agent to help you conduct research and save the output to a markdown file for future reference.
 
 Come to class ready to demonstrate your setup.
