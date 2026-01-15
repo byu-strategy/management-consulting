@@ -40,7 +40,7 @@ Two foundational concepts appear throughout *The Consultant's OS*: the Pyramid P
 
 The Pyramid Principle, developed by Barbara Minto at McKinsey, is a communication framework that structures ideas top-down: **lead with the answer, then support it with evidence**. Instead of building to a conclusion, you state your recommendation first, then group supporting arguments into logical clusters. This approach respects your audience's time, makes your logic transparent, and ensures your message lands even if the conversation gets cut short. Every slide, email, and verbal update in consulting follows this pattern.
 
-### MECE (Mutually Exclusive, Collectively Exhaustive)
+## MECE (Mutually Exclusive, Collectively Exhaustive)
 
 MECE is the gold standard for structuring problems. **Mutually Exclusive** means categories don't overlap, so each item belongs in exactly one bucket. **Collectively Exhaustive** means the categories cover everything, so nothing falls through the cracks. When you build an issue tree, segment a market, or structure a case, MECE ensures you've carved the problem into clean, complete pieces. If your structure isn't MECE, you'll either double-count (overlapping) or miss something important (gaps). Being perfectly MECE isn't always possible, but striving for it forces clarity and exposes flaws in your thinking.
 
@@ -54,7 +54,7 @@ MECE is the gold standard for structuring problems. **Mutually Exclusive** means
 
 ## The Four Imperatives
 
-*The Consultant's OS* is organized around four imperatives. The imperitive call upon you to answer the four fundamental questions that drive every piece of consulting work:
+*The Consultant's OS* is organized around four imperatives. The imperitives call upon you to answer the four fundamental questions that drive every piece of consulting work:
 
 | Imperative | Guiding Question |
 |:-----------|:-----------------|
@@ -160,7 +160,7 @@ For each core action, you'll see how it applies to:
 - **Job search**: How this action helps you land an offer
 - **Client work**: How this action helps you deliver impact
 
-## Your OS Starts Now
+## Applying the OS Starts Now
 
 You don't wait until you're at a firm to start using the OS. You start now:
 
