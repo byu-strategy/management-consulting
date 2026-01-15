@@ -157,7 +157,7 @@ If your task involves any of these, reach for an agent. If you just need to thin
 
 ### Step 1: Install Software
 
-Download and install the following software on your laptop.
+Download and install the following IDEs on your laptop. Overtime you will tend to use only one but good to have exposure to all of them.
 
 1. [**Antigravity**](https://antigravity.google/)
 2. [**VS Code Cursor**](https://code.visualstudio.com/)
