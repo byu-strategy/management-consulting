@@ -22,6 +22,109 @@ A curated collection of resources to support your consulting preparation and pro
 - Firm-produced case walkthroughs
 - MCA workshop recordings (when available)
 
+### How to Give a Practice Interview
+
+This guide is for both students (giving cases to pod members) and TAs (running mentoring sessions). A well-run practice interview helps the candidate improve; a poorly-run one wastes everyone's time.
+
+#### Session Format
+
+Each practice interview follows the MBB format:
+
+| Component | Time |
+|-----------|------|
+| Behavioral (1-2 questions) | 15-20 min |
+| Case | 30-35 min |
+| Feedback | 5-10 min |
+| **Total** | **~60 min** |
+
+See the [Practice Interview Log](00-assessments.qmd#practice-interview-log) for the feedback form and rubric.
+
+#### Before the Session
+
+1. **Select a case** from the [Case Library](#case-library) below
+2. **Work through the case yourself** – know the answer before you give it
+3. **Prepare 1-2 behavioral questions** (e.g., "Tell me about a time you led a team through a challenge")
+4. **Have the feedback form ready** – you'll rate 6 dimensions
+
+#### Running the Behavioral Portion
+
+Ask open-ended questions and listen for what you'll rate:
+
+| Dimension | What to Listen For |
+|-----------|-------------------|
+| **Impact & Ownership** | Are they saying "I" not "we"? Do they quantify results? |
+| **Teamwork & Collaboration** | How did they work with others? Navigate conflict? |
+| **Presence & Fit** | Is the answer concise (~2 min)? Confident and authentic? |
+
+Take notes as they speak – don't try to remember everything for feedback later. If answers are vague, push for specifics: "What did YOU specifically do?"
+
+#### Running the Case
+
+Read the prompt clearly and pause for clarifying questions. Then let the candidate drive.
+
+**Listen for what you'll rate:**
+
+| Dimension | What to Listen For |
+|-----------|-------------------|
+| **Structure & Approach** | Is the framework MECE? Tailored to this specific problem? |
+| **Analytical Rigor** | Do they set up math correctly? Interpret the "so what"? |
+| **Hypothesis-Driven Recommendation** | Do they synthesize to a clear point of view? |
+
+**Key behaviors:**
+
+- Resist the urge to help too early – let them struggle productively
+- Provide data/exhibits when asked appropriately
+- Don't give away the answer
+- Track time; give a 5-minute warning
+- Always ask for a final recommendation at the end
+
+#### Giving Effective Feedback
+
+Good feedback is specific and actionable.
+
+1. **Start with 1-2 specific strengths** – "Your structure was MECE and you prioritized the right branch first"
+2. **Identify 1-2 areas for improvement** – "You didn't interpret your math; you said '15%' but didn't explain what that means for the decision"
+3. **Reference the 4-point scale** – help them understand where they are relative to the bar
+4. **Compare to MBB expectations** – what would "strong" look like?
+
+Avoid vague feedback like "that was good" or "nice job." Be specific.
+
+#### Common Interviewer Mistakes
+
+| Mistake | Why It Hurts |
+|---------|-------------|
+| Giving hints too early | Candidate doesn't learn to work through ambiguity |
+| Interrupting structure presentation | Breaks candidate's flow and confidence |
+| Not tracking time | Case runs too long or gets rushed |
+| Generic feedback | Candidate doesn't know what to improve |
+| Making it too easy or too hard | Doesn't reflect real interview conditions |
+
+### Case Library {#case-library}
+
+Use these cases from [Management Consulted](https://managementconsulted.com/marriott-registration/) for practice. Register with BYU Marriott access for full case materials.
+
+**Suggested progression:**
+
+- **TA Session 1** (Weeks 4-5): Beginner cases
+- **TA Session 2** (Weeks 9-10): Intermediate cases
+- **TA Session 3** (Week 14): Advanced cases
+
+| # | Case Name | Type | Difficulty | Notes |
+|---|-----------|------|------------|-------|
+| 1 | Coffee Shop | Profitability | Beginner | Classic profit decline |
+| 2 | Gym Expansion | Market Entry | Beginner | Geographic expansion |
+| 3 | Airline Costs | Cost Reduction | Beginner | Operations focus |
+| 4 | Retail Chain | Growth Strategy | Intermediate | Multi-channel |
+| 5 | Tech Startup | Pricing | Intermediate | B2B SaaS |
+| 6 | Hospital System | Operations | Intermediate | Capacity utilization |
+| 7 | Bank Branch | Profitability | Intermediate | Financial services |
+| 8 | Pharma Launch | Market Entry | Advanced | Regulatory complexity |
+| 9 | PE Due Diligence | M&A | Advanced | Investment decision |
+| 10 | Energy Transition | Strategy | Advanced | Industry disruption |
+| 11 | Supply Chain | Operations | Advanced | Global complexity |
+
+Access case details and solutions via [Management Consulted](https://managementconsulted.com/marriott-registration/).
+
 ## Company Research
 
 ### Financial Data

@@ -78,6 +78,12 @@ Your TA pod is your home base for the semester—a support system of people inve
 
 1. **Goals Worksheet + Chat (Week 2)**: Complete the Goals Worksheet before meeting with your TA for a 20-minute conversation to establish recruiting goals and development focus. This worksheet becomes a living document referenced throughout the semester.
 
+::: {.callout-tip}
+## Get Your Goals Worksheet
+
+[Make a copy of the Goals Worksheet](https://docs.google.com/document/d/1zq1ih9ZAdjf4K1pisiM6y0NJBAJnn_LezIN6xrWDiIs/copy) to create your own version. Complete it before your Week 2 chat with your TA.
+:::
+
 2. **TA Mentoring Sessions (3x)**: Meet with your TA three times for combined practice interviews (behavioral + case) that track your growth:
    - **Session 1 (Weeks 4-5)**: Baseline assessment, identify focus areas
    - **Session 2 (Weeks 9-10)**: Progress check, calibrated feedback
@@ -177,6 +183,19 @@ Complete a minimum of **8 practice interviews** as the interviewee:
 When practicing with peers, take turns—you'll also serve as interviewer 5 times.
 
 **Feedback Collection**
+
+::: {.callout-tip}
+## Set Up Your Feedback Form
+
+Each student creates their own copy of the feedback form. This ensures your interview feedback remains private—only you, your pod leader, and Professor Murff can see your scores and comments.
+
+**Setup (do this before your first practice interview):**
+
+1. [Make a copy of the Practice Interview Feedback Form](https://docs.google.com/forms/d/1d8jCv8lEOubJTvoePnVGUxgrjUA2RiHDB7joYFmfqPU/copy)
+2. Open the linked response spreadsheet (Responses tab > click the spreadsheet icon)
+3. Share the spreadsheet with your pod leader and Professor Murff (View access)
+4. Share your form link with your interviewers—they'll submit feedback after each practice interview
+:::
 
 After each practice interview, the interviewer completes a feedback form evaluating:
 

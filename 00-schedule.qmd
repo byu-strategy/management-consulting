@@ -15,10 +15,10 @@ Below is the planned daily schedule organized around *The Consultant's OS*. Each
 |:--:|:-:|:-----|:------|:-----------|:------------|:------------|
 | 1 | 1 | Th Jan 8 | [What Consultants Do](01-what-is-consulting.qmd) & [The Consultan's OS](02-consultants-os.qmd) | [Research target firms: value prop & hiring criteria](01-what-is-consulting.qmd#session-1) | [Select target company; evaluate data availability](01-what-is-consulting.qmd#session-1) | – |
 | 2 | 2 | T Jan 13 | [AI as Your Operating Amplifier](03-leveraging-ai.qmd) | [AI-powered networking prep](03-leveraging-ai.qmd#session-2) | [Intro to Claude Code: 10-K analysis](03-leveraging-ai.qmd#session-2) | – |
-| 2 | 3 | Th Jan 15 | [AI Workflows](03-leveraging-ai.qmd#ai-assisted-consulting-actions) & [Team Norms](04-working-as-a-team.qmd#team-norms) | [Build detailed firm research profile](03-leveraging-ai.qmd#session-3) | [Create structured company analysis template](03-leveraging-ai.qmd#session-3) | [Quiz 1](00-assessments.qmd#reading-quizzes); [Goals Worksheet](00-assessments.qmd#ta-pod-engagement); [Practice Interview Log](00-assessments.qmd#practice-interview-log) assigned; [Networking](00-assessments.qmd#resume-and-networking) assigned |
-| 3 | 4 | T Jan 20 | [Diagnose the Current State](05-think-clearly.qmd#os-1-1) | [Diagnose firm hiring needs (analyze recent hires)](05-think-clearly.qmd#session-4) | [Diagnose company's strategic situation](05-think-clearly.qmd#session-4) | [P1](00-assessments.qmd#company-diagnostic) assigned |
+| 2 | 3 | Th Jan 15 | [AI Workflows](03-leveraging-ai.qmd#ai-assisted-consulting-actions) | [Build detailed firm research profile](03-leveraging-ai.qmd#session-3) | [Create structured company analysis template](03-leveraging-ai.qmd#session-3) | [Quiz 1](00-assessments.qmd#reading-quizzes); [Goals Worksheet](00-assessments.qmd#ta-pod-engagement) |
+| 3 | 4 | T Jan 20 | [Teams](04-working-as-a-team.qmd) & [Diagnose the Current State](05-think-clearly.qmd#os-1-1) | [Diagnose firm hiring needs (analyze recent hires)](05-think-clearly.qmd#session-4) | [Diagnose company's strategic situation](05-think-clearly.qmd#session-4) | [Practice Interview Log](00-assessments.qmd#practice-interview-log) assigned; [Networking](00-assessments.qmd#resume-and-networking) assigned |
 | 3 | 5 | Th Jan 22 | [Root Cause Analysis](05-think-clearly.qmd#os-1-1) | [Self-assessment: diagnose your fit gaps](05-think-clearly.qmd#session-5) | [Five Whys: trace symptoms to root causes](05-think-clearly.qmd#session-5) | [Quiz 2](00-assessments.qmd#reading-quizzes) |
-| 4 | 6 | T Jan 27 | [Define the Problem](05-think-clearly.qmd#os-1-2) | [Define gap: "you now" → "hireable you"](05-think-clearly.qmd#session-6) | [Define client's problem as current vs. desired state](05-think-clearly.qmd#session-6) | – |
+| 4 | 6 | T Jan 27 | [Define the Problem](05-think-clearly.qmd#os-1-2) | [Define gap: "you now" → "hireable you"](05-think-clearly.qmd#session-6) | [Define client's problem as current vs. desired state](05-think-clearly.qmd#session-6) | [P1](00-assessments.qmd#company-diagnostic) assigned |
 | 4 | 7 | Th Jan 29 | [Frame the Decision](05-think-clearly.qmd#os-1-3) | [Frame recruiting scope: targets, constraints, success criteria](05-think-clearly.qmd#session-7) | [Frame client decision: criteria, constraints, stakeholders](05-think-clearly.qmd#session-7) | [Quiz 3](00-assessments.qmd#reading-quizzes) |
 | 5 | 8 | T Feb 3 | [Hypothesize](05-think-clearly.qmd#os-1-4) & [WWHTBT](05-think-clearly.qmd#os-1-5) | ["I'm the right hire because..." + critical assumptions](05-think-clearly.qmd#session-8) | [Day-1 hypothesis + what would have to be true](05-think-clearly.qmd#session-8) | [TA Mentoring 1](00-assessments.qmd#ta-pod-engagement) |
 | 5 | 9 | Th Feb 5 | [MECE](05-think-clearly.qmd#os-1-6) & [Prioritization](05-think-clearly.qmd#os-1-7) | [MECE-structure resume proof points](05-think-clearly.qmd#session-9) | [Build MECE issue tree; prioritize branches](05-think-clearly.qmd#session-9) | [Quiz 4](00-assessments.qmd#reading-quizzes); [Resume v1](00-assessments.qmd#resume-and-networking) due |
@@ -62,8 +62,8 @@ Below is the planned daily schedule organized around *The Consultant's OS*. Each
 
 | Assessment | Assigned | Due |
 |:-----------|:---------|:----|
-| [Practice Interview Log](00-assessments.qmd#practice-interview-log) | Session 3 | Session 27 |
-| [Networking Tracker](00-assessments.qmd#resume-and-networking) | Session 3 | Session 27 |
+| [Practice Interview Log](00-assessments.qmd#practice-interview-log) | Session 4 | Session 27 |
+| [Networking Tracker](00-assessments.qmd#resume-and-networking) | Session 4 | Session 27 |
 | [Resume v1](00-assessments.qmd#resume-and-networking) | – | Session 9 |
 | [Resume v2](00-assessments.qmd#resume-and-networking) | Session 9 | Session 12 |
 
@@ -71,7 +71,7 @@ Below is the planned daily schedule organized around *The Consultant's OS*. Each
 
 | Assessment | Assigned | Due |
 |:-----------|:---------|:----|
-| [P1: Company Diagnostic](00-assessments.qmd#company-diagnostic) | Session 4 | Session 14 |
+| [P1: Company Diagnostic](00-assessments.qmd#company-diagnostic) | Session 6 | Session 14 |
 | [P2: Competitive Benchmark](00-assessments.qmd#competitive-benchmark) | Session 14 | Session 18 |
 | [P3: Value-Add Hypothesis](00-assessments.qmd#value-add-hypothesis) | Session 18 | Session 22 |
 | [Capstone Proposal](00-assessments.qmd#capstone-proposal) | Session 20 | Session 27 |
@@ -88,6 +88,8 @@ Throughout the semester, you will meet with your TA for:
 - **TA Mentoring Session 3 (Week 14)**: Final practice interview evaluation
 
 Each TA Mentoring Session is a full practice interview (~60 min) that includes a behavioral question followed by a case, mirroring the actual MBB interview format.
+
+Before your first practice interview, [set up your feedback form](00-assessments.qmd#practice-interview-log) so interviewers can submit evaluations.
 
 ---
 
