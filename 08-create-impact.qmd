@@ -37,6 +37,14 @@ Start with the answer, then support it with evidence.
 - **Question**: What do we need to decide?
 - **Answer**: Our recommendation
 
+::: {.callout-note}
+## Readings
+- [Pyramid Principle Part 1](https://strategyu.co/pyramid-principle-partone/) – Introduction to structured thinking and the Pyramid Principle
+- [Structure Your Ideas - Pyramid Principle Part 1](https://strategyu.co/structure-your-ideas-pyramid-principle-part-1/) – How to organize ideas from bottom-up
+- [Pyramid Principle Part 2: Communicate Top-Down](https://strategyu.co/pyramid-principle-part-2-communicate-top-down/) – How to communicate ideas top-down
+- [SCQA Framework](https://strategyu.co/scqa-a-framework-for-defining-problems-hypotheses/) – Framework for structuring problems and recommendations
+:::
+
 **PARADE Framework (for Behavioral Stories):**
 
 - **P**roblem/Context: What was the situation?

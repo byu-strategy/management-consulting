@@ -1,0 +1,259 @@
+{
+  "firm_id": "accenture",
+  "firm_name": "Accenture Strategy",
+  "research_date": "2026-01-20",
+  "researcher": "Claude (Anthropic AI)",
+  "sources_consulted": [
+    {
+      "source": "Management Consulted",
+      "url": "https://managementconsulted.com/consulting-firm/accenture/",
+      "data_extracted": [
+        "Headquarters: Chicago, IL",
+        "Email format: firstname.lastname@accenture.com",
+        "Employees: 721,000",
+        "UG compensation: Base up to $96,200, Bonus up to $9,620, Signing $10,000",
+        "MBA compensation: Base $147,500, Bonus up to $8,112",
+        "Position keywords: Analyst, Sr. Analyst, Consultant, Sr. Consultant, Manager, Sr. Manager",
+        "Canadian office locations: Montreal, Ottawa, Toronto Area, Calgary"
+      ]
+    },
+    {
+      "source": "Accenture Official Website",
+      "url": "https://www.accenture.com/us-en",
+      "data_extracted": [
+        "Company tagline and positioning",
+        "Careers page structure",
+        "Service offerings overview"
+      ]
+    },
+    {
+      "source": "LinkedIn - BYU Alumni Search",
+      "url": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=accenture",
+      "data_extracted": [
+        "BYU alumni all-time at Accenture: 587"
+      ]
+    },
+    {
+      "source": "Web Search - Company History",
+      "urls": [
+        "https://en.wikipedia.org/wiki/Accenture",
+        "https://www.zippia.com/accenture-careers-13401/history/"
+      ],
+      "data_extracted": [
+        "Founded: 1989 as Andersen Consulting",
+        "Became Accenture: January 1, 2001",
+        "Headquarters: Dublin, Ireland (legal)",
+        "Total employees: ~779,000 (fiscal 2025)"
+      ]
+    },
+    {
+      "source": "Web Search - Strategy Practice",
+      "urls": [
+        "https://www.accenture.com/us-en/services/strategy",
+        "https://www.accenture.com/us-en/about/consulting-index"
+      ],
+      "data_extracted": [
+        "Strategy & Consulting practice overview",
+        "Service capabilities: business strategy, data and AI, talent, process, experience",
+        "Industry expertise across all major sectors",
+        "2026 recognition as Gartner Magic Quadrant Leader"
+      ]
+    },
+    {
+      "source": "Web Search - US Office Locations",
+      "urls": [
+        "https://managementconsulted.com/accenture-locations/",
+        "https://www.accenture.com/us-en/about/location"
+      ],
+      "data_extracted": [
+        "50+ US office locations",
+        "Chicago headquarters: 500 W. Madison St., 6,800 employees",
+        "Major presence in: Austin (2), San Antonio (2), Dallas, Houston",
+        "10+ Innovation Hubs across US"
+      ]
+    }
+  ],
+  "data_decisions": {
+    "id": {
+      "value": "accenture",
+      "rationale": "Simple kebab-case form of company name, matching firms-to-research.json"
+    },
+    "name": {
+      "value": "Accenture Strategy",
+      "rationale": "Using 'Accenture Strategy' to distinguish the strategy consulting practice from broader Accenture operations, as this is the practice most relevant to MBB-style recruiting"
+    },
+    "type": {
+      "value": "Boutique",
+      "rationale": "While Accenture overall is enormous, it's not MBB or Big 4. The strategy arm competes with other non-MBB strategy firms like Oliver Wyman and Kearney"
+    },
+    "tagline": {
+      "value": "Global IT/digital consulting giant with dedicated strategy practice—massive scale, deep tech integration",
+      "rationale": "Emphasizes Accenture's unique positioning: strategy consulting backed by unparalleled technology and implementation capabilities"
+    },
+    "headquarters": {
+      "value": "Dublin, Ireland",
+      "rationale": "Accenture's legal headquarters is in Dublin (since 2009). US operations are centered in Chicago, but Dublin is the global HQ"
+    },
+    "founded": {
+      "value": 1989,
+      "rationale": "Founded as Andersen Consulting in 1989, though it became 'Accenture' in 2001"
+    },
+    "employees": {
+      "value": 779000,
+      "rationale": "Using fiscal 2025 figure of ~779,000 employees globally from web search (more recent than Management Consulted's 721,000)"
+    },
+    "parent_company": {
+      "value": null,
+      "rationale": "Accenture is an independent publicly traded company (NYSE: ACN)"
+    },
+    "offices": {
+      "value": ["Chicago", "New York", "Boston", "San Francisco", "Los Angeles", "Seattle", "Washington DC", "Atlanta", "Dallas", "Houston", "Austin", "San Antonio", "Denver", "Philadelphia", "Phoenix"],
+      "rationale": "Accenture has 50+ US locations. Listed major metro areas where consulting hiring is most active, confirmed from web search showing Texas presence (Austin, San Antonio, Dallas, Houston) and Chicago as major hub"
+    },
+    "regions": {
+      "value": ["North America", "Europe", "Asia Pacific", "Latin America", "Middle East", "Africa"],
+      "rationale": "Accenture operates in 120 countries globally with presence across all major regions"
+    },
+    "specialties": {
+      "value": ["Strategy", "Digital", "Technology", "Operations", "Analytics"],
+      "rationale": "Accenture Strategy focuses on strategic consulting but is deeply integrated with technology, digital transformation, data/analytics, and operational capabilities"
+    },
+    "industries": {
+      "value": ["Financial Services", "Healthcare", "Technology", "Consumer", "Energy", "Public Sector", "Industrial", "Telecommunications"],
+      "rationale": "Accenture serves 40+ industries. Listed the major sectors where strategy consulting is most active"
+    },
+    "known_for": {
+      "value": "One of the world's largest consulting firms with 779,000 employees globally. Accenture Strategy is the pure strategy arm within a massive technology and digital consulting organization, offering deep tech capabilities and implementation firepower that pure strategy firms cannot match.",
+      "rationale": "Emphasizes Accenture's scale advantage and unique tech-strategy integration that differentiates it from pure-play strategy boutiques"
+    },
+    "hires_ug": {
+      "value": true,
+      "rationale": "Accenture has active undergraduate recruiting programs with Analyst roles"
+    },
+    "hires_mba": {
+      "value": true,
+      "rationale": "Accenture recruits MBAs for Consultant and higher-level roles"
+    },
+    "career_path": {
+      "value": "Analyst (2-3 yrs) → Consultant (2-3 yrs) → Manager (2-3 yrs) → Senior Manager (3-4 yrs) → Managing Director",
+      "rationale": "Typical progression based on Management Consulted position keywords and standard consulting firm structures"
+    },
+    "travel": {
+      "value": "moderate",
+      "rationale": "Accenture consultants travel 2-4 days per week depending on project, somewhat less than MBB's 4-5 days typical travel"
+    },
+    "work_hours": {
+      "value": "demanding",
+      "rationale": "Consulting work is demanding (50-60 hrs/week) but generally less intense than MBB's 60+ hour weeks"
+    },
+    "compensation": {
+      "ug": {
+        "base": {
+          "value": 96200,
+          "rationale": "Management Consulted lists 'up to $96,200' as base for undergrad/Master's"
+        },
+        "bonus": {
+          "value": 9600,
+          "rationale": "Management Consulted lists 'up to $9,620' performance bonus, rounded to $9,600"
+        },
+        "signing": {
+          "value": 10000,
+          "rationale": "Management Consulted lists $10,000 signing bonus"
+        }
+      },
+      "mba": {
+        "base": {
+          "value": 147500,
+          "rationale": "Management Consulted lists $147,500 MBA base salary"
+        },
+        "bonus": {
+          "value": 8100,
+          "rationale": "Management Consulted lists 'up to $8,112' performance bonus, rounded to $8,100"
+        },
+        "signing": {
+          "value": null,
+          "rationale": "No MBA signing bonus information found in sources"
+        }
+      }
+    },
+    "recruiting": {
+      "process": {
+        "value": "Application → Online Assessment → First Round (2 case + 1 fit/behavioral) → Final Round (2 case + 1 fit/behavioral)",
+        "rationale": "Standard Accenture process includes online assessment and multiple rounds of case/fit interviews"
+      },
+      "unique": {
+        "value": "Focus on tech-enabled business strategy. Cases often involve digital transformation, data analytics, and technology implementation considerations beyond pure strategy.",
+        "rationale": "Accenture Strategy cases integrate technology and implementation perspectives that differentiate them from pure strategy firm cases"
+      },
+      "timeline": {
+        "value": "Rolling recruiting year-round, with peak hiring in fall for summer internships and full-time roles",
+        "rationale": "Accenture operates on rolling basis unlike structured MBB recruiting cycles"
+      }
+    },
+    "email_format": {
+      "value": "firstname.lastname@accenture.com",
+      "rationale": "Confirmed from Management Consulted firm profile page"
+    },
+    "links": {
+      "website": {
+        "value": "https://www.accenture.com",
+        "rationale": "Official company website"
+      },
+      "careers": {
+        "value": "https://www.accenture.com/us-en/careers/jobsearch",
+        "rationale": "Direct link to job search page visited during research"
+      },
+      "mc_profile": {
+        "value": "https://managementconsulted.com/consulting-firm/accenture/",
+        "rationale": "Management Consulted profile page used for primary research"
+      },
+      "linkedin_alumni": {
+        "value": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=accenture",
+        "rationale": "Standard BYU alumni search URL format with 'accenture' keyword"
+      }
+    },
+    "byu": {
+      "pipeline": {
+        "value": "alumni_only",
+        "rationale": "Accenture does not actively recruit at BYU on-campus, but has 587 BYU alumni who can potentially provide networking connections"
+      },
+      "alumni_all_time": {
+        "value": 587,
+        "rationale": "LinkedIn search showed 587 BYU alumni who have ever worked at Accenture"
+      },
+      "alumni_current": {
+        "value": null,
+        "rationale": "Could not determine current employee count from LinkedIn Alumni page filtering"
+      },
+      "tip": {
+        "value": null,
+        "rationale": "No BYU-specific recruiting insights available from research"
+      }
+    }
+  },
+  "data_gaps": [
+    {
+      "field": "compensation.mba.signing",
+      "reason": "MBA signing bonus not listed in Management Consulted data"
+    },
+    {
+      "field": "byu.alumni_current",
+      "reason": "LinkedIn Alumni page did not display 'Where they work' current employee counts in the filtered view"
+    },
+    {
+      "field": "byu.tip",
+      "reason": "No BYU-specific recruiting intelligence found in sources"
+    },
+    {
+      "field": "offices (complete list)",
+      "reason": "Management Consulted only listed Canadian offices. Web search confirmed 50+ US locations but did not provide complete city list. Used major metro areas where consulting recruiting is most active."
+    }
+  ],
+  "notes": [
+    "Accenture is unique as a 'Boutique' classification because while the overall company is enormous (779K employees), the Strategy practice operates more like a boutique within the larger organization",
+    "The firm's headquarters location is complex: legally Dublin, Ireland, but US operations centered in Chicago. Used Dublin as official HQ per schema guidance to use where global leadership sits.",
+    "Compensation data from Management Consulted may be slightly dated. The figures represent 'up to' amounts which likely reflect top performance.",
+    "The 'Accenture Strategy' name distinguishes this practice from the broader Accenture organization which includes technology, digital, and operations consulting beyond pure strategy work",
+    "Accenture's scale (779K employees) is 40x larger than MBB firms, making it fundamentally different in organizational structure and culture despite competing for similar strategy work"
+  ]
+}

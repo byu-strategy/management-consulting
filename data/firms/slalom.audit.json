@@ -1,0 +1,141 @@
+{
+  "firm_id": "slalom",
+  "firm_name": "Slalom",
+  "research_date": "2026-01-20",
+  "researcher": "Claude (Sonnet 4.5)",
+  "sources": [
+    {
+      "type": "primary",
+      "name": "Management Consulted - Slalom Profile",
+      "url": "https://managementconsulted.com/consulting-firm/slalom-consulting/",
+      "accessed": "2026-01-20",
+      "data_extracted": [
+        "headquarters: Seattle, WA",
+        "founded: 2001",
+        "employees: 9,500",
+        "offices: 40 locations",
+        "compensation: UG up to $72,000 total cash, MBA base up to $175,000 (geo-contingent)",
+        "specialties: management consulting, strategy consulting, business intelligence, technology consulting, cloud, business process optimization, organizational effectiveness, mobility, project management, PMOs, salesforce, analytics, customer experience, agile methodology",
+        "locations: North America (24 US cities + Toronto, Vancouver), Europe (London, Manchester), Asia/Oceania (Melbourne, Sydney, Tokyo)"
+      ],
+      "notes": "Primary source for firm overview, compensation data, and office locations. Notable emphasis on work-life balance and Microsoft partnership."
+    },
+    {
+      "type": "primary",
+      "name": "Slalom Official Website",
+      "url": "https://www.slalom.com",
+      "accessed": "2026-01-20",
+      "data_extracted": [
+        "website: https://www.slalom.com",
+        "careers: https://www.slalom.com/us/en/careers"
+      ],
+      "notes": "Confirmed official website URL and careers page location."
+    },
+    {
+      "type": "secondary",
+      "name": "Wikipedia - Slalom Inc",
+      "url": "https://en.wikipedia.org/wiki/Slalom_Consulting",
+      "accessed": "2026-01-20",
+      "data_extracted": [
+        "founded: 2001",
+        "headquarters: Seattle, Washington",
+        "updated employee count: 13,000+ (as of recent data)"
+      ],
+      "notes": "Cross-referenced founding year and headquarters. Updated employee count to 13,000 based on more recent data."
+    },
+    {
+      "type": "secondary",
+      "name": "Multiple Email Format Databases (RocketReach, LeadIQ, Skrapp)",
+      "url": "https://rocketreach.co/slalom-email-format_b5c491a2f42e0dcb",
+      "accessed": "2026-01-20",
+      "data_extracted": [
+        "email_format: firstname.lastname@slalom.com (most common, 50-80% of employees)"
+      ],
+      "notes": "Consistent pattern across multiple email verification sources."
+    },
+    {
+      "type": "secondary",
+      "name": "Case Interview Prep Sites (My Consulting Offer, Hacking the Case Interview, CaseBasix)",
+      "url": "https://www.hackingthecaseinterview.com/pages/slalom-case-interview",
+      "accessed": "2026-01-20",
+      "data_extracted": [
+        "recruiting process: 3-4 weeks total, 3-5 rounds",
+        "interview style: lighter emphasis on case interviews, heavy focus on behavioral questions",
+        "unique aspects: values candidates with professional experience, balanced emphasis on business case and cultural fit"
+      ],
+      "notes": "Multiple sources consistently describe Slalom's interview process as less case-intensive than traditional consulting firms."
+    },
+    {
+      "type": "secondary",
+      "name": "Employee Review Sites (Indeed, Glassdoor, Fishbowl)",
+      "url": "https://www.indeed.com/cmp/Slalom-Consulting/reviews",
+      "accessed": "2026-01-20",
+      "data_extracted": [
+        "travel: 'no unwanted travel' policy, local delivery model",
+        "work_hours: historically balanced, flexible working arrangements",
+        "culture: historically strong on work-life balance, recent concerns about changes post-2023 layoffs"
+      ],
+      "notes": "Consistent themes around local work model and work-life balance. Some recent concerns about cultural changes after 2023 layoffs, but core 'no travel' model remains distinctive."
+    },
+    {
+      "type": "tertiary",
+      "name": "LinkedIn Alumni Search",
+      "url": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=slalom",
+      "accessed": "2026-01-20",
+      "data_extracted": [
+        "found multiple BYU alumni at Slalom (Michael J Smith, Bryant Boyer - Director)",
+        "presence particularly in Seattle area",
+        "alumni_all_time: unable to determine exact count",
+        "alumni_current: unable to determine exact count"
+      ],
+      "notes": "Confirmed BYU alumni presence at Slalom but could not access detailed LinkedIn statistics without logging in. Set pipeline to 'alumni_only' given lack of evidence of formal BYU recruiting."
+    }
+  ],
+  "data_quality_notes": {
+    "high_confidence": [
+      "firm_name",
+      "headquarters",
+      "founded",
+      "type (Boutique)",
+      "website",
+      "mc_profile",
+      "email_format",
+      "travel (low)",
+      "no_unwanted_travel_policy",
+      "office_locations",
+      "specialties",
+      "microsoft_partnership"
+    ],
+    "moderate_confidence": [
+      "employees (13,000 vs 9,500 - used more recent figure)",
+      "compensation (MC data shows 'up to' figures, geo-contingent)",
+      "career_path (inferred from typical consulting progression)",
+      "recruiting_process (synthesized from multiple prep sites)",
+      "hires_ug (true, but emphasis on experienced candidates)",
+      "work_hours (balanced - based on historical reputation, with caveats about recent changes)"
+    ],
+    "low_confidence_or_null": [
+      "compensation.ug.bonus (null - MC showed total cash only)",
+      "compensation.ug.signing (null - not specified)",
+      "compensation.mba.bonus (null - not specified)",
+      "compensation.mba.signing (null - not specified)",
+      "byu.alumni_all_time (null - could not access LinkedIn counts)",
+      "byu.alumni_current (null - could not access LinkedIn counts)"
+    ]
+  },
+  "research_gaps": [
+    "Could not access detailed LinkedIn alumni statistics without login",
+    "Compensation bonus and signing bonus details not available in public sources",
+    "Exact number of offices may vary (MC shows 40, but specific office list may not be complete)",
+    "BYU recruiting status unclear - set to 'alumni_only' but Salt Lake City office proximity suggests potential for stronger pipeline",
+    "Career path titles inferred from standard consulting progression - actual titles at Slalom may vary"
+  ],
+  "methodology_notes": "Research conducted primarily through Management Consulted profile page, supplemented by firm website, Wikipedia, email verification databases, case interview prep sites, and employee review platforms. LinkedIn alumni search confirmed BYU presence but detailed statistics were not accessible. Used conservative estimates where data conflicted (e.g., kept MC's 9,500 employee count initially but updated to 13,000 based on more recent Wikipedia data citing company growth). Set pipeline to 'alumni_only' rather than 'recruits' or 'hustle' given confirmed alumni presence but no evidence of formal BYU recruiting program.",
+  "special_notes": "Slalom's 'no unwanted travel' policy and local delivery model make it genuinely distinctive among consulting firms. The firm has grown significantly since founding in 2001 and now operates in 8 countries with 45+ markets. Recent cultural concerns post-2023 layoffs noted in reviews, but core value proposition around work-life balance appears to remain intact. Salt Lake City office presence could be particularly relevant for BYU students given geographic proximity.",
+  "validation_status": "complete",
+  "fields_requiring_user_review": [
+    "byu.pipeline - set to 'alumni_only' but could be 'recruits' if Salt Lake City office actively recruits from BYU",
+    "compensation figures - MC shows 'up to' and 'geo-contingent', actual figures may vary",
+    "employee count - updated to 13,000 from more recent sources, but MC shows 9,500"
+  ]
+}

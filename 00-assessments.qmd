@@ -131,6 +131,12 @@ Your resume should:
 - Use strong action verbs and demonstrate leadership
 - Be error-free and professionally formatted
 
+::: {.callout-tip}
+## Resume Templates
+
+The [Resume Bible](https://managementconsulted.com/consulting-resume/) from Management Consulted includes consulting-specific templates and formatting guides. Access free through BYU Marriott registration.
+:::
+
 **Networking Tracker (15 points)**
 
 Maintain a networking tracker documenting your outreach throughout the semester:
@@ -187,7 +193,7 @@ When practicing with peers, take turns—you'll also serve as interviewer 5 time
 ::: {.callout-tip}
 ## Set Up Your Feedback Form
 
-Each student creates their own copy of the feedback form. This ensures your interview feedback remains private—only you, your pod leader, and Professor Murff can see your scores and comments.
+Each student creates their own copy of the feedback form. This ensures your interview feedback remains private. Only you, your pod leader, and Professor Murff can see your scores and comments.
 
 **Setup (do this before your first practice interview):**
 

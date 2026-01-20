@@ -1,8 +1,10 @@
 project:
   type: book
   output-dir: _site
+  pre-render: scripts/combine-firms.sh
   resources:
     - images
+    - data/firms-combined.json
 
 
 book:
@@ -34,6 +36,7 @@ book:
         - 10-do-client-work.qmd
     - part: "Resources"
       chapters:
+        - 96-firms-guide.qmd
         - 97-ta-handbook.qmd
         - 98-resources.qmd
         - 99-references.qmd
@@ -52,7 +55,7 @@ format:
     monofont: JetBrains Mono
     fontsize: 1rem
     linestretch: 1.7
-    link-external-icon: true
+    link-external-icon: false
     link-external-newwindow: true
     number-sections: false
 

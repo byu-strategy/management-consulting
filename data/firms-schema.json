@@ -1,0 +1,191 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://byu.edu/strat325/firm-schema.json",
+  "title": "Consulting Firm",
+  "description": "Schema for consulting firm data used in STRAT 325 at BYU Marriott School of Business",
+  "type": "object",
+  "required": ["id", "name", "type"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Kebab-case identifier used as filename. Derive from firm name: 'L.E.K. Consulting' → 'lek', 'Oliver Wyman' → 'oliver-wyman', 'PwC Strategy&' → 'pwc-strategy'"
+    },
+    "name": {
+      "type": "string",
+      "description": "Official firm name as they brand themselves. Include punctuation: 'McKinsey & Company', 'L.E.K. Consulting', 'Bain & Company'"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["MBB", "Big 4", "Boutique"],
+      "description": "Firm tier classification. MBB = McKinsey, BCG, Bain only. Big 4 = Deloitte, EY-Parthenon, PwC Strategy&, KPMG consulting practices. Boutique = All other firms including prestigious strategy shops (Oliver Wyman, Kearney, L.E.K.), specialist firms, and regional players. Use the 'specialties' field to capture what type of consulting they do."
+    },
+    "tagline": {
+      "type": ["string", "null"],
+      "description": "A punchy 5-12 word positioning statement that captures what makes this firm distinctive. Not their official slogan—write something informative for students. Examples: 'The most recognized name in strategy consulting', 'Financial services powerhouse—works with 80% of top 100 banks', 'Former Booz & Company—pure strategy arm within Big 4'"
+    },
+    "headquarters": {
+      "type": ["string", "null"],
+      "description": "Global headquarters location as 'City, Country'. Examples: 'New York, USA', 'London, UK', 'Munich, Germany'. Use the city where the firm was founded or where global leadership sits."
+    },
+    "founded": {
+      "type": ["integer", "null"],
+      "minimum": 1800,
+      "maximum": 2030,
+      "description": "Year the firm was established. For firms that merged or rebranded, use the founding year of the oldest predecessor. Source from firm website 'About' page or Wikipedia."
+    },
+    "employees": {
+      "type": ["integer", "null"],
+      "minimum": 1,
+      "description": "Approximate total global headcount including all staff, not just consultants. Round to nearest 100 for firms under 1000, nearest 1000 for larger firms. Source from firm website, LinkedIn company page, or recent press releases."
+    },
+    "parent_company": {
+      "type": ["string", "null"],
+      "description": "Parent organization if the firm is a subsidiary or division. Examples: 'PwC' for Strategy&, 'Marsh McLennan' for Oliver Wyman, 'Wipro' for Capco. Use null for independent firms like McKinsey, BCG, Bain."
+    },
+    "offices": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "List of US office cities only, using common city names. Focus on offices that hire entry-level consultants. Examples: ['New York', 'Chicago', 'San Francisco', 'Boston', 'Dallas', 'Los Angeles', 'Washington DC', 'Atlanta', 'Denver']. Omit international offices."
+    },
+    "regions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["North America", "Europe", "Asia Pacific", "Latin America", "Middle East", "Africa"]
+      },
+      "description": "Broad geographic regions where the firm has significant presence. Most US-focused firms will just have ['North America']. Add other regions only if they have multiple offices and actively hire there."
+    },
+    "specialties": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "What the firm DOES—their consulting capabilities and practice areas. Use consistent terms: 'Strategy', 'Operations', 'Digital', 'M&A', 'Transformation', 'Implementation', 'Risk', 'Restructuring', 'Pricing', 'Due Diligence', 'Human Capital', 'Analytics'. List 3-6 primary specialties."
+    },
+    "industries": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "WHO the firm serves—their target client sectors. Use consistent terms: 'Financial Services', 'Healthcare', 'Technology', 'Consumer', 'Retail', 'Energy', 'Industrial', 'Private Equity', 'Public Sector', 'Media & Entertainment', 'Telecommunications', 'Life Sciences', 'Insurance'. List 3-6 primary industries."
+    },
+    "known_for": {
+      "type": ["string", "null"],
+      "description": "1-2 sentences on the firm's reputation and what makes them distinctive. Include: signature strengths, notable methodologies, culture traits, or market position. Examples: 'Unmatched brand prestige and top-tier alumni network', 'Deep financial services expertise—works with 80% of Fortune 100 banks', 'Known for quantitative rigor and private equity due diligence'"
+    },
+    "hires_ug": {
+      "type": ["boolean", "null"],
+      "description": "Does this firm actively hire undergraduate students for full-time consulting roles (not just internships)? True = has dedicated undergrad recruiting program. False = only hires MBAs or experienced hires. Null = unknown."
+    },
+    "hires_mba": {
+      "type": ["boolean", "null"],
+      "description": "Does this firm actively recruit from MBA programs? True for most strategy firms. May be false for some specialized boutiques that prefer industry experience."
+    },
+    "career_path": {
+      "type": ["string", "null"],
+      "description": "Typical promotion progression from entry-level to partner using arrows, with years in each role in parentheses. Examples: 'Analyst (2-3 yrs) → Consultant (2-3 yrs) → Manager (2-3 yrs) → Principal (3-4 yrs) → Partner', 'Associate (2 yrs) → Senior Associate (2 yrs) → Manager (3 yrs) → Director (4+ yrs) → Partner'. Use the firm's actual title names."
+    },
+    "travel": {
+      "type": ["string", "null"],
+      "enum": ["high", "moderate", "low", null],
+      "description": "Expected travel for entry-level consultants. 'high' = 4-5 days/week at client site (most MBB/strategy firms). 'moderate' = 2-3 days/week or regional travel. 'low' = mostly local or office-based work."
+    },
+    "work_hours": {
+      "type": ["string", "null"],
+      "enum": ["intense", "demanding", "balanced", null],
+      "description": "Typical work-life balance for entry-level consultants. 'intense' = 60+ hrs/week, frequent late nights (most MBB/strategy firms). 'demanding' = 45-60 hrs/week. 'balanced' = 40-45 hrs/week, more predictable schedule."
+    },
+    "compensation": {
+      "type": "object",
+      "description": "US compensation data for entry-level hires. All figures in USD. Source from Management Consulted, Glassdoor, or recent offer reports. Use null for unknown values rather than guessing.",
+      "properties": {
+        "ug": {
+          "type": ["object", "null"],
+          "description": "Undergraduate/Bachelor's level entry compensation (Analyst or Associate Consultant role)",
+          "properties": {
+            "base": {"type": ["integer", "null"], "description": "Annual base salary in USD. Typical range: $85,000-$115,000 for strategy firms."},
+            "bonus": {"type": ["integer", "null"], "description": "Expected annual performance bonus in USD. Often 10-20% of base for top performers."},
+            "signing": {"type": ["integer", "null"], "description": "One-time signing bonus in USD. Typically $5,000-$15,000 if offered. Use 0 if explicitly no signing bonus, null if unknown."}
+          }
+        },
+        "mba": {
+          "type": ["object", "null"],
+          "description": "MBA-level entry compensation (Associate or Consultant role)",
+          "properties": {
+            "base": {"type": ["integer", "null"], "description": "Annual base salary in USD. Typical range: $175,000-$200,000 for strategy firms."},
+            "bonus": {"type": ["integer", "null"], "description": "Expected annual performance bonus in USD. Often $30,000-$50,000."},
+            "signing": {"type": ["integer", "null"], "description": "One-time signing bonus in USD. Typically $25,000-$35,000 for top firms."}
+          }
+        }
+      }
+    },
+    "recruiting": {
+      "type": "object",
+      "description": "Information about the firm's interview and recruiting process, focused on undergraduate hiring.",
+      "properties": {
+        "process": {
+          "type": ["string", "null"],
+          "description": "Step-by-step interview process using arrows. Include application, screening, and interview rounds. Specify interview types in parentheses: case, fit/behavioral, technical, written case, group exercise. Examples: 'Resume → Online Assessment → First Round (2 case + 2 fit/behavioral) → Final Round (2 case + 2 fit/behavioral)', 'Application → Phone Screen (behavioral) → Super Day (2 case + 1 fit + 1 technical)'"
+        },
+        "unique": {
+          "type": ["string", "null"],
+          "description": "What's distinctive about THIS firm's process compared to standard case interviews. Examples: 'Solve Game digital assessment required before interviews', 'Written case in final round', 'Group case exercise', 'Heavy focus on market sizing questions', 'Candidate-led cases (BCG/Bain style)'"
+        },
+        "timeline": {
+          "type": ["string", "null"],
+          "description": "When recruiting happens for undergrads and how long the process takes. Include application windows and decision timing. Examples: 'Applications open September, first rounds October, offers by November', 'Rolling applications year-round', '4-6 weeks from application to offer'"
+        }
+      }
+    },
+    "email_format": {
+      "type": ["string", "null"],
+      "description": "Email format pattern for cold outreach. Use placeholders: firstname, lastname, first_initial, last_initial. Examples: 'firstname.lastname@mckinsey.com', 'first_initial.lastname@bcg.com', 'firstname_lastname@bain.com'. Source from Management Consulted profile page under 'Email Format' section. Use null if not available."
+    },
+    "links": {
+      "type": "object",
+      "description": "Key URLs for students researching this firm.",
+      "properties": {
+        "website": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "Firm's main homepage URL. Use https:// format. Example: 'https://www.mckinsey.com'"
+        },
+        "careers": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "Direct link to careers or jobs page, not general website. Prefer the page that lists open positions. Example: 'https://www.mckinsey.com/careers/search-jobs'"
+        },
+        "mc_profile": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "Management Consulted firm profile page. URL pattern: 'https://managementconsulted.com/consulting-firm/{firm-slug}/'. Search managementconsulted.com if unsure of exact URL. Use null if firm has no MC profile."
+        },
+        "linkedin_alumni": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "LinkedIn search URL for BYU alumni at this firm. Use this exact pattern: 'https://www.linkedin.com/school/brigham-young-university/people/?keywords={firm name}'. URL-encode spaces as %20. Example: 'https://www.linkedin.com/school/brigham-young-university/people/?keywords=oliver%20wyman'"
+        }
+      }
+    },
+    "byu": {
+      "type": "object",
+      "description": "BYU-specific information. The agent should gather alumni counts from LinkedIn; other fields default to null unless specific BYU data is available.",
+      "properties": {
+        "pipeline": {
+          "type": ["string", "null"],
+          "enum": ["recruits", "alumni_only", "hustle", null],
+          "description": "How BYU students typically get interviews at this firm. 'recruits' = firm has BYU alumni plus actively recruits from BYU or has dedicated BYU recruiting. 'alumni_only' = firm doesn't recruit at BYU but has BYU alumni who could potentially refer students. 'hustle' = no clear BYU connections, students must cold-network to open doors at this firm. Default to null unless you have specific information."
+        },
+        "alumni_all_time": {
+          "type": ["integer", "null"],
+          "description": "Total BYU alumni who have EVER worked at this firm. Find this on LinkedIn: go to linkedin.com/school/brigham-young-university/people/?keywords={firm name} and read the number shown as 'X alumni'. This includes both current and former employees."
+        },
+        "alumni_current": {
+          "type": ["integer", "null"],
+          "description": "BYU alumni CURRENTLY working at the firm. Find this on the same LinkedIn page in the 'Where they work' section—look for the count next to the firm name. This shows active networking contacts."
+        },
+        "tip": {
+          "type": ["string", "null"],
+          "description": "Specific advice for BYU students targeting this firm. Examples: 'Network with Denver office—most BYU-friendly', 'Apply through Strategy& portal, not general PwC', 'Strong fit for accounting majors'. Use null unless you have BYU-specific insight."
+        }
+      }
+    }
+  }
+}

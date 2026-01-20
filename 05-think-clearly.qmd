@@ -418,6 +418,13 @@ Break down your hypotheses into non-overlapping, comprehensive components.
 - Market = Segment A + Segment B + Segment C
 - Options = Do nothing, Do X, Do Y
 
+::: {.callout-note}
+## Readings
+- [What is MECE?](https://strategyu.co/wtf-is-mece-mutually-exclusive-collectively-exhaustive/) – Clear explanation of the MECE concept with examples
+- [MECE Examples](https://strategyu.co/mece-examples/) – Practical examples of MECE frameworks in action
+- [SCQA Framework](https://strategyu.co/scqa-a-framework-for-defining-problems-hypotheses/) – Framework for defining problems and structuring hypotheses
+:::
+
 ### 1.7 Prioritize by Decision Impact **(3)** ◯ ◯ {#os-1-7}
 
 *Focus on what would actually change the answer*

@@ -1,0 +1,50 @@
+{
+  "id": "porsche-consulting",
+  "name": "Porsche Consulting",
+  "type": "Boutique",
+  "tagline": "Automotive excellence meets lean operations—'Strategic Vision, Smart Implementation' from Porsche's DNA",
+  "headquarters": "Bietigheim-Bissingen, Germany",
+  "founded": 1994,
+  "employees": 1000,
+  "parent_company": "Porsche AG",
+  "offices": ["Atlanta", "Palo Alto"],
+  "regions": ["North America", "Europe", "Asia Pacific", "Latin America"],
+  "specialties": ["Operations", "Strategy", "Transformation", "Implementation", "Operational Excellence", "M&A"],
+  "industries": ["Automotive", "Aerospace", "Industrial", "Consumer", "Energy", "Financial Services", "Life Sciences"],
+  "known_for": "Born from Porsche's successful turnaround in the 1990s, Porsche Consulting brings automotive operational excellence to clients worldwide. Known for 'Strategic Vision, Smart Implementation'—combining strategic thinking with pragmatic, hands-on execution. Deep expertise in lean manufacturing, supply chain optimization, and end-to-end transformation.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst → Consultant (2 yrs) → Senior Consultant (2-3 yrs) → Manager (3-4 yrs) → Senior Manager → Senior Expert → Associate Partner → Partner",
+  "travel": "high",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 90000,
+      "bonus": 15000,
+      "signing": null
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → HR Phone Screen (30 min, fit questions) → Case Interview Round (CV presentation + market sizing/business case + fit) → Final Round (additional cases + partner interviews)",
+    "unique": "Expect Porsche-specific questions like 'What is your favorite Porsche model and why?' Cases focus on operational and automotive topics. Very friendly, 'humane' interview style with 10-15 min prep time for market sizing cases. Firm is extremely proud of Porsche heritage.",
+    "timeline": "Process takes approximately 6 weeks from application to offer"
+  },
+  "email_format": "firstname.lastname@porsche-consulting.com",
+  "links": {
+    "website": "https://www.porsche-consulting.com",
+    "careers": "https://www.porsche-consulting.com/usa/en/career/work-us",
+    "mc_profile": "https://managementconsulted.com/porsche-consulting/",
+    "linkedin_alumni": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=porsche%20consulting"
+  },
+  "byu": {
+    "pipeline": null,
+    "alumni_all_time": null,
+    "alumni_current": null,
+    "tip": null
+  }
+}

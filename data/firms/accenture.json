@@ -1,0 +1,88 @@
+{
+  "id": "accenture",
+  "name": "Accenture Strategy",
+  "type": "Boutique",
+  "tagline": "Global IT/digital consulting giant with dedicated strategy practice—massive scale, deep tech integration",
+  "headquarters": "Dublin, Ireland",
+  "founded": 1989,
+  "employees": 779000,
+  "parent_company": null,
+  "offices": [
+    "Chicago",
+    "New York",
+    "Boston",
+    "San Francisco",
+    "Los Angeles",
+    "Seattle",
+    "Washington DC",
+    "Atlanta",
+    "Dallas",
+    "Houston",
+    "Austin",
+    "San Antonio",
+    "Denver",
+    "Philadelphia",
+    "Phoenix"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East",
+    "Africa"
+  ],
+  "specialties": [
+    "Strategy",
+    "Digital",
+    "Technology",
+    "Operations",
+    "Analytics"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Consumer",
+    "Energy",
+    "Public Sector",
+    "Industrial",
+    "Telecommunications"
+  ],
+  "known_for": "One of the world's largest consulting firms with 779,000 employees globally. Accenture Strategy is the pure strategy arm within a massive technology and digital consulting organization, offering deep tech capabilities and implementation firepower that pure strategy firms cannot match.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Consultant (2-3 yrs) → Manager (2-3 yrs) → Senior Manager (3-4 yrs) → Managing Director",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 96200,
+      "bonus": 9600,
+      "signing": 10000
+    },
+    "mba": {
+      "base": 147500,
+      "bonus": 8100,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Online Assessment → First Round (2 case + 1 fit/behavioral) → Final Round (2 case + 1 fit/behavioral)",
+    "unique": "Focus on tech-enabled business strategy. Cases often involve digital transformation, data analytics, and technology implementation considerations beyond pure strategy.",
+    "timeline": "Rolling recruiting year-round, with peak hiring in fall for summer internships and full-time roles"
+  },
+  "email_format": "firstname.lastname@accenture.com",
+  "links": {
+    "website": "https://www.accenture.com",
+    "careers": "https://www.accenture.com/us-en/careers/jobsearch",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/accenture/",
+    "linkedin_alumni": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=accenture"
+  },
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 587,
+    "alumni_current": 68,
+    "tip": null
+  }
+}

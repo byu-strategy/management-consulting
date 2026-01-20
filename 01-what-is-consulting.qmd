@@ -164,6 +164,12 @@ As you research firms, consider:
 
 There's no universally "best" firm. The best firm is the one that aligns with your goals, values, and working style.
 
+::: {.callout-tip}
+## Research Consulting Firms
+
+Management Consulted's [Firm Directory](https://managementconsulted.com/consulting-firms/) and [Top Consulting Firms](https://managementconsulted.com/top-consulting-firms/) list provide detailed profiles to help you research firms by type, specialty, and culture.
+:::
+
 ## Beyond "MBB or Bust"
 
 A common trap in consulting recruiting is the "MBB or bust" mentality. Let's put some numbers in perspective:

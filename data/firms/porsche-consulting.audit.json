@@ -1,0 +1,45 @@
+{
+  "firm_id": "porsche-consulting",
+  "research_date": "2026-01-20",
+  "researcher": "Claude Code (consulting-firm-researcher agent)",
+  "data_quality": "medium-high",
+  "sources_consulted": [
+    "https://managementconsulted.com/porsche-consulting/",
+    "https://www.porsche-consulting.com/international/en/about-us/who-we-are",
+    "https://www.porsche-consulting.com/usa/en/career/work-us",
+    "https://newsroom.porsche.com/en/company/porsche-consulting.html",
+    "https://www.glassdoor.com/Reviews/Porsche-Consulting-Reviews-E781158.htm",
+    "https://www.glassdoor.com/Interview/Porsche-Consulting-Interview-Questions-E781158.htm",
+    "https://www.levels.fyi/companies/porsche-consulting/salaries",
+    "https://leadiq.com/c/porsche-consulting/5a1d97782300005c00860929/email-format",
+    "https://www.casebasix.com/pages/porsche-consulting",
+    "https://www.preplounge.com/consulting-forum/porsche-consulting-interview-experience-549"
+  ],
+  "field_sources": {
+    "name": {"source": "Official firm website", "confidence": "definitive"},
+    "type": {"source": "Industry classification", "confidence": "definitive"},
+    "headquarters": {"source": "Porsche Newsroom", "confidence": "definitive"},
+    "founded": {"source": "Porsche Newsroom, Management Consulted", "confidence": "definitive"},
+    "employees": {"source": "Multiple sources citing 800-1000 globally", "confidence": "high"},
+    "parent_company": {"source": "Porsche Newsroom", "confidence": "definitive"},
+    "offices": {"source": "Porsche Newsroom, firm career pages", "confidence": "definitive"},
+    "compensation.ug.base": {"source": "Management Consulted, Casebasix, Glassdoor", "confidence": "high"},
+    "compensation.ug.bonus": {"source": "Estimated from total comp data", "confidence": "medium"},
+    "travel": {"source": "Glassdoor reviews", "confidence": "high"},
+    "work_hours": {"source": "Glassdoor reviews", "confidence": "high"},
+    "recruiting.process": {"source": "Glassdoor interviews, PrepLounge", "confidence": "medium"},
+    "recruiting.unique": {"source": "Glassdoor and PrepLounge candidate experiences", "confidence": "high"},
+    "email_format": {"source": "LeadIQ, RocketReach, SignalHire", "confidence": "definitive"}
+  },
+  "gaps": [
+    {"field": "compensation.mba.base", "reason": "No reliable source found"},
+    {"field": "compensation.mba.bonus", "reason": "No reliable source found"},
+    {"field": "compensation.mba.signing", "reason": "No reliable source found"},
+    {"field": "compensation.ug.signing", "reason": "No reliable source found"},
+    {"field": "byu.alumni_all_time", "reason": "LinkedIn search did not return accessible results"},
+    {"field": "byu.alumni_current", "reason": "LinkedIn search did not return accessible results"},
+    {"field": "byu.pipeline", "reason": "No BYU recruiting relationship data found"},
+    {"field": "byu.tip", "reason": "No BYU-specific information found"}
+  ],
+  "notes": "Comprehensive research using Management Consulted, Glassdoor, firm website, and industry sources. Strong data for firm overview and UG compensation. Notable gaps in MBA compensation and BYU-specific information. Porsche Consulting's unique heritage and operational focus are well-documented."
+}

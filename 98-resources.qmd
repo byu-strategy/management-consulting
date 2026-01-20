@@ -6,15 +6,52 @@ A curated collection of resources to support your consulting preparation and pro
 
 ### Case Practice Platforms
 
+- [Management Consulted](https://managementconsulted.com/marriott-registration/) – Frameworks, cases, and coaching (BYU Marriott access)
+  - [Case Library](https://managementconsulted.com/consulting-case-library/) – Full library of practice cases by type and difficulty
+  - [AI Case Bot](https://managementconsulted.com/case-interview-questions/) – Practice cases with AI-powered feedback
+  - [Case Partner](https://managementconsulted.com/consulting-case-partner/) – Find and schedule case partners
 - [PrepLounge](https://www.preplounge.com/) – Case partner matching and practice cases
 - [CaseCoach](https://www.casecoach.com/) – Structured case practice
-- [Management Consulted](https://managementconsulted.com/marriott-registration/) – Frameworks, cases, and coaching (BYU Marriott access)
+- [PrepMatter Blog](https://prepmatter.com/blog) – Case interview tips and consulting career advice
+
 
 ### Firm Resources
 
 - [McKinsey Practice Cases](https://www.mckinsey.com/careers/interviewing) – Official sample cases
 - [BCG Interactive Cases](https://www.bcg.com/careers/interviews) – Online practice with feedback
 - [Bain Case Prep](https://www.bain.com/careers/interview-prep/) – Case examples and tips
+
+### Courses & Deep Dives
+
+These Management Consulted courses are available free to BYU students through our [Marriott registration](https://managementconsulted.com/marriott-registration/):
+
+- [Free Case Interview Prep](https://managementconsulted.com/case-interview-prep/) – Overview of case interview fundamentals
+- [MC Starter Pack](https://managementconsulted.com/consulting-starter-pack/) – Foundational course covering frameworks, math, and structure
+- [Case Interview Bootcamp 2025](https://managementconsulted.com/case-interview-bootcamp/) – Intensive course for serious case preparation
+- [Digital Assessment Overview](https://managementconsulted.com/mckinsey-solve-game/) – Prep for McKinsey Solve, BCG Casey, and other digital assessments
+- [Business Basics for Consulting](https://managementconsulted.com/course/business-basics-for-consulting/) – Foundational business concepts for case interviews
+- [Industry Primers](https://managementconsulted.com/course/industry-primers/) – Industry-specific knowledge for common case sectors
+
+### Drills & Skill Building
+
+Targeted practice drills from Management Consulted (free via [BYU Marriott access](https://managementconsulted.com/marriott-registration/)):
+
+**Structure & Frameworks**
+
+- [Case Structure Guide](https://managementconsulted.com/case-structure/) – How to build MECE frameworks for any case type
+- [Case Structure Prompts](https://managementconsulted.com/course/case-structure-prompts/) – Practice structuring problems quickly
+- [Case Brainstorming Drills](https://managementconsulted.com/course/case-brainstorming-drills/) – Generate creative, MECE ideas under pressure
+
+**Math & Quantitative**
+
+- [Mental Math for Consulting](https://managementconsulted.com/course/mental-math-consulting/) – Build speed and accuracy with mental calculations
+- [Math Drills](https://managementconsulted.com/math-drills/) – Practice common case math patterns
+- [Case Math Drills](https://managementconsulted.com/course/case-math-drills/) – Apply math skills in case contexts
+- [Market Sizing Drills](https://managementconsulted.com/market-sizing-drills/) – Practice top-down and bottom-up estimation
+
+**Analysis & Synthesis**
+
+- [Exhibit Drills](https://managementconsulted.com/exhibit-drills/) – Practice interpreting charts, graphs, and data exhibits
 
 ### Video Resources
 
@@ -303,14 +340,27 @@ Return structured sections for:
 - Firm company pages for news and culture
 - Professional networking best practices
 
+### Firm Research & Job Boards
+
+- [Firm Directory](https://managementconsulted.com/consulting-firms/) – Comprehensive directory of consulting firms by type and specialty
+- [Top Consulting Firms](https://managementconsulted.com/top-consulting-firms/) – Rankings and profiles of leading firms
+- [2026 Firm Rankings](https://www.case-prep.com/firms/2026-rankings) – Annual consulting firm rankings
+- [Consulting Roles & Titles](https://strategyu.co/consulting-roles/) – Overview of consulting career levels and role expectations
+- [Consulting Job Board](https://managementconsulted.com/consulting-jobs/) – Current openings across firms
+- [Application Deadlines](https://managementconsulted.com/consulting-deadlines/) – Track recruiting timelines by firm
+
 ### Resume Resources
 
+- [Resume Bible](https://managementconsulted.com/consulting-resume/) – Comprehensive guide with templates and examples
+- [Resume & Cover Letter Course](https://managementconsulted.com/consulting-cover-letter/) – Full course on resume and cover letter optimization
 - Career Services resume reviews
 - MCA peer resume workshops
 - Sample consulting resumes (ask your TA)
 
 ### Interview Preparation
 
+- [Fit Interview 101](https://managementconsulted.com/fit-interview/) – Complete guide to behavioral interview preparation
+- [Consulting Bible](https://managementconsulted.com/consulting-bible/) – Comprehensive ebook covering all aspects of consulting recruiting
 - Glassdoor interview reviews (with caution)
 - Vault Career Guide to Consulting
 - Firm-specific prep guides
@@ -323,30 +373,6 @@ Return structured sections for:
 - *The Pyramid Principle* by Barbara Minto – Structured communication
 - *Case in Point* by Marc Cosentino – Case interview prep
 
-### Strategy
 
-- *Good Strategy Bad Strategy* by Richard Rumelt – Strategic thinking
-- *Competitive Strategy* by Michael Porter – Classic framework
-- *Blue Ocean Strategy* by Kim & Mauborgne – Creating new markets
 
-### Personal Development
 
-- *Thinking, Fast and Slow* by Daniel Kahneman – Decision-making
-- *The Trusted Advisor* by David Maister – Client relationships
-- *Mindset* by Carol Dweck – Growth mindset
-
-## Templates and Tools
-
-### Available in Learning Suite
-
-- Resume template
-- One-pager diagnostic template
-- Competitive benchmark template
-- Capstone slide template
-- Case practice log
-
-### External Tools
-
-- [Canva](https://www.canva.com/) – Quick graphics and presentations
-- [Miro](https://miro.com/) – Virtual whiteboarding
-- [Notion](https://www.notion.so/) – Note-taking and organization

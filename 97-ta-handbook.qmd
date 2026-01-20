@@ -172,6 +172,115 @@ A significant portion of student development comes from repeated practice interv
 | Feedback | 5-10 min |
 | **Total** | **~60 min** |
 
+### Running a Great Interview
+
+Great interviewers create conditions where candidates perform at their best while still providing realistic practice. This section distills best practices from MBB, Big 4, and boutique firms.
+
+#### Interviewer Mindset
+
+| Do | Don't |
+|:---|:------|
+| Create realistic interview conditions | Make it artificially easy or hard |
+| Stay engaged and present throughout | Check your phone or appear distracted |
+| Let silence work—candidates need thinking time | Fill every pause with hints |
+| Remain neutral; your job is to evaluate, not coach mid-interview | React visibly to good or bad answers |
+| Treat every candidate like they could be your future colleague | Condescend or intimidate |
+
+#### Behavioral Section Checklist
+
+**Setup (1-2 minutes)**
+
+- [ ] State the question clearly, then pause
+- [ ] Let the candidate choose their story—don't suggest one
+- [ ] Set expectations: "Take about 2 minutes for your response"
+
+**During the Response**
+
+- [ ] Time it (ideal: 90-120 seconds; max: 2.5 minutes)
+- [ ] Note when they say "I" vs. "we"
+- [ ] Listen for: specific actions, quantified results, genuine reflection
+- [ ] Watch for: rehearsed delivery, vague outcomes, blame-shifting
+
+**Probing Questions**
+
+Use follow-ups to test depth and authenticity:
+
+- "What was *your* specific role in that outcome?"
+- "What would you do differently if you faced this again?"
+- "How did that experience change how you approach similar situations?"
+- "What was the hardest part for you personally?"
+
+**Red Flags to Note**
+
+- Can't explain their personal contribution when pressed
+- Story lacks specific details (names, numbers, timelines)
+- Takes credit for team outcomes without acknowledging others
+- Gets defensive when probed
+
+#### Case Section Checklist
+
+**Prompt Delivery**
+
+- [ ] Read the prompt clearly—don't paraphrase or editorialize
+- [ ] Provide the prompt in writing if it's complex
+- [ ] Give 60-90 seconds for initial structuring time
+- [ ] Say "Take a moment to organize your thoughts" (not "whenever you're ready")
+
+**Pacing the Case**
+
+| Phase | Your Role |
+|:------|:----------|
+| **Structure** | Listen without interrupting; let them complete their framework |
+| **Exploration** | Guide them through 2-3 branches; reveal data when asked |
+| **Analysis** | Provide data clearly; give time for calculations |
+| **Synthesis** | Push for a recommendation: "Based on what you've learned, what should the client do?" |
+
+**Data Reveals**
+
+- Release data in response to good questions, not hints
+- Say "What would you want to know?" rather than "Here's some data"
+- If stuck, give one gentle redirect: "What else might drive profitability?"
+- Don't volunteer data they didn't ask for
+
+**Pushing for Synthesis**
+
+With 5 minutes remaining, prompt for a recommendation:
+
+- "We have a few minutes left. If you had to advise the CEO today, what would you recommend?"
+- "Let's say the client calls you tomorrow—what's your answer?"
+
+**Red Flags to Note**
+
+- Generic framework not tailored to the problem
+- Can't do math or interpret what numbers mean
+- Avoids taking a point of view ("it depends")
+- Doesn't adapt structure as new information emerges
+
+#### Feedback Delivery Framework
+
+**Structure (use this every time):**
+
+1. **Ask first**: "How do you think that went? What felt strong? What felt harder?"
+2. **Validate**: Acknowledge their self-assessment before sharing yours
+3. **Strengths** (2-3 specific): "Your structure was MECE and tailored—that's exactly right"
+4. **Development areas** (1-2 specific): "The one thing to work on: interpreting the numbers—you got the math right but didn't say what it meant for the decision"
+5. **One action**: Give them exactly one thing to focus on for their next practice
+
+**Delivering Difficult Feedback**
+
+| Instead of... | Try... |
+|:--------------|:-------|
+| "That was pretty weak" | "There's room to develop here—let me show you what I mean" |
+| "You need to do X" | "Strong candidates typically do X—here's why it matters" |
+| "That's wrong" | "I'd push back on that assumption—what's your evidence?" |
+
+**Calibration Mistakes to Avoid**
+
+- **Halo effect**: One strong moment doesn't make everything strong
+- **Recency bias**: Don't over-weight the recommendation at the expense of the whole case
+- **Comparison drift**: Score against the rubric, not against the last candidate
+- **Niceness inflation**: A 3 means "solid"—reserve 4s for truly standout performance
+
 ### Practice Interview Rubric
 
 After each practice interview, the interviewer completes a feedback form. This creates a data trail students can use to track their improvement.
@@ -260,31 +369,15 @@ Students use the PARADE framework to structure their behavioral stories:
 | **D**ifferentiation | What made your approach unique? | Shows judgment, creativity, values |
 | **E**vidence | What proves this is true? | Specific details, numbers, names |
 
-### General Guidelines
+### Session Preparation
 
-**Mindset:** Students should leave every practice interview feeling encouraged to continue. Progress comes through repetition and reflection.
+Before each practice interview:
 
-**Before the interview:**
-
-1. Ask how many practice interviews they've completed
+1. Check how many practice interviews the student has completed
 2. Reference their Goals Worksheet—what are they focusing on?
 3. Establish a specific goal for this session
 4. Select a case and behavioral question that align with their development needs
-
-**During the interview:**
-
-- Treat it as a true interview: take structured notes, track timing
-- Use the rubric to evaluate each dimension
-- Give students the benefit of the doubt during weaker segments
-- Stay engaged; coachability can only be demonstrated with attentive coaching
-
-**After the interview:**
-
-1. Ask for their self-reflection first (what went well, what was challenging)
-2. Share your rubric scores and explain your reasoning
-3. Balance reinforcement of strengths with specific guidance on improvement
-4. Provide 1-3 concrete, actionable recommendations for their next practice interview
-5. Complete the feedback form so the data goes to their record
+5. After the session, complete the feedback form so the data goes to their record
 
 ### Firm Differences Disclaimer
 

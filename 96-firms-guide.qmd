@@ -1,0 +1,1891 @@
+---
+title: "Firm Directory"
+---
+
+A searchable guide to consulting firms, with BYU-specific intel to help you find your fit.
+
+::: {.callout-tip}
+## How to use this guide
+- **Search** for any firm, location, or specialty
+- **Filter** by firm type, location, BYU pipeline strength, and more
+- **Click a firm card** to see full details including interview process and BYU alumni
+:::
+
+```{=html}
+<style>
+/* =============================================================================
+   CSS CUSTOM PROPERTIES - Standardized Values
+   ============================================================================= */
+:root {
+  --header-size: 0.65rem;      /* uppercase labels */
+  --value-size: 1.25rem;       /* big numbers */
+  --detail-size: 0.8rem;       /* supporting text */
+  --icon-size: 1.5rem;         /* larger icons */
+  --muted-color: #6b7280;      /* gray-500 */
+  --text-color: #111827;       /* gray-900 */
+  --byu-blue: #002E5D;
+}
+
+/* =============================================================================
+   SVG ICONS
+   ============================================================================= */
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+  fill: currentColor;
+}
+
+.icon-lg {
+  width: var(--icon-size);
+  height: var(--icon-size);
+}
+
+/* =============================================================================
+   FILTER CONTROLS
+   ============================================================================= */
+.filter-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin-bottom: 1rem;
+  padding: 0.75rem;
+  background: #f8f9fa;
+  border-radius: 6px;
+  border: 1px solid #e9ecef;
+}
+
+.filter-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.filter-row-search {
+  display: flex;
+  gap: 0.5rem;
+}
+
+#search-box {
+  flex-grow: 1;
+  padding: 0.4rem 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 0.85rem;
+}
+
+#search-box:focus {
+  outline: none;
+  border-color: #2563eb;
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.1);
+}
+
+.filter-row-filters {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr) auto;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+@media (max-width: 900px) {
+  .filter-row-filters {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  #clear-filters {
+    grid-column: span 3;
+    justify-self: end;
+  }
+}
+
+@media (max-width: 550px) {
+  .filter-row-filters {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  #clear-filters {
+    grid-column: span 2;
+  }
+}
+
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.filter-group label {
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #888;
+  white-space: nowrap;
+}
+
+.filter-group select {
+  padding: 0.35rem 0.5rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  width: 100%;
+  background: white;
+  cursor: pointer;
+}
+
+.filter-group select:focus {
+  outline: none;
+  border-color: #2563eb;
+}
+
+#clear-filters {
+  padding: 0.35rem 0.6rem;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.75rem;
+  color: #666;
+  white-space: nowrap;
+  align-self: end;
+}
+
+#clear-filters:hover {
+  background: #f1f1f1;
+  border-color: #ccc;
+}
+
+#results-count {
+  margin-bottom: 0.75rem;
+  color: #888;
+  font-size: 0.8rem;
+}
+
+/* =============================================================================
+   FIRM CARDS - Financial Terminal Design
+   ============================================================================= */
+.firm-card {
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+  background: white;
+  transition: box-shadow 0.2s, border-color 0.2s;
+}
+
+.firm-card:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  border-color: #9ca3af;
+}
+
+.firm-card.hidden {
+  display: none;
+}
+
+/* Header with name, meta info, and badges */
+.firm-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 0.35rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.firm-header-left {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.firm-name {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin: 0;
+  color: var(--text-color);
+  letter-spacing: -0.01em;
+}
+
+.firm-name a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dashed #9ca3af;
+}
+
+.firm-name a:hover {
+  color: #2563eb;
+  border-bottom-color: #2563eb;
+}
+
+.jobs-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+  padding: 0.1rem 0.4rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: #6b7280;
+  background: #f3f4f6;
+  border: 1px solid #e5e7eb;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.jobs-link:hover {
+  color: #2563eb;
+  background: #eff6ff;
+  border-color: #2563eb;
+}
+
+.jobs-link .icon {
+  width: 0.85em;
+  height: 0.85em;
+}
+
+.firm-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: var(--detail-size);
+  color: var(--muted-color);
+}
+
+.firm-meta-item {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.firm-badges {
+  display: flex;
+  gap: 0.4rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* Type badge (MBB, Big 4, Boutique) */
+.firm-type-badge {
+  font-size: 0.6rem;
+  font-weight: 700;
+  padding: 0.2rem 0.5rem;
+  border-radius: 2px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.firm-type-badge.mbb {
+  background: #1e3a5f;
+  color: white;
+}
+
+.firm-type-badge.big4 {
+  background: #1e40af;
+  color: white;
+}
+
+.firm-type-badge.boutique {
+  background: #374151;
+  color: white;
+}
+
+/* Hire level badge */
+.hire-badge {
+  font-size: 0.6rem;
+  font-weight: 600;
+  padding: 0.2rem 0.5rem;
+  border-radius: 2px;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+.hire-badge.ug-mba {
+  background: #0d9488;
+  color: white;
+}
+
+.hire-badge.ug-only {
+  background: #059669;
+  color: white;
+}
+
+.hire-badge.mba-only {
+  background: #d97706;
+  color: white;
+}
+
+/* RECRUITS FROM BYU badge */
+.recruits-badge {
+  font-size: 0.6rem;
+  font-weight: 700;
+  padding: 0.2rem 0.5rem;
+  border-radius: 2px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  background: #16a34a;
+  color: white;
+}
+
+/* Tagline */
+.firm-tagline {
+  font-style: italic;
+  color: #6b7280;
+  margin: 0.5rem 0 0.75rem 0;
+  font-size: 0.875rem;
+  line-height: 1.4;
+}
+
+/* =============================================================================
+   HERO STATS - 5 Column Grid
+   ============================================================================= */
+.hero-stats {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+@media (max-width: 1000px) {
+  .hero-stats {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 700px) {
+  .hero-stats {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 450px) {
+  .hero-stats {
+    grid-template-columns: 1fr;
+  }
+}
+
+.hero-stat {
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 4px;
+  padding: 0.65rem 0.85rem;
+  text-align: center;
+}
+
+.hero-stat-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  font-size: var(--header-size);
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--muted-color);
+  margin-bottom: 0.4rem;
+  letter-spacing: 0.04em;
+}
+
+.hero-stat-header .icon {
+  width: 1.2em;
+  height: 1.2em;
+}
+
+.hero-stat-value {
+  font-size: var(--value-size);
+  font-weight: 800;
+  color: var(--text-color);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: -0.02em;
+}
+
+.hero-stat-detail {
+  font-size: 0.75rem;
+  color: var(--muted-color);
+  margin-top: 0.15rem;
+}
+
+/* Clickable offices count */
+.offices-count-link {
+  cursor: pointer;
+  color: inherit;
+  font-weight: inherit;
+  border-bottom: 1px dashed #9ca3af;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.offices-count-link:hover {
+  color: #2563eb;
+  border-bottom-color: #2563eb;
+}
+
+/* Comp Tooltip */
+.hero-stat.comp-stat {
+  position: relative;
+  cursor: default;
+}
+
+.comp-tooltip {
+  display: none;
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #1f2937;
+  color: white;
+  padding: 0.75rem;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  white-space: nowrap;
+  z-index: 100;
+  margin-bottom: 0.5rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.comp-tooltip::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: #1f2937;
+}
+
+.hero-stat.comp-stat:hover .comp-tooltip {
+  display: block;
+}
+
+.comp-tooltip-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.15rem 0;
+}
+
+.comp-tooltip-row .label {
+  color: #9ca3af;
+}
+
+.comp-tooltip-row .value {
+  font-weight: 600;
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+}
+
+.comp-tooltip-header {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.65rem;
+  letter-spacing: 0.04em;
+  color: #9ca3af;
+  margin-bottom: 0.35rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid #374151;
+}
+
+.comp-tooltip-total {
+  margin-top: 0.35rem;
+  padding-top: 0.35rem;
+  border-top: 1px solid #374151;
+  font-weight: 700;
+}
+
+.comp-tooltip-total .value {
+  color: #34d399;
+}
+
+/* Offices Popover */
+.offices-popover {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  z-index: 1000;
+  max-width: 500px;
+  width: 90%;
+  max-height: 80vh;
+  overflow-y: auto;
+}
+
+.offices-popover.active {
+  display: block;
+}
+
+.offices-popover-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 999;
+}
+
+.offices-popover-overlay.active {
+  display: block;
+}
+
+.offices-popover-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.offices-popover-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-color);
+  margin: 0;
+}
+
+.offices-popover-close {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: var(--muted-color);
+  padding: 0.25rem;
+  line-height: 1;
+}
+
+.offices-popover-close:hover {
+  color: var(--text-color);
+}
+
+.offices-popover-content {
+  padding: 1rem;
+}
+
+.offices-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 0.5rem;
+}
+
+.offices-grid-item {
+  font-size: var(--detail-size);
+  color: #374151;
+  padding: 0.35rem 0;
+}
+
+/* Pipeline stat - uses same styling as other hero stats */
+.hero-stat.pipeline-stat,
+.hero-stat.pipeline-stat.alumni-pipeline,
+.hero-stat.pipeline-stat.hustle-pipeline {
+  /* Inherits standard .hero-stat background (#f9fafb) */
+}
+
+.pipeline-badge-inline {
+  display: inline-block;
+  font-size: 0.55rem;
+  font-weight: 700;
+  padding: 0.15rem 0.4rem;
+  border-radius: 2px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin-right: 0.4rem;
+  vertical-align: middle;
+}
+
+.pipeline-badge-inline.recruits {
+  background: #16a34a;
+  color: white;
+}
+
+.pipeline-badge-inline.alumni_only {
+  background: #ca8a04;
+  color: white;
+}
+
+.pipeline-badge-inline.hustle {
+  background: #dc2626;
+  color: white;
+}
+
+.hero-stat-alumni-link {
+  text-decoration: none;
+  color: inherit;
+  font-weight: inherit;
+  border-bottom: 1px dashed #9ca3af;
+  transition: border-color 0.15s;
+}
+
+.hero-stat-alumni-link:hover {
+  border-bottom-color: #2563eb;
+  color: #2563eb;
+}
+
+
+/* =============================================================================
+   DRAWER - Unified Card Styling
+   ============================================================================= */
+
+/* Base drawer card - all sections inherit this */
+.drawer-card {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.drawer-card-header {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #6b7280;
+  margin-bottom: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.drawer-card-header .icon {
+  width: 1em;
+  height: 1em;
+}
+
+.drawer-card-content {
+  font-size: 0.85rem;
+  color: #374151;
+  line-height: 1.6;
+}
+
+/* BYU Tips Section - Uses interview-section base styling */
+.byu-y-icon {
+  height: 1.1em;
+  width: auto;
+  vertical-align: -0.15em;
+}
+
+.byu-tips-content {
+  font-size: 0.85rem;
+  color: #1f2937;
+  line-height: 1.5;
+}
+
+.byu-tips-content ul {
+  margin: 0;
+  padding-left: 1.25rem;
+  list-style-type: disc;
+}
+
+.byu-tips-content li {
+  margin-bottom: 0.35rem;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: #1f2937;
+}
+
+.byu-tips-content li:last-child {
+  margin-bottom: 0;
+}
+
+.byu-tips-email {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid #e5e7eb;
+  font-size: 0.6rem;
+  color: #6b7280;
+}
+
+.byu-tips-email code {
+  background: #f3f4f6;
+  padding: 0.15rem 0.35rem;
+  border-radius: 3px;
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.6rem;
+}
+
+/* =============================================================================
+   SPECIALTY TAGS - Inline
+   ============================================================================= */
+.specialty-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  align-items: center;
+  padding: 0.5rem 0;
+  border-top: 1px solid #e5e7eb;
+}
+
+.specialty-tag {
+  font-size: 0.7rem;
+  color: #4b5563;
+  background: #f3f4f6;
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  font-weight: 500;
+}
+
+.travel-indicator {
+  margin-left: auto;
+  font-size: 0.7rem;
+  color: #6b7280;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.travel-indicator .icon {
+  width: 0.85em;
+  height: 0.85em;
+}
+
+/* Links row - Footer */
+.firm-links {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-top: 0.5rem;
+  border-top: 1px solid #e5e7eb;
+}
+
+.firm-links a {
+  font-size: 0.75rem;
+  color: #2563eb;
+  text-decoration: none;
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  transition: background 0.15s;
+}
+
+.firm-links a:hover {
+  background: #eff6ff;
+  text-decoration: none;
+}
+
+.email-format {
+  font-size: 0.7rem;
+  color: #6b7280;
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  background: #f3f4f6;
+  padding: 0.15rem 0.4rem;
+  border-radius: 3px;
+}
+
+.firm-card .expand-toggle {
+  font-size: 0.75rem;
+  color: #2563eb;
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0.2rem 0.5rem;
+  margin-left: auto;
+  border-radius: 3px;
+  transition: background 0.15s;
+  font-weight: 500;
+}
+
+.firm-card .expand-toggle:hover {
+  background: #eff6ff;
+}
+
+/* =============================================================================
+   EXPANDABLE DETAILS - Drawer Design
+   ============================================================================= */
+.firm-details {
+  display: none;
+  margin-top: 0.5rem;
+  padding: 0.5rem 1rem 0.75rem 1rem;
+  border-top: 2px solid #e5e7eb;
+  background: #f9fafb;
+  margin-left: -1.25rem;
+  margin-right: -1.25rem;
+  margin-bottom: -1.25rem;
+  border-radius: 0 0 6px 6px;
+}
+
+.firm-card.expanded .firm-details {
+  display: block;
+}
+
+/* Interview/Recruiting Section */
+.interview-section, .career-path-section {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  padding: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.interview-section h4, .career-path-section h4 {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #6b7280;
+  margin: 0 0 0.5rem 0;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+/* Step Flow - Horizontal boxes with arrows */
+.step-flow {
+  display: flex;
+  gap: 0.35rem;
+  align-items: stretch;
+  margin-bottom: 0.75rem;
+  overflow-x: auto;
+  padding-bottom: 0.25rem;
+}
+
+.step-box {
+  flex: 1 1 0;
+  min-width: 70px;
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 5px;
+  padding: 0.5rem 0.35rem;
+  text-align: center;
+  position: relative;
+}
+
+.step-box::after {
+  content: '→';
+  position: absolute;
+  right: -0.6rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #d1d5db;
+  font-size: 0.75rem;
+  z-index: 1;
+}
+
+.step-box:last-child::after {
+  display: none;
+}
+
+.step-number {
+  display: inline-block;
+  width: 1.2rem;
+  height: 1.2rem;
+  line-height: 1.2rem;
+  background: #374151;
+  color: white;
+  border-radius: 50%;
+  font-size: 0.55rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.step-title {
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: #1f2937;
+  line-height: 1.25;
+}
+
+.step-detail {
+  font-size: 0.6rem;
+  color: #6b7280;
+  margin-top: 0.15rem;
+  line-height: 1.2;
+}
+
+/* Career path - same sizing as recruiting */
+.career-path-section .step-title {
+  font-size: 0.7rem;
+}
+
+.career-path-section .step-detail {
+  font-size: 0.6rem;
+}
+
+/* Responsive: stack on mobile */
+@media (max-width: 500px) {
+  .step-flow {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .step-box {
+    min-width: 100%;
+  }
+
+  .step-box::after {
+    display: none;
+  }
+}
+
+/* Interview details - key/value pairs */
+.interview-details {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.35rem 0.75rem;
+  font-size: 0.85rem;
+  color: #374151;
+  line-height: 1.5;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.interview-details .label {
+  font-weight: 600;
+  color: #6b7280;
+  font-size: 0.75rem;
+}
+
+.interview-details .value {
+  color: #374151;
+  font-size: 0.85rem;
+}
+
+/* Compensation Boxes - Individual boxes in grid */
+.comp-box {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 4px;
+  padding: 0.75rem;
+}
+
+.comp-box h4 {
+  font-size: var(--header-size);
+  text-transform: uppercase;
+  color: var(--muted-color);
+  margin-bottom: 0.6rem;
+  letter-spacing: 0.04em;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+/* Legacy comp-section still supported */
+.comp-section {
+  margin-bottom: 1rem;
+}
+
+.comp-section h4 {
+  font-size: var(--header-size);
+  text-transform: uppercase;
+  color: var(--muted-color);
+  margin-bottom: 0.6rem;
+  letter-spacing: 0.04em;
+  font-weight: 700;
+}
+
+.comp-table {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  border: 1px solid #e5e7eb;
+  border-radius: 4px;
+  overflow: hidden;
+  background: white;
+}
+
+@media (max-width: 500px) {
+  .comp-table {
+    grid-template-columns: 1fr;
+  }
+}
+
+.comp-column {
+  padding: 0.75rem;
+}
+
+.comp-column:first-child {
+  border-right: 1px solid #e5e7eb;
+}
+
+@media (max-width: 500px) {
+  .comp-column:first-child {
+    border-right: none;
+    border-bottom: 1px solid #e5e7eb;
+  }
+}
+
+.comp-column-header {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #6b7280;
+  text-align: center;
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid #e5e7eb;
+  letter-spacing: 0.03em;
+}
+
+.comp-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.8rem;
+  padding: 0.2rem 0;
+}
+
+.comp-row .label {
+  color: #6b7280;
+}
+
+.comp-row .value {
+  font-weight: 500;
+  color: #1f2937;
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+}
+
+.comp-row.total {
+  border-top: 2px solid #d1d5db;
+  margin-top: 0.35rem;
+  padding-top: 0.35rem;
+  font-weight: 600;
+}
+
+.comp-row.total .value {
+  color: #059669;
+  font-weight: 700;
+}
+
+/* Drawer 3-Column Grid - Comp + Career Path */
+.drawer-row-3col {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 700px) {
+  .drawer-row-3col {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 500px) {
+  .drawer-row-3col {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Drawer 2-Column Grid - Specialties + Industries */
+.drawer-row-2col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 500px) {
+  .drawer-row-2col {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Firm Info, Industries, Specialties - Three Column */
+.info-industries-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 700px) {
+  .info-industries-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 500px) {
+  .info-industries-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Specialties & Industries Sections */
+.info-section, .industries-section, .specialties-section {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  padding: 0.75rem;
+}
+
+.specialties-section h4, .industries-section h4, .info-section h4 {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #6b7280;
+  margin: 0 0 0.5rem 0;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.specialties-list, .industries-list {
+  font-size: 0.85rem;
+  color: #374151;
+  line-height: 1.6;
+}
+
+.info-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.7rem;
+  padding: 0.2rem 0;
+}
+
+.info-row .label {
+  color: #6b7280;
+}
+
+.info-row .value {
+  font-weight: 500;
+  color: #1f2937;
+}
+
+/* Career path text fallback (if not using step flow) */
+.career-path-text {
+  font-size: 0.7rem;
+  color: #374151;
+  line-height: 1.5;
+}
+
+/* About Section */
+.about-section {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  padding: 0.75rem;
+}
+
+.about-section h4 {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #6b7280;
+  margin: 0 0 0.5rem 0;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.about-section p {
+  font-size: 0.85rem;
+  color: #374151;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Alumni link in drawer */
+.alumni-link-section {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e5e7eb;
+  text-align: center;
+}
+
+.alumni-link-section a {
+  font-size: 0.8rem;
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.alumni-link-section a:hover {
+  text-decoration: underline;
+}
+
+</style>
+
+<!-- Filter Controls -->
+<div class="filter-container">
+  <div class="filter-row filter-row-search">
+    <input type="text" id="search-box" placeholder="Search firms, locations, specialties...">
+  </div>
+
+  <div class="filter-row filter-row-filters">
+    <div class="filter-group">
+      <label>Type</label>
+      <select id="filter-type">
+        <option value="">All</option>
+        <option value="MBB">MBB</option>
+        <option value="Big 4">Big 4</option>
+        <option value="Boutique">Boutique</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label>Hires</label>
+      <select id="filter-hire">
+        <option value="">All</option>
+        <option value="ug">UG</option>
+        <option value="mba">MBA</option>
+        <option value="both">UG + MBA</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label>Size</label>
+      <select id="filter-size">
+        <option value="">All</option>
+        <option value="small">&lt;500</option>
+        <option value="midsize">500-5K</option>
+        <option value="large">5K-50K</option>
+        <option value="enterprise">50K+</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label>Office</label>
+      <select id="filter-location">
+        <option value="">All</option>
+        <!-- Populated dynamically from firm data -->
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label>BYU Pipeline</label>
+      <select id="filter-pipeline">
+        <option value="">All</option>
+        <option value="recruits">Recruits</option>
+        <option value="alumni_only">Alumni</option>
+        <option value="hustle">Hustle</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label>Travel</label>
+      <select id="filter-travel">
+        <option value="">All</option>
+        <option value="high">High</option>
+        <option value="moderate">Moderate</option>
+        <option value="low">Low</option>
+      </select>
+    </div>
+
+    <button id="clear-filters">Clear</button>
+  </div>
+</div>
+
+<div id="results-count"></div>
+
+<!-- Firm Cards Container -->
+<div id="firms-container"></div>
+
+<!-- Offices Popover Modal -->
+<div id="offices-popover-overlay" class="offices-popover-overlay" onclick="closeOfficesPopover()"></div>
+<div id="offices-popover" class="offices-popover">
+  <div class="offices-popover-header">
+    <h3 class="offices-popover-title" id="offices-popover-title">All Offices</h3>
+    <button class="offices-popover-close" onclick="closeOfficesPopover()">×</button>
+  </div>
+  <div class="offices-popover-content" id="offices-popover-content">
+    <!-- Populated dynamically -->
+  </div>
+</div>
+
+<script>
+// =============================================================================
+// SVG ICONS
+// =============================================================================
+const icons = {
+  byuY: '<img src="images/byu-stretch-y.png" alt="BYU" class="byu-y-icon">',
+  mapPin: '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>',
+  briefcase: '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>',
+  plane: '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17.8 19.2L16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.2c.4-.3.6-.7.5-1.2z"/></svg>',
+  dollar: '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>',
+  lightbulb: '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18h6M10 22h4M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0 0 18 8 6 6 0 0 0 6 8c0 1 .23 2.23 1.5 3.5A4.61 4.61 0 0 1 8.91 14"/></svg>',
+  users: '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg>',
+  building: '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="2" width="16" height="20" rx="2" ry="2"/><path d="M9 22v-4h6v4M8 6h.01M16 6h.01M12 6h.01M12 10h.01M12 14h.01M16 10h.01M16 14h.01M8 10h.01M8 14h.01"/></svg>',
+  externalLink: '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>',
+  graduationCap: '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>',
+  trendingUp: '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>',
+  target: '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>',
+  factory: '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 20a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8l-7 5V8l-7 5V4a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z"/></svg>',
+  clipboard: '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><rect x="8" y="2" width="8" height="4" rx="1" ry="1"/></svg>',
+  book: '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>',
+  clock: '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>'
+};
+
+// =============================================================================
+// FIRM DATA
+// Source: data/firms/*.json → combined by scripts/combine-firms.sh
+// Loaded dynamically from data/firms-combined.json
+// =============================================================================
+let firms = [];
+
+// Load firms data from combined JSON file
+async function loadFirmsData() {
+  try {
+    const response = await fetch('data/firms-combined.json');
+    if (!response.ok) throw new Error('Failed to load firms data');
+    firms = await response.json();
+    populateLocationFilter();
+    renderFirms();
+  } catch (error) {
+    console.error('Error loading firms:', error);
+    document.getElementById('firms-container').innerHTML =
+      '<p style="color: #dc2626; padding: 1rem;">Error loading firm data. Please refresh the page.</p>';
+  }
+}
+
+// =============================================================================
+// HELPER FUNCTIONS
+// =============================================================================
+
+function getPipelineLabel(pipeline) {
+  const labels = {
+    recruits: "Recruits on campus",
+    alumni: "BYU alumni present",
+    hustle: "Need to network"
+  };
+  return labels[pipeline] || "";
+}
+
+function getTravelLabel(travel) {
+  const labels = {
+    high: "High",
+    moderate: "Moderate",
+    low: "Low"
+  };
+  return labels[travel] || travel;
+}
+
+function getTravelNumber(travel) {
+  const displays = {
+    high: "3-4",
+    moderate: "2-3",
+    low: "1-2"
+  };
+  return displays[travel] || "—";
+}
+
+function formatWithLineBreaks(text) {
+  if (!text) return 'N/A';
+  // Replace → with →<br> for line breaks after arrows
+  return text.replace(/→/g, '→<br>');
+}
+
+function formatAsBullets(text) {
+  if (!text) return '';
+  // Split by periods followed by space (sentences), filter empty
+  const sentences = text.split(/\.\s+/).filter(s => s.trim());
+  if (sentences.length <= 1) return text;
+  // Build bullet list
+  return '<ul>' + sentences.map(s => {
+    // Add period back if it was removed and doesn't end with one
+    const sentence = s.trim();
+    const withPeriod = sentence.endsWith('.') ? sentence : sentence + '.';
+    return `<li>${withPeriod}</li>`;
+  }).join('') + '</ul>';
+}
+
+function formatAsStepFlow(text, showNumbers = true) {
+  if (!text) return '';
+  // Split by → arrow
+  const steps = text.split('→').map(s => s.trim()).filter(s => s);
+  if (steps.length <= 1) return `<div class="step-flow"><div class="step-box"><div class="step-title">${text}</div></div></div>`;
+
+  return '<div class="step-flow">' + steps.map((step, i) => {
+    // Try to extract detail in parentheses
+    const match = step.match(/^([^(]+)(?:\(([^)]+)\))?$/);
+    const title = match ? match[1].trim() : step;
+    const detail = match && match[2] ? match[2].trim() : '';
+
+    return `<div class="step-box">
+      ${showNumbers ? `<div class="step-number">${i + 1}</div>` : ''}
+      <div class="step-title">${title}</div>
+      ${detail ? `<div class="step-detail">${detail}</div>` : ''}
+    </div>`;
+  }).join('') + '</div>';
+}
+
+function formatCareerPath(text) {
+  if (!text) return '';
+  // Split by → arrow
+  const steps = text.split('→').map(s => s.trim()).filter(s => s);
+  if (steps.length <= 1) return `<div class="step-flow"><div class="step-box"><div class="step-title">${text}</div></div></div>`;
+
+  return '<div class="step-flow">' + steps.map((step, i) => {
+    // Try to extract years in parentheses
+    const match = step.match(/^([^(]+)(?:\(([^)]+)\))?$/);
+    const title = match ? match[1].trim() : step;
+    const detail = match && match[2] ? match[2].trim() : '';
+
+    return `<div class="step-box">
+      <div class="step-number">${i + 1}</div>
+      <div class="step-title">${title}</div>
+      ${detail ? `<div class="step-detail">${detail}</div>` : ''}
+    </div>`;
+  }).join('') + '</div>';
+}
+
+function getWorkHoursNumber(hours) {
+  const displays = {
+    high: "60-80",
+    intense: "60-80",
+    moderate: "50-60",
+    low: "40-50",
+    light: "40-50"
+  };
+  return displays[hours] || "—";
+}
+
+function getSizeCategory(employees) {
+  if (!employees) return 'unknown';
+  if (employees < 500) return 'small';
+  if (employees < 5000) return 'midsize';
+  if (employees < 50000) return 'large';
+  return 'enterprise';
+}
+
+function getHireLevel(firm) {
+  if (firm.hires_ug && firm.hires_mba) return 'both';
+  if (firm.hires_ug) return 'ug';
+  if (firm.hires_mba) return 'mba';
+  return 'unknown';
+}
+
+function getHireBadge(firm) {
+  const level = getHireLevel(firm);
+  const badges = {
+    both: { label: 'UG+MBA', class: 'ug-mba' },
+    ug: { label: 'UG', class: 'ug-only' },
+    mba: { label: 'MBA', class: 'mba-only' }
+  };
+  const badge = badges[level];
+  return badge ? `<span class="hire-badge ${badge.class}">${icons.graduationCap} ${badge.label}</span>` : '';
+}
+
+function formatCurrency(amount) {
+  if (!amount) return 'N/A';
+  return '$' + amount.toLocaleString();
+}
+
+// Computed fields from new schema
+function getUgTotal(firm) {
+  const comp = firm.compensation?.ug;
+  if (!comp) return null;
+  return (comp.base || 0) + (comp.bonus || 0) + (comp.signing || 0);
+}
+
+function getMbaTotal(firm) {
+  const comp = firm.compensation?.mba;
+  if (!comp) return null;
+  return (comp.base || 0) + (comp.bonus || 0) + (comp.signing || 0);
+}
+
+// Populate location filter dropdown with unique cities from all firms
+function populateLocationFilter() {
+  const allCities = new Set();
+  firms.forEach(firm => {
+    (firm.offices || []).forEach(city => allCities.add(city));
+  });
+
+  const sortedCities = Array.from(allCities).sort();
+  const select = document.getElementById('filter-location');
+
+  // Keep the "All" option, add cities
+  sortedCities.forEach(city => {
+    const option = document.createElement('option');
+    option.value = city;
+    option.textContent = city;
+    select.appendChild(option);
+  });
+}
+
+// =============================================================================
+// CARD RENDERING - Dashboard Design
+// =============================================================================
+
+function getSizeLabel(employees) {
+  if (!employees) return 'N/A';
+  if (employees < 500) return '<500';
+  if (employees < 5000) return employees.toLocaleString();
+  if (employees < 50000) return Math.round(employees/1000) + 'K';
+  return Math.round(employees/1000) + 'K';
+}
+
+function renderFirmCard(firm) {
+  const typeClass = firm.type.toLowerCase().replace(' ', '');
+  const pipelineClass = firm.byu?.pipeline || 'unknown';
+  const sizeCategory = getSizeCategory(firm.employees);
+  const hireLevel = getHireLevel(firm);
+  const ugTotal = getUgTotal(firm);
+  const ugComp = firm.compensation?.ug;
+  const mbaComp = firm.compensation?.mba;
+  const mbaTotal = getMbaTotal(firm);
+
+  // Get pipeline-specific CSS class
+  const pipelineStatClass = pipelineClass === 'alumni_only' ? 'alumni-pipeline' :
+                            pipelineClass === 'hustle' ? 'hustle-pipeline' : '';
+
+  // Format offices for display
+  const offices = firm.offices || [];
+  const displayOffices = offices.slice(0, 2);
+  const moreOfficesCount = offices.length > 2 ? offices.length - 2 : 0;
+
+  // Format specialties for display (show all)
+  const specialties = firm.specialties || [];
+
+  return `
+    <div class="firm-card"
+         data-type="${firm.type}"
+         data-size="${sizeCategory}"
+         data-offices="${offices.join(',')}"
+         data-pipeline="${firm.byu?.pipeline || ''}"
+         data-hire="${hireLevel}"
+         data-travel="${firm.travel || ''}"
+         data-searchable="${firm.name} ${firm.type} ${offices.join(' ')} ${(firm.specialties || []).join(' ')} ${(firm.industries || []).join(' ')} ${firm.tagline || ''} ${firm.known_for || ''}">
+
+      <!-- HEADER: Name + Meta + Badges -->
+      <div class="firm-header">
+        <div class="firm-header-left">
+          <h3 class="firm-name">${firm.links?.website ? `<a href="${firm.links.website}" target="_blank">${firm.name}</a>` : firm.name}</h3>
+          <div class="firm-meta">
+            ${firm.employees ? `<span class="firm-meta-item">${icons.users} ${firm.employees >= 1000 ? Math.round(firm.employees/1000) + 'K' : firm.employees.toLocaleString()}</span>` : ''}
+            ${firm.headquarters ? `<span class="firm-meta-item">${icons.mapPin} ${firm.headquarters}</span>` : ''}
+            ${firm.founded ? `<span class="firm-meta-item">Est. ${firm.founded}</span>` : ''}
+            ${firm.links?.careers ? `<a href="${firm.links.careers}" target="_blank" class="jobs-link">${icons.briefcase} Jobs</a>` : ''}
+          </div>
+        </div>
+        <div class="firm-badges">
+          <span class="firm-type-badge ${typeClass}">${firm.type}</span>
+          ${getHireBadge(firm)}
+          ${firm.byu?.pipeline === 'recruits' ? '<span class="recruits-badge">RECRUITS</span>' : ''}
+        </div>
+      </div>
+
+      <!-- TAGLINE -->
+      ${firm.tagline ? `<p class="firm-tagline">"${firm.tagline}"</p>` : ''}
+
+      <!-- HERO STATS - 5 Column Grid -->
+      <div class="hero-stats">
+        <!-- 1. BYU Alumni -->
+        <div class="hero-stat pipeline-stat ${pipelineStatClass}">
+          <div class="hero-stat-header">${icons.graduationCap} BYU Alumni</div>
+          ${firm.byu?.alumni_current ? `
+            <div class="hero-stat-value">
+              ${firm.links?.linkedin_alumni ?
+                `<a href="${firm.links.linkedin_alumni}" target="_blank" class="hero-stat-alumni-link">${firm.byu.alumni_current}</a>` :
+                `${firm.byu.alumni_current}`
+              }
+            </div>
+            ${firm.byu.alumni_all_time ? `<div class="hero-stat-detail">(${firm.byu.alumni_all_time} all-time)</div>` : ''}
+          ` : '<div class="hero-stat-value">—</div>'}
+        </div>
+
+        <!-- 2. Offices (Clickable) -->
+        <div class="hero-stat">
+          <div class="hero-stat-header">${icons.mapPin} Offices</div>
+          ${offices.length > 0 ? `
+            <div class="hero-stat-value">
+              <span class="offices-count-link" data-firm-name="${firm.name}" data-offices="${offices.join('|')}" onclick="handleOfficesClick(this)">${offices.length}</span>
+            </div>
+            <div class="hero-stat-detail">${displayOffices.join(' · ')}${moreOfficesCount > 0 ? ` +${moreOfficesCount}` : ''}</div>
+          ` : '<div class="hero-stat-value">—</div>'}
+        </div>
+
+        <!-- 3. Travel -->
+        <div class="hero-stat">
+          <div class="hero-stat-header">${icons.plane} Travel</div>
+          <div class="hero-stat-value">${getTravelNumber(firm.travel)}</div>
+          <div class="hero-stat-detail">days/week</div>
+        </div>
+
+        <!-- 4. Work Hours -->
+        <div class="hero-stat">
+          <div class="hero-stat-header">${icons.clock} Hours</div>
+          <div class="hero-stat-value">${getWorkHoursNumber(firm.work_hours)}</div>
+          <div class="hero-stat-detail">hrs/week</div>
+        </div>
+
+        <!-- 5. UG Comp (with MBA tooltip) -->
+        <div class="hero-stat comp-stat">
+          <div class="hero-stat-header">${icons.dollar} UG Comp</div>
+          <div class="hero-stat-value">${ugTotal ? formatCurrency(ugTotal) : 'N/A'}</div>
+          ${ugComp?.base ? `<div class="hero-stat-detail">${formatCurrency(ugComp.base)}+${formatCurrency((ugComp.bonus || 0) + (ugComp.signing || 0))}</div>` : ''}
+          ${mbaComp ? `
+          <div class="comp-tooltip">
+            <div class="comp-tooltip-header">MBA Compensation</div>
+            <div class="comp-tooltip-row"><span class="label">Base</span><span class="value">${formatCurrency(mbaComp.base)}</span></div>
+            ${mbaComp.bonus ? `<div class="comp-tooltip-row"><span class="label">Bonus</span><span class="value">${formatCurrency(mbaComp.bonus)}</span></div>` : ''}
+            ${mbaComp.signing ? `<div class="comp-tooltip-row"><span class="label">Sign</span><span class="value">${formatCurrency(mbaComp.signing)}</span></div>` : ''}
+            <div class="comp-tooltip-row comp-tooltip-total"><span class="label">Total</span><span class="value">${formatCurrency(mbaTotal)}</span></div>
+          </div>
+          ` : ''}
+        </div>
+      </div>
+
+      <!-- FOOTER -->
+      <div class="firm-links">
+        <button class="expand-toggle" onclick="toggleExpand(this)">▼ More</button>
+      </div>
+
+      <!-- EXPANDED DETAILS DRAWER -->
+      <div class="firm-details">
+
+        <!-- 1. BYU TIPS -->
+        ${firm.byu?.tip || firm.email_format ? `
+        <div class="interview-section byu-tips-section">
+          <h4>${icons.byuY} BYU Tips</h4>
+          <div class="byu-tips-content">
+            ${firm.byu?.tip ? formatAsBullets(firm.byu.tip) : ''}
+          </div>
+          ${firm.email_format ? `
+          <div class="byu-tips-email">
+            <strong>Email Format:</strong> <code>${firm.email_format}</code>
+          </div>
+          ` : ''}
+        </div>
+        ` : ''}
+
+        <!-- 2. RECRUITING PROCESS -->
+        ${firm.recruiting ? `
+        <div class="interview-section">
+          <h4>${icons.clipboard} Recruiting</h4>
+          ${firm.recruiting.process ? formatAsStepFlow(firm.recruiting.process, true) : ''}
+          <div class="interview-details">
+            ${firm.recruiting.timeline ? `<span class="label">Timeline</span><span class="value">${firm.recruiting.timeline}</span>` : ''}
+            ${firm.recruiting.unique ? `<span class="label">Unique</span><span class="value">${firm.recruiting.unique}</span>` : ''}
+          </div>
+        </div>
+        ` : ''}
+
+        <!-- 3. CAREER PATH -->
+        ${firm.career_path ? `
+        <div class="career-path-section">
+          <h4>${icons.trendingUp} Career Path</h4>
+          ${formatCareerPath(firm.career_path)}
+        </div>
+        ` : ''}
+
+        <!-- 4. SPECIALTIES + INDUSTRIES (2-Column Grid) -->
+        <div class="drawer-row-2col">
+          <div class="specialties-section">
+            <h4>${icons.target} Specialties</h4>
+            <div class="specialties-list">
+              ${specialties.length ? specialties.join(' · ') : 'N/A'}
+            </div>
+          </div>
+
+          <div class="industries-section">
+            <h4>${icons.factory} Industries</h4>
+            <div class="industries-list">
+              ${firm.industries?.length ? firm.industries.join(' · ') : 'N/A'}
+            </div>
+          </div>
+        </div>
+
+        <!-- 5. ABOUT -->
+        ${firm.known_for ? `
+        <div class="about-section">
+          <h4>${icons.book} About</h4>
+          <p>${firm.known_for}</p>
+        </div>
+        ` : ''}
+
+      </div>
+    </div>
+  `;
+}
+
+// =============================================================================
+// RENDERING
+// =============================================================================
+
+function renderFirms() {
+  const container = document.getElementById('firms-container');
+  container.innerHTML = firms.map(renderFirmCard).join('');
+  updateResultsCount();
+}
+
+function toggleExpand(button) {
+  const card = button.closest('.firm-card');
+  card.classList.toggle('expanded');
+  button.textContent = card.classList.contains('expanded') ? '▲ Less' : '▼ More';
+}
+
+// =============================================================================
+// OFFICES POPOVER
+// =============================================================================
+
+function handleOfficesClick(element) {
+  const firmName = element.dataset.firmName;
+  const offices = element.dataset.offices.split('|');
+  showOfficesPopover(firmName, offices);
+}
+
+function showOfficesPopover(firmName, offices) {
+  const overlay = document.getElementById('offices-popover-overlay');
+  const popover = document.getElementById('offices-popover');
+  const title = document.getElementById('offices-popover-title');
+  const content = document.getElementById('offices-popover-content');
+
+  title.textContent = `${firmName} Offices`;
+  content.innerHTML = `
+    <div class="offices-grid">
+      ${offices.map(office => `<div class="offices-grid-item">${office}</div>`).join('')}
+    </div>
+  `;
+
+  overlay.classList.add('active');
+  popover.classList.add('active');
+}
+
+function closeOfficesPopover() {
+  const overlay = document.getElementById('offices-popover-overlay');
+  const popover = document.getElementById('offices-popover');
+  overlay.classList.remove('active');
+  popover.classList.remove('active');
+}
+
+// Close popover on Escape key
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') {
+    closeOfficesPopover();
+  }
+});
+
+// =============================================================================
+// FILTERING
+// =============================================================================
+
+function applyFilters() {
+  const searchText = document.getElementById('search-box').value.toLowerCase();
+  const filterType = document.getElementById('filter-type').value;
+  const filterHire = document.getElementById('filter-hire').value;
+  const filterSize = document.getElementById('filter-size').value;
+  const filterLocation = document.getElementById('filter-location').value;
+  const filterPipeline = document.getElementById('filter-pipeline').value;
+  const filterTravel = document.getElementById('filter-travel').value;
+
+  const cards = document.querySelectorAll('.firm-card');
+
+  cards.forEach(card => {
+    let visible = true;
+
+    // Search filter
+    if (searchText) {
+      const searchable = card.dataset.searchable.toLowerCase();
+      if (!searchable.includes(searchText)) {
+        visible = false;
+      }
+    }
+
+    // Type filter
+    if (filterType && card.dataset.type !== filterType) {
+      visible = false;
+    }
+
+    // Hire level filter
+    if (filterHire) {
+      const cardHire = card.dataset.hire;
+      if (filterHire === 'both') {
+        // Only firms that hire both UG and MBA
+        if (cardHire !== 'both') visible = false;
+      } else if (filterHire === 'ug') {
+        // Firms that hire UG (includes both and ug-only)
+        if (cardHire !== 'both' && cardHire !== 'ug') visible = false;
+      } else if (filterHire === 'mba') {
+        // Firms that hire MBA (includes both and mba-only)
+        if (cardHire !== 'both' && cardHire !== 'mba') visible = false;
+      }
+    }
+
+    // Size filter
+    if (filterSize && card.dataset.size !== filterSize) {
+      visible = false;
+    }
+
+    // Office/city filter
+    if (filterLocation && !card.dataset.offices.includes(filterLocation)) {
+      visible = false;
+    }
+
+    // Pipeline filter
+    if (filterPipeline && card.dataset.pipeline !== filterPipeline) {
+      visible = false;
+    }
+
+    // Travel filter
+    if (filterTravel && card.dataset.travel !== filterTravel) {
+      visible = false;
+    }
+
+    card.classList.toggle('hidden', !visible);
+  });
+
+  updateResultsCount();
+}
+
+function updateResultsCount() {
+  const total = document.querySelectorAll('.firm-card').length;
+  const visible = document.querySelectorAll('.firm-card:not(.hidden)').length;
+  document.getElementById('results-count').textContent =
+    visible === total ? `Showing all ${total} firms` : `Showing ${visible} of ${total} firms`;
+}
+
+function clearFilters() {
+  document.getElementById('search-box').value = '';
+  document.getElementById('filter-type').value = '';
+  document.getElementById('filter-hire').value = '';
+  document.getElementById('filter-size').value = '';
+  document.getElementById('filter-location').value = '';
+  document.getElementById('filter-pipeline').value = '';
+  document.getElementById('filter-travel').value = '';
+  applyFilters();
+}
+
+// =============================================================================
+// INITIALIZATION
+// =============================================================================
+
+document.addEventListener('DOMContentLoaded', function() {
+  // Load firms data from JSON file, then render
+  loadFirmsData();
+
+  // Attach filter listeners
+  document.getElementById('search-box').addEventListener('input', applyFilters);
+  document.getElementById('filter-type').addEventListener('change', applyFilters);
+  document.getElementById('filter-hire').addEventListener('change', applyFilters);
+  document.getElementById('filter-size').addEventListener('change', applyFilters);
+  document.getElementById('filter-location').addEventListener('change', applyFilters);
+  document.getElementById('filter-pipeline').addEventListener('change', applyFilters);
+  document.getElementById('filter-travel').addEventListener('change', applyFilters);
+  document.getElementById('clear-filters').addEventListener('click', clearFilters);
+});
+</script>
+```
+
+---
+
+## About This Directory
+
+This directory includes firms that recruit management consultants, with a focus on firms that have hired BYU students or have BYU alumni.
+
+**Firm Types:**
+
+- **MBB** — McKinsey, BCG, and Bain. The "Big Three" strategy consulting firms.
+- **Big 4** — The consulting/advisory arms of Deloitte, EY, PwC, and KPMG.
+- **Boutique** — Everyone else. Includes global strategy firms, industry specialists, and regional players. Size and focus vary widely.
+
+**BYU Pipeline Strength:**
+
+- **Recruits on campus** — Firm actively recruits at BYU; focus on the formal process
+- **BYU alumni present** — Firm has BYU alumni; networking helps but isn't required
+- **Need to hustle** — Limited BYU presence; proactive networking is essential
+
+**Data Sources:**
+
+Firm data compiled from [Management Consulted](https://managementconsulted.com/), [Levels.fyi](https://levels.fyi), and firm websites. BYU-specific intel gathered from alumni interviews and recruiting history.
+
+*Last updated: January 2026*

@@ -90,6 +90,12 @@ Every bullet should lead with impact:
 - Outcomes (% improvement, time saved)
 - Recognition (awards, promotions)
 
+::: {.callout-tip}
+## Resume Templates & Examples
+
+The [Resume Bible](https://managementconsulted.com/consulting-resume/) from Management Consulted includes templates, formatting guides, and real examples optimized for consulting recruiting. Access free through BYU Marriott.
+:::
+
 ## Case Interviews
 
 ### The OS in Cases
@@ -132,6 +138,16 @@ Case interviews test every imperative:
 | 9-10 | Full cases with ambiguity | 2-3 |
 | 11-15 | Mock interviews, polish | 2-3 |
 | **Total** | | **8-12** |
+
+::: {.callout-tip}
+## Case Practice Resources
+
+Management Consulted offers several tools for case practice (free to BYU through [Marriott registration](https://managementconsulted.com/marriott-registration/)):
+
+- [Case Library](https://managementconsulted.com/consulting-case-library/) – Practice cases by type and difficulty
+- [AI Case Bot](https://managementconsulted.com/case-interview-questions/) – Solo practice with AI feedback
+- [Case Partner](https://managementconsulted.com/consulting-case-partner/) – Find and schedule case partners
+:::
 
 ## Behavioral Interviews
 
@@ -186,6 +202,12 @@ Prepare 8-10 stories that can flex across questions. Each story should:
 | Cultural fit | Research the firm's values; show alignment |
 | Motivation | Be specific about why this firm |
 
+::: {.callout-tip}
+## Fit Interview Deep Dive
+
+The [Fit Interview 101](https://managementconsulted.com/fit-interview/) guide covers the most common behavioral questions, how to structure your answers, and what interviewers are really evaluating.
+:::
+
 ## Mock Interviews
 
 ### Getting Maximum Value
@@ -201,7 +223,7 @@ Prepare 8-10 stories that can flex across questions. Each story should:
 - TA-led sessions in pods
 - Peer practice (case exchange)
 - MCA mock interview events
-- Online practice ([Management Consulted](https://managementconsulted.com/marriott-registration/))
+- Online practice via [Management Consulted](https://managementconsulted.com/marriott-registration/): [AI Case Bot](https://managementconsulted.com/case-interview-questions/) for solo practice, [Case Partner](https://managementconsulted.com/consulting-case-partner/) for peer matching
 - [Practice Interview Feedback Form](00-assessments.qmd#practice-interview-log) (set up before your first mock)
 
 ## Recruiting Timeline

@@ -1,0 +1,335 @@
+[
+{
+  "id": "accenture",
+  "name": "Accenture Strategy",
+  "type": "Boutique",
+  "tagline": "Global IT/digital consulting giant with dedicated strategy practice—massive scale, deep tech integration",
+  "headquarters": "Dublin, Ireland",
+  "founded": 1989,
+  "employees": 779000,
+  "parent_company": null,
+  "offices": [
+    "Chicago",
+    "New York",
+    "Boston",
+    "San Francisco",
+    "Los Angeles",
+    "Seattle",
+    "Washington DC",
+    "Atlanta",
+    "Dallas",
+    "Houston",
+    "Austin",
+    "San Antonio",
+    "Denver",
+    "Philadelphia",
+    "Phoenix"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East",
+    "Africa"
+  ],
+  "specialties": [
+    "Strategy",
+    "Digital",
+    "Technology",
+    "Operations",
+    "Analytics"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Consumer",
+    "Energy",
+    "Public Sector",
+    "Industrial",
+    "Telecommunications"
+  ],
+  "known_for": "One of the world's largest consulting firms with 779,000 employees globally. Accenture Strategy is the pure strategy arm within a massive technology and digital consulting organization, offering deep tech capabilities and implementation firepower that pure strategy firms cannot match.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Consultant (2-3 yrs) → Manager (2-3 yrs) → Senior Manager (3-4 yrs) → Managing Director",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 96200,
+      "bonus": 9600,
+      "signing": 10000
+    },
+    "mba": {
+      "base": 147500,
+      "bonus": 8100,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Online Assessment → First Round (2 case + 1 fit/behavioral) → Final Round (2 case + 1 fit/behavioral)",
+    "unique": "Focus on tech-enabled business strategy. Cases often involve digital transformation, data analytics, and technology implementation considerations beyond pure strategy.",
+    "timeline": "Rolling recruiting year-round, with peak hiring in fall for summer internships and full-time roles"
+  },
+  "email_format": "firstname.lastname@accenture.com",
+  "links": {
+    "website": "https://www.accenture.com",
+    "careers": "https://www.accenture.com/us-en/careers/jobsearch",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/accenture/",
+    "linkedin_alumni": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=accenture"
+  },
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 587,
+    "alumni_current": 68,
+    "tip": null
+  }
+}
+,
+{
+  "id": "mckinsey",
+  "name": "McKinsey & Company",
+  "type": "MBB",
+  "tagline": "The most prestigious name in strategy consulting with unmatched brand recognition and Fortune 500 CEO alumni network",
+  "headquarters": "New York, USA",
+  "founded": 1926,
+  "employees": 38000,
+  "parent_company": null,
+  "offices": [
+    "Atlanta",
+    "Austin",
+    "Boston",
+    "Charlotte",
+    "Chicago",
+    "Cleveland",
+    "Denver",
+    "Detroit",
+    "Houston",
+    "Los Angeles",
+    "Miami",
+    "Minneapolis",
+    "New York",
+    "Philadelphia",
+    "Pittsburgh",
+    "San Francisco",
+    "St. Louis",
+    "Washington DC"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East",
+    "Africa"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Digital",
+    "M&A",
+    "Transformation",
+    "Organization",
+    "Risk & Resilience",
+    "Marketing & Sales",
+    "Sustainability"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Consumer",
+    "Energy",
+    "Industrial",
+    "Private Equity",
+    "Public Sector",
+    "Media & Entertainment",
+    "Telecommunications",
+    "Life Sciences",
+    "Retail"
+  ],
+  "known_for": "Unmatched brand prestige as the original modern management consultancy, founder of the case interview method, renowned for analytical rigor and producing Fortune 500 CEOs. Known for its 'up or out' promotion culture and prestigious alumni network including Sheryl Sandberg, James Gorman, and Lou Gerstner.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Business Analyst (2-3 yrs) → Associate (2-3 yrs) → Engagement Manager (2-3 yrs) → Associate Principal (2-3 yrs) → Partner (5+ yrs) → Senior Partner",
+  "travel": "high",
+  "work_hours": "intense",
+  "compensation": {
+    "ug": {
+      "base": 112000,
+      "bonus": 18000,
+      "signing": 5000
+    },
+    "mba": {
+      "base": 192000,
+      "bonus": 40000,
+      "signing": 30000
+    }
+  },
+  "recruiting": {
+    "process": "Application → McKinsey Solve Game → First Round (2 interviews: case + PEI each) → Final Round (2-3 interviews: case + PEI each) → Offer",
+    "unique": "McKinsey Solve digital assessment (gamified problem-solving game) required for nearly all candidates before interviews. Interviewer-led case format. Pass rate under 20% for Solve Game. Known for rigorous analytical problem-solving focus.",
+    "timeline": "On-cycle recruiting happens in fall with offers for summer/fall start dates. Entire process takes 5-8 weeks from application to offer. Final round typically occurs 1-2 weeks after first round."
+  },
+  "email_format": "firstname_lastname@mckinsey.com",
+  "links": {
+    "website": "https://www.mckinsey.com",
+    "careers": "https://www.mckinsey.com/careers/search-jobs",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/mckinsey-company/",
+    "linkedin_alumni": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=mckinsey"
+  },
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 257,
+    "alumni_current": 40,
+    "tip": "Focus on Salt Lake City and Denver offices which have stronger BYU alumni presence. Network with 40+ current BYU alumni at McKinsey through LinkedIn. Strong preparation for McKinsey Solve Game is essential as pass rate is under 20%."
+  }
+}
+,
+{
+  "id": "porsche-consulting",
+  "name": "Porsche Consulting",
+  "type": "Boutique",
+  "tagline": "Automotive excellence meets lean operations—'Strategic Vision, Smart Implementation' from Porsche's DNA",
+  "headquarters": "Bietigheim-Bissingen, Germany",
+  "founded": 1994,
+  "employees": 1000,
+  "parent_company": "Porsche AG",
+  "offices": ["Atlanta", "Palo Alto"],
+  "regions": ["North America", "Europe", "Asia Pacific", "Latin America"],
+  "specialties": ["Operations", "Strategy", "Transformation", "Implementation", "Operational Excellence", "M&A"],
+  "industries": ["Automotive", "Aerospace", "Industrial", "Consumer", "Energy", "Financial Services", "Life Sciences"],
+  "known_for": "Born from Porsche's successful turnaround in the 1990s, Porsche Consulting brings automotive operational excellence to clients worldwide. Known for 'Strategic Vision, Smart Implementation'—combining strategic thinking with pragmatic, hands-on execution. Deep expertise in lean manufacturing, supply chain optimization, and end-to-end transformation.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst → Consultant (2 yrs) → Senior Consultant (2-3 yrs) → Manager (3-4 yrs) → Senior Manager → Senior Expert → Associate Partner → Partner",
+  "travel": "high",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 90000,
+      "bonus": 15000,
+      "signing": null
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → HR Phone Screen (30 min, fit questions) → Case Interview Round (CV presentation + market sizing/business case + fit) → Final Round (additional cases + partner interviews)",
+    "unique": "Expect Porsche-specific questions like 'What is your favorite Porsche model and why?' Cases focus on operational and automotive topics. Very friendly, 'humane' interview style with 10-15 min prep time for market sizing cases. Firm is extremely proud of Porsche heritage.",
+    "timeline": "Process takes approximately 6 weeks from application to offer"
+  },
+  "email_format": "firstname.lastname@porsche-consulting.com",
+  "links": {
+    "website": "https://www.porsche-consulting.com",
+    "careers": "https://www.porsche-consulting.com/usa/en/career/work-us",
+    "mc_profile": "https://managementconsulted.com/porsche-consulting/",
+    "linkedin_alumni": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=porsche%20consulting"
+  },
+  "byu": {
+    "pipeline": null,
+    "alumni_all_time": null,
+    "alumni_current": null,
+    "tip": null
+  }
+}
+,
+{
+  "id": "slalom",
+  "name": "Slalom",
+  "type": "Boutique",
+  "tagline": "Tech-enabled consulting with no unwanted travel—local delivery model and strong work-life balance",
+  "headquarters": "Seattle, USA",
+  "founded": 2001,
+  "employees": 13000,
+  "parent_company": null,
+  "offices": [
+    "Atlanta",
+    "Austin",
+    "Boston",
+    "Charlotte",
+    "Chicago",
+    "Columbus",
+    "Dallas",
+    "Denver",
+    "Detroit",
+    "Hartford",
+    "Houston",
+    "Los Angeles",
+    "Miami",
+    "Minneapolis",
+    "New York",
+    "Philadelphia",
+    "Phoenix",
+    "Portland",
+    "Salt Lake City",
+    "Seattle",
+    "San Diego",
+    "San Francisco",
+    "St. Louis",
+    "Washington DC"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Digital",
+    "Technology",
+    "Strategy",
+    "Transformation",
+    "Analytics",
+    "Cloud"
+  ],
+  "industries": [
+    "Technology",
+    "Financial Services",
+    "Healthcare",
+    "Retail",
+    "Consumer",
+    "Public Sector"
+  ],
+  "known_for": "Unique local delivery model with 'no unwanted travel' policy that allows consultants to work where they live. Strong Microsoft partnership (Gold Partner since 2005) and tech implementation expertise. Historically praised for superior work-life balance compared to traditional consulting firms.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Principal (3-4 yrs) → Director (3-4 yrs) → Managing Director",
+  "travel": "low",
+  "work_hours": "balanced",
+  "compensation": {
+    "ug": {
+      "base": 72000,
+      "bonus": null,
+      "signing": null
+    },
+    "mba": {
+      "base": 175000,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Phone Screen (behavioral) → Virtual Interview Rounds (2-3 case + behavioral) → Final Round (case + behavioral + potential written case)",
+    "unique": "Lighter emphasis on case interviews compared to traditional consulting firms. Heavy focus on behavioral questions and cultural fit. Values candidates with some professional experience.",
+    "timeline": "3-4 weeks from application to decision. Rolling applications throughout the year."
+  },
+  "email_format": "firstname.lastname@slalom.com",
+  "links": {
+    "website": "https://www.slalom.com",
+    "careers": "https://www.slalom.com/us/en/careers",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/slalom-consulting/",
+    "linkedin_alumni": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=slalom"
+  },
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 52,
+    "alumni_current": 18,
+    "tip": "Leverage BYU alumni network, particularly in Seattle and Denver offices. Strong fit for candidates interested in technology consulting with better work-life balance. Salt Lake City office may be particularly BYU-friendly given proximity to Utah."
+  }
+}
+]

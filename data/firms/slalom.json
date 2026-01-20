@@ -1,0 +1,93 @@
+{
+  "id": "slalom",
+  "name": "Slalom",
+  "type": "Boutique",
+  "tagline": "Tech-enabled consulting with no unwanted travel—local delivery model and strong work-life balance",
+  "headquarters": "Seattle, USA",
+  "founded": 2001,
+  "employees": 13000,
+  "parent_company": null,
+  "offices": [
+    "Atlanta",
+    "Austin",
+    "Boston",
+    "Charlotte",
+    "Chicago",
+    "Columbus",
+    "Dallas",
+    "Denver",
+    "Detroit",
+    "Hartford",
+    "Houston",
+    "Los Angeles",
+    "Miami",
+    "Minneapolis",
+    "New York",
+    "Philadelphia",
+    "Phoenix",
+    "Portland",
+    "Salt Lake City",
+    "Seattle",
+    "San Diego",
+    "San Francisco",
+    "St. Louis",
+    "Washington DC"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Digital",
+    "Technology",
+    "Strategy",
+    "Transformation",
+    "Analytics",
+    "Cloud"
+  ],
+  "industries": [
+    "Technology",
+    "Financial Services",
+    "Healthcare",
+    "Retail",
+    "Consumer",
+    "Public Sector"
+  ],
+  "known_for": "Unique local delivery model with 'no unwanted travel' policy that allows consultants to work where they live. Strong Microsoft partnership (Gold Partner since 2005) and tech implementation expertise. Historically praised for superior work-life balance compared to traditional consulting firms.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Principal (3-4 yrs) → Director (3-4 yrs) → Managing Director",
+  "travel": "low",
+  "work_hours": "balanced",
+  "compensation": {
+    "ug": {
+      "base": 72000,
+      "bonus": null,
+      "signing": null
+    },
+    "mba": {
+      "base": 175000,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Phone Screen (behavioral) → Virtual Interview Rounds (2-3 case + behavioral) → Final Round (case + behavioral + potential written case)",
+    "unique": "Lighter emphasis on case interviews compared to traditional consulting firms. Heavy focus on behavioral questions and cultural fit. Values candidates with some professional experience.",
+    "timeline": "3-4 weeks from application to decision. Rolling applications throughout the year."
+  },
+  "email_format": "firstname.lastname@slalom.com",
+  "links": {
+    "website": "https://www.slalom.com",
+    "careers": "https://www.slalom.com/us/en/careers",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/slalom-consulting/",
+    "linkedin_alumni": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=slalom"
+  },
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 52,
+    "alumni_current": 18,
+    "tip": "Leverage BYU alumni network, particularly in Seattle and Denver offices. Strong fit for candidates interested in technology consulting with better work-life balance. Salt Lake City office may be particularly BYU-friendly given proximity to Utah."
+  }
+}
