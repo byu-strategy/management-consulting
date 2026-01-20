@@ -85,7 +85,7 @@
     "travel": {
       "type": ["string", "null"],
       "enum": ["high", "moderate", "low", null],
-      "description": "Expected travel for entry-level consultants. 'high' = 4-5 days/week at client site (most MBB/strategy firms). 'moderate' = 2-3 days/week or regional travel. 'low' = mostly local or office-based work."
+      "description": "Expected travel for entry-level consultants. 'high' = 12+ days/month, typically M-Th at client site (most MBB/strategy firms). 'moderate' = 4-10 days/month. 'low' = 0-3 days/month, primarily office-based."
     },
     "work_hours": {
       "type": ["string", "null"],

@@ -1361,9 +1361,9 @@ function getTravelLabel(travel) {
 
 function getTravelNumber(travel) {
   const displays = {
-    high: "3-4",
-    moderate: "2-3",
-    low: "1-2"
+    high: "12+",
+    moderate: "4-10",
+    low: "0-3"
   };
   return displays[travel] || "—";
 }
@@ -1596,7 +1596,7 @@ function renderFirmCard(firm) {
         <div class="hero-stat">
           <div class="hero-stat-header">${icons.plane} Travel</div>
           <div class="hero-stat-value">${getTravelNumber(firm.travel)}</div>
-          <div class="hero-stat-detail">days/week</div>
+          <div class="hero-stat-detail">days/mo</div>
         </div>
 
         <!-- 4. Work Hours -->
