@@ -1430,11 +1430,9 @@ function formatCareerPath(text) {
 
 function getWorkHoursNumber(hours) {
   const displays = {
-    high: "60-80",
-    intense: "60-80",
-    moderate: "50-60",
-    low: "40-50",
-    light: "40-50"
+    intense: "60+",      // 60+ hrs/week, frequent late nights
+    demanding: "50-60",  // 45-60 hrs/week
+    balanced: "40-50"    // 40-45 hrs/week, predictable schedule
   };
   return displays[hours] || "—";
 }
