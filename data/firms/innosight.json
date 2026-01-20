@@ -1,0 +1,50 @@
+{
+  "id": "innosight",
+  "name": "Innosight",
+  "type": "Boutique",
+  "tagline": "Clayton Christensen's disruptive innovation firm—now part of Huron",
+  "headquarters": "Lexington, USA",
+  "founded": 2000,
+  "employees": 125,
+  "parent_company": "Huron Consulting Group",
+  "offices": ["Boston"],
+  "regions": ["North America", "Europe", "Asia Pacific"],
+  "specialties": ["Strategy", "Innovation", "Transformation", "Growth Strategy", "Disruptive Innovation"],
+  "industries": ["Healthcare", "Technology", "Financial Services", "Consumer", "Energy"],
+  "known_for": "Co-founded by Clayton Christensen, pioneer of disruptive innovation theory. Known for Jobs-to-be-Done framework, dual transformation methodology, and working with Fortune 50 companies on innovation strategy and growth transformation.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": null,
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    },
+    "mba": {
+      "base": 165000,
+      "bonus": 57750,
+      "signing": 35000
+    }
+  },
+  "recruiting": {
+    "process": "Application → First Round (2 case interviews, 30 min each + fit questions) → Second Round (5-hour group case with observation + partner interview)",
+    "unique": "Group case exercise in final round where candidates work together on a case packet while being observed. Cases are candidate-led and focus heavily on strategic thinking with minimal quantitative analysis.",
+    "timeline": "Full process typically takes under 4 weeks from application to offer"
+  },
+  "email_format": null,
+  "links": {
+    "website": "https://www.innosight.com",
+    "careers": "https://www.innosight.com/careers/apply-to-join-our-team/",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/innosight/",
+    "linkedin_alumni": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=innosight"
+  },
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 35,
+    "alumni_current": 2,
+    "tip": null
+  }
+}

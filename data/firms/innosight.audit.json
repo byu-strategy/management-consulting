@@ -1,0 +1,157 @@
+{
+  "firm_id": "innosight",
+  "researched_at": "2026-01-20T16:50:00Z",
+  "duration_seconds": 300,
+  "start_time": "2026-01-20T16:45:00Z",
+  "end_time": "2026-01-20T16:50:00Z",
+  "sources_consulted": [
+    "https://managementconsulted.com/consulting-firm/innosight/",
+    "https://www.innosight.com/",
+    "https://www.innosight.com/careers/apply-to-join-our-team/",
+    "https://www.linkedin.com/school/brigham-young-university/people/?keywords=innosight",
+    "https://www.glassdoor.com/Salary/Innosight-Salaries-E31869.htm",
+    "https://www.glassdoor.com/Interview/Innosight-Interview-Questions-E31869.htm",
+    "https://www.casebasix.com/pages/innosight",
+    "https://en.wikipedia.org/wiki/Innosight"
+  ],
+  "field_sources": {
+    "name": {
+      "source": "managementconsulted.com",
+      "confidence": "high"
+    },
+    "type": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Boutique strategy and innovation firm"
+    },
+    "headquarters": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Listed as Boston with office in Lexington, MA"
+    },
+    "founded": {
+      "source": "managementconsulted.com, wikipedia",
+      "confidence": "high",
+      "note": "Founded in 2000 by Clayton Christensen"
+    },
+    "employees": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "125 employees listed on MC profile"
+    },
+    "parent_company": {
+      "source": "managementconsulted.com, innosight.com",
+      "confidence": "high",
+      "note": "Acquired by Huron Consulting Group in 2017"
+    },
+    "offices": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "US office in Boston, also has offices in Singapore and Zurich"
+    },
+    "regions": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "North America (Boston), Europe (Zurich), Asia Pacific (Singapore)"
+    },
+    "specialties": {
+      "source": "managementconsulted.com, innosight.com",
+      "confidence": "high",
+      "note": "Growth, innovation, portfolio management, disruptive innovation, strategy, business transformation, innovation capabilities"
+    },
+    "industries": {
+      "source": "web search results, casebasix.com",
+      "confidence": "high",
+      "note": "Healthcare, technology, financial services, consumer goods, energy"
+    },
+    "known_for": {
+      "source": "managementconsulted.com, web search",
+      "confidence": "high",
+      "note": "Co-founded by Clayton Christensen, disruptive innovation theory, works with 1/3 of Fortune 50"
+    },
+    "hires_ug": {
+      "source": "inferred from compensation data",
+      "confidence": "medium",
+      "note": "MC shows 5 offices suggesting analyst hiring, though not explicitly stated"
+    },
+    "hires_mba": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "MBA/PhD compensation listed on MC profile"
+    },
+    "travel": {
+      "source": "inference",
+      "confidence": "medium",
+      "note": "Estimated as moderate based on boutique strategy firm profile"
+    },
+    "work_hours": {
+      "source": "inference",
+      "confidence": "medium",
+      "note": "Estimated as demanding based on strategy consulting nature"
+    },
+    "compensation.mba.base": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "$165,000 for MBA/PhD Consultant"
+    },
+    "compensation.mba.bonus": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Up to $57,750 performance bonus"
+    },
+    "compensation.mba.signing": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "$35,000 signing bonus"
+    },
+    "recruiting.process": {
+      "source": "glassdoor.com, web search",
+      "confidence": "high",
+      "note": "First round: 2x30-min cases + fit. Second round: 5-hour group case + partner interview"
+    },
+    "recruiting.unique": {
+      "source": "glassdoor.com, web search",
+      "confidence": "high",
+      "note": "Group case exercise with observation, candidate-led cases, strategic thinking focus"
+    },
+    "recruiting.timeline": {
+      "source": "web search",
+      "confidence": "medium",
+      "note": "Process typically takes under 4 weeks"
+    },
+    "byu.alumni_all_time": {
+      "source": "linkedin.com",
+      "confidence": "high",
+      "note": "35 alumni shown on LinkedIn BYU alumni page"
+    },
+    "byu.alumni_current": {
+      "source": "linkedin.com",
+      "confidence": "high",
+      "note": "2 current employees in 'Where they work' section"
+    },
+    "byu.pipeline": {
+      "source": "inference from alumni data",
+      "confidence": "medium",
+      "note": "35 all-time but only 2 current suggests alumni_only rather than active recruiting"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.ug",
+      "reason": "No undergraduate compensation data found on Management Consulted or other sources. Glassdoor shows analyst salaries around $85-88k but couldn't confirm if these are UG vs MBA analysts."
+    },
+    {
+      "field": "career_path",
+      "reason": "No specific title progression information found on MC profile or firm website"
+    },
+    {
+      "field": "email_format",
+      "reason": "Not listed on Management Consulted profile page"
+    },
+    {
+      "field": "byu.tip",
+      "reason": "No specific BYU-related insights available"
+    }
+  ],
+  "notes": "Management Consulted profile was comprehensive with clear compensation data for MBA hires and good overview of the firm. Founded by Clayton Christensen (author of The Innovator's Dilemma) in 2000, acquired by Huron in 2017. LinkedIn showed 35 all-time BYU alumni with only 2 currently at the firm, suggesting the firm doesn't actively recruit at BYU. Glassdoor and web searches provided good interview process details including the unique group case format. No undergraduate compensation data was available—MC only listed MBA/PhD level. The firm is known for disruptive innovation theory and Jobs-to-be-Done framework."
+}

@@ -1596,7 +1596,7 @@ function renderFirmCard(firm) {
         <div class="hero-stat">
           <div class="hero-stat-header">${icons.plane} Travel</div>
           <div class="hero-stat-value">${getTravelNumber(firm.travel)}</div>
-          <div class="hero-stat-detail">days/mo</div>
+          <div class="hero-stat-detail">days/month</div>
         </div>
 
         <!-- 4. Work Hours -->
