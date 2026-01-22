@@ -86,14 +86,23 @@
   "email_format": "firstname_lastname@mckinsey.com",
   "links": {
     "website": "https://www.mckinsey.com",
+    "linkedin": "https://www.linkedin.com/company/mckinsey/",
     "careers": "https://www.mckinsey.com/careers/search-jobs",
     "mc_profile": "https://managementconsulted.com/consulting-firm/mckinsey-company/",
-    "linkedin_alumni": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=mckinsey"
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22McKinsey%20%26%20Company%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221371%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221371%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22McKinsey%20%26%20Company%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221371%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221371%22%5D&schoolFilter=%5B%2215095601%22%5D"
   },
+  "linkedin_id": 1371,
   "byu": {
     "pipeline": "alumni_only",
     "alumni_all_time": 257,
     "alumni_current": 40,
+    "marriott_alumni_all_time": 22,
+    "marriott_alumni_current": 4,
     "tip": "Apply to offices where you have a genuine interest in working. Strong preparation for McKinsey Solve Game is essential as pass rate is under 20%."
   }
 }

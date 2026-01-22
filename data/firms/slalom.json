@@ -80,14 +80,23 @@
   "email_format": "firstname.lastname@slalom.com",
   "links": {
     "website": "https://www.slalom.com",
+    "linkedin": "https://www.linkedin.com/company/slalom-consulting/",
     "careers": "https://www.slalom.com/us/en/careers",
     "mc_profile": "https://managementconsulted.com/consulting-firm/slalom-consulting/",
-    "linkedin_alumni": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=slalom"
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Slalom%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22166000%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22166000%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Slalom%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22166000%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22166000%22%5D&schoolFilter=%5B%2215095601%22%5D"
   },
+  "linkedin_id": 166000,
   "byu": {
     "pipeline": "alumni_only",
     "alumni_all_time": 52,
     "alumni_current": 18,
+    "marriott_alumni_all_time": 4,
+    "marriott_alumni_current": 0,
     "tip": "Leverage BYU alumni network, particularly in Seattle and Denver offices. Strong fit for candidates interested in technology consulting with better work-life balance. Salt Lake City office may be particularly BYU-friendly given proximity to Utah."
   }
 }

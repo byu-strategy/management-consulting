@@ -37,14 +37,23 @@
   "email_format": "firstname.lastname@porsche-consulting.com",
   "links": {
     "website": "https://www.porsche-consulting.com",
+    "linkedin": "https://www.linkedin.com/company/porsche-consulting-/",
     "careers": "https://www.porsche-consulting.com/usa/en/career/work-us",
     "mc_profile": "https://managementconsulted.com/porsche-consulting/",
-    "linkedin_alumni": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=porsche%20consulting"
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Porsche%20Consulting%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%222670784%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%222670784%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Porsche%20Consulting%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%222670784%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%222670784%22%5D&schoolFilter=%5B%2215095601%22%5D"
   },
+  "linkedin_id": 2670784,
   "byu": {
-    "pipeline": null,
-    "alumni_all_time": null,
-    "alumni_current": null,
+    "pipeline": "hustle",
+    "alumni_all_time": 6,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 2,
+    "marriott_alumni_current": 0,
     "tip": null
   }
 }

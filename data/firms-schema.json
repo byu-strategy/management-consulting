@@ -24,6 +24,10 @@
       "type": ["string", "null"],
       "description": "A punchy 5-12 word positioning statement that captures what makes this firm distinctive. Not their official slogan—write something informative for students. Examples: 'The most recognized name in strategy consulting', 'Financial services powerhouse—works with 80% of top 100 banks', 'Former Booz & Company—pure strategy arm within Big 4'"
     },
+    "description": {
+      "type": ["string", "null"],
+      "description": "Firm's self-description from their LinkedIn company page overview. Provides context on how the firm positions itself. Can be lengthy—use tagline for the condensed version."
+    },
     "headquarters": {
       "type": ["string", "null"],
       "description": "Global headquarters location as 'City, Country'. Examples: 'New York, USA', 'London, UK', 'Munich, Germany'. Use the city where the firm was founded or where global leadership sits."
@@ -147,6 +151,11 @@
           "format": "uri",
           "description": "Firm's main homepage URL. Use https:// format. Example: 'https://www.mckinsey.com'"
         },
+        "linkedin": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "Firm's LinkedIn company page URL. Example: 'https://www.linkedin.com/company/mckinsey/'"
+        },
         "careers": {
           "type": ["string", "null"],
           "format": "uri",
@@ -155,7 +164,7 @@
         "mc_profile": {
           "type": ["string", "null"],
           "format": "uri",
-          "description": "Management Consulted firm profile page. URL pattern: 'https://managementconsulted.com/consulting-firm/{firm-slug}/'. Search managementconsulted.com if unsure of exact URL. Use null if firm has no MC profile."
+          "description": "Management Consulted firm profile page. URL pattern: 'https://managementconsulted.com/consulting-firm/{firm-slug}/'. Use null if firm has no MC profile."
         },
         "byu_keyword": {
           "type": ["string", "null"],
@@ -165,7 +174,7 @@
         "byu_current": {
           "type": ["string", "null"],
           "format": "uri",
-          "description": "BYU alumni currently at firm (high fidelity, shows count). Requires linkedin_id. Pattern: 'https://www.linkedin.com/school/brigham-young-university/people/?facetCurrentCompany={linkedin_id}'."
+          "description": "BYU alumni currently at firm. Uses people search with company + school filters (allows location filtering). Pattern: 'https://www.linkedin.com/search/results/people/?currentCompany=%5B%22{linkedin_id}%22%5D&schoolFilter=%5B%224035%22%5D'. BYU school ID is 4035."
         },
         "byu_past": {
           "type": ["string", "null"],
@@ -180,7 +189,7 @@
         "marriott_current": {
           "type": ["string", "null"],
           "format": "uri",
-          "description": "BYU Marriott alumni currently at firm (high fidelity, shows count). Requires linkedin_id. Pattern: 'https://www.linkedin.com/school/byumarriott/people/?facetCurrentCompany={linkedin_id}'."
+          "description": "BYU Marriott alumni currently at firm. Uses people search with company + school filters (allows location filtering). Pattern: 'https://www.linkedin.com/search/results/people/?currentCompany=%5B%22{linkedin_id}%22%5D&schoolFilter=%5B%2215095601%22%5D'. BYU Marriott school ID is 15095601."
         },
         "marriott_past": {
           "type": ["string", "null"],
@@ -209,6 +218,14 @@
         "alumni_current": {
           "type": ["integer", "null"],
           "description": "BYU alumni CURRENTLY working at the firm. Find this on the same LinkedIn page in the 'Where they work' section—look for the count next to the firm name. This shows active networking contacts."
+        },
+        "marriott_alumni_all_time": {
+          "type": ["integer", "null"],
+          "description": "Total BYU Marriott School alumni who have EVER worked at this firm. Find on LinkedIn: linkedin.com/school/byumarriott/people/?keywords={firm name}. This is a subset of BYU alumni who specifically attended Marriott."
+        },
+        "marriott_alumni_current": {
+          "type": ["integer", "null"],
+          "description": "BYU Marriott alumni CURRENTLY working at the firm. Find in the 'Where they work' section on the Marriott school LinkedIn page."
         },
         "tip": {
           "type": ["string", "null"],

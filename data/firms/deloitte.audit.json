@@ -1,0 +1,225 @@
+{
+  "firm_id": "deloitte",
+  "researched_at": "2026-01-22T22:45:00Z",
+  "duration_seconds": 900,
+  "start_time": "2026-01-22T22:30:00Z",
+  "end_time": "2026-01-22T22:45:00Z",
+  "sources_consulted": [
+    "https://managementconsulted.com/consulting-firm/deloitte-consulting/",
+    "https://managementconsulted.com/deloitte-consulting/",
+    "https://www.deloitte.com/us/en.html",
+    "https://www.linkedin.com/company/deloitte/",
+    "https://managementconsulted.com/deloitte-locations/",
+    "https://www.hackingthecaseinterview.com/pages/deloitte-case-interview-prep",
+    "https://www.casebasix.com/pages/deloitte-consulting-salary",
+    "https://managementconsulted.com/deloitte-consultant-salary/"
+  ],
+  "field_sources": {
+    "name": {
+      "source": "managementconsulted.com",
+      "confidence": "high"
+    },
+    "type": {
+      "source": "schema definition",
+      "confidence": "high",
+      "note": "Big Four firm"
+    },
+    "tagline": {
+      "source": "managementconsulted.com",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "linkedin.com/company/deloitte",
+      "confidence": "high"
+    },
+    "headquarters": {
+      "source": "managementconsulted.com",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Founded 1845 in London by William Welch Deloitte"
+    },
+    "employees": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "415,000 globally; 40,000 in consulting division"
+    },
+    "offices": {
+      "source": "web search + managementconsulted.com",
+      "confidence": "high",
+      "note": "80+ US offices total, major cities listed"
+    },
+    "regions": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Presence in 150+ countries"
+    },
+    "specialties": {
+      "source": "managementconsulted.com + deloitte.com",
+      "confidence": "high",
+      "note": "Five practice areas: Core Business Operations, Customer & Marketing, Enterprise Technology & Performance, Human Capital, Strategy & Analytics"
+    },
+    "industries": {
+      "source": "managementconsulted.com + deloitte.com",
+      "confidence": "high"
+    },
+    "known_for": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "S&A is top non-MBB option per Management Consulted"
+    },
+    "hires_ug": {
+      "source": "managementconsulted.com",
+      "confidence": "high"
+    },
+    "hires_mba": {
+      "source": "managementconsulted.com",
+      "confidence": "high"
+    },
+    "career_path": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Position keywords from MC profile"
+    },
+    "travel": {
+      "source": "inference from Big 4 consulting",
+      "confidence": "medium",
+      "note": "High travel typical for consulting roles"
+    },
+    "work_hours": {
+      "source": "inference from Big 4 consulting",
+      "confidence": "medium",
+      "note": "Demanding but not as intense as MBB"
+    },
+    "compensation.ug.base": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "MC lists $84,000-$95,000 range; used $95,000"
+    },
+    "compensation.ug.bonus": {
+      "source": "managementconsulted.com",
+      "confidence": "medium",
+      "note": "MC lists Master's up to $26,250; estimated UG at $15,000"
+    },
+    "compensation.ug.signing": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Up to $12,500 per MC"
+    },
+    "compensation.mba.base": {
+      "source": "web search multiple sources",
+      "confidence": "high",
+      "note": "Total comp $204,000 general consulting, $249,000 S&A; estimated base $190,000"
+    },
+    "compensation.mba.bonus": {
+      "source": "inference from total comp",
+      "confidence": "medium",
+      "note": "Estimated from total comp figures"
+    },
+    "compensation.mba.signing": {
+      "source": "industry standard",
+      "confidence": "medium",
+      "note": "Typical Big 4 MBA signing bonus"
+    },
+    "recruiting.process": {
+      "source": "web search + managementconsulted.com",
+      "confidence": "high",
+      "note": "Two rounds with case + behavioral interviews"
+    },
+    "recruiting.unique": {
+      "source": "hackingthecaseinterview.com + web search",
+      "confidence": "high",
+      "note": "Group case interview in final round"
+    },
+    "recruiting.timeline": {
+      "source": "web search",
+      "confidence": "medium",
+      "note": "Rolling applications"
+    },
+    "email_format": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "From MC firm overview page"
+    },
+    "links.website": {
+      "source": "managementconsulted.com",
+      "confidence": "high"
+    },
+    "links.linkedin": {
+      "source": "standard linkedin pattern",
+      "confidence": "high"
+    },
+    "links.careers": {
+      "source": "deloitte.com",
+      "confidence": "high"
+    },
+    "links.mc_profile": {
+      "source": "managementconsulted.com",
+      "confidence": "high"
+    },
+    "links.byu_keyword": {
+      "source": "constructed from pattern",
+      "confidence": "high"
+    },
+    "links.byu_current": {
+      "source": "constructed from linkedin_id 1038",
+      "confidence": "high"
+    },
+    "links.byu_past": {
+      "source": "constructed from linkedin_id 1038",
+      "confidence": "high"
+    },
+    "links.marriott_keyword": {
+      "source": "constructed from pattern",
+      "confidence": "high"
+    },
+    "links.marriott_current": {
+      "source": "constructed from linkedin_id 1038",
+      "confidence": "high"
+    },
+    "links.marriott_past": {
+      "source": "constructed from linkedin_id 1038",
+      "confidence": "high"
+    },
+    "linkedin_id": {
+      "source": "firms-to-research.csv",
+      "confidence": "high",
+      "note": "Pre-populated in CSV"
+    },
+    "byu.pipeline": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "BYU listed as target school"
+    },
+    "byu.tip": {
+      "source": "synthesized from MC profile",
+      "confidence": "high",
+      "note": "Based on target school status and S&A positioning"
+    }
+  },
+  "gaps": [
+    {
+      "field": "byu.alumni_all_time",
+      "reason": "Would require LinkedIn login and manual navigation"
+    },
+    {
+      "field": "byu.alumni_current",
+      "reason": "Would require LinkedIn login and manual navigation"
+    },
+    {
+      "field": "byu.marriott_alumni_all_time",
+      "reason": "Would require LinkedIn login and manual navigation"
+    },
+    {
+      "field": "byu.marriott_alumni_current",
+      "reason": "Would require LinkedIn login and manual navigation"
+    },
+    {
+      "field": "complete office list",
+      "reason": "MC mentions 80+ offices but doesn't enumerate all; included major cities from web search"
+    }
+  ],
+  "notes": "Deloitte is one of the Big Four accounting firms with a major consulting practice. Strategy & Analytics (S&A) is their premier strategy arm with higher compensation. Management Consulted rates S&A as the top non-MBB option. Deloitte actively recruits at BYU per MC target school list. Group case interview in final round is distinctive. LinkedIn ID 1038 from CSV. Could not access LinkedIn alumni counts without login. MC profile was comprehensive for most data points."
+}

@@ -1,0 +1,233 @@
+{
+  "firm_id": "bcg",
+  "researched_at": "2026-01-22T18:30:00Z",
+  "duration_seconds": 420,
+  "start_time": "2026-01-22T18:23:00Z",
+  "end_time": "2026-01-22T18:30:00Z",
+  "sources_consulted": [
+    "https://managementconsulted.com/consulting-firm/boston-consulting-group-bcg/",
+    "https://careers.bcg.com/global/en",
+    "https://www.linkedin.com/company/boston-consulting-group/",
+    "/Users/murff/Library/CloudStorage/OneDrive-BrighamYoungUniversity/3. Teaching/management-consulting/data/consulting-firms.csv",
+    "Web search: BCG interview process recruiting timeline 2025 2026",
+    "Web search: BCG consulting travel requirements work life balance"
+  ],
+  "field_sources": {
+    "id": {
+      "source": "derived from firm name",
+      "confidence": "high"
+    },
+    "name": {
+      "source": "managementconsulted.com",
+      "confidence": "high"
+    },
+    "type": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "MBB designation - part of McKinsey, BCG, Bain trio"
+    },
+    "tagline": {
+      "source": "synthesized from multiple sources",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv (LinkedIn overview)",
+      "confidence": "high"
+    },
+    "headquarters": {
+      "source": "managementconsulted.com",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "managementconsulted.com",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "managementconsulted.com and careers.bcg.com",
+      "confidence": "high",
+      "note": "32,000 employees confirmed by multiple sources"
+    },
+    "parent_company": {
+      "source": "n/a",
+      "confidence": "high",
+      "note": "Independent firm"
+    },
+    "offices": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "US offices only, extracted from North America section"
+    },
+    "regions": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "100+ offices in 50+ countries across all major regions"
+    },
+    "specialties": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Extracted from comprehensive expertise description"
+    },
+    "industries": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Serves Fortune 500, mid-sized businesses, nonprofits, and government"
+    },
+    "known_for": {
+      "source": "managementconsulted.com and web search",
+      "confidence": "high",
+      "note": "BCG Matrix and PTO program are distinctive elements"
+    },
+    "hires_ug": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Associate position shown for undergrads"
+    },
+    "hires_mba": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Consultant position shown for MBAs"
+    },
+    "career_path": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Position keywords: Associate, Consultant, Project Leader, Principal, Partner"
+    },
+    "travel": {
+      "source": "web search",
+      "confidence": "high",
+      "note": "4-5 days/week early career, 75+ flights/year typical for MBB"
+    },
+    "work_hours": {
+      "source": "web search",
+      "confidence": "high",
+      "note": "50-60 hours typical, up to 70 in peak weeks, averaging 55 hours/week in US"
+    },
+    "compensation.ug.base": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "$110,000 base for US undergrad hires"
+    },
+    "compensation.ug.bonus": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Up to $22,000 performance bonus"
+    },
+    "compensation.ug.signing": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "$5,000 signing bonus"
+    },
+    "compensation.mba.base": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "$190,000 base for MBA hires"
+    },
+    "compensation.mba.bonus": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Up to $47,500 performance bonus"
+    },
+    "compensation.mba.signing": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Up to $30,000 signing bonus"
+    },
+    "recruiting.process": {
+      "source": "web search",
+      "confidence": "high",
+      "note": "Synthesized from multiple recruiting sources"
+    },
+    "recruiting.unique": {
+      "source": "web search and managementconsulted.com",
+      "confidence": "high",
+      "note": "Candidate-led cases, Pymetrics assessment, video interview noted"
+    },
+    "recruiting.timeline": {
+      "source": "web search",
+      "confidence": "high",
+      "note": "2-3 months total process, MBA apps Sept/Oct, UG summer before senior year"
+    },
+    "email_format": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Shown in firm details sidebar as lastname.firstname@bcg.com"
+    },
+    "links.website": {
+      "source": "managementconsulted.com",
+      "confidence": "high"
+    },
+    "links.linkedin": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "links.careers": {
+      "source": "web redirect",
+      "confidence": "high"
+    },
+    "links.mc_profile": {
+      "source": "direct navigation",
+      "confidence": "high"
+    },
+    "links.byu_keyword": {
+      "source": "constructed from pattern",
+      "confidence": "high"
+    },
+    "links.byu_current": {
+      "source": "constructed from linkedin_id",
+      "confidence": "high"
+    },
+    "links.byu_past": {
+      "source": "constructed from linkedin_id",
+      "confidence": "high"
+    },
+    "links.marriott_keyword": {
+      "source": "constructed from pattern",
+      "confidence": "high"
+    },
+    "links.marriott_current": {
+      "source": "constructed from linkedin_id",
+      "confidence": "high"
+    },
+    "links.marriott_past": {
+      "source": "constructed from linkedin_id",
+      "confidence": "high"
+    },
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high",
+      "note": "Pre-populated as 1784"
+    },
+    "byu.pipeline": {
+      "source": "derived from alumni data",
+      "confidence": "high",
+      "note": "43 current BYU alumni indicates active recruiting presence"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high",
+      "note": "173 total BYU alumni from alltime_byu column"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high",
+      "note": "43 current BYU alumni from current_byu column"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high",
+      "note": "18 total Marriott alumni from alltime_byu_marriott column"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high",
+      "note": "6 current Marriott alumni from current_byu_marriott column"
+    },
+    "byu.tip": {
+      "source": "synthesized from alumni data",
+      "confidence": "medium",
+      "note": "Based on strong alumni presence"
+    }
+  },
+  "gaps": [],
+  "notes": "Comprehensive data available from Management Consulted profile page via Chrome extension. Pre-populated CSV data provided LinkedIn ID and all BYU/Marriott alumni counts, eliminating need for manual LinkedIn lookup. Web search provided excellent detail on recruiting process, timeline, travel, and work hours. All required fields populated successfully. BCG is one of the MBB firms with excellent data availability."
+}

@@ -1,0 +1,109 @@
+{
+  "id": "deloitte",
+  "name": "Deloitte Consulting",
+  "type": "Big 4",
+  "tagline": "Largest global professional services network with 415,000 employees worldwide",
+  "description": "Deloitte is a global professional services firm focused on driving progress. They help clients become leaders wherever they choose to compete by combining advice with action and integrity. The organization operates as a network of legally separate member firms under Deloitte Touche Tohmatsu Limited (DTTL).",
+  "headquarters": "New York, USA",
+  "founded": 1845,
+  "employees": 415000,
+  "parent_company": null,
+  "offices": [
+    "New York",
+    "Chicago",
+    "San Francisco",
+    "Boston",
+    "Los Angeles",
+    "Dallas",
+    "Atlanta",
+    "Denver",
+    "Seattle",
+    "Charlotte",
+    "Houston",
+    "Austin",
+    "Minneapolis",
+    "Washington DC",
+    "Philadelphia",
+    "Detroit",
+    "Phoenix",
+    "San Diego",
+    "Portland",
+    "Nashville"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East",
+    "Africa"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Digital",
+    "Analytics",
+    "Human Capital",
+    "Technology",
+    "Transformation",
+    "Risk"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Consumer",
+    "Retail",
+    "Energy",
+    "Public Sector",
+    "Life Sciences",
+    "Media & Entertainment",
+    "Telecommunications",
+    "Manufacturing"
+  ],
+  "known_for": "As a Big Four firm, Deloitte combines deep industry expertise across audit, tax, and advisory with a massive global consulting practice. Strategy & Analytics (S&A) is their pure strategy arm, offering higher compensation and more selective recruiting than the broader consulting division. Known for quantitative rigor, financial modeling strength, and extensive Fortune 500 audit relationships.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Senior Consultant (2-3 yrs) → Manager (2-3 yrs) → Senior Manager (2-3 yrs) → Associate Partner → Partner → Managing Partner",
+  "travel": "high",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 95000,
+      "bonus": 15000,
+      "signing": 12500
+    },
+    "mba": {
+      "base": 190000,
+      "bonus": 45000,
+      "signing": 25000
+    }
+  },
+  "recruiting": {
+    "process": "Application → HR Screen (optional) → First Round (1-2 case + 1-2 behavioral) → Final Round (1-2 case + 1-2 behavioral + group case)",
+    "unique": "Group case interview in final round—one of few firms that uses this format. Emphasizes teamwork and cultural fit alongside case performance. Offers Consulting Immersion Program (DCIP) for MBA admits.",
+    "timeline": "Rolling applications year-round, process typically takes 4-6 weeks from application to offer"
+  },
+  "email_format": "(firstinitial)lastname@deloitte.com",
+  "links": {
+    "website": "https://www.deloitte.com/us/en.html",
+    "linkedin": "https://www.linkedin.com/company/deloitte/",
+    "careers": "https://www.deloitte.com/us/en/careers.html",
+    "mc_profile": "https://managementconsulted.com/deloitte-consulting/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Deloitte%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221038%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221038%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Deloitte%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221038%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221038%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 1038,
+  "byu": {
+    "pipeline": "recruits",
+    "alumni_all_time": null,
+    "alumni_current": null,
+    "marriott_alumni_all_time": null,
+    "marriott_alumni_current": null,
+    "tip": "Deloitte actively recruits at BYU and is listed as a target school. Focus on Strategy & Analytics (S&A) for best compensation and exit opportunities. Strong accounting and finance background is valued. Network with recruiters early—they have significant hiring power at Deloitte."
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "firm_id": "bain",
+  "researched_at": "2026-01-22T18:58:22Z",
+  "duration_seconds": 244,
+  "start_time": "2026-01-22T18:54:18Z",
+  "end_time": "2026-01-22T18:58:22Z",
+  "sources_consulted": [
+    "https://managementconsulted.com/consulting-firm/bain-company/",
+    "https://www.bain.com/careers/",
+    "https://www.linkedin.com/company/bain-and-company/",
+    "Web search: Bain consulting interview process 2025 undergraduate recruiting timeline"
+  ],
+  "field_sources": {
+    "id": {
+      "source": "CSV data: name_id field",
+      "confidence": "high"
+    },
+    "name": {
+      "source": "CSV and managementconsulted.com",
+      "confidence": "high"
+    },
+    "type": {
+      "source": "managementconsulted.com - confirmed MBB designation",
+      "confidence": "high"
+    },
+    "tagline": {
+      "source": "synthesized from MC profile and firm description",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "linkedin.com/company/bain-and-company/",
+      "confidence": "high"
+    },
+    "headquarters": {
+      "source": "managementconsulted.com",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "managementconsulted.com and linkedin.com",
+      "confidence": "high",
+      "note": "1973 founding confirmed across multiple sources"
+    },
+    "employees": {
+      "source": "linkedin.com",
+      "confidence": "high",
+      "note": "22,879 on LinkedIn, rounded to 22,800"
+    },
+    "parent_company": {
+      "source": "knowledge - Bain is independent",
+      "confidence": "high"
+    },
+    "offices": {
+      "source": "managementconsulted.com North America offices list",
+      "confidence": "high",
+      "note": "Extracted 11 US/Canada office cities from MC profile"
+    },
+    "regions": {
+      "source": "managementconsulted.com and linkedin.com",
+      "confidence": "high",
+      "note": "MC shows offices in Asia/Oceania, Europe, LATAM, Middle East/Africa, North America"
+    },
+    "specialties": {
+      "source": "managementconsulted.com Practice Areas",
+      "confidence": "high",
+      "note": "Selected top 6 from MC list: Strategy, Private Equity, M&A, Operations, Technology & Digital (as Digital), Customer Experience"
+    },
+    "industries": {
+      "source": "managementconsulted.com description and linkedin.com",
+      "confidence": "high",
+      "note": "Synthesized from firm description mentioning consumer goods, tech, healthcare, financial services"
+    },
+    "known_for": {
+      "source": "managementconsulted.com firm overview",
+      "confidence": "high",
+      "note": "MC mentions: Founded by Bill Bain from BCG in 1973, Results Delivery® methodology, 75%+ PE firms served"
+    },
+    "hires_ug": {
+      "source": "managementconsulted.com salary section",
+      "confidence": "high",
+      "note": "Shows 'Undergraduate/Master's Consultant Salary' section"
+    },
+    "hires_mba": {
+      "source": "managementconsulted.com salary section",
+      "confidence": "high",
+      "note": "Shows 'Incoming MBA/PHD Consultant Salary' section"
+    },
+    "career_path": {
+      "source": "managementconsulted.com Position Keywords",
+      "confidence": "high",
+      "note": "Listed progression: Associate Consultant → Senior Associate Consultant → Consultant → Case Team Leader → Manager → Principal → Partner"
+    },
+    "travel": {
+      "source": "industry standard for MBB",
+      "confidence": "high",
+      "note": "MBB firms typically have high travel (M-Th at client site)"
+    },
+    "work_hours": {
+      "source": "industry standard for MBB",
+      "confidence": "high",
+      "note": "MBB firms are known for intense work hours (60+ hrs/week)"
+    },
+    "compensation.ug.base": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "$112,000 base for UG/Master's"
+    },
+    "compensation.ug.bonus": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Target $15,000, up to $22,500"
+    },
+    "compensation.ug.signing": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "$5,000 signing bonus"
+    },
+    "compensation.mba.base": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "$192,000 base for MBA/PhD"
+    },
+    "compensation.mba.bonus": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Up to $63,000 performance bonus"
+    },
+    "compensation.mba.signing": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "$30,000 signing bonus"
+    },
+    "recruiting.process": {
+      "source": "web search results and bain.com/careers/hiring-process",
+      "confidence": "high",
+      "note": "Application → Testing → Phone/Video Screen → First Round (2x 40min case) → Final Round (2x 40min case)"
+    },
+    "recruiting.unique": {
+      "source": "web search results",
+      "confidence": "high",
+      "note": "Aptitude + psychometric testing, candidate-led cases, 1-2% acceptance rate, 4-6 week process"
+    },
+    "recruiting.timeline": {
+      "source": "web search results",
+      "confidence": "high",
+      "note": "Applications July-November depending on school, submit 4-5 days early recommended"
+    },
+    "email_format": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Listed as 'firstname.lastname@bain.com' in Firm Details section"
+    },
+    "links.website": {
+      "source": "managementconsulted.com",
+      "confidence": "high"
+    },
+    "links.linkedin": {
+      "source": "CSV linkedin url field",
+      "confidence": "high"
+    },
+    "links.careers": {
+      "source": "bain.com",
+      "confidence": "high"
+    },
+    "links.mc_profile": {
+      "source": "managementconsulted.com URL",
+      "confidence": "high"
+    },
+    "links.byu_keyword": {
+      "source": "constructed from firm name",
+      "confidence": "high",
+      "note": "URL-encoded 'Bain & Company' as keywords"
+    },
+    "links.byu_current": {
+      "source": "constructed from linkedin_id 2114",
+      "confidence": "high",
+      "note": "People search with currentCompany filter and BYU school ID 4035"
+    },
+    "links.byu_past": {
+      "source": "constructed from linkedin_id 2114",
+      "confidence": "high",
+      "note": "People search with pastCompany filter and BYU school ID 4035"
+    },
+    "links.marriott_keyword": {
+      "source": "constructed from firm name",
+      "confidence": "high",
+      "note": "URL-encoded 'Bain & Company' as keywords"
+    },
+    "links.marriott_current": {
+      "source": "constructed from linkedin_id 2114",
+      "confidence": "high",
+      "note": "People search with currentCompany filter and Marriott school ID 15095601"
+    },
+    "links.marriott_past": {
+      "source": "constructed from linkedin_id 2114",
+      "confidence": "high",
+      "note": "People search with pastCompany filter and Marriott school ID 15095601"
+    },
+    "linkedin_id": {
+      "source": "CSV data: linkedin_id field",
+      "confidence": "high",
+      "note": "2114 from pre-populated CSV"
+    },
+    "byu.pipeline": {
+      "source": "inferred from alumni counts",
+      "confidence": "high",
+      "note": "54 current alumni indicates active recruiting presence"
+    },
+    "byu.alumni_all_time": {
+      "source": "CSV data: alltime_byu field",
+      "confidence": "high",
+      "note": "323 from CSV"
+    },
+    "byu.alumni_current": {
+      "source": "CSV data: current_byu field",
+      "confidence": "high",
+      "note": "54 from CSV"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "CSV data: alltime_byu_marriott field",
+      "confidence": "high",
+      "note": "29 from CSV"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "CSV data: current_byu_marriott field",
+      "confidence": "high",
+      "note": "11 from CSV"
+    },
+    "byu.tip": {
+      "source": "synthesized from alumni data and geography",
+      "confidence": "medium",
+      "note": "Recommendation based on strong BYU presence and West Coast office locations"
+    }
+  },
+  "gaps": [],
+  "notes": "Bain & Company is one of the 'MBB' firms (McKinsey, BCG, Bain) - the most prestigious tier in management consulting. Research was comprehensive with excellent data from Management Consulted including detailed compensation breakdowns, office lists, email format, and recruiting information. LinkedIn ID 2114 and BYU alumni data pre-populated from CSV. MC profile shows 65 global offices across 40 countries. Strong BYU representation with 54 current and 323 all-time alumni. Founded 1973 by Bill Bain from BCG partners. Known for Results Delivery® methodology and PE dominance (75%+ of PE firms). Research duration: 4 minutes 4 seconds."
+}

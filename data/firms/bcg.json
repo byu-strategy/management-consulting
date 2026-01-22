@@ -1,0 +1,100 @@
+{
+  "id": "bcg",
+  "name": "Boston Consulting Group",
+  "type": "MBB",
+  "tagline": "One of the most prestigious strategy consulting firms—pioneer in business strategy since 1963",
+  "description": "Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed at benefiting all stakeholders—empowering organizations to grow, build sustainable competitive advantage, and drive positive societal impact. Our diverse, global teams bring deep industry and functional expertise and a range of perspectives that question the status quo and spark change. BCG delivers solutions through leading-edge management consulting, technology and design, and corporate and digital ventures. We work in a uniquely collaborative model across the firm and throughout all levels of the client organization, fueled by the goal of helping our clients thrive and enabling them to make the world a better place.",
+  "headquarters": "Boston, USA",
+  "founded": 1963,
+  "employees": 32000,
+  "parent_company": null,
+  "offices": [
+    "Atlanta",
+    "Boston",
+    "Chicago",
+    "Dallas",
+    "Denver",
+    "Detroit",
+    "Houston",
+    "Los Angeles",
+    "Miami",
+    "Nashville",
+    "New York",
+    "Philadelphia",
+    "Pittsburgh",
+    "San Francisco",
+    "Seattle",
+    "Washington DC"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East",
+    "Africa"
+  ],
+  "specialties": [
+    "Strategy",
+    "Digital",
+    "Operations",
+    "Transformation",
+    "M&A",
+    "Sustainability"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Consumer",
+    "Energy",
+    "Industrial",
+    "Private Equity",
+    "Public Sector"
+  ],
+  "known_for": "BCG is part of the elite MBB trio and is known for pioneering the BCG Matrix for portfolio management. The firm emphasizes breakthrough thinking and innovation, combining deep industry expertise with cutting-edge digital capabilities through BCG X. Known for the PTO program (Predictability, Teaming & Open Communication) to support work-life balance.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate (2-3 yrs) → Consultant (2-3 yrs) → Project Leader (2-3 yrs) → Principal (3-4 yrs) → Partner",
+  "travel": "high",
+  "work_hours": "intense",
+  "compensation": {
+    "ug": {
+      "base": 110000,
+      "bonus": 22000,
+      "signing": 5000
+    },
+    "mba": {
+      "base": 190000,
+      "bonus": 47500,
+      "signing": 30000
+    }
+  },
+  "recruiting": {
+    "process": "Application → Online Assessment (Pymetrics for some offices) → Video Interview → First Round (2 case + behavioral) → Final Round (2 case + behavioral)",
+    "unique": "BCG uses candidate-led cases where you drive the structure and analysis. Some offices require Pymetrics digital assessment and one-way video interview before live rounds. Known for testing business intuition and creative problem-solving.",
+    "timeline": "MBA applications open September/October, offers by early winter. Undergrads should apply summer before senior year. Process takes 2-3 months with ~14 days between stages. Interviews may be scheduled on consecutive days."
+  },
+  "email_format": "lastname.firstname@bcg.com",
+  "links": {
+    "website": "https://www.bcg.com",
+    "linkedin": "https://www.linkedin.com/company/boston-consulting-group/",
+    "careers": "https://careers.bcg.com/global/en",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/boston-consulting-group-bcg/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Boston%20Consulting%20Group%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221784%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221784%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Boston%20Consulting%20Group%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221784%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221784%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 1784,
+  "byu": {
+    "pipeline": "recruits",
+    "alumni_all_time": 173,
+    "alumni_current": 43,
+    "marriott_alumni_all_time": 18,
+    "marriott_alumni_current": 6,
+    "tip": "BCG has strong BYU representation with 49 current alumni (BYU + Marriott combined). Focus on networking with BCG alumni and emphasize analytical rigor and creative problem-solving in your applications."
+  }
+}

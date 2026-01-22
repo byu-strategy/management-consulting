@@ -416,79 +416,50 @@ A searchable guide to consulting firms, with BYU-specific intel to help you find
   border-bottom-color: #2563eb;
 }
 
-/* Comp Tooltip */
-.hero-stat.comp-stat {
-  position: relative;
-  cursor: default;
-}
-
+/* Comp tooltip specific */
 .comp-tooltip {
-  display: none;
-  position: absolute;
-  bottom: 100%;
-  left: 50%;
-  transform: translateX(-50%);
-  background: #1f2937;
-  color: white;
-  padding: 0.75rem;
-  border-radius: 6px;
-  font-size: 0.75rem;
   white-space: nowrap;
-  z-index: 100;
-  margin-bottom: 0.5rem;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
 }
 
-.comp-tooltip::after {
-  content: '';
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  transform: translateX(-50%);
-  border: 6px solid transparent;
-  border-top-color: #1f2937;
-}
-
-.hero-stat.comp-stat:hover .comp-tooltip {
-  display: block;
+.comp-tooltip-header {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.55rem;
+  letter-spacing: 0.04em;
+  color: #94a3b8;
+  margin-bottom: 0.35rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid #475569;
 }
 
 .comp-tooltip-row {
   display: flex;
   justify-content: space-between;
   gap: 1rem;
-  padding: 0.15rem 0;
+  padding: 0.12rem 0;
 }
 
 .comp-tooltip-row .label {
-  color: #9ca3af;
+  color: #94a3b8;
+  font-size: 0.7rem;
 }
 
 .comp-tooltip-row .value {
   font-weight: 600;
+  font-size: 0.75rem;
+  color: #f1f5f9;
   font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
-}
-
-.comp-tooltip-header {
-  font-weight: 700;
-  text-transform: uppercase;
-  font-size: 0.65rem;
-  letter-spacing: 0.04em;
-  color: #9ca3af;
-  margin-bottom: 0.35rem;
-  padding-bottom: 0.35rem;
-  border-bottom: 1px solid #374151;
 }
 
 .comp-tooltip-total {
   margin-top: 0.35rem;
   padding-top: 0.35rem;
-  border-top: 1px solid #374151;
+  border-top: 1px solid #475569;
   font-weight: 700;
 }
 
 .comp-tooltip-total .value {
-  color: #34d399;
+  color: #4ade80;
 }
 
 /* Offices Popover */
@@ -618,6 +589,174 @@ A searchable guide to consulting firms, with BYU-specific intel to help you find
 .hero-stat-alumni-link:hover {
   border-bottom-color: #2563eb;
   color: #2563eb;
+}
+
+/* =============================================================================
+   UNIFIED HOVER TOOLTIPS - Alumni, Offices, Comp
+   ============================================================================= */
+
+/* Base positioning for all tooltip parents */
+.hero-stat.alumni-stat,
+.hero-stat.offices-stat,
+.hero-stat.comp-stat {
+  position: relative;
+  cursor: default;
+}
+
+/* Base tooltip styling - shared by all */
+.alumni-tooltip,
+.offices-tooltip,
+.comp-tooltip {
+  display: none;
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #1e293b;
+  color: #f1f5f9;
+  padding: 0.6rem 0.75rem;
+  border-radius: 8px;
+  font-size: 0.75rem;
+  z-index: 100;
+  margin-bottom: 4px;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.25), 0 4px 6px -2px rgba(0, 0, 0, 0.1);
+  border: 1px solid #334155;
+}
+
+/* Invisible bridge for smooth hover transition */
+.alumni-tooltip::before,
+.offices-tooltip::before,
+.comp-tooltip::before {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  height: 12px;
+}
+
+/* Arrow pointer */
+.alumni-tooltip::after,
+.offices-tooltip::after,
+.comp-tooltip::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: #1e293b;
+}
+
+/* Show tooltips on hover */
+.hero-stat.alumni-stat:hover .alumni-tooltip,
+.hero-stat.offices-stat:hover .offices-tooltip,
+.hero-stat.comp-stat:hover .comp-tooltip {
+  display: block;
+}
+
+/* Alumni tooltip specific */
+.alumni-tooltip {
+  white-space: nowrap;
+}
+
+.alumni-tooltip-header-row {
+  display: grid;
+  grid-template-columns: 55px 50px 50px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.55rem;
+  letter-spacing: 0.04em;
+  color: #94a3b8;
+  padding-bottom: 0.35rem;
+  margin-bottom: 0.35rem;
+  border-bottom: 1px solid #475569;
+}
+
+.alumni-tooltip-header-row span:nth-child(2),
+.alumni-tooltip-header-row span:nth-child(3) {
+  text-align: center;
+}
+
+.alumni-tooltip-row {
+  display: grid;
+  grid-template-columns: 55px 50px 50px;
+  padding: 0.12rem 0;
+  align-items: center;
+}
+
+.alumni-tooltip-row .label {
+  color: #94a3b8;
+  font-size: 0.7rem;
+}
+
+.alumni-tooltip-row .value {
+  font-weight: 600;
+  font-size: 0.75rem;
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  text-align: center;
+  color: #f1f5f9;
+}
+
+/* Offices tooltip specific */
+.offices-tooltip {
+  max-width: 300px;
+  width: max-content;
+}
+
+.offices-tooltip-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.2rem 1rem;
+}
+
+.offices-tooltip-item {
+  font-size: 0.7rem;
+  color: #e2e8f0;
+  padding: 0.1rem 0;
+}
+
+/* Tooltip links - shared style */
+.alumni-tooltip-link,
+.alumni-tooltip-link:link,
+.alumni-tooltip-link:visited {
+  color: #60a5fa !important;
+  text-decoration: underline !important;
+  text-underline-offset: 2px !important;
+  border: none !important;
+  background: none !important;
+  transition: color 0.15s;
+}
+
+.alumni-tooltip-link:hover {
+  color: #93c5fd !important;
+}
+
+/* BYU Alumni Links Row in Drawer */
+.byu-alumni-links {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e5e7eb;
+}
+
+.byu-alumni-links a {
+  font-size: 0.7rem;
+  color: var(--byu-blue);
+  text-decoration: none;
+  padding: 0.25rem 0.5rem;
+  border-radius: 3px;
+  background: #f0f4f8;
+  border: 1px solid #d1d5db;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.byu-alumni-links a:hover {
+  background: #e0e7ef;
+  border-color: var(--byu-blue);
+  text-decoration: none;
 }
 
 
@@ -1282,7 +1421,7 @@ A searchable guide to consulting firms, with BYU-specific intel to help you find
 
 <!-- Offices Popover Modal -->
 <div id="offices-popover-overlay" class="offices-popover-overlay" onclick="closeOfficesPopover()"></div>
-<div id="offices-popover" class="offices-popover">
+<div id="offices-popover" class="offices-popover" onmouseleave="closeOfficesPopover()">
   <div class="offices-popover-header">
     <h3 class="offices-popover-title" id="offices-popover-title">All Offices</h3>
     <button class="offices-popover-close" onclick="closeOfficesPopover()">×</button>
@@ -1567,28 +1706,43 @@ function renderFirmCard(firm) {
 
       <!-- HERO STATS - 5 Column Grid -->
       <div class="hero-stats">
-        <!-- 1. BYU Alumni -->
-        <div class="hero-stat pipeline-stat ${pipelineStatClass}">
+        <!-- 1. BYU + Marriott Alumni (Combined Total) -->
+        <div class="hero-stat pipeline-stat alumni-stat ${pipelineStatClass}">
           <div class="hero-stat-header">${icons.graduationCap} BYU Alumni</div>
-          ${firm.byu?.alumni_current ? `
+          ${(firm.byu?.alumni_current || firm.byu?.marriott_alumni_current) ? `
             <div class="hero-stat-value">
-              ${firm.links?.linkedin_alumni ?
-                `<a href="${firm.links.linkedin_alumni}" target="_blank" class="hero-stat-alumni-link">${firm.byu.alumni_current}</a>` :
-                `${firm.byu.alumni_current}`
-              }
+              <span class="offices-count-link">${(firm.byu?.alumni_current || 0) + (firm.byu?.marriott_alumni_current || 0)}</span>
             </div>
-            ${firm.byu.alumni_all_time ? `<div class="hero-stat-detail">(${firm.byu.alumni_all_time} all-time)</div>` : ''}
+            <div class="hero-stat-detail">${(firm.byu?.alumni_all_time || 0) + (firm.byu?.marriott_alumni_all_time || 0)} all-time</div>
+            <div class="alumni-tooltip">
+              <div class="alumni-tooltip-header-row"><span></span><span>Current</span><span>Past</span></div>
+              <div class="alumni-tooltip-row">
+                <span class="label">BYU</span>
+                <span class="value">${firm.links?.byu_current ? `<a href="${firm.links.byu_current}" target="_blank" class="alumni-tooltip-link">${firm.byu?.alumni_current || 0}</a>` : (firm.byu?.alumni_current || 0)}</span>
+                <span class="value">${firm.links?.byu_past ? `<a href="${firm.links.byu_past}" target="_blank" class="alumni-tooltip-link">${(firm.byu?.alumni_all_time || 0) - (firm.byu?.alumni_current || 0)}</a>` : ((firm.byu?.alumni_all_time || 0) - (firm.byu?.alumni_current || 0))}</span>
+              </div>
+              <div class="alumni-tooltip-row">
+                <span class="label">Marriott</span>
+                <span class="value">${firm.links?.marriott_current ? `<a href="${firm.links.marriott_current}" target="_blank" class="alumni-tooltip-link">${firm.byu?.marriott_alumni_current || 0}</a>` : (firm.byu?.marriott_alumni_current || 0)}</span>
+                <span class="value">${firm.links?.marriott_past ? `<a href="${firm.links.marriott_past}" target="_blank" class="alumni-tooltip-link">${(firm.byu?.marriott_alumni_all_time || 0) - (firm.byu?.marriott_alumni_current || 0)}</a>` : ((firm.byu?.marriott_alumni_all_time || 0) - (firm.byu?.marriott_alumni_current || 0))}</span>
+              </div>
+            </div>
           ` : '<div class="hero-stat-value">—</div>'}
         </div>
 
-        <!-- 2. Offices (Clickable) -->
-        <div class="hero-stat">
+        <!-- 2. Offices (Hover Tooltip) -->
+        <div class="hero-stat offices-stat">
           <div class="hero-stat-header">${icons.mapPin} Offices</div>
           ${offices.length > 0 ? `
             <div class="hero-stat-value">
-              <span class="offices-count-link" data-firm-name="${firm.name}" data-offices="${offices.join('|')}" onclick="handleOfficesClick(this)">${offices.length}</span>
+              <span class="offices-count-link">${offices.length}</span>
             </div>
             <div class="hero-stat-detail">${displayOffices.join(' · ')}${moreOfficesCount > 0 ? ` +${moreOfficesCount}` : ''}</div>
+            <div class="offices-tooltip">
+              <div class="offices-tooltip-grid">
+                ${offices.map(office => `<div class="offices-tooltip-item">${office}</div>`).join('')}
+              </div>
+            </div>
           ` : '<div class="hero-stat-value">—</div>'}
         </div>
 
@@ -1632,7 +1786,7 @@ function renderFirmCard(firm) {
       <div class="firm-details">
 
         <!-- 1. BYU TIPS -->
-        ${firm.byu?.tip || firm.email_format ? `
+        ${firm.byu?.tip || firm.email_format || firm.links?.byu_current ? `
         <div class="interview-section byu-tips-section">
           <h4>${icons.byuY} BYU Tips</h4>
           <div class="byu-tips-content">
@@ -1641,6 +1795,14 @@ function renderFirmCard(firm) {
           ${firm.email_format ? `
           <div class="byu-tips-email">
             <strong>Email Format:</strong> <code>${firm.email_format}</code>
+          </div>
+          ` : ''}
+          ${firm.links?.byu_current || firm.links?.byu_past || firm.links?.marriott_current || firm.links?.marriott_past ? `
+          <div class="byu-alumni-links">
+            ${firm.links?.byu_current ? `<a href="${firm.links.byu_current}" target="_blank">BYU Current</a>` : ''}
+            ${firm.links?.byu_past ? `<a href="${firm.links.byu_past}" target="_blank">BYU Past</a>` : ''}
+            ${firm.links?.marriott_current ? `<a href="${firm.links.marriott_current}" target="_blank">Marriott Current</a>` : ''}
+            ${firm.links?.marriott_past ? `<a href="${firm.links.marriott_past}" target="_blank">Marriott Past</a>` : ''}
           </div>
           ` : ''}
         </div>

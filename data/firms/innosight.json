@@ -37,14 +37,23 @@
   "email_format": null,
   "links": {
     "website": "https://www.innosight.com",
+    "linkedin": "https://www.linkedin.com/company/innosight/",
     "careers": "https://www.innosight.com/careers/apply-to-join-our-team/",
     "mc_profile": "https://managementconsulted.com/consulting-firm/innosight/",
-    "linkedin_alumni": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=innosight"
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Innosight%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2232860%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2232860%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Innosight%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2232860%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2232860%22%5D&schoolFilter=%5B%2215095601%22%5D"
   },
+  "linkedin_id": 32860,
   "byu": {
     "pipeline": "alumni_only",
     "alumni_all_time": 35,
     "alumni_current": 2,
+    "marriott_alumni_all_time": 1,
+    "marriott_alumni_current": 1,
     "tip": null
   }
 }

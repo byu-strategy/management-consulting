@@ -1,0 +1,93 @@
+{
+  "id": "bain",
+  "name": "Bain & Company",
+  "type": "MBB",
+  "tagline": "Results-driven MBB firm—built on PE expertise and Results Delivery®",
+  "description": "Bain & Company is a global consultancy that helps the world's most ambitious change makers define the future. Across 65 cities in 40 countries, we work alongside our clients as one team with a shared ambition to achieve extraordinary results, outperform the competition, and redefine industries. We complement our tailored, integrated expertise with a vibrant ecosystem of digital innovators to deliver better, faster, and more enduring outcomes. Our 10-year commitment to invest more than $1 billion in pro bono services brings our talent, expertise, and insight to organizations tackling today's urgent challenges in education, racial equity, social justice, economic development, and the environment. We earned a platinum rating from EcoVadis, the leading platform for environmental, social, and ethical performance ratings for global supply chains, putting us in the top 1% of all companies. Since our founding in 1973, we have measured our success by the success of our clients, and we proudly maintain the highest level of client",
+  "headquarters": "Boston, USA",
+  "founded": 1973,
+  "employees": 22800,
+  "parent_company": null,
+  "offices": [
+    "Atlanta",
+    "Boston",
+    "Chicago",
+    "Dallas",
+    "Houston",
+    "Los Angeles",
+    "New York",
+    "San Francisco",
+    "Seattle",
+    "Toronto",
+    "Washington DC"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East",
+    "Africa"
+  ],
+  "specialties": [
+    "Strategy",
+    "Private Equity",
+    "M&A",
+    "Operations",
+    "Digital",
+    "Customer Experience"
+  ],
+  "industries": [
+    "Private Equity",
+    "Consumer",
+    "Technology",
+    "Healthcare",
+    "Financial Services",
+    "Industrial"
+  ],
+  "known_for": "Founded by BCG partners in 1973 with a revolutionary focus on delivering results, not just recommendations. Dominates private equity consulting (serves 75%+ of global PE firms) and pioneered the Results Delivery® methodology. Known for strong culture, entrepreneurial spirit, and unmatched client loyalty through outcome-based engagement model.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate Consultant (2-3 yrs) → Senior Associate Consultant (1-2 yrs) → Consultant (2-3 yrs) → Case Team Leader (2-3 yrs) → Manager (2-3 yrs) → Principal (3-4 yrs) → Partner",
+  "travel": "high",
+  "work_hours": "intense",
+  "compensation": {
+    "ug": {
+      "base": 112000,
+      "bonus": 15000,
+      "signing": 5000
+    },
+    "mba": {
+      "base": 192000,
+      "bonus": 63000,
+      "signing": 30000
+    }
+  },
+  "recruiting": {
+    "process": "Application → Testing (aptitude + psychometric) → Phone/Video Screen (20 min behavioral) → First Round (2 case interviews, 40 min each) → Final Round (2 case interviews, 40 min each)",
+    "unique": "Required aptitude assessment testing logical reasoning and math, plus psychometric evaluation for culture fit. Candidate-led case format (like BCG). Highly competitive 1-2% acceptance rate. Process takes 4-6 weeks total with ~14 days between stages.",
+    "timeline": "Applications open July, close September-November (varies by school). Submit 4-5 days before deadline. First rounds in fall, offers by late fall/early winter. Earlier deadlines than prior years."
+  },
+  "email_format": "firstname.lastname@bain.com",
+  "links": {
+    "website": "https://www.bain.com/",
+    "linkedin": "https://www.linkedin.com/company/bain-and-company/",
+    "careers": "https://www.bain.com/careers/",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/bain-company/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Bain%20%26%20Company%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%222114%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%222114%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Bain%20%26%20Company%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%222114%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%222114%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 2114,
+  "byu": {
+    "pipeline": "recruits",
+    "alumni_all_time": 323,
+    "alumni_current": 54,
+    "marriott_alumni_all_time": 29,
+    "marriott_alumni_current": 11,
+    "tip": "Strong BYU presence with 54+ current alumni. Network early with Bain's MBA and undergraduate recruiting teams. Consider offices in SF, Seattle, and LA for West Coast proximity."
+  }
+}
