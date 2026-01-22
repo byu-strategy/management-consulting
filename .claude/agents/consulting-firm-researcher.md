@@ -64,7 +64,20 @@ Use web tools to:
 - Navigate to Management Consulted firm directory and profile pages
 - Fetch content from firm websites (especially careers pages)
 - Perform web searches for supplementary information (compensation, interview process)
-- **LinkedIn Alumni Search**: Navigate to `linkedin.com/school/brigham-young-university/people/?keywords={firm name}` to get:
+- **LinkedIn Company ID Lookup**: Check `firms-to-research.json` for a pre-populated `linkedin_id`. If null, look it up:
+  1. Navigate to `linkedin.com/school/brigham-young-university/people/`
+  2. Click "+ Add" next to "Where they work"
+  3. Search for the firm name, select it
+  4. Copy the ID from the URL parameter `facetCurrentCompany={id}`
+  5. Save this ID to the firm's JSON file as `linkedin_id`
+- **LinkedIn Alumni URLs**: Build 6 URLs using the firm name and linkedin_id (school IDs: BYU=4035, Marriott=15095601):
+  - `byu_keyword`: `linkedin.com/school/brigham-young-university/people/?keywords=%22{firm}%22` (URL-encode quotes as %22)
+  - `byu_current`: `linkedin.com/school/brigham-young-university/people/?facetCurrentCompany={linkedin_id}` (requires linkedin_id)
+  - `byu_past`: `linkedin.com/search/results/people/?pastCompany=%5B%22{linkedin_id}%22%5D&schoolFilter=%5B%224035%22%5D` (requires linkedin_id)
+  - `marriott_keyword`: `linkedin.com/school/byumarriott/people/?keywords=%22{firm}%22`
+  - `marriott_current`: `linkedin.com/school/byumarriott/people/?facetCurrentCompany={linkedin_id}` (requires linkedin_id)
+  - `marriott_past`: `linkedin.com/search/results/people/?pastCompany=%5B%22{linkedin_id}%22%5D&schoolFilter=%5B%2215095601%22%5D` (requires linkedin_id)
+- **BYU Alumni Counts**: Navigate to keyword search URL to get:
   - `alumni_all_time`: The number shown as "X alumni" at the top
   - `alumni_current`: In the "Where they work" section, find the count next to the firm name
 - **Email Format**: On the Management Consulted profile page, look for "Email Format" section to get the firm's email pattern (e.g., `firstname.lastname@firm.com`)
@@ -108,12 +121,14 @@ The audit file tracks provenance for optimization and verification. **Track timi
   "sources_consulted": [
     "https://managementconsulted.com/consulting-firm/oliver-wyman/",
     "https://www.oliverwyman.com/careers.html",
-    "https://linkedin.com/school/brigham-young-university/people/?keywords=oliver%20wyman"
+    "https://linkedin.com/school/brigham-young-university/people/?keywords=%22oliver%20wyman%22",
+    "https://linkedin.com/school/brigham-young-university/people/?facetCurrentCompany=1122"
   ],
   "field_sources": {
     "employees": {"source": "oliverwyman.com", "confidence": "high"},
     "founded": {"source": "wikipedia", "confidence": "high"},
     "compensation.ug.base": {"source": "managementconsulted.com", "confidence": "medium", "note": "2024 data"},
+    "linkedin_id": {"source": "linkedin.com", "confidence": "high", "note": "from facetCurrentCompany URL param"},
     "byu.alumni_all_time": {"source": "linkedin.com", "confidence": "high"},
     "byu.alumni_current": {"source": "linkedin.com", "confidence": "high"}
   },
@@ -121,7 +136,7 @@ The audit file tracks provenance for optimization and verification. **Track timi
     {"field": "compensation.mba.signing", "reason": "No reliable source found"},
     {"field": "recruiting.timeline", "reason": "Varies by office"}
   ],
-  "notes": "MC profile was comprehensive. LinkedIn showed 26 all-time, 6 current BYU alumni."
+  "notes": "MC profile was comprehensive. LinkedIn ID 1122. BYU keyword search showed 26 all-time, facetCurrentCompany showed 6 current."
 }
 ```
 
@@ -180,8 +195,14 @@ The audit file tracks provenance for optimization and verification. **Track timi
     "website": "https://www.firm.com",
     "careers": "https://www.firm.com/careers",
     "mc_profile": "https://managementconsulted.com/consulting-firm/firm-name/",
-    "linkedin_alumni": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=firm%20name"
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Firm%20Name%22",
+    "byu_current": "https://www.linkedin.com/school/brigham-young-university/people/?facetCurrentCompany=12345",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2212345%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Firm%20Name%22",
+    "marriott_current": "https://www.linkedin.com/school/byumarriott/people/?facetCurrentCompany=12345",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2212345%22%5D&schoolFilter=%5B%2215095601%22%5D"
   },
+  "linkedin_id": 12345,
   "byu": {
     "pipeline": null,
     "alumni_all_time": 26,

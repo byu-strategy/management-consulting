@@ -157,12 +157,41 @@
           "format": "uri",
           "description": "Management Consulted firm profile page. URL pattern: 'https://managementconsulted.com/consulting-firm/{firm-slug}/'. Search managementconsulted.com if unsure of exact URL. Use null if firm has no MC profile."
         },
-        "linkedin_alumni": {
+        "byu_keyword": {
           "type": ["string", "null"],
           "format": "uri",
-          "description": "LinkedIn search URL for BYU alumni at this firm. Use this exact pattern: 'https://www.linkedin.com/school/brigham-young-university/people/?keywords={firm name}'. URL-encode spaces as %20. Example: 'https://www.linkedin.com/school/brigham-young-university/people/?keywords=oliver%20wyman'"
+          "description": "BYU alumni keyword search (shows current + past employees). Pattern: 'https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22{firm}%22'. URL-encode quotes as %22, spaces as %20."
+        },
+        "byu_current": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "BYU alumni currently at firm (high fidelity, shows count). Requires linkedin_id. Pattern: 'https://www.linkedin.com/school/brigham-young-university/people/?facetCurrentCompany={linkedin_id}'."
+        },
+        "byu_past": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "BYU alumni who previously worked at firm (no count, network-limited). Requires linkedin_id. Pattern: 'https://www.linkedin.com/search/results/people/?pastCompany=%5B%22{linkedin_id}%22%5D&schoolFilter=%5B%224035%22%5D'. BYU school ID is 4035."
+        },
+        "marriott_keyword": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "BYU Marriott alumni keyword search (shows current + past employees). Pattern: 'https://www.linkedin.com/school/byumarriott/people/?keywords=%22{firm}%22'. URL-encode quotes as %22, spaces as %20."
+        },
+        "marriott_current": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "BYU Marriott alumni currently at firm (high fidelity, shows count). Requires linkedin_id. Pattern: 'https://www.linkedin.com/school/byumarriott/people/?facetCurrentCompany={linkedin_id}'."
+        },
+        "marriott_past": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "BYU Marriott alumni who previously worked at firm (no count, network-limited). Requires linkedin_id. Pattern: 'https://www.linkedin.com/search/results/people/?pastCompany=%5B%22{linkedin_id}%22%5D&schoolFilter=%5B%2215095601%22%5D'. BYU Marriott school ID is 15095601."
         }
       }
+    },
+    "linkedin_id": {
+      "type": ["integer", "null"],
+      "description": "LinkedIn company ID for this firm. Used to construct high-fidelity alumni search URLs. Find by: go to linkedin.com/school/brigham-young-university/people/, click '+ Add' on 'Where they work', search for firm, select it, and grab the ID from the URL parameter 'facetCurrentCompany={id}'."
     },
     "byu": {
       "type": "object",

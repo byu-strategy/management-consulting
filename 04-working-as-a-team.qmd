@@ -2,18 +2,13 @@
 title: "Working as a Team"
 ---
 
-Before diving into consulting content, we need to establish how we'll work together. At top consulting firms, every engagement begins with a "team launch," a session where team members align on norms, roles, and working styles. We'll do the same.
 
-## Why Teaming Matters
+Consulting is fundamentally collaborative and you work closely in team. In class you will:
 
-Consulting is fundamentally collaborative. You will:
-
-- Work in a **pod** with your TA and 7-8 classmates all semester
-- Complete your **capstone** in teams of 3
+- Collaborate in a **pod** with your TA and 7-8 classmates all semester
+- Complete your **capstone** in sub-teams of 3-4
 - Practice **cases** with peers throughout the course
-- Give and receive **feedback** constantly
-
-How well you team directly impacts how much you learn and how prepared you are for the job.
+- Give and receive **feedback** 
 
 ## Your Pod Structure
 
@@ -31,8 +26,9 @@ Your pod serves three purposes:
 | Activity | Frequency |
 |:---------|:----------|
 | Goals Worksheet + Chat | Week 2 |
+| TA Practice Interviews | 3x per semester (Weeks 4, 8, 13) |
 | TA Mentoring Sessions | 3x per semester (Weeks 5, 9-10, 14) |
-| Practice interviews with peers | 5 sessions (ongoing) |
+| Practice interviews with peers | 7 sessions (ongoing) |
 | Resume review | Weeks 5-7 |
 
 ## Team Norms
@@ -70,17 +66,6 @@ People work differently. Understanding your style, and your teammates' styles, r
 | **Feedback** | Blunt ↔ Gentle |
 | **Planning** | Structured ↔ Flexible |
 
-### Team Launch Exercise
-
-In your pod, discuss:
-
-1. What's your default working style?
-2. What brings out your best work?
-3. What frustrates you in team settings?
-4. How do you prefer to receive feedback?
-
-Document your pod's agreements and revisit them mid-semester.
-
 ## Roles on a Consulting Team
 
 On an engagement, common roles include:
@@ -99,7 +84,7 @@ In this class:
 
 ## Giving and Receiving Feedback
 
-Feedback is the engine of improvement. Consultants get feedback constantly: after every client meeting, every deliverable, every presentation.
+Feedback is the engine of improvement. Consultants get feedback frequently.
 
 ### Giving Feedback
 
@@ -122,7 +107,7 @@ Example: "In our case practice yesterday (situation), you jumped to a recommenda
 
 | Feedback Type | Frequency | From |
 |:--------------|:----------|:-----|
-| Project feedback | After each submission | TA + Professor |
+| Project feedback | After each submission | TA |
 | Practice interview feedback | After each practice interview | Peers + TA |
 | Resume feedback | 2x (Weeks 5, 7) | TA |
 | TA Mentoring Sessions | 3x (Weeks 5, 9-10, 14) | TA |
@@ -153,21 +138,12 @@ Teams encounter conflict. How you handle it matters.
 
 ## Capstone Team Formation
 
-In Week 12-13, you'll form capstone teams of 3. Consider:
+In Week 12-13, you'll form capstone sub-teams of 3-4. Consider:
 
 - **Complementary skills**: Mix of strengths
 - **Compatible styles**: Can you work together under pressure?
 - **Shared commitment**: Equal investment in quality
 
-More guidance will come closer to team formation.
+More guidance will come closer to sub-team formation.
 
-## This Week's Action
 
-In your pod meeting this week:
-
-1. Introduce yourselves (background, goals, concerns)
-2. Complete the working styles discussion
-3. Document 3-5 pod norms you'll commit to
-4. Exchange contact information
-
-Come to class ready to share one norm your pod agreed on.
