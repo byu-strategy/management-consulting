@@ -10,13 +10,11 @@ The following assessments will be used to measure progress towards learning outc
 | Goal | Assessment | % | Pts | OS Actions | LOs |
 |:------|:-----------|:-:|:---:|:-----------|:---:|
 | Both | [Reading Quizzes (10)](#reading-quizzes) | 10 | 50 | Varies by week | 1,2,3 |
-| Both | [TA Pod Engagement](#ta-pod-engagement) | 10 | 50 | [3.6](07-move-work-forward.qmd#os-3-6), [4.4](08-create-impact.qmd#os-4-4), [4.8](08-create-impact.qmd#os-4-8) | 1,4 |
-| Recruiting | [Resume & Networking](#resume-and-networking) | 10 | 50 | [1.4](05-think-clearly.qmd#os-1-4), [1.6](05-think-clearly.qmd#os-1-6), [2.2](06-get-right-answer.qmd#os-2-2), [4.4](08-create-impact.qmd#os-4-4) | 5 |
-| Recruiting | [Practice Interview Log](#practice-interview-log) | 20 | 100 | [1.1](05-think-clearly.qmd#os-1-1)–[1.7](05-think-clearly.qmd#os-1-7), [2.4](06-get-right-answer.qmd#os-2-4), [2.6](06-get-right-answer.qmd#os-2-6), [4.1](08-create-impact.qmd#os-4-1), [4.2](08-create-impact.qmd#os-4-2) | 1,3,5 |
-| Client Work | [P1: Company Diagnostic](#company-diagnostic) | 10 | 50 | [1.1](05-think-clearly.qmd#os-1-1), [1.2](05-think-clearly.qmd#os-1-2), [2.2](06-get-right-answer.qmd#os-2-2) | 1,2 |
-| Client Work | [P2: Competitive Benchmark](#competitive-benchmark) | 10 | 50 | [2.2](06-get-right-answer.qmd#os-2-2), [2.3](06-get-right-answer.qmd#os-2-3), [2.6](06-get-right-answer.qmd#os-2-6) | 1,2,3 |
-| Client Work | [P3: Value-Add Hypothesis](#value-add-hypothesis) | 10 | 50 | [1.4](05-think-clearly.qmd#os-1-4), [1.5](05-think-clearly.qmd#os-1-5), [4.1](08-create-impact.qmd#os-4-1) | 1,2,3 |
-| Client Work | [Capstone Proposal](#capstone-proposal) | 20 | 100 | [1.1](05-think-clearly.qmd#os-1-1)–[4.8](08-create-impact.qmd#os-4-8) | 1,2,3,4 |
+| Recruiting | [Resume & Networking](#resume-and-networking) | 12 | 60 | [1.4](05-think-clearly.qmd#os-1-4), [1.6](05-think-clearly.qmd#os-1-6), [2.2](06-get-right-answer.qmd#os-2-2), [4.4](08-create-impact.qmd#os-4-4) | 5 |
+| Recruiting | [Practice Interviews](#practice-interviews) | 42 | 210 | [1.1](05-think-clearly.qmd#os-1-1)–[1.7](05-think-clearly.qmd#os-1-7), [2.4](06-get-right-answer.qmd#os-2-4), [2.6](06-get-right-answer.qmd#os-2-6), [3.6](07-move-work-forward.qmd#os-3-6), [4.1](08-create-impact.qmd#os-4-1)–[4.4](08-create-impact.qmd#os-4-4) | 1,3,4,5 |
+| Client Work | [P1: Intelligence Brief](#intelligence-brief) | 8 | 40 | [1.1](05-think-clearly.qmd#os-1-1), [1.2](05-think-clearly.qmd#os-1-2), [2.2](06-get-right-answer.qmd#os-2-2), [2.3](06-get-right-answer.qmd#os-2-3) | 1,2,3 |
+| Client Work | [P2: Point of View](#point-of-view) | 8 | 40 | [1.4](05-think-clearly.qmd#os-1-4), [1.5](05-think-clearly.qmd#os-1-5), [4.1](08-create-impact.qmd#os-4-1) | 1,2,3 |
+| Client Work | [Capstone: Conversation Deck](#conversation-deck) | 20 | 100 | [1.1](05-think-clearly.qmd#os-1-1)–[4.8](08-create-impact.qmd#os-4-8) | 1,2,3,4 |
 |  | **TOTAL** | **100** | **500** |  |  |
 
 ::: {style="font-size:0.65em;"}
@@ -35,6 +33,7 @@ Table of Learning Outcomes
 
 ---
 
+
 ## Reading Quizzes {#reading-quizzes}
 
 **Points**: 50 (10% of grade)
@@ -48,7 +47,7 @@ Reading quizzes ensure you come to class prepared and have internalized core con
 - 10 quizzes throughout the semester (5 points each)
 - Quizzes are administered at the **start of class** on Thursday
 - Cover the assigned readings for that week's OS concept
-- No quizzes on weeks when major projects are due (P1, P2, P3)
+- No quizzes on weeks when major projects are due (P1, P2, Capstone)
 - Quizzes are closed laptop and closed note
 
 **Grading Rubric**
@@ -58,62 +57,13 @@ Reading quizzes ensure you come to class prepared and have internalized core con
 | 10 quizzes × 5 points each | 50 |
 | **Total** | **50** |
 
----
-
-## Both Tracks
-
-### TA Pod Engagement {#ta-pod-engagement}
-
-**Points**: 50 (10% of grade)
-
-**Overview**
-
-Your TA pod is your home base for the semester—a support system of people invested in your success. Your pod serves three purposes:
-
-1. **Support system**: People rooting for your success and checking in on your progress
-2. **Practice interview partners**: 5 peers to practice behavioral and case interviews with
-3. **Peer feedback**: Resume reviews, story refinement, and honest input
-
-**Requirements**
-
-1. **Goals Worksheet + Chat (Week 2)**: Complete the Goals Worksheet before meeting with your TA for a 20-minute conversation to establish recruiting goals and development focus. This worksheet becomes a living document referenced throughout the semester.
-
-::: {.callout-tip}
-## Get Your Goals Worksheet
-
-[Make a copy of the Goals Worksheet](https://docs.google.com/document/d/1zq1ih9ZAdjf4K1pisiM6y0NJBAJnn_LezIN6xrWDiIs/copy) to create your own version. Complete it before your Week 2 chat with your TA.
-:::
-
-2. **TA Mentoring Sessions (3x)**: Meet with your TA three times for combined practice interviews (behavioral + case) that track your growth:
-   - **Session 1 (Weeks 4-5)**: Baseline assessment, identify focus areas
-   - **Session 2 (Weeks 9-10)**: Progress check, calibrated feedback
-   - **Session 3 (Week 14)**: Final evaluation with full semester context
-
-3. **Peer Support**: Provide constructive feedback to pod members through practice interviews and resume reviews.
-
-**Grading Rubric**
-
-| Component | Points |
-|-----------|--------|
-| Goals Worksheet + Chat completed | 10 |
-| TA Mentoring Session 1 completed | 10 |
-| TA Mentoring Session 2 completed | 10 |
-| TA Mentoring Session 3 completed | 10 |
-| Active participation in pod activities | 5 |
-| Peer support (feedback given to others) | 5 |
-| **Total** | **50** |
-
----
-
-## Recruiting Track
-
 ### Resume & Networking {#resume-and-networking}
 
-**Points**: 50 (10% of grade)
+**Points**: 60 (12% of grade)
 
 **Overview**
 
-A consulting-ready resume and active networking are essential for landing interviews. This assessment tracks your progress building both.
+A consulting-ready resume and active networking are essential for landing interviews.
 
 **Requirements**
 
@@ -137,11 +87,11 @@ Your resume should:
 The [Resume Bible](https://managementconsulted.com/consulting-resume/) from Management Consulted includes consulting-specific templates and formatting guides. Access free through BYU Marriott registration.
 :::
 
-**Networking Tracker (15 points)**
+**Networking Tracker (25 points)**
 
 Maintain a networking tracker documenting your outreach throughout the semester:
 
-- **Minimum 5 networking conversations** with consulting professionals
+- **5 networking conversations** with consulting professionals (5 points each)
 - Track: Name, company, date, key insights, follow-up actions
 - Include a mix of informational interviews, smoothie chats, and firm events
 
@@ -149,335 +99,677 @@ Maintain a networking tracker documenting your outreach throughout the semester:
 
 | Component | Points |
 |-----------|--------|
-| Resume v1 submitted on time | 10 |
-| Resume v2 reflects meaningful improvement | 15 |
-| Resume is "client-ready" (error-free, professional) | 10 |
-| Networking tracker with 10+ documented conversations | 15 |
-| **Total** | **50** |
+| Resume v1 (Week 5) | 15 |
+| Resume v2 client-ready (Week 7) | 20 |
+| 5 networking conversations (5 points each) | 25 |
+| **Total** | **60** |
 
 ---
 
-### Practice Interview Log {#practice-interview-log}
+## Practice Interviews {#practice-interviews}
 
-**Points**: 100 (20% of grade)
+**Points**: 210 (42% of grade)
 
 **Overview**
 
-Interview mastery requires deliberate practice of both behavioral and case components. This log documents your practice interview journey throughout the semester. Each practice interview mirrors the actual MBB interview format: a behavioral question followed by a case.
+Interview mastery requires deliberate practice of both behavioral and case components. You'll practice as both interviewee and interviewer throughout the semester, starting with a goals conversation to set your development focus. Each practice interview mirrors common consulting interview compoents: behavioral/fit question and cases. Exact interview format at different firms will vary but this structure will prepare you well for whatever exact structure you will encouter.
 
 **Practice Interview Format**
 
-Each practice interview includes:
+You should schedule 1 hour for each interview session: Each practice interview includes:
 
 | Component | Time |
 |-----------|------|
-| Behavioral (1-2 questions) | 15-20 min |
-| Case | 30-35 min |
+| Behavioral/Fit Question(s) | 15-20 min |
+| Case | 25-30 min |
 | Feedback | 5-10 min |
 | **Total** | **~60 min** |
 
 **Requirements**
 
-Complete a minimum of **8 practice interviews** as the interviewee:
+Complete 10 practice interviews as the **interviewee**:
 
 | Source | Sessions | Notes |
 |--------|----------|-------|
-| Pod peers | 5 | Practice with each pod member once |
-| TA | 3 | TA Mentoring Sessions (Weeks 4-5, 9-10, 14) |
-| **Total** | **8** | |
+| Pod peers | 7 | Practice with pod members |
+| TA | 3 | TA Sessions (Weeks 4-5, 9-10, 14) |
+| **Total** | **10** | |
 
-When practicing with peers, take turns—you'll also serve as interviewer 5 times.
+You will also complete 7 additional practice interviews as the **interviewer**.
 
-**Feedback Collection**
+**TA Sessions**
+
+Your TA meets with you four times during the semester:
+
+- **Goals Chat (Week 2)**: Set recruiting goals and development focus using the Goals Worksheet
+- **Session 1 (Weeks 4-5)**: Baseline interview assessment against those goals
+- **Session 2 (Weeks 9-10)**: Progress check toward goals
+- **Session 3 (Week 14)**: Final evaluation with full semester context
+
+::: {.callout-tip}
+## Get Your Goals Worksheet
+
+[Make a copy of the Goals Worksheet](https://docs.google.com/document/d/1zq1ih9ZAdjf4K1pisiM6y0NJBAJnn_LezIN6xrWDiIs/copy) to create your own version. Complete it before your Week 2 chat with your TA.
+:::
+
+**Interview Feedback**
 
 ::: {.callout-tip}
 ## Set Up Your Feedback Form
 
-Each student creates their own copy of the feedback form. This ensures your interview feedback remains private. Only you, your pod leader, and Professor Murff can see your scores and comments.
+Each student creates their own copy of the feedback form. This ensures your interview feedback remains private. Only you, your TA, and Professor Murff can see your scores and comments.
 
 **Setup (do this before your first practice interview):**
 
 1. [Make a copy of the Practice Interview Feedback Form](https://docs.google.com/forms/d/1d8jCv8lEOubJTvoePnVGUxgrjUA2RiHDB7joYFmfqPU/copy)
 2. Open the linked response spreadsheet (Responses tab > click the spreadsheet icon)
-3. Share the spreadsheet with your pod leader and Professor Murff (View access)
+3. Share the spreadsheet with your TA and Professor Murff (View access)
 4. Share your form link with your interviewers—they'll submit feedback after each practice interview
 :::
 
-After each practice interview, the interviewer completes a feedback form evaluating:
-
-**Behavioral Dimensions:**
-
-- **Impact & Ownership**: Leadership shown, personal actions ("I" not "we"), quantified results
-- **Teamwork & Collaboration**: Working with others, influence, navigating conflict
-- **Presence & Fit**: Concise (~2 min), confident, authentic, likable
-
-**Case Dimensions:**
-
-- **Structure & Approach**: MECE framework, tailored to problem, prioritized
-- **Analytical Rigor**: Math setup, accuracy, "so what" interpretation
-- **Hypothesis-Driven Recommendation**: Clear POV, insight-led synthesis, practical and actionable
-
-Each dimension is rated on a 4-point scale:
-
-| Score | Label | Meaning |
-|-------|-------|---------|
-| 1 | Not Yet | Significant gaps; needs foundational work |
-| 2 | Developing | Shows potential but inconsistent |
-| 3 | Solid | Meets expectations; ready for most interviews |
-| 4 | Strong | Exceeds expectations; would stand out |
-
 **Grading Rubric**
 
 | Component | Points |
 |-----------|--------|
-| 8 practice interviews completed as interviewee | 50 |
-| Google Form feedback submitted for 5 peer interviews (as interviewer) | 20 |
-| Thoughtful reflection on improvement over time | 20 |
-| Evidence of growth across behavioral AND case dimensions | 10 |
-| **Total** | **100** |
+| Goals Chat (Week 2) | 10 |
+| 3 TA Interviews and Coaching sessions (20 points each) | 60 |
+| 7 peer interviews as interviewee (10 points each) | 70 |
+| 7 peer interviews as interviewer (10 points each) | 70 |
+| **Total** | **210** |
+
+*Points awarded for completion. Feedback is captured in the feedback form to track your growth over time.*
+
+### Behavioral & Fit Interviews {#behavioral-fit}
+
+The behavioral and fit portion of consulting interviews (typically 15-20 minutes) evaluates who you are beyond the case. Firms want to know: Do you have a track record of delivering strong results? Are you someone we'd want to work with on our team?
+
+**What Firms Are Assessing**
+
+While individual firms vary, behavioral response are generally evaluated on three main dimensions:
+
+| Dimension | What Firms Want to See |
+|-----------|----------------------|
+| **Impact & Ownership** | You drove results, took accountability, and can articulate YOUR contribution |
+| **Teamwork & Collaboration** | You work effectively with others, navigate conflict, and elevate teams |
+| **Presence & Fit** | You communicate clearly, come across as authentic, and are someone they'd want to work with |
+
+#### Behavioral Questions
+
+*"Tell me about a time when..."*
+
+Behavioral questions use your past experiences to predict future performance. Firms believe the best indicator of how you'll handle a situation is how you've handled similar situations before.
+
+**The STAR Framework**
+
+The STAR framework can be a helpful tool to structure responses to behavioral questions:
+
+| Element | What to Include | Tips |
+|------|----------------|------------------|
+| **S**ituation | Brief context: when, where, what was at stake | a few sentences; don't over-explain the setup |
+| **T**ask | Your specific responsibility or challenge | What were YOU accountable for? |
+| **A**ction | What YOU did (not "we") | Be specific: decisions made, steps taken, how you influenced others |
+| **R**esult | Quantified outcome and what you learned | Numbers matter: %, $, time saved, people impacted |
+
+You won't necessarily address all of these points in a single stream of consiousness, but each element should come out naturally during the conversation with your interviewer, thank ques from them for dynamic back and forth.
+
+**Creating a Story Bank**
+
+You will be served well by preparing 3-5 stories covering different topics. Common behavioral question topics include stories that showcase:
+
+- Leadership/Initiative
+- Problem-Solving Ability
+- Teamwork/Collaboration
+- Overcoming Challenges or Conflict
+- Impact/Achievement
+
+::: {.callout-tip}
+Each story should demonstrate capability across all 3 dimensions (ownership, teamwork, presence). A "leadership" story still needs to show how you worked with others and should be told with confidence and authenticity.
+:::
+
+##### Sample Questions by Topic
+
+**Leadership/Initiative**
+
+- Tell me about a time you took initiative on something that wasn't your responsibility.
+- Describe a situation where you had to lead without formal authority.
+- Tell me about a time you identified a problem before others did and took action.
+
+**Problem-Solving**
+
+- Tell me about a complex problem you solved. Walk me through your approach.
+- Describe a time you had to make a decision with incomplete information.
+- Tell me about a time you had to change your approach mid-way through a project.
+
+**Teamwork/Collaboration**
+
+- Tell me about a time you had to work with someone difficult.
+- Describe a situation where you had to influence someone without authority.
+- Tell me about a time a team project didn't go as planned. What did you do?
+
+**Overcoming Challenges**
+
+- Tell me about your biggest professional failure and what you learned.
+- Describe a time you received tough feedback. How did you respond?
+- Tell me about a time you had to persevere through significant obstacles.
+
+**Impact/Achievement**
+
+- What's your most significant professional accomplishment?
+- Tell me about a time you exceeded expectations.
+- Describe an impact you made that you're particularly proud of.
+
+##### Behavioral Scoring
+
+Your TAs and peers will use the following rubric to assess your behavioral responses:
+
+| Dimension | 1 - Not Yet | 2 - Developing | 3 - Solid | 4 - Strong |
+|-----------|-------------|-------------|-------------|-------------|
+| **Impact & Ownership** | Vague story, no clear results, says "we" throughout | Has a story but results aren't quantified, unclear personal contribution | Clear personal actions, quantified results, demonstrates initiative | Compelling ownership, impressive results with scale, clearly drove outcomes |
+| **Teamwork & Collaboration** | No evidence of collaboration, or throws others under the bus | Others mentioned but unclear how they worked together | Clear collaboration, navigated different perspectives, elevated the team | Sophisticated influence, resolved real conflict, made others better |
+| **Presence & Fit** | Rambling (3+ min), nervous/robotic, hard to follow | Too long or short, filler words, comes across as rehearsed | Concise, confident, natural delivery, likable | Crisp, engaging, authentic, memorable |
+
+::: {.callout-tip collapse="false"}
+## Tips for Interviewees
+
+**Before the Interview**
+
+- [ ] I have 4-5 stories covering different topics (leadership, teamwork, challenges, impact)
+- [ ] Each story demonstrates all 3 dimensions (ownership, collaboration, presence)
+- [ ] My personal contribution is clear (I am able to say "I" not "we")
+
+**During the Interview**
+
+- Listen carefully to the question and answer what's being asked
+- Use STAR but don't be robotic—let it flow naturally
+- If you're rambling, wrap up: "The key result was..."
+- If asked a follow-up, answer directly, don't restart the whole story
+:::
+
+::: {.callout-tip collapse="false"}
+## Tips for Interviewers
+
+**Mindset**
+
+| Do | Don't |
+|:---|:------|
+| Create realistic interview conditions | Make it artificially easy or hard |
+| Stay engaged and present throughout | Check your phone or appear distracted |
+| Let silence work—candidates need thinking time | Fill every pause with hints |
+| Remain neutral; evaluate, don't coach mid-interview | React visibly to good or bad answers |
+| Treat every candidate like a future colleague | Condescend or intimidate |
+
+**Running the Behavioral Section**
+
+*Setup:* State the question clearly, let them choose their story, set expectations (is this a deep dive an single experience or a 2-3 minute summary).
+
+Note "I" vs. "we." Listen for specific actions and quantified results.
+
+**Probing Questions**
+
+- "What was *your* specific role in that outcome?"
+- "What would you do differently if you faced this again?"
+- "How did that experience change how you approach similar situations?"
+- "What was the hardest part for you personally?"
+
+**Red Flags**
+
+- Can't explain their personal contribution when pressed
+- Story lacks specific details (names, numbers, timelines)
+- Takes credit for team outcomes without acknowledging others
+- Gets defensive when probed
+:::
+
+##### Fit Questions
+
+*"Why consulting?" "Why our firm?" "Walk me through your resume"*
+
+Often part of behavioral interviews (usually at the end), fit questions test your motivation, self-awareness, and genuine interest in the firm. Unlike behavioral questions, these aren't about past stories, they're about your personal narrative and career intentions.
+
+**Key Questions to Prepare**
+
+| Question | What They're Really Asking | What Good Looks Like |
+|----------|---------------------------|---------------------|
+| "Why consulting?" | Do you understand what consultants actually do? Is this a thoughtful choice? | Specific reasons tied to your experiences, skills, and goals—not generic prestige |
+| "Why [this firm]?" | Have you done your research? Are you genuinely interested in US specifically? | Firm-specific reasons (culture, type of work, people you've met), not copy-paste answers |
+| "Walk me through your resume" | Can you tell a coherent career story? Do your choices make sense? | A 2-minute narrative showing intentional progression toward consulting |
+| "Why should we hire you?" | What's your unique value proposition? | 2-3 specific strengths with evidence, tied to what the firm needs |
+| "Where do you see yourself in 5 years?" | Are you thoughtful about your career? Will you stick around? | Honest ambition that includes growth at the firm |
+
+::: {.callout-tip collapse="false"}
+## Tips for Interviewees
+
+**Crafting Your "Why Consulting" Answer**
+
+Structure your answer around three elements:
+
+1. **The spark**: What experience or realization drew you to consulting?
+2. **The fit**: What about consulting matches your skills and interests?
+3. **The goal**: What do you hope to learn or accomplish?
+
+Avoid generic answers like "I want to learn from smart people" or "I like problem-solving." Everyone says that. Be specific about YOUR journey.
+
+**Crafting Your "Why [Firm]" Answer**
+
+Do your research. Reference:
+
+- Specific practice areas or industries that interest you
+- People you've spoken with and what you learned
+- Culture elements that resonate (with specific examples)
+- Recent work or thought leadership that impressed you
+:::
+
+::: {.callout-tip collapse="false"}
+## Tips for Interviewers
+
+**What to Listen For**
+
+- Genuine enthusiasm vs. rehearsed talking points
+- Specific, researched reasons vs. generic statements
+- Self-awareness about strengths and growth areas
+- Coherent career narrative that leads logically to consulting
+
+**Red Flags**
+
+- Can't articulate why consulting beyond prestige or pay
+- Generic "why firm" answer that could apply to any firm
+- Resume walkthrough is disjointed or defensive about gaps
+- Seems to be interviewing at every firm with no real preference
+
+:::
+
+### Case Interviews {#case-interviews}
+
+Case interviews test your structured problem-solving ability. You'll be given a business problem and asked to work through it out loud, demonstrating how you think.
+
+Select a case from the Management Consulted: [Case Library](https://managementconsulted.com/consulting-case-library/) – Full library of practice cases by firm, type, and difficulty
+
+Register for an account here if needed: [Management Consulted](https://managementconsulted.com/marriott-registration/) (free with BYU Marriott registration).
+
+#### Case Scoring
+
+**Dimensions**
+
+| Dimension | What to Evaluate |
+|-----------|------------------|
+| **Structure & Approach** | MECE framework, tailored to problem, prioritized |
+| **Analytical Rigor** | Math setup, accuracy, "so what" interpretation |
+| **Hypothesis-Driven Recommendation** | Clear POV, insight-led synthesis, practical and actionable |
 
 ---
 
-### Behavioral Stories: PARADE Framework {#behavioral-stories}
+**Scoring Anchors**
 
-**Overview**
+*Structure & Approach:*
 
-Behavioral interviews are a critical component of consulting recruiting. The PARADE framework helps you structure compelling stories that demonstrate leadership, impact, and fit. You'll practice delivering these stories live during your 8 practice interviews.
+- **1 - Not Yet**: No framework or completely generic, no prioritization
+- **2 - Developing**: Has a framework but not tailored, missing MECE
+- **3 - Solid**: Tailored MECE structure, logical prioritization
+- **4 - Strong**: Insightful structure that unlocks the case, adapts as new info emerges
 
-**PARADE Framework**
+*Analytical Rigor:*
 
-| Element | Question to Answer | What "Good" Looks Like |
-|---------|-------------------|------------------------|
-| **P**roblem | What was the situation or challenge? | Specific context, stakes are clear, sets up tension |
-| **A**ction | What did YOU specifically do? | "I" not "we," concrete actions, shows initiative |
-| **R**esult | What was the outcome? | Quantified impact, clear resolution, meaningful scale |
-| **A**pplication | How does this relate to consulting? | Connects to skills firms value (leadership, problem-solving, collaboration) |
-| **D**ifferentiation | What made your approach unique? | Shows judgment, creativity, or values—not generic |
-| **E**vidence | What proves this is true? | Specific details, numbers, names that make it memorable |
+- **1 - Not Yet**: Can't set up the math, significant errors, no interpretation of results
+- **2 - Developing**: Gets to an answer but messy setup, minor errors, or no "so what"
+- **3 - Solid**: Clean setup, accurate math, interprets what the numbers mean for the decision
+- **4 - Strong**: Efficient approach, creative shortcuts, surfaces insights others would miss
 
-**Story Bank: 5 Competencies**
+*Hypothesis-Driven Recommendation:*
 
-Build stories covering these competencies—firms test for all of them:
+- **1 - Not Yet**: No recommendation, or wishy-washy "it depends," no point of view
+- **2 - Developing**: Has a recommendation but just summarizes analysis, no real insight
+- **3 - Solid**: Clear POV with structured reasoning, acknowledges risks, actionable next steps
+- **4 - Strong**: Sharp insight that reframes the problem, creative yet grounded, CEO would act on this
 
-| Competency | What Firms Are Testing |
-|------------|----------------------|
-| **Leadership/Initiative** | Can you take charge and drive outcomes? |
-| **Problem-Solving** | Can you navigate ambiguity and find solutions? |
-| **Teamwork/Collaboration** | Can you work effectively with others? |
-| **Overcoming Challenges** | Can you handle adversity and learn from failure? |
-| **Impact/Achievement** | What's your most impressive accomplishment? |
+::: {.callout-tip collapse="false"}
+## Tips for Interviewees
 
-**Quality Checklist**
+**Structure Your Approach**
 
-Before using a story in a practice interview, ask yourself:
+- Ask clarifying questions to understand the problem
+- Take 60-90 seconds to organize your thoughts before speaking
+- Present a MECE framework tailored to the specific problem
+- Prioritize: state which branch you'll explore first and why
 
-- [ ] Can I tell it in under 2 minutes?
-- [ ] Do I have at least one quantified result?
-- [ ] Is my personal contribution crystal clear?
-- [ ] Would I be proud to tell this story to a senior partner?
-- [ ] Does it show a trait consulting firms value?
+**Drive the Analysis**
 
-**How This Is Assessed**
+- Ask for data; don't wait for it to be offered
+- Set up math clearly before calculating
+- Interpret results: always state the "so what"
+- Adapt your structure as new information emerges
 
-Behavioral stories are practiced live during your 8 practice interviews (see [Practice Interview Log](#practice-interview-log)). Each practice interview includes a behavioral component evaluated on:
+**Synthesize and Recommend**
 
-- **Impact & Ownership**: Clear results, personal actions
-- **Teamwork & Collaboration**: Working with others
-- **Presence & Fit**: Concise, confident, authentic delivery
+- Lead with your recommendation (answer-first)
+- Support with 2-3 key reasons from your analysis
+- Acknowledge risks or considerations
+- Propose concrete next steps
+:::
 
-Your feedback data across 8 interviews shows your growth in behavioral interviewing over the semester.
+::: {.callout-tip collapse="false"}
+## Tips for Interviewers
+
+**Prompt Delivery**
+
+- Read the prompt clearly, don't paraphrase or editorialize
+- Provide the prompt in writing if it's complex
+- Give 60-90 seconds for initial structuring time
+- Say "Feel free to take a moment to organize your thoughts"
+
+**Pacing the Case**
+
+| Phase | Your Role |
+|:------|:----------|
+| **Structure** | Listen without interrupting; let them complete their framework |
+| **Exploration** | Guide them through 2-3 branches; reveal data when appropriate |
+| **Analysis** | Provide data clearly; give time for calculations |
+| **Synthesis** | Push for a recommendation with 5 min remaining |
+
+**Data Reveals**
+
+- Release data in response to good questions
+- Say "What would you want to know?" rather than "Here's some data"
+- If stuck, give one gentle redirect: "What else might drive profitability?"
+- Don't volunteer data they didn't ask for
+
+**Red Flags**
+
+- Generic framework not tailored to the problem
+- Can't do math or interpret what numbers mean
+- Avoids taking a point of view
+- Doesn't adapt as new information emerges
+:::
 
 ---
+
+#### Giving Feedback {#giving-feedback}
+
+**Feedback Delivery Framework**
+
+Use this structure every time:
+
+1. **Ask first**: "How do you think that went? What felt strong? What felt harder?"
+2. **Validate**: Acknowledge their self-assessment before sharing yours
+3. **Strengths** (2-3 specific): "Your structure was MECE and tailored to problem"
+4. **Development areas** (1-2 specific): "The one thing to work on: interpreting the numbers, you got the math right but didn't say what it meant for the decision"
+
+**Delivering Difficult Feedback**
+
+| Instead of... | Try... |
+|:----------|:---------------------|
+| "That was pretty weak" | "There's room to develop here, let me show you what I mean" |
+| "You need to do X" | "Strong candidates typically do X, here's why it matters" |
+| "That's wrong" | "I'd push back on that assumption, what's your evidence?" |
+
+**Calibration Mistakes to Avoid**
+
+- **Halo effect**: One strong moment doesn't make everything strong
+- **Recency bias**: Don't over-weight the recommendation at the expense of the whole case
+- **Comparison drift**: Score against the rubric, not against the last candidate
+- **Niceness inflation**: A 3 means "solid", reserve 4s for truly standout performance
 
 ## Client Work
 
-These four progressive projects build your consulting skills while creating tangible work products you can use in recruiting.
+Think of these three projects as "freemium consulting"—like Gmail, you're giving real value upfront to demonstrate your capability and earn a conversation.
 
-### P1: Company Diagnostic {#company-diagnostic}
+You'll choose one public company and build toward actual outreach by semester's end. The deliverables follow the **SCQA framework** (Situation, Complication, Question, Answer) from the Pyramid Principle:
 
-**Points**: 50 (10% of grade)
+| Project | SCQA | The Story | The Gift |
+|---------|------|-----------|----------|
+| P1: Intelligence Brief | S + C | "Here's how the world is, and here's the tension I noticed" | Informed |
+| P2: Point of View | Q + A | "Here's the opportunity, and here's what I think you should do" | Compelling |
+| Capstone: Conversation Deck | Full SCQA | Synthesized narrative with a clear ask | Credible |
 
-**Due**: Week 8
+Each deliverable builds on the last. By Capstone, you'll have a portfolio piece and—with a little luck—a real conversation with a real company.
+
+**Pod Presentations: Simulated Client Discussions**
+
+Each pod session is a simulated client meeting. You're not presenting to classmates—you're pitching to a skeptical executive team. Your pod members play the role of client stakeholders: they'll ask tough questions, probe your logic, and give you honest feedback.
+
+| Phase | Time | What's Happening |
+|-------|------|------------------|
+| Present | 4 min | Deliver your deck as if to a client |
+| Q&A | 3 min | Pod asks questions in character |
+| Written feedback | 2 min | Everyone completes the feedback form |
+| Transition | 30 sec | Next presenter prepares |
+| **Per student** | **~9.5 min** | |
+
+**How Feedback Works**
+
+All pod members and your TA complete a feedback form for each presenter. The same form is used for all three projects:
+
+| Project | Ratings Used For | Points |
+|---------|------------------|--------|
+| P1 | Developmental feedback only | 25 present + 15 feedback |
+| P2 | Developmental feedback only | 25 present + 15 feedback |
+| Capstone | Averaged → deck grade | 60 deck + 20 feedback + 20 outreach |
+
+**Feedback points** require submitting forms for *all* pod members. Missing any form = 0 feedback points for that round.
+
+### Feedback Form {#presentation-rubric}
+
+This form is used for all three projects. For P1 and P2, ratings provide developmental feedback. For Capstone, ratings are averaged to determine your deck grade (60 pts).
+
+::: {.callout-tip}
+## Role-Play as the Target Company
+
+Put yourself in the shoes of someone at the presenter's target company — a strategy director, business unit lead, or chief of staff. You're busy. You get cold outreach all the time. As you watch this presentation, ask yourself: *Would I take this meeting?*
+:::
+
+**Informed (40%)** — *Do they understand my world?*
+
+| Rating | Description |
+|--------|-------------|
+| 4 | Yes — they've done their homework and surfaced tensions I'd recognize as real |
+| 3 | Mostly — solid understanding with minor gaps or oversimplifications |
+| 2 | Somewhat — they get the basics but miss nuances I'd expect them to know |
+| 1 | No — this feels like a surface-level read; they don't really understand my situation |
+
+**Compelling (40%)** — *Would I want to explore this opportunity?*
+
+| Rating | Description |
+|--------|-------------|
+| 4 | Yes — this is worth my time; I want to dig into this with them |
+| 3 | Probably — there's something interesting here worth a conversation |
+| 2 | Maybe — I'd need more convincing before I'd give up 20 minutes |
+| 1 | No — nothing here makes me want to continue this conversation |
+
+**Credible (20%)** — *Would I trust this person?*
+
+| Rating | Description |
+|--------|-------------|
+| 4 | Absolutely — sharp, prepared, handled my questions like they've done the work |
+| 3 | Yes — professional and competent, knows their material |
+| 2 | Somewhat — a few gaps or shaky moments made me wonder |
+| 1 | Not really — I wouldn't trust them with a real project |
+
+**Written Feedback (required)**
+
+- One strength: *What would make someone at this company say yes?*
+- One thing to work on: *What would most increase their chances of getting the meeting?*
+
+**The Gut Check** (optional, not scored)
+
+> If you were at this company, would you take this meeting?
+> ○ Yes — I'd make time  ○ Probably — if my calendar allowed  ○ Unlikely — I'd need a stronger hook  ○ No — I'd pass
+
+**Capstone Scoring**: Average all raters' scores, then convert to 60-point scale:
+
+| Dimension | Weight | Max | 4 | 3 | 2 | 1 |
+|-----------|--------|-----|---|---|---|---|
+| Informed | 40% | 24 | 24 | 18 | 12 | 6 |
+| Compelling | 40% | 24 | 24 | 18 | 12 | 6 |
+| Credible | 20% | 12 | 12 | 9 | 6 | 3 |
+| **Total** | 100% | **60** | 60 | 45 | 30 | 15 |
+
+---
+
+### P1: Intelligence Brief {#intelligence-brief}
+
+**Points**: 40 (8% of grade)
+
+**Due**: Week 9
 
 **Team**: Individual
 
-**Deliverable**: 1-page analysis
+**Deliverable**: 4-6 slide deck
 
 **Overview**
 
-The Company Diagnostic is your first outside-in analysis. You'll assess one of your target companies and identify key strategic issues.
+Your first "freemium" deliverable. You'll surface something your target company should be paying attention to—an insight from public data they might have missed. This isn't a book report on their business; it's a gift of outside-in perspective.
+
+Choose a public company you'd genuinely want to work with. You'll build on this company for P2 and Capstone, ultimately sending your work to someone at the company.
 
 **Requirements**
 
-Produce a 1-page diagnostic that includes:
+Produce a 4-slide deck:
 
-1. **Company Overview** (2-3 sentences): What does this company do? Market position?
-2. **Financial Health**: Key metrics (revenue, growth, margins) with 3-year trends
-3. **Strategic Position**: Competitive advantages and vulnerabilities
-4. **Key Challenges**: 2-3 strategic issues the company faces
-5. **Initial Hypothesis**: One area where consulting could add value
+**Slide 1: The Company at a Glance**
 
-**Sources**: Use public information (10-K, earnings calls, news, industry reports)
+- Brief context: what they do, where they play, recent performance
+- Just enough for someone unfamiliar to follow along (keep it tight)
 
-**Grading Rubric**
+**Slide 2: What I Noticed**
+
+- One non-obvious pattern, trend, or tension from your outside-in research
+- Could be: competitive shift, margin pressure, underexploited opportunity, market timing
+
+**Slide 3: Supporting Evidence**
+
+- Data that backs up your observation (financials, benchmarks, industry trends)
+- Visual where helpful (chart, table, comparison)
+
+**Slide 4: Why This Matters**
+
+- So what? What's at stake if they act—or don't?
+- Frame the implication, not the solution (that's P2)
+
+**Sources**: Public information (10-K, earnings calls, news, industry reports, expert interviews)
+
+**Grading**
 
 | Component | Points |
 |-----------|--------|
-| Company overview is clear and accurate | 5 |
-| Financial analysis is thorough with relevant metrics | 15 |
-| Strategic assessment demonstrates structured thinking | 15 |
-| Key challenges are insightful and well-supported | 10 |
-| Initial hypothesis is logical and actionable | 5 |
-| **Total** | **50** |
+| Present to pod | 25 |
+| Submit feedback for all pod members | 15 |
+| **Total** | **40** |
+
+Rubric ratings are collected for developmental feedback but do not determine your grade.
 
 ---
 
-### P2: Competitive Benchmark {#competitive-benchmark}
+### P2: Point of View {#point-of-view}
 
-**Points**: 50 (10% of grade)
+**Points**: 40 (8% of grade)
 
-**Due**: Week 10
+**Due**: Week 11
 
 **Team**: Individual
 
-**Deliverable**: 3-slide deck
+**Deliverable**: 5-8 slide deck
 
 **Overview**
 
-Building on your diagnostic, this project benchmarks your target company against 2-3 competitors to identify relative strengths, weaknesses, and strategic implications.
+Building on your Intelligence Brief (P1), you'll now take a position: "Here's an opportunity I see, and here's what I believe you should do about it." This is the core of client development—demonstrating insight that earns you a conversation.
 
 **Requirements**
 
-Produce a 3-slide deck:
+Produce a 5-slide deck for the same company as P1:
 
-**Slide 1: Competitive Landscape**
+**Slide 1: The Opportunity**
 
-- Overview of 2-3 key competitors
-- Market share and positioning map
+- One sentence: "I believe [Company] should [do X] because [Y]"
+- This is your point of view—take a real position
 
-**Slide 2: Benchmark Analysis**
+**Slide 2: Why This, Why Now**
 
-- Side-by-side comparison on 4-6 key metrics
-- Visual representation (table or chart)
+- Build on P1: what's changed or what did you find that makes this urgent?
+- External pressures, competitive moves, market timing
 
-**Slide 3: Strategic Implications**
+**Slide 3: What It Would Take**
 
-- Key insights from the benchmark
-- Where your target company is winning/losing
-- Implications for strategy
+- High-level approach: how would you structure the work?
+- 2-3 key questions to answer or analyses to run
 
-**Grading Rubric**
+**Slide 4: What's at Stake**
 
-| Component | Points |
-|-----------|--------|
-| Competitors appropriately selected and described | 10 |
-| Benchmark metrics are relevant and well-researched | 15 |
-| Slides are executive-ready (clear, visual, concise) | 15 |
-| Strategic insights are meaningful and well-supported | 10 |
-| **Total** | **50** |
+- Quantified potential impact (revenue, cost, market share, risk)
+- What happens if they act vs. don't act?
 
----
+**Slide 5: What I'd Want to Discuss**
 
-### P3: Value-Add Hypothesis {#value-add-hypothesis}
+- The 2-3 questions you'd want to explore in a conversation
+- Frame it as genuine curiosity, not a sales pitch
 
-**Points**: 50 (10% of grade)
-
-**Due**: Week 12
-
-**Team**: Pairs
-
-**Deliverable**: 5-slide deck
-
-**Overview**
-
-Working in pairs, you'll develop a hypothesis for how consulting could create value for one of your target companies. This is the core of client development: demonstrating insight that could lead to an engagement.
-
-**Requirements**
-
-Produce a 5-slide deck:
-
-**Slide 1: Executive Summary**
-
-- One-slide synthesis of your value-add hypothesis
-- Clear statement of the opportunity
-
-**Slide 2: Problem/Opportunity**
-
-- What challenge or opportunity have you identified?
-- Supporting evidence (data, trends, competitive dynamics)
-
-**Slide 3: Proposed Approach**
-
-- How would you structure the work?
-- Key workstreams or analyses
-
-**Slide 4: Expected Impact**
-
-- What value could this create? (revenue, cost, strategic)
-- How would you measure success?
-
-**Slide 5: Why Now / Why Us**
-
-- Why is this the right time to act?
-- What makes this actionable?
-
-**Grading Rubric**
+**Grading**
 
 | Component | Points |
 |-----------|--------|
-| Problem/opportunity is clearly defined and compelling | 15 |
-| Approach is structured and logical (MECE) | 15 |
-| Expected impact is quantified where possible | 10 |
-| Slides follow Pyramid Principle (answer-first) | 10 |
-| **Total** | **50** |
+| Present to pod | 25 |
+| Submit feedback for all pod members | 15 |
+| **Total** | **40** |
+
+Rubric ratings are collected for developmental feedback but do not determine your grade.
 
 ---
 
-### Capstone Proposal {#capstone-proposal}
+### Capstone: Conversation Deck {#conversation-deck}
 
 **Points**: 100 (20% of grade)
 
-**Due**: Week 15 (Session 27)
+**Due**: Week 14
 
-**Team**: Teams of 3
+**Team**: Individual
 
-**Deliverable**: 15-20 slide deck + 10-minute presentation
+**Deliverable**: 6-10 slide deck + appendix + outreach
 
 **Overview**
 
-The Capstone Proposal is your culminating project. Your team will develop a full consulting proposal for a target company, integrating all the skills you've built throughout the semester.
+This is the real thing. You'll polish your P1 and P2 into a tight deck you'd actually send to someone at your target company—and then send it. The Capstone isn't about new analysis; it's about making your work client-ready and putting yourself out there.
 
 **Requirements**
 
-**Deck (80 points)**
+**The Deck (6-10 slides + appendix)**
 
-Produce a 15-20 slide consulting proposal:
+Synthesize P1 + P2 into a single, polished conversation deck:
 
-1. **Executive Summary** (1 slide): Synthesis of your recommendation
-2. **Situation Overview** (2-3 slides): Company context, industry dynamics, key challenges
-3. **Problem Definition** (2 slides): The specific issue you're addressing, supported by data
-4. **Analysis** (4-5 slides): Your analytical work (market sizing, benchmarks, frameworks)
-5. **Recommendations** (3-4 slides): Specific, actionable recommendations with supporting rationale
-6. **Implementation Roadmap** (2 slides): How the company would execute
-7. **Expected Impact** (1-2 slides): Quantified value creation
+1. **Opening** (1 slide): Who you are, why you're reaching out, what you're offering
+2. **What I Noticed** (1-2 slides): Your outside-in insight (refined from P1)
+3. **The Opportunity** (2-3 slides): Your point of view (refined from P2)
+4. **What's at Stake** (1-2 slides): Quantified impact
+5. **The Ask** (1 slide): "I'd love 20 minutes to discuss [specific questions]. Would you be open to a conversation?"
 
-**Presentation (20 points)**
+**Appendix**: Put supporting detail—data tables, methodology notes, additional analysis—in an appendix. Keep the main deck tight and narrative-driven. A busy exec will skim the main slides; the appendix shows you've done the work if they want to dig deeper.
 
-Deliver a 10-minute presentation of your proposal followed by 5 minutes of Q&A.
+This deck should be tight enough to attach to a LinkedIn message or cold email. Every slide in the main deck earns its place.
 
-**Grading Rubric**
+**The Outreach**
+
+Send your deck to at least one person at your target company. This could be:
+
+- A LinkedIn message to someone in strategy, corp dev, or a relevant business unit
+- A cold email (if you can find a contact)
+- A warm intro through your network
+
+**What to Submit**
+
+1. Your final deck (PDF)
+2. Screenshot or copy of your outreach message
+3. Brief reflection (1 paragraph): What did you learn? What would you do differently?
+
+**Grading**
 
 | Component | Points |
 |-----------|--------|
-| Executive summary is compelling and clear | 10 |
-| Situation analysis demonstrates deep understanding | 15 |
-| Problem is well-defined with supporting evidence | 15 |
-| Analysis is rigorous and MECE | 20 |
-| Recommendations are specific and actionable | 15 |
-| Implementation and impact are realistic | 5 |
-| Presentation delivery is professional and clear | 15 |
-| Q&A responses demonstrate deep knowledge | 5 |
+| Deck quality (via [Feedback Form Rubric](#presentation-rubric), averaged) | 60 |
+| Submit feedback for all pod members | 20 |
+| Outreach completed + reflection | 20 |
 | **Total** | **100** |
+
+::: {.callout-note}
+## The Goal Is the Conversation, Not the Response
+
+You're not graded on whether they respond—that's out of your control. You're graded on the quality of your work and the courage to put it in front of a real professional. Some of you will get responses. Some won't. Both outcomes teach you something.
+:::
 
 ---
 
@@ -485,7 +777,7 @@ Deliver a 10-minute presentation of your proposal followed by 5 minutes of Q&A.
 
 ### Mid-Semester Feedback Survey
 
-If you complete this survey, we will take your lowest TA Pod Engagement score component and convert it to a perfect score.
+If you complete this survey, we will take your lowest Practice Interviews score component and convert it to a perfect score.
 
 [Survey Link - TBD]
 
