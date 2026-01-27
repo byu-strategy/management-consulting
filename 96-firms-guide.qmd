@@ -283,8 +283,53 @@ A searchable guide to consulting firms, with BYU-specific intel to help you find
   color: white;
 }
 
-.firm-type-badge.boutique {
+.firm-type-badge.boutiquestrategy {
   background: #374151;
+  color: white;
+}
+
+.firm-type-badge.economicconsulting {
+  background: #7c3aed;
+  color: white;
+}
+
+.firm-type-badge.restructuring {
+  background: #dc2626;
+  color: white;
+}
+
+.firm-type-badge.lifesciences {
+  background: #059669;
+  color: white;
+}
+
+.firm-type-badge.governmentdefense {
+  background: #0369a1;
+  color: white;
+}
+
+.firm-type-badge.hrtalent {
+  background: #d97706;
+  color: white;
+}
+
+.firm-type-badge.healthcare {
+  background: #0891b2;
+  color: white;
+}
+
+.firm-type-badge.technologydigital {
+  background: #4f46e5;
+  color: white;
+}
+
+.firm-type-badge.petransactionadvisory {
+  background: #be123c;
+  color: white;
+}
+
+.firm-type-badge.regionalniche {
+  background: #6b7280;
   color: white;
 }
 
@@ -1357,7 +1402,16 @@ A searchable guide to consulting firms, with BYU-specific intel to help you find
         <option value="">All</option>
         <option value="MBB">MBB</option>
         <option value="Big 4">Big 4</option>
-        <option value="Boutique">Boutique</option>
+        <option value="Boutique Strategy">Boutique Strategy</option>
+        <option value="Economic Consulting">Economic</option>
+        <option value="Restructuring">Restructuring</option>
+        <option value="Life Sciences">Life Sciences</option>
+        <option value="Government/Defense">Gov/Defense</option>
+        <option value="HR/Talent">HR/Talent</option>
+        <option value="Healthcare">Healthcare</option>
+        <option value="Technology/Digital">Tech/Digital</option>
+        <option value="PE/Transaction Advisory">PE/M&A</option>
+        <option value="Regional/Niche">Regional/Niche</option>
       </select>
     </div>
 
@@ -1652,7 +1706,7 @@ function getSizeLabel(employees) {
 }
 
 function renderFirmCard(firm) {
-  const typeClass = firm.type.toLowerCase().replace(' ', '');
+  const typeClass = firm.type.toLowerCase().replace(/[^a-z]/g, '');
   const pipelineClass = firm.byu?.pipeline || 'unknown';
   const sizeCategory = getSizeCategory(firm.employees);
   const hireLevel = getHireLevel(firm);
@@ -2036,7 +2090,16 @@ This directory includes firms that recruit management consultants, with a focus 
 
 - **MBB** — McKinsey, BCG, and Bain. The "Big Three" strategy consulting firms.
 - **Big 4** — The consulting/advisory arms of Deloitte, EY, PwC, and KPMG.
-- **Boutique** — Everyone else. Includes global strategy firms, industry specialists, and regional players. Size and focus vary widely.
+- **Boutique Strategy** — Global strategy firms outside MBB/Big 4 (Kearney, Oliver Wyman, L.E.K., etc.)
+- **Economic Consulting** — Expert testimony and litigation support (Analysis Group, NERA, Brattle, etc.)
+- **Restructuring** — Turnaround and crisis management (Alvarez & Marsal, AlixPartners, FTI)
+- **Life Sciences** — Pharma and healthcare commercial strategy (ZS, Putnam, DeciBio, ClearView)
+- **Government/Defense** — Federal consulting and public sector (Booz Allen, Guidehouse)
+- **HR/Talent** — Organizational and talent strategy (Mercer, Korn Ferry)
+- **Healthcare** — Provider and payer consulting (Huron, Chartis, Leavitt Partners)
+- **Technology/Digital** — Digital transformation and implementation (Accenture, Slalom, West Monroe)
+- **PE/Transaction Advisory** — Due diligence and deal support (Stax, Palm Tree)
+- **Regional/Niche** — Specialized or regional firms (Cicero, Bridgespan, etc.)
 
 **BYU Pipeline Strength:**
 
