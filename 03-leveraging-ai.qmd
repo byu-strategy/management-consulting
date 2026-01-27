@@ -337,10 +337,10 @@ Try these starter exercises:
 2. **Structure building**: "Help me create a MECE issue tree for [problem]"
 3. **Case practice**: "Give me a market sizing question and walk through it with me"
 
-::: {#activity-ai-amplifier .callout-tip collapse="true"}
-## Activity: AI as Your Operating Amplifier
+::: {#activity-ai-amplifier-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: AI-Powered Networking Prep
 
-### Recruiting: AI-powered networking prep
+*Supports: Networking Tracker*
 
 Use AI to prepare for networking conversations by researching the person and firm before you reach out.
 
@@ -365,8 +365,12 @@ Help me identify:
 - How I can be helpful or interesting to them (not just ask for things)
 - A natural way to follow up after the conversation
 ```
+:::
 
-### Client Work: Intro to Claude Code: 10-K analysis
+::: {#activity-ai-amplifier-client .callout-tip collapse="true"}
+## Client Work Activity: 10-K Analysis with AI
+
+*Supports: P1 Intelligence Brief*
 
 Learn to use AI to analyze financial filings and extract key insights from your target company's 10-K.
 
@@ -428,10 +432,10 @@ Summarize the key takeaways in 3-5 bullet points.
 | Communicate with brevity | Edit for conciseness, strengthen logic |
 | Prepare for stakeholders | Anticipate questions, practice responses |
 
-::: {#activity-ai-workflows .callout-tip collapse="true"}
-## Activity: AI Workflows & Team Norms
+::: {#activity-ai-workflows-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: Build Detailed Firm Research Profile
 
-### Recruiting: Build detailed firm research profile
+*Supports: Networking Tracker*
 
 Use AI to build a comprehensive research profile on your target firms, going deeper than surface-level information.
 
@@ -462,8 +466,12 @@ Based on all this research:
 
 Compile into a 2-page firm profile I can reference.
 ```
+:::
 
-### Client Work: Create structured company analysis template
+::: {#activity-ai-workflows-client .callout-tip collapse="true"}
+## Client Work Activity: Create Structured Company Analysis Template
+
+*Supports: P1 Intelligence Brief*
 
 Use AI to create a reusable template for analyzing companies throughout your project.
 

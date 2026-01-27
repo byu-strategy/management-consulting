@@ -26,10 +26,10 @@ Before defining a problem, you need to understand the current situation. What's 
 3. Ask "why" multiple times to get to root causes
 4. Separate symptoms from underlying issues
 
-::: {#activity-diagnose .callout-tip collapse="true"}
-## Activity: Diagnose the Current State
+::: {#activity-diagnose-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: Diagnose Firm Hiring Needs
 
-### Recruiting: Diagnose firm hiring needs
+*Supports: Practice Interviews*
 
 Use AI to analyze what firms actually look for in candidates by examining patterns in recent hires.
 
@@ -50,8 +50,12 @@ Help me diagnose what [FIRM NAME] actually looks for in candidates:
 
 My background: [BRIEF SUMMARY OF YOUR EXPERIENCE/EDUCATION]
 ```
+:::
 
-### Client Work: Diagnose company's strategic situation
+::: {#activity-diagnose-client .callout-tip collapse="true"}
+## Client Work Activity: Diagnose Company's Strategic Situation
+
+*Supports: P1 Intelligence Brief*
 
 Apply diagnostic thinking to understand what's happening with your target company and why.
 
@@ -73,10 +77,10 @@ Synthesize into a 1-paragraph diagnosis: "Company X is experiencing [symptoms] p
 ```
 :::
 
-::: {#activity-root-cause .callout-tip collapse="true"}
-## Activity: Root Cause Analysis
+::: {#activity-root-cause-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: Self-Assessment of Fit Gaps
 
-### Recruiting: Self-assessment of fit gaps
+*Supports: Resume, Practice Interviews*
 
 Conduct an honest self-assessment to diagnose where you're strong and where you have gaps relative to what firms want.
 
@@ -103,8 +107,12 @@ Help me conduct an honest self-assessment for consulting recruiting:
 
 Be direct—I need honest feedback, not encouragement.
 ```
+:::
 
-### Client Work: Five Whys root cause analysis
+::: {#activity-root-cause-client .callout-tip collapse="true"}
+## Client Work Activity: Five Whys Root Cause Analysis
+
+*Supports: P1 Intelligence Brief*
 
 Use the Five Whys technique to trace symptoms to their root causes.
 
@@ -152,10 +160,10 @@ A problem is a gap between where you are and where you want to be. A well-define
 - **Weak:** "We need to grow"
 - **Strong:** "Revenue has declined 15% over 2 years while the market grew 5%; we need to identify the root causes and develop a plan to return to market growth rates within 18 months"
 
-::: {#activity-define-problem .callout-tip collapse="true"}
-## Activity: Define the Problem
+::: {#activity-define-problem-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: Define the Gap to "Hireable You"
 
-### Recruiting: Define the gap from "you now" to "hireable you"
+*Supports: Resume*
 
 Apply problem definition to your recruiting journey by identifying the gap between where you are and where you need to be.
 
@@ -181,8 +189,12 @@ How will I know when I've closed each gap? What's the measurable target?
 
 Make sure my problem statement is specific, measurable, and doesn't presuppose a solution.
 ```
+:::
 
-### Client Work: Define the client's problem
+::: {#activity-define-problem-client .callout-tip collapse="true"}
+## Client Work Activity: Define the Client's Problem
+
+*Supports: P1 Intelligence Brief*
 
 Define the client's problem as the gap between current state and desired state.
 
@@ -226,69 +238,39 @@ Framing means establishing what's in scope vs. out, what success looks like, and
 - What constraints must we work within?
 - Who are the key stakeholders?
 
-::: {#activity-frame-decision .callout-tip collapse="true"}
-## Activity: Frame the Decision
+::: {#activity-frame-p2-scope .callout-tip collapse="true"}
+## Client Work Activity: Frame Your P2 Scope
 
-### Recruiting: Frame your recruiting scope
+*Supports: P2 Point of View*
 
-Frame your recruiting decision set: which firms are realistic targets, what constraints you're working within, and what success looks like.
-
-```bash
-Help me frame my consulting recruiting strategy:
-
-**Decision Set**
-What firms am I actually targeting? Be specific:
-- Tier 1 targets (dream firms):
-- Tier 2 targets (strong fit):
-- Tier 3 targets (backup options):
-
-**Explicitly Out of Scope**
-What am I NOT pursuing this cycle, and why?
-- Firm types I'm excluding:
-- Geographies I'm excluding:
-- Roles I'm excluding:
-
-**Constraints**
-- Timeline: [Key dates and deadlines]
-- Resources: [Time available per week, budget for travel, etc.]
-- Must-haves: [Non-negotiables in an offer]
-
-**Success Criteria**
-What does "success" look like for this recruiting cycle? (Be specific: # of interviews? Offer from X tier?)
-
-**Trade-offs I'm Making**
-What am I giving up by focusing this way? Am I comfortable with that?
-```
-
-### Client Work: Frame the client's decision
-
-Frame the client's strategic decision: what options are on the table, what criteria matter, and what constraints exist.
+Before forming your P2 hypothesis, frame what's in and out of scope. This prevents "boiling the ocean" and focuses your competitive analysis.
 
 ```bash
-Help me frame the strategic decision for [COMPANY NAME]:
+Help me frame the scope for my P2 Point of View on [COMPANY NAME]:
 
-**Decision Statement**
-What decision does the company need to make? Frame as: "Should the company [option A] or [option B] or [option C]?"
+**Strategic Question**
+What question will P2 answer? Frame as: "Should the company [option A] or [option B]?" or "How should the company [achieve X]?"
+
+**Scope Boundaries**
+- In scope: [What strategic areas am I analyzing?]
+- Out of scope: [What am I explicitly NOT addressing, and why?]
+- Why these boundaries? [What makes this scope manageable and meaningful?]
 
 **Success Criteria**
-How should they evaluate options? What matters most?
-- Financial criteria (ROI threshold, payback period)
-- Strategic criteria (market position, competitive advantage)
-- Operational criteria (feasibility, risk)
-- Rank these: What's the primary criterion?
+How will I know if my P2 recommendation is good?
+- Does it address a real strategic challenge?
+- Is it actionable (not just "interesting")?
+- Can I support it with competitive evidence?
 
 **Constraints**
-- Budget/investment limits
-- Timeline requirements
-- Organizational constraints (capabilities, culture, politics)
-- External constraints (regulatory, competitive)
-
-**Scope**
-- In scope: [What we're analyzing]
-- Out of scope: [What we're explicitly NOT addressing, and why]
+- Data availability: [What can I actually find?]
+- Timeline: [P2 due date]
+- Scope of analysis: [2-3 competitors max for meaningful comparison]
 
 **Key Stakeholders**
-Who needs to be convinced? What do they care about?
+If this were a real engagement, who would need to be convinced?
+- CEO/Board: [What do they care about?]
+- Functional leaders: [What concerns would they raise?]
 ```
 :::
 
@@ -327,10 +309,10 @@ For your hypothesis to be right, certain things must be true. Make these explici
 4. Prioritize: which are most uncertain? Most impactful if wrong?
 5. Design tests for the most critical ones
 
-::: {#activity-hypothesize .callout-tip collapse="true"}
-## Activity: Hypothesize & WWHTBT
+::: {#activity-hypothesize-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: "I'm the Right Hire Because..."
 
-### Recruiting: "I'm the right hire because..." + critical assumptions
+*Supports: Practice Interviews (Behavioral)*
 
 State your Day-1 hypothesis about why you're the right hire, then articulate what would have to be true for that to be correct.
 
@@ -362,8 +344,12 @@ Which of these am I most uncertain about?
 **Refining**
 Based on this analysis, should I adjust my hypothesis? What's my sharpened value proposition?
 ```
+:::
 
-### Client Work: Day-1 hypothesis + what would have to be true
+::: {#activity-hypothesize-client .callout-tip collapse="true"}
+## Client Work Activity: Day-1 Hypothesis & WWHTBT
+
+*Supports: P2 Point of View*
 
 Develop a Day-1 hypothesis for your target company and articulate the critical assumptions that would have to be true.
 
@@ -455,10 +441,10 @@ Equally important: know what NOT to analyze.
 
 For any potential analysis, ask: "If we knew the answer, would it change our recommendation?" If no, skip it.
 
-::: {#activity-mece .callout-tip collapse="true"}
-## Activity: MECE & Prioritization
+::: {#activity-mece-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: MECE-Structure Resume Proof Points
 
-### Recruiting: MECE-structure resume proof points
+*Supports: Resume*
 
 Structure your resume using MECE logic to ensure your proof points are distinct and comprehensive.
 
@@ -491,47 +477,54 @@ Rewrite my top 5 bullets to be MECE and impactful.
 **Gap Fillers**
 If I have competency gaps, what experiences could I add or reframe?
 ```
+:::
 
-### Client Work: Build MECE issue tree; prioritize branches
+::: {#activity-mece-capstone .callout-tip collapse="true"}
+## Client Work Activity: Build Issue Tree for Capstone
 
-Build a MECE issue tree for your hypothesis and prioritize which branches to analyze first.
+*Supports: Capstone Presentation*
+
+Build a comprehensive MECE issue tree for your Capstone recommendation. This structures your entire analysis and ensures you've covered all critical questions.
 
 ```bash
-Help me build a MECE issue tree for my hypothesis about [COMPANY NAME]:
+Help me build a MECE issue tree for my Capstone on [COMPANY NAME]:
 
-**Hypothesis**: [Your Day-1 hypothesis]
+**Central Recommendation**: [Your hypothesis for what the company should do]
 
 **Issue Tree Structure**
 Break this into 3-4 main branches (MECE at each level):
 
-Branch 1: [First major question to answer]
-  - Sub-issue 1.1
-  - Sub-issue 1.2
-  - Sub-issue 1.3
+Branch 1: [Market/External Analysis]
+  - Sub-issue 1.1: Market size and growth
+  - Sub-issue 1.2: Competitive dynamics
+  - Sub-issue 1.3: Industry trends
 
-Branch 2: [Second major question]
-  - Sub-issue 2.1
-  - Sub-issue 2.2
+Branch 2: [Company Capabilities]
+  - Sub-issue 2.1: Current strengths
+  - Sub-issue 2.2: Gaps to fill
+  - Sub-issue 2.3: Resource requirements
 
-Branch 3: [Third major question]
-  - Sub-issue 3.1
-  - Sub-issue 3.2
+Branch 3: [Financial Impact]
+  - Sub-issue 3.1: Investment required
+  - Sub-issue 3.2: Expected returns
+  - Sub-issue 3.3: Risk factors
+
+Branch 4: [Implementation]
+  - Sub-issue 4.1: Timeline and milestones
+  - Sub-issue 4.2: Key dependencies
 
 **MECE Check**
 - Are the branches mutually exclusive (no overlaps)?
 - Are they collectively exhaustive (nothing missing)?
-- Is each level MECE?
+- Does each branch ladder up to supporting/testing the recommendation?
 
-**Prioritization**
-Which branches/issues are most critical to test first? (Highest uncertainty + highest impact on the answer)
+**Prioritization for Capstone**
+Given your timeline, which branches are "must-have" vs. "nice-to-have"?
+- Must analyze: [Critical to the recommendation]
+- Could skip: [Interesting but won't change the answer]
 
-**Exclusion (The "So What" Test)**
-For each low-priority branch, ask: "If I knew the answer, would it change my recommendation?"
-- Which issues should I explicitly NOT analyze? Why?
-- What analyses would be interesting but wouldn't change the decision?
-- State what's out of scope and why.
-
-Visualize the prioritized issue tree, marking which branches are in scope vs. explicitly excluded.
+**Mapping to Capstone Slides**
+How does each branch translate into your presentation structure?
 ```
 :::
 

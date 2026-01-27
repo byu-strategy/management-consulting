@@ -203,10 +203,10 @@ For BYU sophomores targeting summer 2027 internships:
 
 Early engagement matters. Start networking now, even if applications seem far away.
 
-::: {#activity-getting-started .callout-tip collapse="true"}
-## Activity: Getting Started
+::: {#activity-getting-started-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: Research Target Firms
 
-### Recruiting: Research Target Firms
+*Supports: Networking Tracker*
 
 Your first task is to understand the consulting landscape and identify firms that match your interests and goals. Using what you learned about firm types (MBB, Big Four, boutiques), research 2-3 firms you're considering.
 
@@ -235,8 +235,12 @@ I'm starting to research consulting firms for recruiting. Help me build a profil
 
 Compile this into a 1-page firm profile I can reference throughout recruiting.
 ```
+:::
 
-### Client Work: Select Your Target Company
+::: {#activity-getting-started-client .callout-tip collapse="true"}
+## Client Work Activity: Select Your Target Company
+
+*Supports: P1 Intelligence Brief*
 
 For your semester project, you'll analyze a real company using outside-in research. Today, evaluate whether a company you're interested in is a good fit for the project.
 

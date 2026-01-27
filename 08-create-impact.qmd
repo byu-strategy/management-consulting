@@ -54,10 +54,10 @@ Start with the answer, then support it with evidence.
 - **D**ifferentiation: What made your approach unique?
 - **E**vidence: Quantify where possible
 
-::: {#activity-storylines .callout-tip collapse="true"}
-## Activity: Storylines—Pyramid & SCQA
+::: {#activity-storylines-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: PARADE Structure for Behavioral Stories
 
-### Recruiting: PARADE structure—build first behavioral story
+*Supports: Practice Interviews (Behavioral)*
 
 Build your first complete behavioral story using the PARADE framework.
 
@@ -104,10 +104,14 @@ What numbers demonstrate the impact?
 - Does it demonstrate the competency clearly?
 - What would make it stronger?
 ```
+:::
 
-### Client Work: SCQA—structure your analysis storyline
+::: {#activity-storylines-client .callout-tip collapse="true"}
+## Client Work Activity: SCQA for P2 Storyline
 
-Use SCQA to structure the storyline for your analysis.
+*Supports: P2 Point of View*
+
+Use SCQA to structure the storyline for your P2 Point of View.
 
 ```bash
 Help me structure my analysis storyline using SCQA:
@@ -179,10 +183,10 @@ Executives are busy. Communicate with clarity and concision.
 
 If you were interrupted after 30 seconds, would they know your main point? Structure every communication so the answer comes first.
 
-::: {#activity-executive-brevity .callout-tip collapse="true"}
-## Activity: Executive Brevity
+::: {#activity-executive-brevity-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: Crisp 2-Minute Behavioral Answers
 
-### Recruiting: Behavioral delivery—crisp 2-minute answers
+*Supports: Practice Interviews (Behavioral)*
 
 Practice delivering your behavioral stories with crisp, confident, 2-minute answers.
 
@@ -220,8 +224,12 @@ Rate my story on:
 
 What one change would most improve delivery?
 ```
+:::
 
-### Client Work: Present recommendations—30-sec and 2-min versions
+::: {#activity-executive-brevity-client .callout-tip collapse="true"}
+## Client Work Activity: 30-Second and 2-Minute Recommendations
+
+*Supports: Capstone Presentation*
 
 Practice presenting your recommendations at different lengths for different contexts.
 
@@ -259,10 +267,10 @@ Draft my 2-minute version:
 ```
 :::
 
-::: {#activity-confident-delivery .callout-tip collapse="true"}
-## Activity: Confident Delivery
+::: {#activity-confident-delivery-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: Behavioral Interview Simulation
 
-### Recruiting: Behavioral interview simulation
+*Supports: Practice Interviews (Behavioral)*
 
 Practice a full behavioral interview with AI feedback.
 
@@ -296,15 +304,19 @@ After all 5 questions:
 - Did I come across as confident and authentic?
 - What would make my answers more compelling?
 ```
+:::
 
-### Client Work: P3 workshop—5-slide executive presentation
+::: {#activity-confident-delivery-client .callout-tip collapse="true"}
+## Client Work Activity: Capstone Structure Workshop
 
-Apply communication principles to create your P3 Value-Add Hypothesis presentation.
+*Supports: Capstone Presentation*
+
+Apply communication principles to structure your Capstone presentation.
 
 ```bash
-Help me create my P3 Value-Add Hypothesis presentation for [COMPANY NAME]:
+Help me create my Capstone presentation structure for [COMPANY NAME]:
 
-**P3 Requirements**
+**Capstone Requirements**
 5-slide deck:
 1. Executive Summary
 2. Problem/Opportunity
@@ -373,10 +385,10 @@ Different audiences need different messages. Know your stakeholders.
 3. Frame recommendations in their terms
 4. Address objections before they're raised
 
-::: {#activity-tailor-pushback .callout-tip collapse="true"}
-## Activity: Tailor & Handle Pushback
+::: {#activity-tailor-pushback-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: Handle Difficult Fit Questions
 
-### Recruiting: Handle difficult fit questions with poise
+*Supports: Practice Interviews (Fit)*
 
 Practice handling difficult or unexpected behavioral questions with confidence.
 
@@ -414,8 +426,12 @@ Help me avoid:
 - Giving non-answers
 - Going too long
 ```
+:::
 
-### Client Work: Prewiring practice; Yes-No-Yes for objections
+::: {#activity-tailor-pushback-client .callout-tip collapse="true"}
+## Client Work Activity: Prewiring & Yes-No-Yes for Objections
+
+*Supports: Capstone Presentation*
 
 Practice prewiring stakeholders and handling objections using the Yes-No-Yes framework.
 
@@ -481,10 +497,10 @@ $$Trust = \frac{Credibility + Reliability + Intimacy}{Self\text{-}Orientation}$$
 | **Intimacy** | Listen; remember personal details; be human |
 | **Low Self-Orientation** | Focus on their success, not your credit |
 
-::: {#activity-build-trust .callout-tip collapse="true"}
-## Activity: Trust Equation & Build Trust
+::: {#activity-build-trust-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: Trust Equation for Networking & Fit Interviews
 
-### Recruiting: Apply Trust Equation to networking & interviews
+*Supports: Networking Tracker, Practice Interviews (Fit)*
 
 Use the Trust Equation to prepare for networking conversations and fit interviews.
 
@@ -521,20 +537,17 @@ Help me prepare for a networking conversation using the Trust Equation:
 Help me plan specific talking points that maximize trust.
 ```
 
-### Recruiting: Fit interviews—demonstrate character & judgment
+**Character Dimensions for Fit Interviews**
 
-Prepare for fit interviews by demonstrating character, judgment, and cultural alignment.
-
-```bash
-Help me prepare to demonstrate character and judgment in fit interviews:
-
-**Character Dimensions**
 Consulting firms evaluate:
 - Integrity: Do you do the right thing?
 - Judgment: Do you make good decisions?
 - Humility: Can you admit mistakes?
 - Resilience: How do you handle adversity?
 - Curiosity: Are you genuinely interested in learning?
+
+```bash
+Help me prepare to demonstrate character and judgment in fit interviews:
 
 **Story Mapping**
 For each dimension, identify a story that demonstrates it:
@@ -558,7 +571,40 @@ Let me practice answering fit questions. Give me one at a time and provide feedb
 - Did I come across as someone they'd want on their team?
 ```
 
-### Client Work: Stakeholder trust—map concerns, apply Trust Equation
+**Group Settings: Info Sessions & Group Interviews**
+
+In group settings, firms evaluate how you work with others. Apply the Trust Equation while demonstrating collaboration:
+
+```bash
+Help me prepare for a group recruiting event:
+
+**Event Context**
+- Type: [Info session / Group case / Networking event]
+- Format: [What will happen]
+
+**Trust Equation in Groups**
+- Credibility: Contribute substantively, but don't dominate
+- Reliability: Follow through on any commitments made in the room
+- Intimacy: Build genuine connections, not transactional ones
+- Low Self-Orientation: Help the group succeed; build on others' ideas
+
+**Collaboration Signals**
+What behaviors will show I'm a team player?
+- Active listening: [How I'll show engagement]
+- Building on ideas: [Phrases like "Building on what X said..."]
+- Supporting others: [How I'll acknowledge good points]
+- Leading when needed: [How I'll step up appropriately]
+
+**If Attending with Classmates**
+- How can we support each other without looking rehearsed?
+- How do we avoid competing or undermining each other?
+```
+:::
+
+::: {#activity-build-trust-client .callout-tip collapse="true"}
+## Client Work Activity: Stakeholder Trust Mapping
+
+*Supports: Capstone Presentation*
 
 Map stakeholder concerns and develop a plan to build trust.
 
@@ -653,10 +699,10 @@ In consulting, you rarely present alone. Teams must be aligned.
 3. **Support each other**: No contradictions or surprises
 4. **One voice**: Consistent framing and recommendations
 
-::: {#activity-coordinate-team .callout-tip collapse="true"}
-## Activity: Coordinate as a Team
+::: {#activity-coordinate-team-client .callout-tip collapse="true"}
+## Client Work Activity: Capstone Team Coordination
 
-### Client Work: Capstone team coordination—unified narrative, handoffs
+*Supports: Capstone Presentation*
 
 Coordinate with your capstone team to create a unified presentation with smooth handoffs.
 
@@ -737,10 +783,10 @@ The best consultants constantly improve through feedback.
 - Asking for feedback (not waiting for it)
 - Openness to being wrong
 
-::: {#activity-seek-feedback .callout-tip collapse="true"}
-## Activity: Seek & Apply Feedback
+::: {#activity-seek-feedback-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: Process Interview Feedback
 
-### Recruiting: Process mock interview feedback; build improvement plan
+*Supports: Practice Interviews*
 
 Process feedback from mock interviews and create a structured improvement plan.
 
@@ -798,8 +844,12 @@ Area 3: [Issue]
 - Next week I'll focus on:
 - Before my real interviews I'll:
 ```
+:::
 
-### Client Work: Revise deliverables based on input
+::: {#activity-seek-feedback-client .callout-tip collapse="true"}
+## Client Work Activity: Revise Deliverables Based on Feedback
+
+*Supports: P1, P2, Capstone*
 
 Practice incorporating feedback to improve your deliverables.
 

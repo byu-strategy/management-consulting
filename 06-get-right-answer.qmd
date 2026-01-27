@@ -56,10 +56,10 @@ $$Trust = \frac{Credibility + Reliability + Intimacy}{Self\text{-}Orientation}$$
 - **Intimacy**: Can they be vulnerable with you?
 - **Self-Orientation**: Are you in it for you or them?
 
-::: {#activity-outside-in .callout-tip collapse="true"}
-## Activity: Build an Outside-In Fact Base
+::: {#activity-outside-in-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: Research Firms and People Before Outreach
 
-### Recruiting: Research firms, roles, and people before outreach
+*Supports: Networking Tracker*
 
 Build a comprehensive fact base on your target firms and the people you'll network with.
 
@@ -89,8 +89,12 @@ Based on this research:
 - What aspects of my background should I highlight?
 - What can I offer or share that might be valuable to them?
 ```
+:::
 
-### Client Work: Build fact base: financials, strategy, competitors, news
+::: {#activity-outside-in-client .callout-tip collapse="true"}
+## Client Work Activity: Build Fact Base for P1
+
+*Supports: P1 Intelligence Brief*
 
 Systematically gather outside-in data on your target company from public sources.
 
@@ -168,10 +172,10 @@ Before building complex models, do quick math to establish reasonable ranges.
 - Cups per day: ~2 = ~2M cups/day
 - Add commuters/tourists: +50% = ~3M cups/day
 
-::: {#activity-quick-math .callout-tip collapse="true"}
-## Activity: Quick Math & Estimation
+::: {#activity-quick-math-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: Market Sizing Under Pressure
 
-### Recruiting: Case—market sizing under pressure
+*Supports: Practice Interviews (Case)*
 
 Practice market sizing with explicit assumptions under interview-like time pressure.
 
@@ -196,43 +200,50 @@ Once I share my approach:
 **Practice Variant**
 Give me a follow-up question that tests my assumptions or pushes on a different angle.
 ```
+:::
 
-### Client Work: Size opportunities with explicit assumptions
+::: {#activity-quick-math-p2 .callout-tip collapse="true"}
+## Client Work Activity: Size the Strategic Opportunity for P2
 
-Apply market sizing to estimate the opportunity size for your target company.
+*Supports: P2 Point of View*
+
+Quantify the opportunity or impact of your P2 recommendation. A compelling POV needs numbers.
 
 ```bash
-Help me size a specific opportunity for [COMPANY NAME]:
+Help me size the strategic opportunity for my P2 on [COMPANY NAME]:
 
-**Opportunity to Size**
-[Describe: e.g., "market for their new product line," "revenue potential of geographic expansion," "addressable market for a new service"]
+**What I'm Sizing**
+[Describe: e.g., "revenue potential from entering new segment," "cost savings from operational improvement," "market share gain from competitive repositioning"]
+
+**Why This Matters for P2**
+How does this sizing support my P2 recommendation?
 
 **Sizing Approach**
 1. **Top-Down Approach**
-   - Start with total market size
-   - Apply relevant filters to reach addressable market
-   - Estimate company's realistic capture
+   - Total addressable market: [Size]
+   - Serviceable market (realistic filters): [Size]
+   - Company's realistic capture: [% and $]
 
 2. **Bottom-Up Approach**
-   - Identify key drivers (customers, units, price)
-   - Estimate each driver with explicit assumptions
-   - Build up to total opportunity
+   - Key drivers: [customers × units × price]
+   - Estimate each with explicit assumptions
+   - Build to total opportunity
 
 **My Assumptions**
 For each key assumption:
 - State the assumption
-- Explain the rationale
-- Note the confidence level (high/medium/low)
-- Identify what data would validate it
+- Rationale (where does this come from?)
+- Confidence level (high/medium/low)
+- What data would validate it?
 
-**Sensitivity Analysis**
+**Sensitivity Check**
 - What are the 2-3 assumptions that most affect the answer?
-- What's the range if those assumptions are wrong by 50%?
+- What's the range if key assumptions are off by 50%?
 
-**Conclusion**
+**P2 Integration**
 - What's my point estimate?
-- What's the realistic range?
-- Is this a "big enough" opportunity to matter for the company?
+- Is this opportunity "big enough" to warrant the company's attention?
+- How does this strengthen my P2 recommendation?
 ```
 :::
 
@@ -281,10 +292,10 @@ Analysis isn't done until you've answered the question. "So what?" is the most i
 
 Always climb to recommendations.
 
-::: {#activity-synthesize .callout-tip collapse="true"}
-## Activity: Synthesize—From Data to Insight
+::: {#activity-synthesize-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: Case—Driving to a Recommendation
 
-### Recruiting: Case—driving to a recommendation
+*Supports: Practice Interviews (Case)*
 
 Practice the full synthesis arc in a case interview context: moving from data to insight to recommendation.
 
@@ -308,8 +319,12 @@ Once I share my synthesis:
 **Pressure Test**
 Ask me a follow-up question that challenges my synthesis or pushes for deeper insight.
 ```
+:::
 
-### Client Work: Synthesize research into "so what" insights
+::: {#activity-synthesize-client .callout-tip collapse="true"}
+## Client Work Activity: Synthesize Research into Insights
+
+*Supports: P1 Intelligence Brief, P2 Point of View*
 
 Take your fact base and research and synthesize it into actionable insights.
 
@@ -344,10 +359,10 @@ Write a 3-sentence synthesis:
 ```
 :::
 
-::: {#activity-synthesis-workshop .callout-tip collapse="true"}
-## Activity: Synthesis Workshop
+::: {#activity-synthesis-workshop-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: Rapid Synthesis Exercises
 
-### Recruiting: Rapid synthesis exercises
+*Supports: Practice Interviews (Case)*
 
 Practice synthesizing quickly under time pressure—a critical case interview skill.
 
@@ -372,10 +387,14 @@ For each exercise:
 - What did I miss?
 - How could I improve?
 ```
+:::
 
-### Client Work: P1 workshop—1-page diagnostic
+::: {#activity-synthesis-workshop-client .callout-tip collapse="true"}
+## Client Work Activity: P1 Workshop—1-Page Diagnostic
 
-Apply synthesis skills to create your P1 Company Diagnostic deliverable.
+*Supports: P1 Intelligence Brief*
+
+Apply synthesis skills to create your P1 Intelligence Brief deliverable.
 
 ```bash
 Help me draft my 1-page Company Diagnostic for [COMPANY NAME]:

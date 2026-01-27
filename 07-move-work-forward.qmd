@@ -36,89 +36,102 @@ Convert your structured thinking into a concrete plan with owners, deliverables,
 
 Start each day and week with explicit plans.
 
-::: {#activity-workplan .callout-tip collapse="true"}
-## Activity: Create a Workplan
+::: {#activity-workplan-networking .callout-tip collapse="true"}
+## Recruiting Activity: Plan Your Networking Campaign
 
-### Recruiting: Build recruiting workplan with milestones
+*Supports: Networking Tracker (5 conversations required)*
 
-Create a comprehensive recruiting workplan with specific milestones and deadlines.
+Build the networking plan that will feed your Networking Tracker deliverable. You need 5 documented conversations—this activity helps you plan how to get there.
 
 ```bash
-Help me build a recruiting workplan for the next [X weeks/months]:
+Help me plan my networking campaign for my Networking Tracker:
 
-**My Recruiting Goals**
-- Target firms: [List your target firms by tier]
-- Target timeline: [When do applications open? Close?]
-- Current status: [Where am I now?]
+**Networking Goal**
+- Required: 5 documented networking conversations
+- My target: [Aim higher—how many do you want?]
+- Timeline: Conversations due by end of semester
 
-**Workstream 1: Networking**
-- Target contacts per week:
-- Key milestones:
-- Specific actions by week:
+**Target List (Prioritized)**
+Who will I reach out to? Prioritize by:
+1. Warm connections (alumni, referrals): [List 3-5]
+2. Firm events and info sessions: [Upcoming dates]
+3. Cold outreach (LinkedIn, email): [Target roles/firms]
 
-**Workstream 2: Resume**
-- Key milestones (v1, v2, final):
-- Feedback cycles planned:
-- Deadlines:
+**Weekly Networking Milestones**
+- Week 1-2: [# of outreach attempts, # of scheduled conversations]
+- Week 3-4: [# of conversations completed]
+- Week 5-6: [# of conversations completed]
+- Buffer weeks: [Catch-up if behind]
 
-**Workstream 3: Case Practice**
-- Target cases per week:
-- Practice partners:
-- Milestones (# of cases, mock interviews):
+**Outreach Templates**
+Draft a short outreach message I can customize:
+- For BYU alumni:
+- For firm recruiters:
+- For LinkedIn cold outreach:
 
-**Workstream 4: Applications**
-- Application deadlines by firm:
-- Materials needed for each:
-- Prep timeline:
+**Tracking System**
+For each conversation, I'll document:
+- Name, company, role
+- Date of conversation
+- Key insights learned
+- Follow-up actions taken
 
-**Weekly POW Template**
-Create a template I can use each week with:
-- This week's priority tasks
-- Status on each workstream
-- Risks or blockers
-- Help needed
+**Risk Mitigation**
+What if people don't respond? My backup plan:
 ```
+:::
 
-### Client Work: Build project workplan: analyses, data, timeline
+::: {#activity-workplan-client .callout-tip collapse="true"}
+## Client Work Activity: Build Workplan for P2 and Capstone
 
-Create a workplan for your semester project with clear deliverables and deadlines.
+*Supports: P2 Point of View, Capstone Presentation*
+
+Create a workplan connecting your P2 competitive benchmark to your Capstone recommendation.
 
 ```bash
 Help me build a project workplan for [COMPANY NAME]:
 
-**Project Goals**
-- Final deliverable: Capstone Presentation
-- Intermediate deliverables: P1 (diagnostic), P2 (benchmark), P3 (hypothesis)
-- Key constraints: [Timeline, team size, data access]
+**Project Overview**
+- P2 (Point of View): Competitive benchmark with strategic implications
+- Capstone: Full recommendation presentation
+- Key constraints: [Timeline, data access, team coordination]
 
-**Workstream Structure**
-For each deliverable, define:
+**P2 Workplan (Due: [Date])**
 
-1. **P1: Company Diagnostic (Due: Week 8)**
-   - Key analyses needed:
-   - Data sources to gather:
-   - Milestones by week:
+*Week 1: Competitive Landscape*
+- Identify 2-3 key competitors
+- Gather public data (10-Ks, earnings calls, news)
+- Milestone: Competitor profiles drafted
 
-2. **P2: Competitive Benchmark (Due: Week 10)**
-   - Key analyses needed:
-   - Data sources to gather:
-   - Milestones by week:
+*Week 2: Benchmark Analysis*
+- Define 4-6 comparison metrics
+- Build comparison table/visualization
+- Milestone: Benchmark data complete
 
-3. **P3: Value-Add Hypothesis (Due: Week 12)**
-   - Key analyses needed:
-   - Data sources to gather:
-   - Milestones by week:
+*Week 3: Strategic Implications*
+- Synthesize "so what" from benchmark
+- Draft P2 slides with action titles
+- Milestone: P2 draft ready for feedback
 
-4. **Capstone (Due: Week 15)**
-   - Integration work needed:
-   - Presentation prep:
-   - Milestones:
+**Capstone Workplan (Due: [Date])**
+
+*Building on P2:*
+- How does P2 competitive analysis feed into Capstone recommendation?
+- What additional analysis is needed beyond P2?
+
+*Key Capstone Milestones:*
+- Week X: Recommendation hypothesis finalized
+- Week Y: Supporting analysis complete
+- Week Z: Slides drafted
+- Week Z+1: Rehearsal and polish
 
 **Dependencies**
-What needs to be done before what? Flag critical path items.
+What from P2 must be done before Capstone work can start?
 
 **Risk Register**
-What could go wrong? What's the mitigation?
+- Data availability risk: [Mitigation]
+- Timeline risk: [Mitigation]
+- Quality risk: [Mitigation]
 ```
 :::
 
@@ -145,81 +158,90 @@ Take full responsibility for your piece, from question to answer, not just task 
 - Handing off incomplete work
 - Letting things fall through cracks
 
-::: {#activity-own-workstream .callout-tip collapse="true"}
-## Activity: Own Your Workstream
+::: {#activity-ta-session-prep .callout-tip collapse="true"}
+## Recruiting Activity: Prepare for TA Session Check-in
 
-### Recruiting: Own job search—audit progress, build accountability
+*Supports: Practice Interviews (TA Sessions)*
 
-Audit your recruiting progress and build systems for accountability.
+Prepare for your TA interview session by auditing your progress and identifying areas for feedback.
 
 ```bash
-Help me audit and own my recruiting job search:
+Help me prepare for my upcoming TA session:
 
-**Progress Audit**
-For each workstream, assess where I am:
+**Progress Since Last Check-in**
+1. **Case Practice**
+   - Cases completed: [#] (target was [#])
+   - Areas where I've improved:
+   - Areas still struggling:
+   - Specific feedback I've received:
 
-1. **Networking**
-   - Conversations completed: [#]
-   - Target: [#]
-   - Quality of conversations: [High/Medium/Low]
-   - Follow-ups pending: [List]
+2. **Behavioral Stories**
+   - Stories I've polished:
+   - Stories that need work:
+   - Feedback themes I've heard:
 
-2. **Resume**
-   - Current version: [v1/v2/final]
-   - Feedback received: [Yes/No]
-   - Action items remaining: [List]
+3. **Networking**
+   - Conversations completed: [#] toward Networking Tracker
+   - Key insights learned:
+   - Follow-ups pending:
 
-3. **Case Practice**
-   - Cases completed: [#]
-   - Target: [#]
-   - Areas of strength: [List]
-   - Areas for improvement: [List]
+4. **Resume**
+   - Current version: [v1/v2]
+   - Changes made since last version:
 
-4. **Applications**
-   - Deadlines coming up: [List]
-   - Materials ready: [Yes/No]
-   - Gaps to fill: [List]
+**Self-Assessment Against Goals**
+Looking at my Goals Worksheet:
+- Goal 1: [Status - on track / behind / ahead]
+- Goal 2: [Status]
+- Goal 3: [Status]
 
-**Ownership Gaps**
-- What's falling through the cracks?
-- Where am I waiting for others instead of driving?
-- What am I avoiding?
+**What I Want Feedback On**
+In this TA session, I specifically want help with:
+1. [Specific case skill or behavioral story]
+2. [Specific area of concern]
 
-**Accountability System**
-Help me design:
-- Weekly check-in structure
-- Tracking system for progress
-- Commitment devices to stay on track
+**Questions for My TA**
+- [Question about recruiting strategy]
+- [Question about interview technique]
+
+**Honest Assessment**
+- What am I avoiding or procrastinating on?
+- Where do I need to push harder?
 ```
+:::
 
-### Client Work: Practice status updates—own the insight, not just tasks
+::: {#activity-p2-progress .callout-tip collapse="true"}
+## Client Work Activity: P2 Progress Updates
 
-Practice giving status updates that demonstrate ownership of insights, not just task completion.
+*Supports: P2 Point of View*
+
+Practice giving status updates on your P2 that demonstrate ownership of insights, not just task completion.
 
 ```bash
-Help me practice owning my workstream through status updates:
+Help me write a P2 progress update:
 
-**Current Project Status**
-[Describe where you are on your current deliverable]
+**Current P2 Status**
+- Overall: [On track / At risk / Behind]
+- Competitive landscape: [% complete]
+- Benchmark analysis: [% complete]
+- Strategic implications: [% complete]
 
 **Reframe: From Tasks to Insights**
-Instead of: "I completed the financial analysis"
-Practice: "The financial analysis revealed [insight] which means [implication]"
+Instead of: "I researched three competitors"
+Practice: "Competitor analysis revealed [insight] which suggests [implication for my company]"
 
-**Status Update Exercise**
-Write a 5-bullet status update for your TA/manager:
-1. **Status**: [On track / At risk / Behind]
-2. **Key Insight**: What have you learned?
-3. **Progress**: What did you accomplish (framed as insights gained)?
-4. **Issues**: What's blocking you?
-5. **Next Steps**: What will you deliver next?
+**P2 Progress Update (5 bullets)**
+1. **Status**: Where am I relative to P2 deadline?
+2. **Key Insight**: What's the most important thing I've learned about the competitive landscape?
+3. **Progress**: What analysis have I completed (framed as insights gained)?
+4. **Issues**: What's blocking me or creating uncertainty?
+5. **Next Steps**: What will I complete before the next check-in?
 
-**Feedback**
-Review my update:
-- Does it show ownership of the answer, not just tasks?
-- Is the insight clear and actionable?
-- Would a manager feel informed and confident?
-- What would make this update stronger?
+**Quality Check**
+- Does this update show I understand the competitive dynamics, not just that I gathered data?
+- Is my emerging "so what" clear?
+- Would my TA feel confident I'm on track?
+- What would make this P2 stronger?
 ```
 :::
 
@@ -296,10 +318,10 @@ Keep your manager informed with updates that surface what they need to know.
 
 Keep it brief. One page. One minute.
 
-::: {#activity-manage-up .callout-tip collapse="true"}
-## Activity: Manage Up
+::: {#activity-manage-up-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: Prepare Concise TA Update
 
-### Recruiting: Prepare concise TA update
+*Supports: Practice Interviews (TA Sessions)*
 
 Practice managing up by preparing a concise update for your TA.
 
@@ -339,10 +361,14 @@ Using the 5-part structure, draft my update:
 **Practice Delivery**
 Help me refine this to be crisp and confident.
 ```
+:::
 
-### Client Work: P2 workshop—competitive benchmark
+::: {#activity-manage-up-client .callout-tip collapse="true"}
+## Client Work Activity: P2 Workshop—Competitive Benchmark
 
-Apply managing up skills while working on your P2 Competitive Benchmark deliverable.
+*Supports: P2 Point of View*
+
+Apply managing up skills while working on your P2 Point of View deliverable.
 
 ```bash
 Help me prepare my P2 Competitive Benchmark for [COMPANY NAME]:
@@ -402,10 +428,10 @@ Perfect information never arrives. Move forward with what you have.
 
 You can often get 80% of the insight with 20% of the work. Know when "good enough" is good enough.
 
-::: {#activity-move-without-certainty .callout-tip collapse="true"}
-## Activity: Move Without Certainty
+::: {#activity-move-without-certainty-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: Navigate Ambiguous Case Prompts
 
-### Recruiting: Case—navigate ambiguous prompts
+*Supports: Practice Interviews (Case)*
 
 Practice making progress on ambiguous case prompts without asking for more data.
 
@@ -429,40 +455,47 @@ Once I share my approach:
 **Follow-Up Pressure**
 Give me a follow-up that increases ambiguity or uncertainty. Help me practice staying confident while acknowledging limitations.
 ```
+:::
 
-### Client Work: Make analytical calls with incomplete data
+::: {#activity-p2-incomplete-data .callout-tip collapse="true"}
+## Client Work Activity: Make Calls with Incomplete P2 Data
 
-Practice making analytical calls when you don't have all the data you'd like.
+*Supports: P2 Point of View*
+
+Competitive benchmarking often has data gaps. Practice making analytical calls when you can't find everything you'd like.
 
 ```bash
-Help me practice making analytical calls with incomplete data:
+Help me make analytical calls for P2 with incomplete data:
 
-**My Current Analysis**
-[Describe an analysis you're working on where you're missing data]
+**My P2 Data Gap**
+[Describe what competitive data you're missing: e.g., "competitor's margin breakdown," "market share by segment," "private company financials"]
 
 **What I Have**
-- Available data: [List]
-- Data I wish I had: [List]
-- Proxies I could use: [List]
+- Available data: [List what you found]
+- Data I wish I had: [List what's missing]
+- Why it's missing: [Private company? Not disclosed? Too old?]
+
+**Finding Proxies**
+- Industry averages I could use:
+- Similar public company data:
+- Analyst estimates or reports:
+- Logical inferences from other data:
 
 **Making the Call**
-Help me:
-1. **State assumptions explicitly**: What am I assuming in the absence of data?
-2. **Use reasonable proxies**: What similar data can I use?
-3. **Bound the answer**: What's the range of possible outcomes?
-4. **Identify the sensitivity**: What assumptions matter most?
-5. **Note the limitations**: What caveats should I include?
+1. **State assumptions explicitly**: "I'm assuming [X] because [rationale]"
+2. **Use the proxy**: "In absence of direct data, I'm using [proxy] because [reason it's reasonable]"
+3. **Bound the answer**: "This suggests the range is [low] to [high]"
+4. **Note the sensitivity**: "If this assumption is wrong, my conclusion would change if [condition]"
 
-**Draft Analysis**
-Based on available information, my conclusion is [X] because [reasons].
-Key assumptions: [List]
-Confidence level: [High/Medium/Low]
-What would change this: [List]
+**Draft P2 Statement**
+"Based on available competitive data, [Company] appears to [conclusion] because [evidence].
+Key assumption: [State it].
+Confidence: [High/Medium/Low]."
 
-**Feedback**
-- Is my approach reasonable given the constraints?
-- Am I being appropriately humble about uncertainty?
-- Am I still making progress toward an answer?
+**Quality Check**
+- Is my proxy reasonable and defensible?
+- Am I being transparent about uncertainty?
+- Does my conclusion still support a meaningful P2 recommendation?
 ```
 :::
 
