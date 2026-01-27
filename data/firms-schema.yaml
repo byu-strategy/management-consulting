@@ -1,0 +1,78 @@
+# Consulting Firm Data Schema
+# ============================
+# This file documents the expected fields for each firm in firms.yaml
+# Last updated: 2026-01-19
+
+# ------------------------------------------------------------------------------
+# BASIC INFO
+# ------------------------------------------------------------------------------
+id:                   # kebab-case identifier (e.g., "l-e-k-consulting")
+name:                 # Full firm name (e.g., "L.E.K. Consulting")
+type:                 # MBB | Big 4 | Boutique
+tagline:              # One-line description for cards
+headquarters:         # City, Country (e.g., "London, UK")
+founded:              # Year (e.g., 1983)
+size:                 # Number of employees (e.g., 2300)
+size_category:        # Derived from size: small (<500), midsize (500-5K), large (5K-50K), enterprise (50K+)
+parent_company:       # If subsidiary (e.g., "Marsh McLennan") — null if independent
+
+# ------------------------------------------------------------------------------
+# LOCATIONS
+# ------------------------------------------------------------------------------
+offices:              # List of all office cities
+locations:            # For directory filtering — broader regional groupings
+
+# ------------------------------------------------------------------------------
+# FOCUS
+# ------------------------------------------------------------------------------
+specialties:          # List of practice areas
+industries:           # List of industry focuses
+known_for:            # What distinguishes them (brief string)
+
+# ------------------------------------------------------------------------------
+# CAREER
+# ------------------------------------------------------------------------------
+hires_ug:             # true | false
+hires_mba:            # true | false
+career_path:          # String describing levels (e.g., "Associate → Consultant → Manager → Partner")
+travel:               # high | moderate | low
+
+# ------------------------------------------------------------------------------
+# COMPENSATION — UNDERGRADUATE
+# ------------------------------------------------------------------------------
+ug_base:              # Base salary (e.g., 95000)
+ug_bonus:             # Performance bonus (e.g., 3000)
+ug_signing:           # Signing bonus (e.g., 10000)
+ug_total:             # Total first-year cash (e.g., 108000)
+
+# ------------------------------------------------------------------------------
+# COMPENSATION — MBA (optional, for reference)
+# ------------------------------------------------------------------------------
+mba_base:             # Base salary
+mba_bonus:            # Performance bonus
+mba_signing:          # Signing bonus
+mba_total:            # Total first-year cash
+
+# ------------------------------------------------------------------------------
+# RECRUITING
+# ------------------------------------------------------------------------------
+recruiting:
+  ug:                       # Details on undergraduate hiring process 
+    process:                # Description of rounds (e.g., "Solve → 2 case rounds → finals")
+    unique:                 # What's different about their process (e.g., "Solve Game required", "Target schools only")
+
+# ------------------------------------------------------------------------------
+# LINKS
+# ------------------------------------------------------------------------------
+links:
+  website:            # Firm's main URL (e.g., "https://www.lek.com")
+  careers:            # Direct link to careers/job listings page. Prefer jobs listing page if available.
+  mc_overview:        # Management Consulted profile URL. Follow this URL pattern https://managementconsulted.com/consulting-firm/l-e-k-consulting/
+  alumni_search:      # LinkedIn search for BYU alumni at firm. Follow this pattern: "https://www.linkedin.com/school/brigham-young-university/people/?keywords=mckinsey"
+
+# ------------------------------------------------------------------------------
+# BYU-SPECIFIC (manual entry — not from scraping)
+# ------------------------------------------------------------------------------
+byu_pipeline:         # recruits | alumni | hustle
+byu_alumni_count:     # Approximate count (null if unknown)
+byu_tip:              # Advice for BYU students (null if unknown)

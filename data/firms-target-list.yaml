@@ -1,0 +1,385 @@
+# Target Firms for Directory
+# ==========================
+# This file lists firms to include in the BYU consulting firm directory.
+# Last updated: 2026-01-19
+# Source: https://managementconsulted.com/top-consulting-firms/
+#
+# Status: pending | scraped | reviewed
+# Priority: 1 (high) | 2 (medium) | 3 (low)
+
+mbb:
+  - id: mckinsey
+    name: McKinsey & Company
+    mc_url: https://managementconsulted.com/consulting-firm/mckinsey-company/
+    status: pending
+    priority: 1
+
+  - id: bcg
+    name: Boston Consulting Group
+    mc_url: https://managementconsulted.com/boston-consulting-group/
+    status: pending
+    priority: 1
+
+  - id: bain
+    name: Bain & Company
+    mc_url: https://managementconsulted.com/consulting-firm/bain-company/
+    status: pending
+    priority: 1
+
+big4:
+  - id: deloitte
+    name: Deloitte Consulting
+    mc_url: https://managementconsulted.com/consulting-firm/deloitte-consulting/
+    employees: 415000
+    status: pending
+    priority: 1
+
+  - id: ey-parthenon
+    name: EY-Parthenon
+    mc_url: https://managementconsulted.com/consulting-firm/ey-parthenon/
+    status: pending
+    priority: 1
+
+  - id: pwc-strategy
+    name: PwC Strategy&
+    mc_url: https://managementconsulted.com/consulting-firm/strategyand/
+    status: pending
+    priority: 1
+
+  - id: kpmg
+    name: KPMG Advisory
+    mc_url: https://managementconsulted.com/consulting-firm/kpmg/
+    employees: 270000
+    status: pending
+    priority: 1
+
+boutique:
+  # ============================================================================
+  # STRATEGY / GENERALIST
+  # ============================================================================
+  - id: oliver-wyman
+    name: Oliver Wyman
+    mc_url: https://managementconsulted.com/consulting-firm/oliver-wyman/
+    status: pending
+    priority: 1
+
+  - id: kearney
+    name: Kearney
+    mc_url: https://managementconsulted.com/kearney/
+    status: pending
+    priority: 1
+
+  - id: lek
+    name: L.E.K. Consulting
+    mc_url: https://managementconsulted.com/consulting-firm/l-e-k-consulting/
+    status: pending
+    priority: 1
+
+  - id: cicero-group
+    name: Cicero Group
+    mc_url: null
+    employees: 150
+    focus: Strategy (Utah-based, strong BYU pipeline)
+    status: pending
+    priority: 1
+
+  - id: innosight
+    name: Innosight
+    mc_url: null
+    employees: 100
+    focus: Innovation/Growth Strategy (Christensen founded)
+    status: pending
+    priority: 1
+
+  - id: roland-berger
+    name: Roland Berger
+    mc_url: https://managementconsulted.com/consulting-firm/roland-berger-strategy-consultants/
+    status: pending
+    priority: 2
+
+  - id: occ
+    name: OC&C Strategy Consultants
+    mc_url: null
+    status: pending
+    priority: 2
+
+  - id: advancy
+    name: Advancy
+    mc_url: null
+    status: pending
+    priority: 3
+
+  - id: clarkston
+    name: Clarkston Consulting
+    mc_url: null
+    status: pending
+    priority: 3
+
+  - id: porsche-consulting
+    name: Porsche Consulting
+    mc_url: null
+    status: pending
+    priority: 3
+
+  # ============================================================================
+  # IMPLEMENTATION / TECH
+  # ============================================================================
+  - id: accenture
+    name: Accenture Strategy
+    mc_url: https://managementconsulted.com/consulting-firm/accenture/
+    employees: 721000
+    status: pending
+    priority: 2
+
+  - id: credera
+    name: Credera
+    mc_url: null
+    employees: 1000
+    focus: Digital/Tech Consulting
+    status: pending
+    priority: 2
+
+  - id: booz-allen
+    name: Booz Allen Hamilton
+    mc_url: null
+    employees: 34000
+    focus: Government/Defense Consulting
+    status: pending
+    priority: 2
+
+  - id: anglepoint
+    name: Anglepoint
+    mc_url: null
+    employees: 200
+    focus: Software Asset Management
+    status: pending
+    priority: 3
+
+  - id: slalom
+    name: Slalom
+    mc_url: null
+    employees: 13000
+    focus: Tech/Digital Consulting (has SLC office)
+    status: pending
+    priority: 1
+
+  - id: north-highland
+    name: North Highland
+    mc_url: null
+    employees: 5000
+    focus: Management/Tech Consulting (employee-owned)
+    status: pending
+    priority: 2
+
+  # ============================================================================
+  # PRICING / COMMERCIAL
+  # ============================================================================
+  - id: simon-kucher
+    name: Simon-Kucher & Partners
+    mc_url: null
+    employees: 2000
+    status: pending
+    priority: 2
+
+  # ============================================================================
+  # RESTRUCTURING / TURNAROUND
+  # ============================================================================
+  - id: alvarez-marsal
+    name: Alvarez & Marsal
+    mc_url: null
+    employees: 7000
+    status: pending
+    priority: 2
+
+  - id: alixpartners
+    name: AlixPartners
+    mc_url: null
+    employees: 2500
+    status: pending
+    priority: 2
+
+  - id: keystone-group
+    name: The Keystone Group
+    mc_url: null
+    employees: 50
+    status: pending
+    priority: 3
+
+  # ============================================================================
+  # ECONOMIC / LITIGATION CONSULTING
+  # ============================================================================
+  - id: analysis-group
+    name: Analysis Group
+    mc_url: https://managementconsulted.com/consulting-interviews/analysis-group/
+    employees: 1000
+    status: pending
+    priority: 2
+
+  - id: cornerstone-research
+    name: Cornerstone Research
+    mc_url: https://managementconsulted.com/consulting-firm/cornerstone-research/
+    employees: 900
+    status: pending
+    priority: 2
+
+  - id: nera
+    name: NERA Economic Consulting
+    mc_url: https://managementconsulted.com/consulting-firm/nera-economic-consulting/
+    status: pending
+    priority: 3
+
+  - id: fti-consulting
+    name: FTI Consulting
+    mc_url: null
+    employees: 8300
+    status: pending
+    priority: 2
+
+  - id: bates-white
+    name: Bates White Economic Consulting
+    mc_url: null
+    employees: 365
+    status: pending
+    priority: 3
+
+  - id: charles-river-associates
+    name: Charles River Associates (CRA)
+    mc_url: null
+    employees: 1200
+    status: pending
+    priority: 3
+
+  # ============================================================================
+  # HEALTHCARE / LIFE SCIENCES
+  # ============================================================================
+  - id: zs-associates
+    name: ZS Associates
+    mc_url: null
+    status: pending
+    priority: 2
+
+  - id: clearview-healthcare
+    name: ClearView Healthcare Partners
+    mc_url: null
+    employees: 330
+    status: pending
+    priority: 2
+
+  - id: putnam
+    name: Putnam (Inizio Advisory)
+    mc_url: null
+    employees: 400
+    status: pending
+    priority: 2
+
+  - id: huron
+    name: Huron Consulting
+    mc_url: null
+    employees: 7400
+    status: pending
+    priority: 2
+
+  - id: decibio
+    name: DeciBio Consulting
+    mc_url: null
+    employees: 50
+    status: pending
+    priority: 3
+
+  - id: syneos-health
+    name: Syneos Health Consulting
+    mc_url: null
+    employees: 29000
+    status: pending
+    priority: 3
+
+  # ============================================================================
+  # PRIVATE EQUITY / M&A ADVISORY
+  # ============================================================================
+  - id: stax
+    name: Stax (Grant Thornton)
+    mc_url: null
+    employees: 250
+    status: pending
+    priority: 2
+
+  - id: palm-tree
+    name: Palm Tree LLC
+    mc_url: null
+    employees: 125
+    status: pending
+    priority: 3
+
+  # ============================================================================
+  # INDUSTRY-FOCUSED (OTHER)
+  # ============================================================================
+  - id: altman-solon
+    name: Altman Solon
+    mc_url: null
+    employees: 600
+    focus: Telecom/Media/Tech (TMT)
+    status: pending
+    priority: 2
+
+  - id: capco
+    name: Capco (Wipro)
+    mc_url: null
+    employees: 7000
+    focus: Financial Services
+    status: pending
+    priority: 3
+
+  - id: guidehouse
+    name: Guidehouse
+    mc_url: null
+    employees: 18000
+    focus: Public Sector / Healthcare / Energy
+    status: pending
+    priority: 3
+
+  # ============================================================================
+  # HR / TALENT / LEADERSHIP
+  # ============================================================================
+  - id: mercer
+    name: Mercer
+    mc_url: null
+    employees: 25000
+    focus: HR/Talent Consulting (Marsh McLennan)
+    status: pending
+    priority: 2
+
+  - id: korn-ferry
+    name: Korn Ferry
+    mc_url: null
+    employees: 10000
+    focus: Executive Search/Talent Consulting
+    status: pending
+    priority: 2
+
+  - id: leader-factor
+    name: Leader Factor
+    mc_url: null
+    employees: 50
+    focus: Leadership Consulting
+    status: pending
+    priority: 2
+
+  # ============================================================================
+  # NON-PROFIT CONSULTING
+  # ============================================================================
+  - id: bridgespan
+    name: Bridgespan Group
+    mc_url: null
+    employees: 500
+    focus: Non-profit (Bain spin-off)
+    status: pending
+    priority: 2
+
+
+# ------------------------------------------------------------------------------
+# SUMMARY
+# ------------------------------------------------------------------------------
+# MBB:       3 firms
+# Big 4:     4 firms
+# Boutique: 43 firms
+# Total:    50 firms

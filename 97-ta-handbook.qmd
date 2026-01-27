@@ -32,7 +32,7 @@ Approximately 48 students are registered, with eight teaching assistants/case co
 Each pod serves three functions:
 
 1. **Support system**: People rooting for students' success and checking in on progress
-2. **Practice interview partners**: 5 peers to practice behavioral and case interviews with
+2. **Practice interview partners**: 7 peers to practice behavioral and case interviews with
 3. **Peer feedback**: Resume reviews, story refinement, and honest input
 
 ### TA Touchpoints
@@ -161,213 +161,24 @@ Students create a spreadsheet to track recruiting and networking progress.
 
 ## Practice Interview Support
 
-A significant portion of student development comes from repeated practice interviews. Each practice interview includes both behavioral and case components, mirroring the actual MBB interview format. Students complete 8 practice interviews: 5 with pod peers and 3 with you.
+Students complete 10 practice interviews over the semester: 7 with pod peers and 3 with you. Since students act as both interviewees and interviewers, all practice interview guidance—frameworks, checklists, scoring rubrics, and case libraries—lives in the [Assessments page](00-assessments.qmd#practice-interviews).
 
-### Practice Interview Format
+**Key resources for students (and you):**
 
-| Component | Time |
-|-----------|------|
-| Behavioral (1-2 questions) | 15-20 min |
-| Case | 30-35 min |
-| Feedback | 5-10 min |
-| **Total** | **~60 min** |
+- [Behavioral & Fit Interviews](00-assessments.qmd#behavioral-fit) — PARADE framework, interviewer checklists, sample questions, scoring anchors
+- [Case Interviews](00-assessments.qmd#case-interviews) — Interviewee tips, interviewer guidance, case library, scoring anchors
+- [Giving Feedback](00-assessments.qmd#giving-feedback) — Feedback delivery framework, calibration guidance
 
-### Running a Great Interview
+### TA-Specific Guidance
 
-Great interviewers create conditions where candidates perform at their best while still providing realistic practice. This section distills best practices from MBB, Big 4, and boutique firms.
+Your 3 sessions with each student are different from peer practice in important ways:
 
-#### Interviewer Mindset
-
-| Do | Don't |
-|:---|:------|
-| Create realistic interview conditions | Make it artificially easy or hard |
-| Stay engaged and present throughout | Check your phone or appear distracted |
-| Let silence work—candidates need thinking time | Fill every pause with hints |
-| Remain neutral; your job is to evaluate, not coach mid-interview | React visibly to good or bad answers |
-| Treat every candidate like they could be your future colleague | Condescend or intimidate |
-
-#### Behavioral Section Checklist
-
-**Setup (1-2 minutes)**
-
-- [ ] State the question clearly, then pause
-- [ ] Let the candidate choose their story—don't suggest one
-- [ ] Set expectations: "Take about 2 minutes for your response"
-
-**During the Response**
-
-- [ ] Time it (ideal: 90-120 seconds; max: 2.5 minutes)
-- [ ] Note when they say "I" vs. "we"
-- [ ] Listen for: specific actions, quantified results, genuine reflection
-- [ ] Watch for: rehearsed delivery, vague outcomes, blame-shifting
-
-**Probing Questions**
-
-Use follow-ups to test depth and authenticity:
-
-- "What was *your* specific role in that outcome?"
-- "What would you do differently if you faced this again?"
-- "How did that experience change how you approach similar situations?"
-- "What was the hardest part for you personally?"
-
-**Red Flags to Note**
-
-- Can't explain their personal contribution when pressed
-- Story lacks specific details (names, numbers, timelines)
-- Takes credit for team outcomes without acknowledging others
-- Gets defensive when probed
-
-#### Case Section Checklist
-
-**Prompt Delivery**
-
-- [ ] Read the prompt clearly—don't paraphrase or editorialize
-- [ ] Provide the prompt in writing if it's complex
-- [ ] Give 60-90 seconds for initial structuring time
-- [ ] Say "Take a moment to organize your thoughts" (not "whenever you're ready")
-
-**Pacing the Case**
-
-| Phase | Your Role |
-|:------|:----------|
-| **Structure** | Listen without interrupting; let them complete their framework |
-| **Exploration** | Guide them through 2-3 branches; reveal data when asked |
-| **Analysis** | Provide data clearly; give time for calculations |
-| **Synthesis** | Push for a recommendation: "Based on what you've learned, what should the client do?" |
-
-**Data Reveals**
-
-- Release data in response to good questions, not hints
-- Say "What would you want to know?" rather than "Here's some data"
-- If stuck, give one gentle redirect: "What else might drive profitability?"
-- Don't volunteer data they didn't ask for
-
-**Pushing for Synthesis**
-
-With 5 minutes remaining, prompt for a recommendation:
-
-- "We have a few minutes left. If you had to advise the CEO today, what would you recommend?"
-- "Let's say the client calls you tomorrow—what's your answer?"
-
-**Red Flags to Note**
-
-- Generic framework not tailored to the problem
-- Can't do math or interpret what numbers mean
-- Avoids taking a point of view ("it depends")
-- Doesn't adapt structure as new information emerges
-
-#### Feedback Delivery Framework
-
-**Structure (use this every time):**
-
-1. **Ask first**: "How do you think that went? What felt strong? What felt harder?"
-2. **Validate**: Acknowledge their self-assessment before sharing yours
-3. **Strengths** (2-3 specific): "Your structure was MECE and tailored—that's exactly right"
-4. **Development areas** (1-2 specific): "The one thing to work on: interpreting the numbers—you got the math right but didn't say what it meant for the decision"
-5. **One action**: Give them exactly one thing to focus on for their next practice
-
-**Delivering Difficult Feedback**
-
-| Instead of... | Try... |
-|:--------------|:-------|
-| "That was pretty weak" | "There's room to develop here—let me show you what I mean" |
-| "You need to do X" | "Strong candidates typically do X—here's why it matters" |
-| "That's wrong" | "I'd push back on that assumption—what's your evidence?" |
-
-**Calibration Mistakes to Avoid**
-
-- **Halo effect**: One strong moment doesn't make everything strong
-- **Recency bias**: Don't over-weight the recommendation at the expense of the whole case
-- **Comparison drift**: Score against the rubric, not against the last candidate
-- **Niceness inflation**: A 3 means "solid"—reserve 4s for truly standout performance
-
-### Practice Interview Rubric
-
-After each practice interview, the interviewer completes a feedback form. This creates a data trail students can use to track their improvement.
-
-**Behavioral Dimensions (3):**
-
-| Dimension | What to Evaluate |
-|-----------|------------------|
-| **Impact & Ownership** | Leadership shown, personal actions ("I" not "we"), quantified results |
-| **Teamwork & Collaboration** | Working with others, influence, navigating conflict |
-| **Presence & Fit** | Concise (~2 min), confident, authentic, likable |
-
-**Case Dimensions (3):**
-
-| Dimension | What to Evaluate |
-|-----------|------------------|
-| **Structure & Approach** | MECE framework, tailored to problem, prioritized |
-| **Analytical Rigor** | Math setup, accuracy, "so what" interpretation |
-| **Hypothesis-Driven Recommendation** | Clear POV, insight-led synthesis, practical and actionable |
-
-**Scoring Scale (4-point):**
-
-| Score | Label | Meaning |
-|-------|-------|---------|
-| **1** | Not Yet | Significant gaps; needs foundational work |
-| **2** | Developing | Shows potential but inconsistent; clear areas to improve |
-| **3** | Solid | Meets expectations; ready for most interviews |
-| **4** | Strong | Exceeds expectations; would stand out in an interview |
-
-### Behavioral Scoring Anchors
-
-**Impact & Ownership**
-
-- **1**: Vague story, no clear results, says "we" throughout, can't articulate personal contribution
-- **2**: Has a story but results aren't quantified, unclear what they personally drove
-- **3**: Clear personal actions, quantified results, demonstrates leadership or initiative
-- **4**: Compelling ownership, impressive results with context/scale, clearly drove meaningful outcomes
-
-**Teamwork & Collaboration**
-
-- **1**: Story doesn't involve others, or throws teammates under the bus, no evidence of collaboration
-- **2**: Others mentioned but unclear how they worked together, surface-level teamwork
-- **3**: Clear collaboration, navigated different perspectives, elevated the team's work
-- **4**: Sophisticated influence, resolved real conflict, made others better, shows inclusive leadership
-
-**Presence & Fit**
-
-- **1**: Rambling (3+ min), nervous/robotic, hard to follow, wouldn't want to staff on a team
-- **2**: Understandable but too long or too short, filler words, comes across as rehearsed
-- **3**: Concise (~2 min), confident, natural delivery, likable
-- **4**: Crisp, engaging, authentic, memorable—would want this person on my team
-
-### Case Scoring Anchors
-
-**Structure & Approach**
-
-- **1**: No framework or completely generic, no prioritization
-- **2**: Has a framework but not tailored, missing MECE
-- **3**: Tailored MECE structure, logical prioritization
-- **4**: Insightful structure that unlocks the case, adapts as new info emerges
-
-**Analytical Rigor**
-
-- **1**: Can't set up the math, significant errors, no interpretation of results
-- **2**: Gets to an answer but messy setup, minor errors, or no "so what"
-- **3**: Clean setup, accurate math, interprets what the numbers mean for the decision
-- **4**: Efficient approach, creative shortcuts, surfaces insights others would miss
-
-**Hypothesis-Driven Recommendation**
-
-- **1**: No recommendation, or wishy-washy "it depends," no point of view
-- **2**: Has a recommendation but just summarizes analysis, no real insight
-- **3**: Clear POV with structured reasoning, acknowledges risks, actionable next steps
-- **4**: Sharp insight that reframes the problem, creative yet grounded, CEO would act on this
-
-### PARADE Framework for Behavioral Stories
-
-Students use the PARADE framework to structure their behavioral stories:
-
-| Element | Question | What "Good" Looks Like |
-|---------|----------|------------------------|
-| **P**roblem | What was the situation? | Specific context, stakes clear, sets up tension |
-| **A**ction | What did YOU do? | "I" not "we," concrete actions, shows initiative |
-| **R**esult | What was the outcome? | Quantified impact, clear resolution, meaningful scale |
-| **A**pplication | How does it relate to consulting? | Connects to skills firms value |
-| **D**ifferentiation | What made your approach unique? | Shows judgment, creativity, values |
-| **E**vidence | What proves this is true? | Specific details, numbers, names |
+| Your Sessions | Peer Sessions |
+|:--------------|:--------------|
+| Same TA for all 3 sessions—you track growth over time | Different partners each time |
+| Reference Goals Worksheet to personalize focus | General practice |
+| Higher-stakes calibration (students weight your feedback more) | Peer-to-peer learning |
+| Comprehensive feedback using full rubric | Completion-based grading |
 
 ### Session Preparation
 
@@ -389,39 +200,58 @@ While interview styles differ across firms, avoid over-indexing firm-specific nu
 
 Use a broadly generalist style as the baseline. Firm-specific customization comes *after* mastery of fundamentals.
 
-## Group Project Support
+## Client Work Support
 
-Students complete four progressive consulting projects that build on each other.
+Students complete three progressive consulting deliverables that build on each other. Each deliverable is presented to the pod for feedback.
 
-| Project | Due | Scope | Team | Deliverable |
-|:--------|:----|:------|:-----|:------------|
-| **Company Diagnostic** | Week 8 | Outside-in analysis | Individual | 1-page analysis |
-| **Competitive Benchmark** | Week 10 | Industry comparison | Individual | 3 slides |
-| **Value-Add Hypothesis** | Week 12 | Opportunity identification | Pairs | 5 slides |
-| **Capstone Proposal** | Week 14 | Full strategic proposal | Teams of 3 | 15-20 slides + presentation |
+| Deliverable | Due | Scope | Team | Deliverable |
+|:------------|:----|:------|:-----|:------------|
+| **P1: Company & Competitive Analysis** | Week 8 | Outside-in diagnostic + competitive benchmark | Individual | Deck (25 pts) + Pod Presentation (35 pts) |
+| **P2: Value-Add Hypothesis** | Week 12 | Opportunity identification | Pairs | Deck (25 pts) + Pod Presentation (35 pts) |
+| **Capstone Proposal** | Week 14 | Full strategic proposal | Teams of 3 | Deck (25 pts) + Pod Presentation (35 pts) |
+
+### Pod Presentations
+
+You coordinate pod presentation sessions for each deliverable:
+
+| Element | Format |
+|:--------|:-------|
+| **Time per student** | ~9.5 minutes |
+| **Present** | 4 minutes |
+| **Q&A** | 3 minutes |
+| **Written feedback** | 2 minutes (all students + TA fill out form) |
+| **Transition** | 30 seconds |
+| **Total session** | ~70-76 minutes for 7-8 students |
+
+**Your responsibilities:**
+
+- Reserve a room for your pod's presentation sessions
+- Keep time strictly—use a visible timer
+- Model good Q&A by asking the first question
+- Complete the feedback form for each presenter
+- Synthesize peer feedback into a final grade
 
 ### Your Role in Projects
 
-**For individual projects (P1, P2):**
+**For individual projects (P1):**
 
 - Provide feedback on structure and analysis quality
 - Help students identify gaps in their outside-in research
 - Coach on slide design and executive communication
 
-**For team projects (P3, Capstone):**
+**For team projects (P2, Capstone):**
 
 - Help teams structure their thinking and divide work effectively
 - Facilitate healthy team dynamics and conflict resolution
 - Coach on storyline development and presentation delivery
-- Observe team coordination during capstone presentations
+- Observe team coordination during presentations
 
 ### Project Coaching Tips
 
-| Project | Focus Areas |
-|:--------|:------------|
-| **Diagnostic** | Problem definition, fact base quality, "so what" insights |
-| **Benchmark** | Metric selection, visual presentation, strategic implications |
-| **Value-Add** | Hypothesis clarity, MECE approach, quantified impact |
+| Deliverable | Focus Areas |
+|:------------|:------------|
+| **P1** | Problem definition, fact base quality, competitive insight, "so what" |
+| **P2** | Hypothesis clarity, MECE approach, quantified impact |
 | **Capstone** | Storyline flow, executive summary, recommendation specificity, team coordination |
 
 ## MCA Coordination
@@ -476,7 +306,8 @@ Near the end of the semester, students submit a two-part summer plan.
 
 ## Resources
 
-- Detailed grading rubrics: Available in Learning Suite
-- Case library: Shared TA folder
-- Framework templates: Course website Resources section
+- [Practice Interview Guidance](00-assessments.qmd#practice-interviews): Frameworks, checklists, rubrics, case library
+- [Case Library](00-assessments.qmd#case-library): 10 cases organized by difficulty
+- Grading rubrics: Available in Learning Suite
+- Framework templates: Course website [Resources section](98-resources.qmd)
 - Escalation: Contact Professor Murff for students who appear to be struggling significantly

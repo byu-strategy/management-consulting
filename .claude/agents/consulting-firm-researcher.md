@@ -37,6 +37,18 @@ The CSV file `data/consulting-firms.csv` contains pre-gathered data that you sho
 | `current_byu_marriott` | `byu.marriott_alumni_current` | Marriott alumni currently at firm |
 | `alltime_byu_marriott` | `byu.marriott_alumni_all_time` | Marriott alumni ever at firm |
 
+### ⚠️ MANDATORY: CSV Data Population
+
+**You MUST populate these fields from the CSV - never leave them null:**
+- `linkedin_id` ← from `linkedin_id` column
+- `employees` ← from `number_emp_linkedin` column
+- `byu.alumni_current` ← from `current_byu` column
+- `byu.alumni_all_time` ← from `alltime_byu` column
+- `byu.marriott_alumni_current` ← from `current_byu_marriott` column
+- `byu.marriott_alumni_all_time` ← from `alltime_byu_marriott` column
+
+**Before writing the JSON file, verify all 6 fields above are populated from CSV.**
+
 ## Tools to Use
 
 - **WebFetch**: Good for firm websites and general web content
@@ -67,12 +79,21 @@ The CSV file `data/consulting-firms.csv` contains pre-gathered data that you sho
 
 ## Research Process
 
-### Step 1: Load Pre-Populated Data
-Read the CSV and extract the row for your target firm. This gives you:
-- `id`, `name`, `linkedin_id`
-- `employees`, `description`
-- `links.website`, `links.linkedin`
-- All BYU/Marriott alumni counts
+### Step 1: Load Pre-Populated Data (REQUIRED FIRST STEP)
+1. Read the CSV file `data/consulting-firms.csv`
+2. Find the row where `name_id` matches your target firm
+3. **Extract and store these exact values** (do not skip any):
+   - `linkedin_id` → use for `linkedin_id` and building URLs
+   - `current_byu` → use for `byu.alumni_current`
+   - `alltime_byu` → use for `byu.alumni_all_time`
+   - `current_byu_marriott` → use for `byu.marriott_alumni_current`
+   - `alltime_byu_marriott` → use for `byu.marriott_alumni_all_time`
+   - `number_emp_linkedin` → use for `employees`
+   - `firm_url` → use for `links.website`
+   - `linkedin url` → use for `links.linkedin`
+   - `linkedin_overview` → use for `description`
+
+**CRITICAL: These values must be populated in the final JSON. If any are null in the CSV (showing as empty), report this gap but do not leave them null if data exists.**
 
 ### Step 2: Build LinkedIn URLs
 Using the `linkedin_id` from CSV, construct all 6 alumni search URLs:
@@ -111,6 +132,17 @@ Use multiple sources to gather remaining data:
 - `byu.pipeline`: "recruits", "alumni_only", or "hustle" based on alumni count and firm behavior
 - `byu.tip`: Specific advice for BYU students (or null)
 
+### Step 3.5: Verify CSV Data Populated
+Before proceeding to quality checks, verify you have populated:
+- [ ] `linkedin_id` - must be a number from CSV
+- [ ] `employees` - must be a number from CSV
+- [ ] `byu.alumni_current` - must be a number from CSV
+- [ ] `byu.alumni_all_time` - must be a number from CSV
+- [ ] `byu.marriott_alumni_current` - must be a number from CSV
+- [ ] `byu.marriott_alumni_all_time` - must be a number from CSV
+
+If any are still null, go back to Step 1 and re-read the CSV.
+
 ### Step 4: Quality Checks
 Before writing:
 - Verify JSON syntax is valid
@@ -147,6 +179,8 @@ Before writing:
     "employees": {"source": "consulting-firms.csv", "confidence": "high"},
     "byu.alumni_all_time": {"source": "consulting-firms.csv", "confidence": "high"},
     "byu.alumni_current": {"source": "consulting-firms.csv", "confidence": "high"},
+    "byu.marriott_alumni_all_time": {"source": "consulting-firms.csv", "confidence": "high"},
+    "byu.marriott_alumni_current": {"source": "consulting-firms.csv", "confidence": "high"},
     "founded": {"source": "oliverwyman.com", "confidence": "high"},
     "compensation.ug.base": {"source": "glassdoor.com", "confidence": "medium", "note": "2025 data"}
   },

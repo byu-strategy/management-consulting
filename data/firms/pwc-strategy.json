@@ -1,0 +1,60 @@
+{
+  "id": "pwc-strategy",
+  "name": "Strategy&",
+  "type": "Big 4",
+  "tagline": "Former Booz & Company—pure strategy arm within Big 4",
+  "description": "Strategy& became part of the PwC network in 2014, following the transformation from Booz & Company. Strategy, made real.",
+  "headquarters": "New York, USA",
+  "founded": 1914,
+  "employees": 3700,
+  "parent_company": "PwC",
+  "offices": ["New York", "San Francisco", "Chicago", "Washington DC", "Atlanta", "Los Angeles", "Boston", "Dallas", "Houston", "Cleveland"],
+  "regions": ["North America", "Europe", "Asia Pacific", "Middle East", "Latin America"],
+  "specialties": ["Strategy", "M&A", "Digital", "Operations", "Transformation"],
+  "industries": ["Financial Services", "Healthcare", "Technology", "Consumer", "Retail", "Energy", "Industrial", "Public Sector", "Media & Entertainment", "Telecommunications"],
+  "known_for": "Prestigious strategy heritage from Booz & Company (founded 1914), acquired by PwC in 2014 in the largest consulting acquisition in PwC history. Known for capabilities-driven strategy approach and access to PwC's global network while maintaining strategy consulting focus.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate (2-3 yrs) → Senior Associate (2-3 yrs) → Manager (2-3 yrs) → Director (2-3 yrs) → Partner",
+  "travel": "high",
+  "work_hours": "intense",
+  "compensation": {
+    "ug": {
+      "base": 94000,
+      "bonus": 15000,
+      "signing": 10000
+    },
+    "mba": {
+      "base": 190000,
+      "bonus": 60000,
+      "signing": 30000
+    }
+  },
+  "recruiting": {
+    "process": "Application → Resume Screen → First Round (2 case + fit/behavioral) → Final Round (2 case + fit/behavioral)",
+    "unique": "Group case exercise sometimes used for undergraduate internship applicants. Roughly half of interview time spent on case, half on behavioral/fit questions.",
+    "timeline": "Rolling basis (most opportunities), 4-6 weeks from application to decision, shorter timeline (2 weeks) for referrals"
+  },
+  "email_format": "firstname.lastname@pwc.com",
+  "links": {
+    "website": "https://www.strategyand.pwc.com",
+    "linkedin": "https://www.linkedin.com/company/strategyand",
+    "careers": "https://www.strategyand.pwc.com/gx/en/careers.html",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/strategy-pwc/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Strategy%26%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22224605%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22224605%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Strategy%26%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22224605%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22224605%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 224605,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 66,
+    "alumni_current": 2,
+    "marriott_alumni_all_time": 27,
+    "marriott_alumni_current": 7,
+    "tip": "Apply through Strategy& portal specifically, not general PwC careers site—they have separate recruiting processes."
+  }
+}

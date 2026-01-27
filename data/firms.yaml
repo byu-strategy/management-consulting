@@ -1,0 +1,213 @@
+# Consulting Firm Directory Data
+# Last updated: 2026-01-19
+
+- id: mckinsey
+  name: McKinsey & Company
+  type: MBB
+  tagline: "The most recognized name in strategy consulting"
+  known_for: "Unmatched brand prestige, McKinsey Solve assessment, and top-tier alumni network"
+  headquarters: "New York, USA"
+  founded: 1926
+  size: 45000
+  size_category: large
+  parent_company: null
+
+  # Locations
+  offices:
+    - Denver
+    - SF
+    - Dallas
+    - Chicago
+    - NYC
+    - LA
+    - Boston
+    - DC
+    - Atlanta
+    - Miami
+    - Houston
+  locations:
+    - Mountain
+    - SF / Bay
+    - Texas
+    - Midwest
+    - East Coast
+    - Southeast
+
+  # Focus
+  specialties:
+    - Strategy
+    - Operations
+    - Digital
+    - Implementation
+  industries:
+    - Financial Services
+    - Healthcare
+    - Technology
+    - Consumer
+    - Energy
+    - Private Equity
+
+  # Career
+  hires_ug: true
+  hires_mba: true
+  career_path: "Business Analyst → Associate → Engagement Manager → Associate Partner → Partner"
+  travel: high
+
+  # Compensation - UG
+  ug_base: 112000
+  ug_bonus: 18000
+  ug_signing: 0
+  ug_total: 130000
+
+  # BYU Intel
+  byu_pipeline: recruits
+  byu_alumni_count: null
+  byu_tip: "Focus on the Solve Game—it's the biggest gatekeeper. McKinsey actively recruits at BYU with a dedicated school page. Network with Denver office alumni for best shot at interview."
+
+  # Interview
+  interview:
+    process: "Resume → Solve Game → 2 case rounds (2 interviews each, 45-60 min) → Final interviews"
+    unique: "Solve Game is a gatekeeper (~30% pass rate); measures critical thinking, decision making, meta-cognition, situational awareness, and systems thinking"
+    timeline: "1-3 months (7-14 days after Solve to hear back)"
+
+  # Links
+  links:
+    website: "https://www.mckinsey.com"
+    careers: "https://www.mckinsey.com/careers"
+    mc_overview: "https://managementconsulted.com/consulting-firm/mckinsey/"
+    alumni_search: "https://www.linkedin.com/school/brigham-young-university/people/?keywords=mckinsey"
+
+- id: pwc-strategy
+  name: PwC Strategy&
+  type: Big 4
+  tagline: "Former Booz & Company — pure strategy arm within Big 4"
+  known_for: "Legacy Booz strategy DNA with Big 4 stability and deal flow"
+  headquarters: "New York, USA"
+  founded: 1914
+  size: 3500
+  size_category: midsize
+  parent_company: "PwC"
+
+  # Locations
+  offices:
+    - NYC
+    - Chicago
+    - SF
+    - Dallas
+    - LA
+    - DC
+  locations:
+    - SF / Bay
+    - Texas
+    - Midwest
+    - East Coast
+
+  # Focus
+  specialties:
+    - Corporate Strategy
+    - Transformation
+    - Deals
+    - Operations
+  industries:
+    - Financial Services
+    - Healthcare
+    - Consumer
+    - Industrial Products
+    - Technology
+
+  # Career
+  hires_ug: true
+  hires_mba: true
+  career_path: "Associate → Senior Associate → Manager → Senior Manager → Director → Partner"
+  travel: moderate
+
+  # Compensation - UG
+  ug_base: 94000
+  ug_bonus: 6000
+  ug_signing: 10000
+  ug_total: 110000
+
+  # BYU Intel
+  byu_pipeline: alumni
+  byu_alumni_count: null
+  byu_tip: "Apply through the Strategy& specific portal, not general PwC. Emphasize strategy interest over audit/tax."
+
+  # Interview
+  interview:
+    process: "2 rounds, each with 2-3 interviews (45 min)"
+    unique: "May include group or written case in finals; ~3-5% offer rate"
+    timeline: "3-5 weeks"
+
+  # Links
+  links:
+    website: "https://www.strategyand.pwc.com"
+    careers: "https://www.pwc.com/us/en/careers.html"
+    mc_overview: "https://managementconsulted.com/consulting-firm/strategy/"
+    alumni_search: "https://www.linkedin.com/school/brigham-young-university/people/?keywords=pwc%20strategy"
+
+- id: oliver-wyman
+  name: Oliver Wyman
+  type: Boutique
+  tagline: "Financial services powerhouse — works with 80% of top 100 banks"
+  known_for: "Deep financial services expertise and actuarial consulting through Mercer acquisition"
+  headquarters: "New York, USA"
+  founded: 1984
+  size: 7000
+  size_category: large
+  parent_company: "Marsh McLennan"
+
+  # Locations
+  offices:
+    - NYC
+    - SF
+    - Chicago
+    - Dallas
+    - Boston
+    - DC
+  locations:
+    - SF / Bay
+    - Texas
+    - Midwest
+    - East Coast
+
+  # Focus
+  specialties:
+    - Financial Services
+    - Strategy
+    - Risk
+    - Actuarial
+  industries:
+    - Financial Services
+    - Insurance
+    - Private Equity
+    - Healthcare
+
+  # Career
+  hires_ug: true
+  hires_mba: true
+  career_path: "Consultant → Senior Consultant → Engagement Manager → Principal → Partner"
+  travel: moderate
+
+  # Compensation - UG
+  ug_base: 115000
+  ug_bonus: 12000
+  ug_signing: 8000
+  ug_total: 135000
+
+  # BYU Intel
+  byu_pipeline: alumni
+  byu_alumni_count: null
+  byu_tip: "Strong fit for finance/accounting majors. Highlight quantitative skills—their cases are numbers-heavy."
+
+  # Interview
+  interview:
+    process: "2 rounds — First: 2 interviews (case + behavioral); Final 'Super Day': 3 interviews"
+    unique: "Written case in final round; candidate-led cases (BCG/Bain style)"
+    timeline: "~4 weeks"
+
+  # Links
+  links:
+    website: "https://www.oliverwyman.com"
+    careers: "https://www.oliverwyman.com/careers.html"
+    mc_overview: "https://managementconsulted.com/consulting-firm/oliver-wyman/"
+    alumni_search: "https://www.linkedin.com/school/brigham-young-university/people/?keywords=oliver%20wyman"

@@ -1,0 +1,60 @@
+{
+  "id": "ey-parthenon",
+  "name": "EY-Parthenon",
+  "type": "Big 4",
+  "tagline": "Former Booz & Company—pure strategy arm within Big 4",
+  "description": "EY-Parthenon is a transformative strategy and transactions consultancy with over 25,000 strategy professionals spanning more than 150 countries. The firm focuses on delivering solutions that work in practice, not just on paper.",
+  "headquarters": "Boston, USA",
+  "founded": 1991,
+  "employees": 25000,
+  "parent_company": "EY (Ernst & Young)",
+  "offices": ["Atlanta", "Boston", "Chicago", "Houston", "Los Angeles", "New York", "San Francisco"],
+  "regions": ["North America", "Europe", "Asia Pacific", "Latin America", "Middle East", "Africa"],
+  "specialties": ["Strategy", "M&A", "Corporate Finance", "Restructuring", "Private Equity", "Transformation"],
+  "industries": ["Consumer", "Retail", "Energy", "Financial Services", "Healthcare", "Industrial", "Life Sciences", "Private Equity", "Technology", "Media & Entertainment", "Telecommunications"],
+  "known_for": "Formerly the independent Parthenon Group founded by ex-Bain consultants, joined EY in 2014 to become its strategy practice. Known for pragmatic, execution-focused strategy work that bridges the 'what' and 'how' questions. Strong private equity practice and reputation for rigorous analytical work. Culture emphasizes hiring 'smart, nice, and driven' people.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate (2 yrs) → Consultant (2-3 yrs) → Manager (3 yrs) → Principal (3-4 yrs) → Director (4+ yrs) → Partner",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 100000,
+      "bonus": 22000,
+      "signing": 8000
+    },
+    "mba": {
+      "base": 175000,
+      "bonus": 40000,
+      "signing": 30000
+    }
+  },
+  "recruiting": {
+    "process": "Application → Phone Screen (behavioral, 30 min) → First Round (1 case + 1 fit/behavioral, 30 min each) → Final Round (1 case + 1 fit/behavioral + 1 group case, 30-45 min each)",
+    "unique": "Uses group case exercise in final round. Two-case staffing model where consultants work on two teams simultaneously. Process takes 2-12 weeks total.",
+    "timeline": "Applications open year-round, close when filled. 1 week to hear back after applying, 2+ weeks between phone screen and in-person rounds. Offer decisions within 1 week after final round."
+  },
+  "email_format": "firstname.lastname@ey.com",
+  "links": {
+    "website": "https://www.ey.com/en_us/strategy",
+    "linkedin": "https://www.linkedin.com/company/ey-parthenon/",
+    "careers": "https://www.ey.com/en_us/careers/parthenon",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/ey-parthenon/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22EY-Parthenon%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%229519%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%229519%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22EY-Parthenon%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%229519%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%229519%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 9519,
+  "byu": {
+    "pipeline": "recruits",
+    "alumni_all_time": 16,
+    "alumni_current": 31,
+    "marriott_alumni_all_time": 5,
+    "marriott_alumni_current": 10,
+    "tip": "Strong BYU presence with 41 combined current alumni. EY-Parthenon actively recruits from target schools."
+  }
+}

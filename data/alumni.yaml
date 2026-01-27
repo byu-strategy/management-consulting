@@ -1,0 +1,38 @@
+# BYU Alumni at Consulting Firms
+# Last updated: 2026-01-19
+#
+# Instructions for updating:
+# - Add new alumni under the appropriate firm_id
+# - Required fields: firm_id, name, grad_year, role, office
+# - Optional fields: linkedin, notes, willing_to_chat
+# - Set willing_to_chat: true only if alumnus has agreed to be contacted
+
+# McKinsey Alumni
+- firm_id: mckinsey
+  name: # TODO
+  grad_year: # TODO
+  role: # e.g., Associate, Engagement Manager, Partner
+  office: # e.g., Denver, SF
+  linkedin: # TODO
+  willing_to_chat: false
+  notes: # optional
+
+# PwC Strategy& Alumni
+- firm_id: pwc-strategy
+  name: # TODO
+  grad_year: # TODO
+  role: # e.g., Associate, Senior Associate, Manager
+  office: # e.g., Chicago, NYC
+  linkedin: # TODO
+  willing_to_chat: false
+  notes: # optional
+
+# Oliver Wyman Alumni
+- firm_id: oliver-wyman
+  name: # TODO
+  grad_year: # TODO
+  role: # e.g., Consultant, Senior Consultant, Principal
+  office: # e.g., NYC, SF
+  linkedin: # TODO
+  willing_to_chat: false
+  notes: # optional
