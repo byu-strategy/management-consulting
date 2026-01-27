@@ -54,8 +54,8 @@ Start with the answer, then support it with evidence.
 - **D**ifferentiation: What made your approach unique?
 - **E**vidence: Quantify where possible
 
-::: {#session-19 .callout-tip collapse="true"}
-## Session 19 Activity: Storylines—Pyramid & SCQA
+::: {#activity-storylines .callout-tip collapse="true"}
+## Activity: Storylines—Pyramid & SCQA
 
 ### Recruiting: PARADE structure—build first behavioral story
 
@@ -148,82 +148,6 @@ Write a 3-sentence version of my storyline:
 ```
 :::
 
-::: {#session-20 .callout-tip collapse="true"}
-## Session 20 Activity: Build Your Story Bank
-
-### Recruiting: PARADE workshop—develop 5 stories across competencies
-
-Build out your complete story bank with 5 stories covering different competencies.
-
-```bash
-Help me build my story bank with 5 PARADE stories:
-
-**Story Bank Planning**
-I need stories covering:
-1. Leadership/Initiative
-2. Problem-Solving
-3. Teamwork/Collaboration
-4. Overcoming Challenges
-5. Impact/Achievement
-
-**My Experiences**
-[List 5-7 potential experiences to choose from]
-
-**Story Selection**
-Help me:
-1. Match each experience to the best competency
-2. Avoid using the same experience twice
-3. Ensure variety (work, school, extracurricular)
-4. Select the most compelling story for each
-
-**Story Development**
-For each story, help me develop the PARADE structure:
-[We'll work through each one]
-
-**Cross-Check**
-- Do my stories overlap? (Different competencies should feel distinct)
-- Are they the right length? (2-3 minutes each)
-- Do they collectively paint a compelling picture of me as a candidate?
-- What gaps remain in my story bank?
-```
-
-### Client Work: Build persuasive slides with action titles
-
-Practice writing action titles and building persuasive slides.
-
-```bash
-Help me build persuasive slides with action titles:
-
-**My Key Findings**
-[List 3-5 key findings from your analysis]
-
-**Action Title Practice**
-For each finding, write an action title:
-
-Finding 1: [Your finding]
-- Weak title: [Topic-based title]
-- Action title: [Conclusion-based title]
-
-Finding 2: [Your finding]
-- Weak title: [Topic-based title]
-- Action title: [Conclusion-based title]
-
-[Continue for all findings]
-
-**Slide Structure**
-For your most important finding, design a complete slide:
-- Action title: [Conclusion]
-- Key message: [One sentence supporting the title]
-- Evidence: [Data/chart/proof]
-- So what: [Implication for the client]
-
-**Feedback**
-- Do my action titles state conclusions?
-- Would an executive understand the point in 5 seconds?
-- Is the evidence compelling?
-- Does the slide support the storyline?
-```
-:::
 
 ### 4.2 Communicate with Executive Brevity **(7)** 🔺 {#os-4-2}
 
@@ -255,8 +179,8 @@ Executives are busy. Communicate with clarity and concision.
 
 If you were interrupted after 30 seconds, would they know your main point? Structure every communication so the answer comes first.
 
-::: {#session-21 .callout-tip collapse="true"}
-## Session 21 Activity: Executive Brevity
+::: {#activity-executive-brevity .callout-tip collapse="true"}
+## Activity: Executive Brevity
 
 ### Recruiting: Behavioral delivery—crisp 2-minute answers
 
@@ -335,8 +259,8 @@ Draft my 2-minute version:
 ```
 :::
 
-::: {#session-22 .callout-tip collapse="true"}
-## Session 22 Activity: Confident Delivery
+::: {#activity-confident-delivery .callout-tip collapse="true"}
+## Activity: Confident Delivery
 
 ### Recruiting: Behavioral interview simulation
 
@@ -449,8 +373,8 @@ Different audiences need different messages. Know your stakeholders.
 3. Frame recommendations in their terms
 4. Address objections before they're raised
 
-::: {#session-24 .callout-tip collapse="true"}
-## Session 24 Activity: Tailor & Handle Pushback
+::: {#activity-tailor-pushback .callout-tip collapse="true"}
+## Activity: Tailor & Handle Pushback
 
 ### Recruiting: Handle difficult fit questions with poise
 
@@ -557,8 +481,45 @@ $$Trust = \frac{Credibility + Reliability + Intimacy}{Self\text{-}Orientation}$$
 | **Intimacy** | Listen; remember personal details; be human |
 | **Low Self-Orientation** | Focus on their success, not your credit |
 
-::: {#session-23 .callout-tip collapse="true"}
-## Session 23 Activity: Build Trust
+::: {#activity-build-trust .callout-tip collapse="true"}
+## Activity: Trust Equation & Build Trust
+
+### Recruiting: Apply Trust Equation to networking & interviews
+
+Use the Trust Equation to prepare for networking conversations and fit interviews.
+
+```bash
+Help me prepare for a networking conversation using the Trust Equation:
+
+**The Trust Equation**: Trust = (Credibility + Reliability + Intimacy) / Self-Orientation
+
+**My Meeting**
+- Person: [NAME]
+- Company: [FIRM]
+- Context: [How we connected, what I'm hoping to discuss]
+
+**Credibility: How can I show I know what I'm talking about?**
+- What research have I done on their firm/role?
+- What relevant experience or knowledge do I have?
+- What thoughtful questions show depth of understanding?
+
+**Reliability: How can I demonstrate follow-through?**
+- How will I prepare thoroughly before the meeting?
+- What specific commitments can I make and keep?
+- How will I follow up professionally after?
+
+**Intimacy: How can I create genuine connection?**
+- What might we have in common?
+- How can I be authentic about my interests and journey?
+- What's a genuine reason I want to talk to this person specifically?
+
+**Self-Orientation: How do I keep it low?**
+- What can I offer them (insight, help, connection)?
+- How do I show genuine curiosity vs. just "asking for things"?
+- What questions focus on learning about them vs. pitching myself?
+
+Help me plan specific talking points that maximize trust.
+```
 
 ### Recruiting: Fit interviews—demonstrate character & judgment
 
@@ -692,8 +653,8 @@ In consulting, you rarely present alone. Teams must be aligned.
 3. **Support each other**: No contradictions or surprises
 4. **One voice**: Consistent framing and recommendations
 
-::: {#session-26 .callout-tip collapse="true"}
-## Session 26 Activity: Coordinate as a Team
+::: {#activity-coordinate-team .callout-tip collapse="true"}
+## Activity: Coordinate as a Team
 
 ### Client Work: Capstone team coordination—unified narrative, handoffs
 
@@ -776,8 +737,8 @@ The best consultants constantly improve through feedback.
 - Asking for feedback (not waiting for it)
 - Openness to being wrong
 
-::: {#session-25 .callout-tip collapse="true"}
-## Session 25 Activity: Seek & Apply Feedback
+::: {#activity-seek-feedback .callout-tip collapse="true"}
+## Activity: Seek & Apply Feedback
 
 ### Recruiting: Process mock interview feedback; build improvement plan
 

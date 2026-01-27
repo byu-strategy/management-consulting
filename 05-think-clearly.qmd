@@ -26,8 +26,8 @@ Before defining a problem, you need to understand the current situation. What's 
 3. Ask "why" multiple times to get to root causes
 4. Separate symptoms from underlying issues
 
-::: {#session-4 .callout-tip collapse="true"}
-## Session 4 Activity: Diagnose the Current State
+::: {#activity-diagnose .callout-tip collapse="true"}
+## Activity: Diagnose the Current State
 
 ### Recruiting: Diagnose firm hiring needs
 
@@ -73,8 +73,8 @@ Synthesize into a 1-paragraph diagnosis: "Company X is experiencing [symptoms] p
 ```
 :::
 
-::: {#session-5 .callout-tip collapse="true"}
-## Session 5 Activity: Root Cause Analysis
+::: {#activity-root-cause .callout-tip collapse="true"}
+## Activity: Root Cause Analysis
 
 ### Recruiting: Self-assessment of fit gaps
 
@@ -152,8 +152,8 @@ A problem is a gap between where you are and where you want to be. A well-define
 - **Weak:** "We need to grow"
 - **Strong:** "Revenue has declined 15% over 2 years while the market grew 5%; we need to identify the root causes and develop a plan to return to market growth rates within 18 months"
 
-::: {#session-6 .callout-tip collapse="true"}
-## Session 6 Activity: Define the Problem
+::: {#activity-define-problem .callout-tip collapse="true"}
+## Activity: Define the Problem
 
 ### Recruiting: Define the gap from "you now" to "hireable you"
 
@@ -226,8 +226,8 @@ Framing means establishing what's in scope vs. out, what success looks like, and
 - What constraints must we work within?
 - Who are the key stakeholders?
 
-::: {#session-7 .callout-tip collapse="true"}
-## Session 7 Activity: Frame the Decision
+::: {#activity-frame-decision .callout-tip collapse="true"}
+## Activity: Frame the Decision
 
 ### Recruiting: Frame your recruiting scope
 
@@ -327,8 +327,8 @@ For your hypothesis to be right, certain things must be true. Make these explici
 4. Prioritize: which are most uncertain? Most impactful if wrong?
 5. Design tests for the most critical ones
 
-::: {#session-8 .callout-tip collapse="true"}
-## Session 8 Activity: Hypothesize & WWHTBT
+::: {#activity-hypothesize .callout-tip collapse="true"}
+## Activity: Hypothesize & WWHTBT
 
 ### Recruiting: "I'm the right hire because..." + critical assumptions
 
@@ -455,8 +455,8 @@ Equally important: know what NOT to analyze.
 
 For any potential analysis, ask: "If we knew the answer, would it change our recommendation?" If no, skip it.
 
-::: {#session-9 .callout-tip collapse="true"}
-## Session 9 Activity: MECE & Prioritization
+::: {#activity-mece .callout-tip collapse="true"}
+## Activity: MECE & Prioritization
 
 ### Recruiting: MECE-structure resume proof points
 

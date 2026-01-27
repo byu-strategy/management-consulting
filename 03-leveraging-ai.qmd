@@ -337,8 +337,8 @@ Try these starter exercises:
 2. **Structure building**: "Help me create a MECE issue tree for [problem]"
 3. **Case practice**: "Give me a market sizing question and walk through it with me"
 
-::: {#session-2 .callout-tip collapse="true"}
-## Session 2 Activity: AI as Your Operating Amplifier
+::: {#activity-ai-amplifier .callout-tip collapse="true"}
+## Activity: AI as Your Operating Amplifier
 
 ### Recruiting: AI-powered networking prep
 
@@ -428,8 +428,8 @@ Summarize the key takeaways in 3-5 bullet points.
 | Communicate with brevity | Edit for conciseness, strengthen logic |
 | Prepare for stakeholders | Anticipate questions, practice responses |
 
-::: {#session-3 .callout-tip collapse="true"}
-## Session 3 Activity: AI Workflows & Team Norms
+::: {#activity-ai-workflows .callout-tip collapse="true"}
+## Activity: AI Workflows & Team Norms
 
 ### Recruiting: Build detailed firm research profile
 

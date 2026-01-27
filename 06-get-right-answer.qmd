@@ -56,8 +56,8 @@ $$Trust = \frac{Credibility + Reliability + Intimacy}{Self\text{-}Orientation}$$
 - **Intimacy**: Can they be vulnerable with you?
 - **Self-Orientation**: Are you in it for you or them?
 
-::: {#session-10 .callout-tip collapse="true"}
-## Session 10 Activity: Build an Outside-In Fact Base
+::: {#activity-outside-in .callout-tip collapse="true"}
+## Activity: Build an Outside-In Fact Base
 
 ### Recruiting: Research firms, roles, and people before outreach
 
@@ -123,79 +123,6 @@ Organize all findings into a structured document I can reference throughout my p
 ```
 :::
 
-::: {#session-11 .callout-tip collapse="true"}
-## Session 11 Activity: The Trust Equation
-
-### Recruiting: Trust Equation prep for smoothie chats
-
-Apply the Trust Equation to prepare for networking conversations ("smoothie chats").
-
-```bash
-Help me prepare for a smoothie chat using the Trust Equation:
-
-**The Trust Equation**: Trust = (Credibility + Reliability + Intimacy) / Self-Orientation
-
-**My Meeting**
-- Person: [NAME]
-- Company: [FIRM]
-- Context: [How we connected, what I'm hoping to discuss]
-
-**Credibility: How can I show I know what I'm talking about?**
-- What research have I done on their firm/role?
-- What relevant experience or knowledge do I have?
-- What thoughtful questions show depth of understanding?
-
-**Reliability: How can I demonstrate follow-through?**
-- How will I prepare thoroughly before the meeting?
-- What specific commitments can I make and keep?
-- How will I follow up professionally after?
-
-**Intimacy: How can I create genuine connection?**
-- What might we have in common?
-- How can I be authentic about my interests and journey?
-- What's a genuine reason I want to talk to this person specifically?
-
-**Self-Orientation: How do I keep it low?**
-- What can I offer them (insight, help, connection)?
-- How do I show genuine curiosity vs. just "asking for things"?
-- What questions focus on learning about them vs. pitching myself?
-
-Help me plan specific talking points that maximize trust.
-```
-
-### Client Work: Outside-in research workshop: earnings calls & news
-
-Practice extracting insights from earnings calls and news to build your fact base.
-
-```bash
-Help me analyze [COMPANY NAME]'s most recent earnings call:
-
-**Pre-Call Prep**
-1. What were analyst expectations going into this quarter?
-2. What were the key questions from the prior quarter?
-
-**Management's Narrative**
-3. What story is management telling about performance?
-4. What are they emphasizing vs. downplaying?
-5. What language patterns suggest confidence vs. concern?
-
-**Q&A Analysis**
-6. What questions did analysts ask?
-7. How did management respond? (Direct vs. evasive)
-8. What topics seemed to make management uncomfortable?
-
-**Key Takeaways**
-9. What 3 things did I learn that weren't obvious from the numbers?
-10. What does this tell me about the company's strategy and outlook?
-11. What questions do I now want to research further?
-
-**News Cross-Reference**
-12. How does what management said align with recent news?
-13. Are there any contradictions or inconsistencies?
-
-Synthesize into 5 key insights for my analysis.
-```
-:::
 
 ### 2.3 State Assumptions Explicitly **(5)** ◯ ◯ {#os-2-3}
 
@@ -241,8 +168,8 @@ Before building complex models, do quick math to establish reasonable ranges.
 - Cups per day: ~2 = ~2M cups/day
 - Add commuters/tourists: +50% = ~3M cups/day
 
-::: {#session-12 .callout-tip collapse="true"}
-## Session 12 Activity: Quick Math & Estimation
+::: {#activity-quick-math .callout-tip collapse="true"}
+## Activity: Quick Math & Estimation
 
 ### Recruiting: Case—market sizing under pressure
 
@@ -354,8 +281,8 @@ Analysis isn't done until you've answered the question. "So what?" is the most i
 
 Always climb to recommendations.
 
-::: {#session-13 .callout-tip collapse="true"}
-## Session 13 Activity: Synthesize—From Data to Insight
+::: {#activity-synthesize .callout-tip collapse="true"}
+## Activity: Synthesize—From Data to Insight
 
 ### Recruiting: Case—driving to a recommendation
 
@@ -417,8 +344,8 @@ Write a 3-sentence synthesis:
 ```
 :::
 
-::: {#session-14 .callout-tip collapse="true"}
-## Session 14 Activity: Synthesis Workshop
+::: {#activity-synthesis-workshop .callout-tip collapse="true"}
+## Activity: Synthesis Workshop
 
 ### Recruiting: Rapid synthesis exercises
 

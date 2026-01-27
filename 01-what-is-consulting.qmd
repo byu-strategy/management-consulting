@@ -203,8 +203,8 @@ For BYU sophomores targeting summer 2027 internships:
 
 Early engagement matters. Start networking now, even if applications seem far away.
 
-::: {#session-1 .callout-tip collapse="true"}
-## Session 1 Activity: Getting Started
+::: {#activity-getting-started .callout-tip collapse="true"}
+## Activity: Getting Started
 
 ### Recruiting: Research Target Firms
 
