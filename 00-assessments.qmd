@@ -603,7 +603,7 @@ Put yourself in the shoes of someone at the presenter's target company — a str
 
 ---
 
-### P1: Intelligence Brief {#intelligence-brief}
+### Project 1 (P1): Intelligence Brief {#intelligence-brief}
 
 **Points**: 40 (8% of grade)
 
@@ -615,13 +615,13 @@ Put yourself in the shoes of someone at the presenter's target company — a str
 
 **Overview**
 
-Your first "freemium" deliverable. You'll surface something your target company should be paying attention to—an insight from public data they might have missed. This isn't a book report on their business; it's a gift of outside-in perspective.
+Your first "freemium" deliverable. You'll surface something your target company should be paying attention to, hopefully an insight from public data they might have missed. Think about this as a gift to company of outside-in perspective.
 
-Choose a public company you'd genuinely want to work with. You'll build on this company for P2 and Capstone, ultimately sending your work to someone at the company.
+Choose a public company you'd genuinely want to work with or have a real interest in. You'll build on this company for Project 2 (P2) and the Capstone Conversation Deck, ultimately sending your work to someone at the company and requesting a meeting to discuss it.
 
 **Requirements**
 
-Produce a 4-slide deck:
+Produce a 4-6 slide main deck (appendix, header, and transistion slides not counted):
 
 **Slide 1: The Company at a Glance**
 
@@ -669,11 +669,11 @@ Rubric ratings are collected for developmental feedback but do not determine you
 
 **Overview**
 
-Building on your Intelligence Brief (P1), you'll now take a position: "Here's an opportunity I see, and here's what I believe you should do about it." This is the core of client development—demonstrating insight that earns you a conversation.
+Building on your Intelligence Brief (P1), you'll now take a position: "Here's an opportunity I see, and here's what I believe you should do about it." This is the core of client work when you can demonstrate insight that earns you a conversation the client finds compelling.
 
 **Requirements**
 
-Produce a 5-slide deck for the same company as P1:
+Produce an additional 5-8 slides for the same company as P1 (appendix, header, and transistion slides not counted):
 
 **Slide 1: The Opportunity**
 
@@ -720,21 +720,21 @@ Rubric ratings are collected for developmental feedback but do not determine you
 
 **Team**: Individual
 
-**Deliverable**: 6-10 slide deck + appendix + outreach
+**Deliverable**: 6-10 slide main deck + appendix + outreach 
 
 **Overview**
 
-This is the real thing. You'll polish your P1 and P2 into a tight deck you'd actually send to someone at your target company—and then send it. The Capstone isn't about new analysis; it's about making your work client-ready and putting yourself out there.
+This is the real thing. You'll polish your P1 and P2 into a tight deck you'd actually send to someone at your target company—and then send it. The Capstone is about fleshing out your research and analysis and making your work client-ready and putting yourself out there.
 
 **Requirements**
 
-**The Deck (6-10 slides + appendix)**
+**The Deck (6-10 slides + appendix)** (appendix, header, and transistion slides not counted)
 
 Synthesize P1 + P2 into a single, polished conversation deck:
 
 1. **Opening** (1 slide): Who you are, why you're reaching out, what you're offering
-2. **What I Noticed** (1-2 slides): Your outside-in insight (refined from P1)
-3. **The Opportunity** (2-3 slides): Your point of view (refined from P2)
+2. **What I Noticed** (2-4 slides): Your outside-in insight (refined from P1)
+3. **The Opportunity** (1-3 slides): Your point of view (refined from P2)
 4. **What's at Stake** (1-2 slides): Quantified impact
 5. **The Ask** (1 slide): "I'd love 20 minutes to discuss [specific questions]. Would you be open to a conversation?"
 
@@ -754,7 +754,6 @@ Send your deck to at least one person at your target company. This could be:
 
 1. Your final deck (PDF)
 2. Screenshot or copy of your outreach message
-3. Brief reflection (1 paragraph): What did you learn? What would you do differently?
 
 **Grading**
 
@@ -762,7 +761,7 @@ Send your deck to at least one person at your target company. This could be:
 |-----------|--------|
 | Deck quality (via [Feedback Form Rubric](#presentation-rubric), averaged) | 60 |
 | Submit feedback for all pod members | 20 |
-| Outreach completed + reflection | 20 |
+| Outreach completed | 20 |
 | **Total** | **100** |
 
 ::: {.callout-note}
