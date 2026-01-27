@@ -1,0 +1,60 @@
+{
+  "id": "occ",
+  "name": "OC&C Strategy Consultants",
+  "type": "Boutique",
+  "tagline": "Consumer and retail strategy specialists with B Corp values",
+  "description": "At OC&C Strategy Consultants we have more than 35 years of experience at unpicking the most complex business challenges with simple, uncommon sense™. We're an international consulting firm, spanning 10 countries, but we've never seen size as an end in itself. Our expertise is focused on a few core specialisms, allowing us to deliver results that get noticed. Our people are agile thinkers, cut from different cloths but united by a relentless curiosity and desire to solve problems. To us, each client challenge is unique, so boilerplate solutions don't cut it. We interrogate a problem until we find its root. Then we develop a powerful way to solve it. We don't duck the difficult answers, we give clients the strategies they need. _ OC&C is a Certified B Corporation™ and is committed to embracing a new standard for the consulting landscape. Learn more about us at occstrategy.com",
+  "headquarters": "London, UK",
+  "founded": 1987,
+  "employees": 1052,
+  "parent_company": null,
+  "offices": ["New York", "Boston"],
+  "regions": ["North America", "Europe", "Asia Pacific"],
+  "specialties": ["Strategy", "M&A", "Due Diligence", "Digital", "Analytics"],
+  "industries": ["Consumer", "Retail", "Private Equity", "Technology", "Media & Entertainment", "Leisure"],
+  "known_for": "Founded by former Booz Allen consultants, OC&C built its reputation on deep consumer goods and retail expertise. Known for rigorous commercial due diligence for private equity and refusing to apply 'generic frameworks'—each client problem gets a bespoke solution. Certified B Corporation as of 2023.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate Consultant (2-3 yrs) → Consultant (2-3 yrs) → Manager (2-3 yrs) → Associate Partner (3-4 yrs) → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 119000,
+      "bonus": 12000,
+      "signing": null
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Online Assessment (45-min GMAT-style + HireVue) → First Round (2 case + 2 fit) → Final Round (2-4 interviews with Partners)",
+    "unique": "45-minute GMAT-style online assessment required before first round. Cases are highly interactive and commercially focused—closer to MBB rigor with heavy probing and little tolerance for vague answers. Some offices include written case exercise in final round.",
+    "timeline": "Applications open mid-August, close end of September for undergrads. MBA windows: Sept-Oct (full-time), Oct-Jan (internships). Feedback within 3 weeks of closing date. Non-rolling—all applications reviewed after deadline."
+  },
+  "email_format": "first.last@occstrategy.com",
+  "links": {
+    "website": "https://www.occstrategy.com/",
+    "linkedin": "https://www.linkedin.com/company/oc&c-strategy-consultants/",
+    "careers": "https://www.occstrategy.com/usa/careers/your-application/",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22OC%26C%20Strategy%20Consultants%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%228203%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%228203%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22OC%26C%20Strategy%20Consultants%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%228203%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%228203%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 8203,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 3,
+    "alumni_current": 1,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Very limited BYU pipeline—only 1 current alum. Focus networking on consumer/retail projects and emphasize analytical rigor. Their B Corp status suggests they value purpose-driven candidates."
+  }
+}

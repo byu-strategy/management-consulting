@@ -1,0 +1,90 @@
+{
+  "id": "lek",
+  "name": "L.E.K. Consulting",
+  "type": "Boutique",
+  "tagline": "Pure-play strategy boutique known as 'The Growth Guys'",
+  "description": "L.E.K. Consulting is a global management consulting firm that uses deep industry expertise and rigorous analysis to help business leaders achieve practical results with real impact. We are uncompromising in our approach to helping clients consistently make better decisions, deliver improved business performance and create greater shareholder returns. The firm advises and supports global companies that are leaders in their industries — including the largest private and public sector organizations, private equity firms and emerging entrepreneurial businesses. Founded in 1983, L.E.K. employs more than 2,300 professionals across the Americas, Asia-Pacific and Europe. We have deep expertise and a proven track record in a broad range of industries: • Business Services • Consumer Products • Education • Energy & Environment • Financial Services • Healthcare Services • Industrials • Life Sciences & Pharma • Media & Entertainment • MedTech • Private Equity • Retail • Technology • Travel & Transport",
+  "headquarters": "London, United Kingdom",
+  "founded": 1983,
+  "employees": 4244,
+  "parent_company": null,
+  "offices": [
+    "Boston",
+    "New York",
+    "Chicago",
+    "San Francisco",
+    "Los Angeles",
+    "Houston",
+    "Atlanta"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Middle East"
+  ],
+  "specialties": [
+    "Strategy",
+    "M&A",
+    "Private Equity",
+    "Due Diligence",
+    "Growth Strategy",
+    "Market Sizing"
+  ],
+  "industries": [
+    "Private Equity",
+    "Life Sciences",
+    "Healthcare",
+    "Consumer",
+    "Retail",
+    "Technology",
+    "Financial Services",
+    "Industrials",
+    "Media & Entertainment"
+  ],
+  "known_for": "L.E.K. is known as 'The Growth Guys' with deep expertise in growth strategy, private equity due diligence, and market sizing. The firm offers unusually low travel (office-based model) compared to traditional strategy consulting, strong quantitative rigor, and specialization in strategic growth across diverse industries.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate (1-2 yrs) → Associate Consultant (2 yrs) → Consultant (2 yrs) → Manager (3-5 yrs) → Principal (3-5 yrs) → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 108000,
+      "bonus": 28000,
+      "signing": 10000
+    },
+    "mba": {
+      "base": 167000,
+      "bonus": 40000,
+      "signing": 25000
+    }
+  },
+  "recruiting": {
+    "process": "Online Application → Online Assessments (numerical + verbal reasoning) → First Round (2 case interviews + fit) → Final Round (2 case + fit + 60-min written case)",
+    "unique": "Written case in final round, heavy emphasis on market sizing and quantitative analysis, online assessments required before interviews",
+    "timeline": "Applications open June-July for summer internships, deadlines mid-to-late August, process takes 3-4 weeks from application to offer"
+  },
+  "email_format": "f.lastname@lek.com",
+  "links": {
+    "website": "https://www.lek.com/",
+    "linkedin": "https://www.linkedin.com/company/lekconsulting/",
+    "careers": "https://www.lek.com/join-lek",
+    "mc_profile": "https://managementconsulted.com/lek-consulting/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22L.E.K.%20Consulting%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225210%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225210%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22L.E.K.%20Consulting%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225210%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225210%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 5210,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 66,
+    "alumni_current": 2,
+    "marriott_alumni_all_time": 7,
+    "marriott_alumni_current": 2,
+    "tip": "Low travel model makes L.E.K. attractive for work-life balance. Strong fit for students with quantitative skills interested in growth strategy and private equity work."
+  }
+}

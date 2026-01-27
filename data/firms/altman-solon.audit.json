@@ -1,0 +1,129 @@
+{
+  "firm_id": "altman-solon",
+  "researched_at": "2026-01-27T19:30:00Z",
+  "duration_seconds": 420,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.altmansolon.com",
+    "https://www.altmansolon.com/contact-us",
+    "https://www.glassdoor.com/Salary/Altman-Solon-Salaries-E3543686.htm",
+    "https://www.levels.fyi/companies/altman-solon/salaries",
+    "https://www.glassdoor.com/Interview/Altman-Solon-Interview-Questions-E3543686.htm",
+    "https://www.glassdoor.com/Reviews/Altman-Solon-work-life-balance-Reviews-EI_IE3543686.0,12_KH13,30.htm",
+    "https://www.consulting.us/news/4497/us-and-european-strategy-firms-merge-to-form-tmt-specialist-altman-solon",
+    "https://rocketreach.co/altman-solon-email-format_b43d9142c19c1850",
+    "https://www.casebasix.com/pages/altman-solon-firm-overview",
+    "https://www.hackingthecaseinterview.com/pages/altman-solon-case-interview"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "consulting.us/news (merger announcement)",
+      "confidence": "high",
+      "note": "2020 merger of Altman Vilandrie (2002) and Solon Management (1996)"
+    },
+    "headquarters": {
+      "source": "altmansolon.com/contact-us",
+      "confidence": "high"
+    },
+    "offices": {
+      "source": "altmansolon.com/contact-us",
+      "confidence": "high"
+    },
+    "specialties": {
+      "source": "altmansolon.com",
+      "confidence": "high"
+    },
+    "industries": {
+      "source": "altmansolon.com + LinkedIn description",
+      "confidence": "high"
+    },
+    "compensation.ug.base": {
+      "source": "glassdoor.com + levels.fyi",
+      "confidence": "medium",
+      "note": "2025 data, range $90-100K"
+    },
+    "compensation.ug.bonus": {
+      "source": "glassdoor.com",
+      "confidence": "medium",
+      "note": "~15% of base for top performers"
+    },
+    "compensation.ug.signing": {
+      "source": "industry estimates",
+      "confidence": "low",
+      "note": "Inferred from boutique firm standards"
+    },
+    "compensation.mba.base": {
+      "source": "levels.fyi + glassdoor.com",
+      "confidence": "medium",
+      "note": "2025 data, range $170-175K"
+    },
+    "compensation.mba.bonus": {
+      "source": "glassdoor.com",
+      "confidence": "medium",
+      "note": "~25% of base"
+    },
+    "compensation.mba.signing": {
+      "source": "glassdoor.com",
+      "confidence": "medium",
+      "note": "$25-30K range reported"
+    },
+    "recruiting.process": {
+      "source": "glassdoor.com + hackingthecaseinterview.com",
+      "confidence": "high"
+    },
+    "recruiting.timeline": {
+      "source": "altmansolon.com/careers + glassdoor.com",
+      "confidence": "medium"
+    },
+    "email_format": {
+      "source": "rocketreach.co",
+      "confidence": "high",
+      "note": "97% use firstname.lastname format"
+    },
+    "travel": {
+      "source": "glassdoor.com reviews",
+      "confidence": "high",
+      "note": "Multiple reviews confirm low travel model"
+    },
+    "work_hours": {
+      "source": "glassdoor.com reviews",
+      "confidence": "high",
+      "note": "2.5/5 work-life balance rating, demanding hours"
+    },
+    "career_path": {
+      "source": "altmansolon.com/careers + casebasix.com",
+      "confidence": "high"
+    }
+  },
+  "gaps": [
+    {
+      "field": "links.mc_profile",
+      "reason": "Management Consulted appears to have content about Altman Solon but the direct profile page redirects to other firms. Set to null."
+    }
+  ],
+  "notes": "Pre-populated data from CSV covered LinkedIn ID (65683578) and BYU alumni fields (all zero). Firm formed in 2020 from merger of two predecessor firms. The 'founded' date of 2020 reflects the merged entity, though Altman Vilandrie dates to 2002 and Solon to 1996. TMT-exclusive focus is a major differentiator. No current BYU alumni presence makes this a 'hustle' pipeline for BYU students."
+}

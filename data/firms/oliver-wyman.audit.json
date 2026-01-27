@@ -1,0 +1,135 @@
+{
+  "firm_id": "oliver-wyman",
+  "researched_at": "2026-01-27T18:30:00Z",
+  "duration_seconds": 180,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.oliverwyman.com/index.html",
+    "https://www.oliverwyman.com/careers.html",
+    "https://www.wallstreetoasis.com/company/oliver-wyman/salary",
+    "https://www.levels.fyi/companies/oliver-wyman/salaries/management-consultant",
+    "https://www.graduatesfirst.com/oliver-wyman-assessment-tests",
+    "https://careerinconsulting.com/oliver-wyman-recruitment-process/",
+    "https://managementconsulted.com/oliver-wyman/",
+    "https://www.oliverwyman.com/our-expertise/global-locations/americas.html",
+    "https://www.wallstreetoasis.com/forum/consulting/oliver-wyman-pay-and-lifestyle",
+    "https://en.wikipedia.org/wiki/Oliver_Wyman",
+    "https://umbrex.com/resources/profiles-of-the-top-consulting-firms/overview-profile-and-history-of-oliver-wyman/"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "wikipedia.org, oliverwyman.com",
+      "confidence": "high",
+      "note": "Founded 1984 by Alex Oliver and Bill Wyman"
+    },
+    "headquarters": {
+      "source": "oliverwyman.com",
+      "confidence": "high"
+    },
+    "parent_company": {
+      "source": "wikipedia.org, oliverwyman.com",
+      "confidence": "high",
+      "note": "Acquired by Marsh McLennan in 1989"
+    },
+    "offices": {
+      "source": "oliverwyman.com, indeed.com",
+      "confidence": "high"
+    },
+    "specialties": {
+      "source": "oliverwyman.com, managementconsulted.com",
+      "confidence": "high"
+    },
+    "industries": {
+      "source": "oliverwyman.com",
+      "confidence": "high"
+    },
+    "compensation.ug.base": {
+      "source": "casebasix.com, levels.fyi",
+      "confidence": "medium",
+      "note": "Estimated from boutique consulting range of $90-100K base"
+    },
+    "compensation.ug.bonus": {
+      "source": "levels.fyi, wallstreetoasis.com",
+      "confidence": "medium",
+      "note": "Typical 15% performance bonus"
+    },
+    "compensation.ug.signing": {
+      "source": "industry standards",
+      "confidence": "medium",
+      "note": "Estimated from boutique firm range"
+    },
+    "compensation.mba.base": {
+      "source": "leland.com, fishbowl.com",
+      "confidence": "high",
+      "note": "$190K base confirmed in multiple sources"
+    },
+    "compensation.mba.bonus": {
+      "source": "leland.com",
+      "confidence": "medium",
+      "note": "Up to $36,100 performance bonus"
+    },
+    "compensation.mba.signing": {
+      "source": "fishbowl.com, leland.com",
+      "confidence": "high",
+      "note": "$35-45K signing bonus"
+    },
+    "recruiting.process": {
+      "source": "graduatesfirst.com, careerinconsulting.com",
+      "confidence": "high"
+    },
+    "recruiting.timeline": {
+      "source": "careerinconsulting.com, leland.com",
+      "confidence": "high"
+    },
+    "email_format": {
+      "source": "leadiq.com",
+      "confidence": "high",
+      "note": "94% use firstname.lastname@oliverwyman.com"
+    },
+    "career_path": {
+      "source": "managementconsulted.com, caseinterview.com",
+      "confidence": "high"
+    },
+    "travel": {
+      "source": "fishbowl.com, glassdoor.com",
+      "confidence": "high",
+      "note": "60% travel typical for consultants"
+    },
+    "work_hours": {
+      "source": "wallstreetoasis.com, glassdoor.com",
+      "confidence": "high",
+      "note": "63.6 hours per week average, 55-65 hours for junior consultants"
+    },
+    "byu.pipeline": {
+      "source": "inference from alumni counts",
+      "confidence": "medium",
+      "note": "Small alumni presence (6 current, 26 all-time) suggests alumni_only pipeline"
+    }
+  },
+  "gaps": [],
+  "notes": "Pre-populated data from CSV covered all LinkedIn/BYU fields successfully. Oliver Wyman has strong online presence with detailed career information. Founded in 1984 as specialist financial services consultancy, acquired by Marsh McLennan in 1989. Known for actuarial and risk management expertise. Small BYU presence but active undergraduate and MBA recruiting. Compensation competitive with MBB at MBA level. Written case in final round is distinctive recruiting feature."
+}

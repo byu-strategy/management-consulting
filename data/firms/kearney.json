@@ -1,0 +1,95 @@
+{
+  "id": "kearney",
+  "name": "Kearney",
+  "type": "Boutique",
+  "tagline": "Operations and procurement powerhouse with McKinsey heritage",
+  "description": "As one of the original firms, we've never lost sight of the fact that consulting is a people business. A global partnership in more than 40 countries, our people make us who we are. We're individuals with different passions and strengths who take as much joy in the work we do as from those we work with. Our strategic operations heritage means we've always known that a plan is only as good as the outcome it inspires. In practice, our teams bring the perspective, understanding, and hands-on know-how to build the future as you see it. Working together we'll see big ideas through to working realities, helping you move from keeping up to breaking through. By your side, we deliver—value, results, impact.",
+  "headquarters": "Chicago, USA",
+  "founded": 1926,
+  "employees": 10000,
+  "parent_company": null,
+  "offices": [
+    "Chicago",
+    "New York",
+    "San Francisco",
+    "Boston",
+    "Washington DC",
+    "Atlanta",
+    "Dallas",
+    "Houston",
+    "Detroit",
+    "Minneapolis"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Procurement",
+    "Supply Chain",
+    "Transformation",
+    "M&A"
+  ],
+  "industries": [
+    "Consumer",
+    "Retail",
+    "Industrial",
+    "Automotive",
+    "Financial Services",
+    "Healthcare",
+    "Energy",
+    "Technology",
+    "Private Equity",
+    "Public Sector"
+  ],
+  "known_for": "Kearney traces its roots to McKinsey's Chicago office and is renowned as a global leader in operations, procurement, and supply chain consulting. The firm is known for rigorous quantitative analysis and deep operational expertise, particularly in manufacturing, consumer, and retail sectors.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Business Analyst (2-3 yrs) → Senior Business Analyst (1.5-2 yrs) → Associate (2-3 yrs) → Manager (2-4 yrs) → Principal (2-5 yrs) → Partner",
+  "travel": "high",
+  "work_hours": "intense",
+  "compensation": {
+    "ug": {
+      "base": 107000,
+      "bonus": 7000,
+      "signing": 5000
+    },
+    "mba": {
+      "base": 168000,
+      "bonus": 40000,
+      "signing": 30000
+    }
+  },
+  "recruiting": {
+    "process": "Application → First Round (2 case + fit/behavioral interviews) → Final Round (2 case + 1 fit/behavioral interviews)",
+    "unique": "Known for highly quantitative cases with heavy focus on operations and procurement. Some offices include written case and Excel skills test. Expect to work with many numbers and perform detailed calculations.",
+    "timeline": "MBA recruiting runs September-December. Average hiring process takes 32 days from application to offer. High performers can be promoted faster due to leaner structure."
+  },
+  "email_format": "firstname.lastname@kearney.com",
+  "links": {
+    "website": "https://www.kearney.com/",
+    "linkedin": "https://www.linkedin.com/company/kearney/",
+    "careers": "https://www.kearney.com/careers/opportunities",
+    "mc_profile": "https://managementconsulted.com/kearney/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Kearney%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%222196%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%222196%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Kearney%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%222196%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%222196%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 2196,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 84,
+    "alumni_current": 6,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Kearney has 84 BYU alumni but no Marriott-specific alumni showing in LinkedIn. Focus on networking with BYU alumni in Chicago, New York, or San Francisco offices. Highlight any operations, supply chain, or quantitative coursework."
+  }
+}

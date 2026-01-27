@@ -1,0 +1,56 @@
+{
+  "id": "bates-white",
+  "name": "Bates White",
+  "type": "Boutique",
+  "tagline": "PhD-heavy economic consulting for antitrust and complex litigation",
+  "description": "Bates White Economic Consulting offers services to law firms, Fortune 500 companies, and government agencies. We specialize in advanced economic, financial, and econometric analysis and excel at complex matters that require sophisticated problem solving and deep empirical analysis. Established in 1999 and privately held, we have a culture where bright minds from diverse cultures solve difficult challenges. We build strong, collaborative relationships with our clients, within our team, and in the community. Our firm is distinguished by the strength of our collective experiences—intellectual and analytical rigor, creativity, responsiveness, and practical know-how. In each matter, we take a hands-on approach to develop a deep understanding of relevant industry, factual, and legal contexts. We are consistently recognized for an ability to support our opinions with sound economic theory and rigorous empirical analyses that withstand intense scrutiny. Our experts are noted for their ability to communicate clearly, succinctly, and persuasively to litigators, judges, juries, and government enforcers. With extensive experience in the application of economics to a wide range of industries and issues, most of our professionals hold PhD or master's level degrees. We complement our in-house expertise through an extensive network of leading academics and industry experts. Many of our senior staff and academic affiliates have significant government agency experience.",
+  "headquarters": "Washington, DC",
+  "founded": 1999,
+  "employees": 439,
+  "parent_company": null,
+  "offices": ["Washington DC"],
+  "regions": ["North America"],
+  "specialties": ["Economics", "Antitrust", "Litigation Support", "Econometrics", "Expert Testimony", "Financial Analysis"],
+  "industries": ["Legal Services", "Financial Services", "Healthcare", "Energy", "Technology", "Telecommunications"],
+  "known_for": "Distinguished by deep expertise in econometric modeling and economic analysis for complex litigation and regulatory matters. Over 100 PhDs on staff bring academic rigor to antitrust cases, mass torts, and strategic advisory work. Recognized by Management Consulted as a top boutique firm for three consecutive years in the Economic and Litigation category.",
+  "hires_ug": true,
+  "hires_mba": false,
+  "career_path": "Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Manager (3-4 yrs) → Principal → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 90000,
+      "bonus": 10000,
+      "signing": null
+    },
+    "mba": null
+  },
+  "recruiting": {
+    "process": "Resume → First Round (2-on-1 case + fit/behavioral) → Final Round (3 hrs: case + behavioral + consultant chat)",
+    "unique": "Cases focus on microeconomic concepts and litigation scenarios. Candidates with quantitative backgrounds (economics, statistics, math) preferred. PhD candidates may skip case interviews.",
+    "timeline": "Summer Consultant Program for rising seniors (10-week program in DC). Campus recruiting in fall with first rounds on campus, final rounds at DC office."
+  },
+  "email_format": "firstname.lastname@bateswhite.com",
+  "links": {
+    "website": "https://www.bateswhite.com/",
+    "linkedin": "https://www.linkedin.com/company/bates-white-economic-consulting/",
+    "careers": "https://www.bateswhite.com/careers",
+    "mc_profile": "https://managementconsulted.com/bates-white/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Bates%20White%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2221830%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2221830%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Bates%20White%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2221830%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2221830%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 21830,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 29,
+    "alumni_current": 5,
+    "marriott_alumni_all_time": 2,
+    "marriott_alumni_current": 0,
+    "tip": "Emphasize quantitative coursework and economic analysis skills. The firm values PhD-level rigor, so highlight econometrics, statistics, or data science experience. DC location means limited geographic diversity—demonstrate commitment to living in the capital."
+  }
+}

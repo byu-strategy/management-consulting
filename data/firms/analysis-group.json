@@ -1,0 +1,60 @@
+{
+  "id": "analysis-group",
+  "name": "Analysis Group",
+  "type": "Boutique",
+  "tagline": "Leading economics consulting firm for litigation and regulatory matters",
+  "description": "Analysis Group is one of the largest international economics consulting firms, with more than 1,500 professionals across 15 offices in North America, Europe, and Asia. Since 1981, we have provided expertise in economics, finance, health care analytics, and strategy to top law firms, Fortune Global 500 companies, and government agencies worldwide. Our internal experts, together with our network of affiliated experts from academia, industry, and government, offer our clients exceptional breadth and depth of expertise.",
+  "headquarters": "Boston, USA",
+  "founded": 1981,
+  "employees": 1815,
+  "parent_company": null,
+  "offices": ["Boston", "New York", "Washington DC", "Chicago", "Dallas", "Denver", "Los Angeles", "San Francisco", "Menlo Park"],
+  "regions": ["North America", "Europe", "Asia Pacific"],
+  "specialties": ["Economics", "Antitrust & Competition", "Intellectual Property", "Securities & Financial Products", "Health Care Analytics", "Data Science & Statistical Modeling"],
+  "industries": ["Financial Services", "Healthcare", "Technology", "Telecommunications", "Energy", "Life Sciences", "Insurance"],
+  "known_for": "Leading economics consulting firm specializing in complex litigation and regulatory matters, particularly antitrust cases and damages calculations. Known for bridging business and academia with deep economic and statistical expertise. Recognized in the GCR 100 for outstanding economics work.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Senior Analyst (2-3 yrs) → Associate (2-3 yrs) → Senior Associate → Principal → Managing Principal",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 96200,
+      "bonus": 24050,
+      "signing": 12500
+    },
+    "mba": {
+      "base": 190000,
+      "bonus": 47500,
+      "signing": 45000
+    }
+  },
+  "recruiting": {
+    "process": "Application → First Round (1-2 behavioral interviews, 30 min virtual) → Final Round (4 back-to-back behavioral interviews in-person)",
+    "unique": "No case interviews—one of the only top consulting firms without formal case interviews. Focus on behavioral questions and deep dive into analytical projects on resume. Must demonstrate understanding of economic consulting.",
+    "timeline": "Rolling applications year-round, average 25 days from application to offer"
+  },
+  "email_format": "firstname.lastname@analysisgroup.com",
+  "links": {
+    "website": "http://www.analysisgroup.com/",
+    "linkedin": "https://www.linkedin.com/company/analysis-group/",
+    "careers": "https://www.analysisgroup.com/careers/",
+    "mc_profile": "https://managementconsulted.com/analysis-group/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Analysis%20Group%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%229091%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%229091%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Analysis%20Group%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%229091%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%229091%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 9091,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 155,
+    "alumni_current": 7,
+    "marriott_alumni_all_time": 13,
+    "marriott_alumni_current": 0,
+    "tip": "Strong BYU alumni network (155 all-time) but no active campus recruiting. Focus on networking with current alumni, especially in Boston, New York, or SF offices. Emphasize analytical coursework and economic research experience."
+  }
+}

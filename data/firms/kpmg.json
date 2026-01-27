@@ -1,0 +1,104 @@
+{
+  "id": "kpmg",
+  "name": "KPMG",
+  "type": "Big 4",
+  "tagline": "Global Big Four professional services network—advisory, audit, tax across 143 countries",
+  "description": "KPMG is a global organization of independent professional services firms providing Audit, Tax and Advisory services. KPMG is the brand under which the member firms of KPMG International Limited (\"KPMG International\") operate and provide professional services. \"KPMG\" is used to refer to individual member firms within the KPMG organization or to one or more member firms collectively. KPMG firms operate in 143 countries and territories with more than 273,000 partners and employees working in member firms around the world. Each KPMG firm is a legally distinct and separate entity and describes itself as such. Each KPMG member firm is responsible for its own obligations and liabilities.",
+  "headquarters": "Amstelveen, Netherlands",
+  "founded": 1987,
+  "employees": 239190,
+  "parent_company": null,
+  "offices": [
+    "New York",
+    "Chicago",
+    "San Francisco",
+    "Los Angeles",
+    "Boston",
+    "Washington DC",
+    "Atlanta",
+    "Dallas",
+    "Houston",
+    "Philadelphia",
+    "Seattle",
+    "Denver",
+    "Miami",
+    "Phoenix",
+    "Detroit",
+    "Minneapolis",
+    "San Diego",
+    "Austin",
+    "Charlotte",
+    "Portland"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East",
+    "Africa"
+  ],
+  "specialties": [
+    "Advisory",
+    "Strategy",
+    "Risk",
+    "Digital",
+    "Operations",
+    "Transformation"
+  ],
+  "industries": [
+    "Financial Services",
+    "Technology",
+    "Healthcare",
+    "Consumer",
+    "Retail",
+    "Energy",
+    "Public Sector",
+    "Industrial"
+  ],
+  "known_for": "One of the Big Four accounting/advisory firms with truly global reach across 143 countries. KPMG Advisory provides strategy, risk, digital transformation, and operational consulting services with deep industry expertise, particularly in financial services and technology. Part of a broader professional services platform that also includes audit, tax, and legal services.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2 yrs) → Senior Analyst (2 yrs) → Associate Consultant (2-3 yrs) → Consultant (2-3 yrs) → Manager (2-4 yrs) → Senior Manager (2-5 yrs) → Director → Partner",
+  "travel": "high",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 90000,
+      "bonus": 10000,
+      "signing": 10000
+    },
+    "mba": {
+      "base": 165000,
+      "bonus": 35000,
+      "signing": 10000
+    }
+  },
+  "recruiting": {
+    "process": "Application + Resume → Video Interview 1 (behavioral + case) → Video Interview 2 (behavioral + case) → Offer",
+    "unique": "Rolling admissions—apply early as positions fill quickly. Emphasis on behavioral/cultural fit (50-75% behavioral) with less focus on pure strategy cases compared to MBB. Video interviews conducted remotely with business leaders.",
+    "timeline": "Applications open September on rolling basis, first rounds October-November, offers through winter. Process typically takes 1 month from application to offer."
+  },
+  "email_format": "lastname_firstInitial@kpmg.com",
+  "links": {
+    "website": "http://www.kpmg.com/",
+    "linkedin": "https://www.linkedin.com/company/kpmg/",
+    "careers": "https://www.kpmguscareers.com/",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22KPMG%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%222525300%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%222525300%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22KPMG%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%222525300%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%222525300%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 2525300,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 87,
+    "alumni_current": 7,
+    "marriott_alumni_all_time": 13,
+    "marriott_alumni_current": 3,
+    "tip": "KPMG has a smaller BYU presence compared to other Big 4 firms. Focus on networking with the 7 current BYU alumni and leverage the stronger connection through KPMG US (separate entity with 87 BYU alumni total). Consider applying to both KPMG global and KPMG US opportunities."
+  }
+}

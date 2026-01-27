@@ -1,0 +1,92 @@
+{
+  "id": "alvarez-marsal",
+  "name": "Alvarez & Marsal",
+  "type": "Boutique",
+  "tagline": "Turnaround and restructuring powerhouse—hands-on operational expertise",
+  "description": "Alvarez & Marsal is a leading global professional services firm dedicated to helping organizations tackle their most complex business issues, maximize stakeholder value, and deliver sustainable change. Privately held since its founding in 1983, clients select us for our deep expertise and proven ability to create and deliver practical solutions to their unique problems. Leveraging A&M's restructuring heritage, our fact-driven, action-oriented approach empowers organizations to drive transformation and unlock value at every stage of growth. Our worldwide network extends across six continents, with over 10,000 people comprised of experienced operators, world-class consultants, former regulators and industry authorities. We foster a uniquely collaborative environment that embraces our peoples' diverse perspectives and A&M's entrepreneurial spirit to deliver end-to-end capabilities that span advisory, business performance improvement, and turnaround management.",
+  "headquarters": "New York, USA",
+  "founded": 1983,
+  "employees": 13191,
+  "parent_company": null,
+  "offices": [
+    "New York",
+    "Chicago",
+    "Dallas",
+    "Houston",
+    "Miami",
+    "San Francisco",
+    "San Jose",
+    "Seattle",
+    "Atlanta",
+    "Los Angeles"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East"
+  ],
+  "specialties": [
+    "Restructuring",
+    "Turnaround",
+    "Performance Improvement",
+    "M&A",
+    "Due Diligence",
+    "Transaction Advisory"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Energy",
+    "Consumer",
+    "Retail",
+    "Technology",
+    "Private Equity"
+  ],
+  "known_for": "The go-to firm for turnaround and restructuring with hands-on operational expertise. Known for high-profile work on Lehman Brothers, HealthSouth, and Tribune Company. Distinguished by hiring experienced operators with C-suite backgrounds who roll up their sleeves rather than just advising from the sidelines.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Associate (2-3 yrs) → Senior Associate (2-3 yrs) → Manager (2-3 yrs) → Director (3-4 yrs) → Senior Director (3-4 yrs) → Managing Director",
+  "travel": "high",
+  "work_hours": "intense",
+  "compensation": {
+    "ug": {
+      "base": 112000,
+      "bonus": 51000,
+      "signing": 10000
+    },
+    "mba": {
+      "base": 175000,
+      "bonus": 87000,
+      "signing": 25000
+    }
+  },
+  "recruiting": {
+    "process": "Resume → Phone Screen (30 min) → First Round (2-3 interviews with case + behavioral) → Final Round (2-3 interviews with case + behavioral)",
+    "unique": "Requires 60-90 minute financial modeling test for Restructuring and Transaction Advisory roles. Focus on 13-week cash flow models. Cases emphasize restructuring, cost optimization, and operational turnaround scenarios.",
+    "timeline": "Applications reviewed fall of junior/senior year. Average process takes 1 month from application to offer, though can be as short as 2-3 weeks. Interviews held throughout fall by video, phone, or in person."
+  },
+  "email_format": "first_initiallast@alvarezandmarsal.com",
+  "links": {
+    "website": "http://www.alvarezandmarsal.com",
+    "linkedin": "https://www.linkedin.com/company/alvarez-&-marsal/",
+    "careers": "https://careers.alvarezandmarsal.com/",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/alvarez-marsal/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Alvarez%20%26%20Marsal%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22162399%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22162399%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Alvarez%20%26%20Marsal%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22162399%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22162399%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 162399,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 65,
+    "alumni_current": 24,
+    "marriott_alumni_all_time": 8,
+    "marriott_alumni_current": 4,
+    "tip": "Focus on restructuring or transaction advisory if you have strong accounting/finance background. A&M values operational experience and hands-on problem-solving over pure strategy consulting."
+  }
+}

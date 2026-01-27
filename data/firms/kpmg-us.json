@@ -1,0 +1,99 @@
+{
+  "id": "kpmg-us",
+  "name": "KPMG Advisory",
+  "type": "Big 4",
+  "tagline": "Fastest-growing Big Four firm with multi-disciplinary advisory services",
+  "description": "KPMG is one of the world's leading professional services firms and the fastest growing Big Four accounting firm in the United States. With 90+ offices and more than 36,000 employees and partners throughout the US, we're leading the industry in new and exciting ways. Our size and strength make us much more agile and responsive to changing trends.",
+  "headquarters": "New York, USA",
+  "founded": 1897,
+  "employees": 53729,
+  "parent_company": null,
+  "offices": [
+    "New York",
+    "Chicago",
+    "San Francisco",
+    "Dallas",
+    "Washington DC",
+    "Los Angeles",
+    "Atlanta",
+    "Denver",
+    "Houston",
+    "Philadelphia",
+    "Detroit",
+    "Orlando",
+    "Boston"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East",
+    "Africa"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Technology",
+    "Risk",
+    "Deal Advisory",
+    "Digital Transformation"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Consumer",
+    "Retail",
+    "Energy",
+    "Public Sector",
+    "Private Equity",
+    "Insurance",
+    "Manufacturing"
+  ],
+  "known_for": "First of the Big Four firms to organize along industry lines matching clients. Ranked #1 for quality of work in risk consulting by Source. Known for technology-enabled transformation and multi-disciplinary approach combining audit, tax, and advisory expertise.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Associate (2-3 yrs) → Senior Associate (2-3 yrs) → Manager (2-3 yrs) → Senior Manager (2 yrs) → Director (3-4 yrs) → Managing Director/Partner",
+  "travel": "high",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 72000,
+      "bonus": 10000,
+      "signing": 5000
+    },
+    "mba": {
+      "base": 111000,
+      "bonus": 20000,
+      "signing": 15000
+    }
+  },
+  "recruiting": {
+    "process": "Application → First Round (1 case + 1 behavioral, 30 min each) → Final Round (1 case + 1 behavioral + 1 written case, 30-60 min each)",
+    "unique": "Written case in final round. Behavioral interviews weighted more heavily than at other Big 4 firms. Strong emphasis on cultural fit and understanding KPMG values.",
+    "timeline": "Applications open September, first rounds October-November, offers typically within 2 days of final round with written offers in 10 days"
+  },
+  "email_format": "first_initial.last@kpmg.com",
+  "links": {
+    "website": "https://www.kpmg.com/us",
+    "linkedin": "https://www.linkedin.com/company/kpmg-us/",
+    "careers": "https://www.kpmguscareers.com/job-search/",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22KPMG%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221079%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221079%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22KPMG%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221079%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221079%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 1079,
+  "byu": {
+    "pipeline": "recruits",
+    "alumni_all_time": 87,
+    "alumni_current": 19,
+    "marriott_alumni_all_time": 13,
+    "marriott_alumni_current": 3,
+    "tip": "KPMG actively recruits from BYU and has a solid alumni network. Emphasize cultural fit and values alignment in behavioral interviews, which carry more weight than at other firms."
+  }
+}

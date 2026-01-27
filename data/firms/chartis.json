@@ -1,0 +1,81 @@
+{
+  "id": "chartis",
+  "name": "The Chartis Group",
+  "type": "Boutique",
+  "tagline": "Healthcare transformation specialist—advising 900+ healthcare organizations annually",
+  "description": "The challenges facing US healthcare are longstanding and all too familiar. We are Chartis, and we believe in better. We work with over 900 clients annually to develop and activate transformative strategies, operating models, and organizational enterprises that make U.S. healthcare more affordable, accessible, safe, and human. With over 1,000 professionals, we help providers, payers, technology innovators, retail companies, and investors create and embrace solutions that tangibly and materially reshape healthcare for the better. Our family of brands—Chartis, Jarrard, Greeley, and HealthScape Advisors—is 100% focused on healthcare and each has a longstanding commitment to helping transform healthcare in big and small ways. Chartis. Believe in better.",
+  "headquarters": "Chicago, USA",
+  "founded": 2009,
+  "employees": 3504,
+  "parent_company": null,
+  "offices": [
+    "Chicago",
+    "Boston",
+    "New York",
+    "San Francisco",
+    "Washington DC",
+    "Minneapolis",
+    "Brentwood",
+    "Atlanta"
+  ],
+  "regions": [
+    "North America"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Digital",
+    "Transformation",
+    "Financial Performance",
+    "Clinical Transformation"
+  ],
+  "industries": [
+    "Healthcare",
+    "Life Sciences"
+  ],
+  "known_for": "100% focused on healthcare with deep expertise across providers, payers, and technology innovators. Ranked best overall management consulting firm by KLAS with a 95.1 client satisfaction rating. Known for strong work-life balance and mission-driven culture.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Associate Consultant (2-3 yrs) → Consultant (2-3 yrs) → Engagement Manager (2-3 yrs) → Manager (3-4 yrs) → Senior Manager → Associate Principal → Principal → Partner",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 80000,
+      "bonus": null,
+      "signing": null
+    },
+    "mba": {
+      "base": 150000,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Resume → First Round (2 behavioral/case interviews via Zoom) → Final Round (3 in-person interviews: 1 case, 1 analytic case, 1 behavioral with partner) → Offer within 2-3 days",
+    "unique": "Excel test included in process. Three distinct case studies across interviews. Final round includes specialized analytic case interview.",
+    "timeline": "MBA: Outreach in September, interviews in October, offers by Thanksgiving. Undergrad: Chartis Connect diversity program for rising juniors. Process takes ~3 weeks from start to finish."
+  },
+  "email_format": "first_initiallast@chartis.com",
+  "links": {
+    "website": "https://www.chartis.com",
+    "linkedin": "https://www.linkedin.com/company/the-chartis-group/",
+    "careers": "https://www.chartis.com/about/careers",
+    "mc_profile": "https://managementconsulted.com/the-chartis-group/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22The%20Chartis%20Group%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2238109%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2238109%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22The%20Chartis%20Group%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2238109%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2238109%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 38109,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 12,
+    "alumni_current": 3,
+    "marriott_alumni_all_time": 2,
+    "marriott_alumni_current": 1,
+    "tip": "Chartis has a small but growing BYU presence. Target Chicago, Boston, or Minneapolis offices where internships are based. Leverage healthcare knowledge and emphasize mission-driven motivation."
+  }
+}

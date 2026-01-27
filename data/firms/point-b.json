@@ -1,0 +1,92 @@
+{
+  "id": "point-b",
+  "name": "Point B",
+  "type": "Boutique",
+  "tagline": "Employee-owned firm balancing impact with work-life quality",
+  "description": "Trusted by the world's leading organizations, Point B is a consulting company that drives impact at the intersection of expertise, industry insight, and transformative technology. This collaborative approach enables you to solve your most important challenges by bringing together the right mix of talent and technology to deliver greater value and impact. With over 850 associates in the US and 3,000+ consultants around the world through our partnership with Nextcontinent, we work where you do to deliver the change you seek.",
+  "headquarters": "Seattle, USA",
+  "founded": 1995,
+  "employees": 746,
+  "parent_company": "Endeavour",
+  "offices": [
+    "Seattle",
+    "New York",
+    "Boston",
+    "Chicago",
+    "Austin",
+    "Dallas",
+    "Denver",
+    "Los Angeles",
+    "Phoenix",
+    "Portland",
+    "San Antonio",
+    "San Francisco",
+    "Charlotte"
+  ],
+  "regions": [
+    "North America"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Digital Transformation",
+    "Technology",
+    "M&A",
+    "Data & Analytics",
+    "Healthcare"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Consumer",
+    "Retail",
+    "Energy",
+    "Life Sciences"
+  ],
+  "known_for": "Founded in 1995 by three former consultants seeking to build an alternative to traditional big-firm consulting, Point B is 100% employee-owned (ESOP) with a distinctive focus on work-life balance. The firm promotes 'wrapping work around life' with local staffing options, flexible PTO, and 40-45 hour work weeks—significantly more balanced than MBB firms. Partnered with Endeavour (PE firm) and Nextcontinent (global consulting network).",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Manager (3-4 yrs) → Director (4+ yrs) → Partner",
+  "travel": "low",
+  "work_hours": "balanced",
+  "compensation": {
+    "ug": {
+      "base": 93000,
+      "bonus": null,
+      "signing": null
+    },
+    "mba": {
+      "base": 140000,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Phone Screen → Multiple Interview Rounds (behavioral + case scenarios) → Potential Written Work Sample/Business Case Presentation → Offer",
+    "unique": "May include take-home business case with slide presentation; case interviews are not always administered; focuses heavily on cultural fit and work-life values; process is generally regarded as easier than MBB interviews",
+    "timeline": "Process typically takes 3-7 weeks from application to offer; rolling applications for experienced hires; structured recruiting for students and recent graduates"
+  },
+  "email_format": "first_initial.lastname@pointb.com",
+  "links": {
+    "website": "https://www.pointb.com",
+    "linkedin": "https://www.linkedin.com/company/point-b/",
+    "careers": "https://www.pointb.com/Careers",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Point%20B%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22165506%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22165506%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Point%20B%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22165506%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22165506%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 165506,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No BYU alumni presence detected. Focus on demonstrating cultural fit with Point B's work-life balance values and employee ownership model. Highlight interest in technology-enabled transformation and local market staffing preferences."
+  }
+}

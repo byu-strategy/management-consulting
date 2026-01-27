@@ -1,0 +1,170 @@
+{
+  "firm_id": "stax",
+  "researched_at": "2026-01-27T18:16:22Z",
+  "duration_seconds": 180,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://managementconsulted.com/consulting-firm/stax/",
+    "https://www.glassdoor.com/Salary/Stax-Inc-Associate-Strategy-Consulting-Boston-Salaries-E146618_DAO.htm",
+    "https://www.levels.fyi/companies/stax/salaries",
+    "https://www.stax.com/careers",
+    "https://www.casebasix.com/pages/stax-consulting-global-strategy-firm",
+    "https://www.grantthornton.com/insights/press-releases/2025/august/grantthornton-adds-stax-for-diligence-value-boost",
+    "https://peprofessional.com/2025/09/due-diligence-focused-stax-sold-by-blue-point/",
+    "https://leadiq.com/c/grant-thornton-us/5a1d8a432400002400638684/email-format"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "peprofessional.com, cbinsights.com",
+      "confidence": "high",
+      "note": "Founded 1994 by Rafi Musher"
+    },
+    "headquarters": {
+      "source": "Multiple sources (D&B, PitchBook, press releases)",
+      "confidence": "high"
+    },
+    "parent_company": {
+      "source": "Grant Thornton press releases",
+      "confidence": "high",
+      "note": "Acquired by Grant Thornton Advisors LLC in September 2025"
+    },
+    "offices": {
+      "source": "stax.com/locations, multiple press releases",
+      "confidence": "high",
+      "note": "US offices only - also has London office internationally"
+    },
+    "regions": {
+      "source": "stax.com/locations",
+      "confidence": "high"
+    },
+    "specialties": {
+      "source": "LinkedIn overview, Management Consulted, press releases",
+      "confidence": "high"
+    },
+    "industries": {
+      "source": "LinkedIn overview, Management Consulted",
+      "confidence": "high"
+    },
+    "known_for": {
+      "source": "Management Consulted, Vault rankings, press releases",
+      "confidence": "high"
+    },
+    "hires_ug": {
+      "source": "Management Consulted career path info",
+      "confidence": "high",
+      "note": "Associate Consultant is entry-level UG role"
+    },
+    "hires_mba": {
+      "source": "Management Consulted career path info",
+      "confidence": "high",
+      "note": "MBAs enter at Manager level"
+    },
+    "career_path": {
+      "source": "Management Consulted",
+      "confidence": "high"
+    },
+    "travel": {
+      "source": "Management Consulted, CaseBasix",
+      "confidence": "high",
+      "note": "Limited-travel model, research-based approach"
+    },
+    "work_hours": {
+      "source": "Management Consulted, Vault rankings",
+      "confidence": "medium",
+      "note": "Ranked #1 for work-life balance but still demanding"
+    },
+    "compensation.ug.base": {
+      "source": "Glassdoor 2025",
+      "confidence": "medium",
+      "note": "Associate Consultant avg $83,401"
+    },
+    "compensation.ug.bonus": {
+      "source": "Glassdoor 2025",
+      "confidence": "medium",
+      "note": "Estimated additional pay ~$12,000"
+    },
+    "compensation.ug.signing": {
+      "source": null,
+      "confidence": "low",
+      "note": "No reliable data found"
+    },
+    "compensation.mba.base": {
+      "source": null,
+      "confidence": "low",
+      "note": "MBA enters at Manager level - no specific data found"
+    },
+    "compensation.mba.bonus": {
+      "source": null,
+      "confidence": "low",
+      "note": "No reliable data found"
+    },
+    "compensation.mba.signing": {
+      "source": null,
+      "confidence": "low",
+      "note": "No reliable data found"
+    },
+    "recruiting.process": {
+      "source": "Glassdoor interviews, Management Consulted",
+      "confidence": "high"
+    },
+    "recruiting.unique": {
+      "source": "Glassdoor interviews, Fishbowl discussions, Management Consulted",
+      "confidence": "high",
+      "note": "Excel test is distinctive feature"
+    },
+    "recruiting.timeline": {
+      "source": "Glassdoor user submissions",
+      "confidence": "medium",
+      "note": "Based on 62 user submissions"
+    },
+    "email_format": {
+      "source": "LeadIQ Grant Thornton email format",
+      "confidence": "high",
+      "note": "Grant Thornton US format: First.Last@us.gt.com (96% usage)"
+    },
+    "byu.pipeline": {
+      "source": "Judgment based on alumni counts",
+      "confidence": "high",
+      "note": "Only 2 total BYU alumni = hustle required"
+    },
+    "byu.tip": {
+      "source": "Synthesized from firm profile and alumni data",
+      "confidence": "medium"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.ug.signing",
+      "reason": "No signing bonus data found for Stax specifically"
+    },
+    {
+      "field": "compensation.mba",
+      "reason": "MBA enters at Manager level - no specific Manager-level comp data found for recent hires"
+    }
+  ],
+  "notes": "Pre-populated data from CSV covered LinkedIn/BYU fields. Extensive public information available due to recent Grant Thornton acquisition. Management Consulted provided excellent career path details. Glassdoor had good salary data for Associate Consultant (UG) level but limited MBA/Manager-level data. Stax has very limited BYU presence (only 2 alumni total, 2 current, 0 Marriott). Email format follows Grant Thornton standard since acquisition."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "keystone-group",
+  "name": "The Keystone Group",
+  "type": "Boutique",
+  "tagline": "Results-driven mid-market specialists in manufacturing and distribution turnarounds",
+  "description": "The Keystone Group is a results-oriented management consulting firm. Our small, experienced teams work with middle-market manufacturing, distribution, and business services clients to develop and execute strategic growth, improve operations, restructure finances, and integrate acquisitions. Our mission is to make a substantive difference in the companies we work with and the lives of the people that work for them. For over thirty years, we have been building long-term relationships with our clients by helping them identify and implement solutions to their most complex business issues.",
+  "headquarters": "Chicago, USA",
+  "founded": 1991,
+  "employees": 64,
+  "parent_company": null,
+  "offices": ["Chicago", "Atlanta", "Los Angeles"],
+  "regions": ["North America"],
+  "specialties": ["Strategy", "Operations", "Restructuring", "M&A"],
+  "industries": ["Manufacturing", "Distribution", "Business Services", "Automotive", "Food & Beverage", "Industrial Equipment", "Consumer Products"],
+  "known_for": "Boutique firm specializing in middle-market manufacturing and distribution with deep operational expertise. Ranked #1 by Vault for firm culture (2020-2023) and known for hands-on implementation work, no up-or-out model, and strong work-life balance for consulting.",
+  "hires_ug": true,
+  "hires_mba": null,
+  "career_path": "Analyst (varies) → Associate (varies) → Principal (varies) → Partner",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 100000,
+      "bonus": null,
+      "signing": null
+    },
+    "mba": null
+  },
+  "recruiting": {
+    "process": "Resume → Round 1 (behavioral/fit) → Round 2 (1 case + 1 behavioral) → Round 3 (office visit to Chicago to meet team)",
+    "unique": "Heavy emphasis on cultural fit throughout all rounds. Final round is full-day office visit to assess fit across firm. No digital assessment or group case. Interviews conducted by leadership team.",
+    "timeline": "Fall recruiting at target schools. Offers Consultant Development Program (CDP) - 2-day conference in Chicago for sophomores."
+  },
+  "email_format": "first_initial.last@thekeystonegroup.com",
+  "links": {
+    "website": "https://www.thekeystonegroup.com/",
+    "linkedin": "https://www.linkedin.com/company/the-keystone-group/",
+    "careers": "https://www.thekeystonegroup.com/careers",
+    "mc_profile": "https://managementconsulted.com/the-keystone-group/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22The%20Keystone%20Group%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22609798%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22609798%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22The%20Keystone%20Group%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22609798%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22609798%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 609798,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No BYU alumni presence - cold networking required. Firm recruits from Emory, Georgia Tech, Howard, Indiana, and Michigan. Focus on manufacturing/distribution expertise and cultural fit when reaching out."
+  }
+}

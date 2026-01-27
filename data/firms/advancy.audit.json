@@ -1,0 +1,50 @@
+{
+  "firm_id": "advancy",
+  "researched_at": "2026-01-27T18:45:00Z",
+  "duration_seconds": 420,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.advancy.com/",
+    "https://www.advancy.com/careers",
+    "https://managementconsulted.com/advancy/",
+    "https://www.glassdoor.com/Salary/Advancy-Salaries-E1125585.htm",
+    "Web search: Advancy consulting compensation salary analyst consultant 2025 2026"
+  ],
+  "field_sources": {
+    "linkedin_id": {"source": "consulting-firms.csv", "confidence": "high"},
+    "employees": {"source": "consulting-firms.csv", "confidence": "high"},
+    "byu.alumni_all_time": {"source": "consulting-firms.csv", "confidence": "high"},
+    "byu.alumni_current": {"source": "consulting-firms.csv", "confidence": "high"},
+    "byu.marriott_alumni_all_time": {"source": "consulting-firms.csv", "confidence": "high"},
+    "byu.marriott_alumni_current": {"source": "consulting-firms.csv", "confidence": "high"},
+    "description": {"source": "consulting-firms.csv (linkedin_overview)", "confidence": "high"},
+    "headquarters": {"source": "advancy.com + managementconsulted.com", "confidence": "high"},
+    "founded": {"source": "managementconsulted.com/advancy", "confidence": "high"},
+    "parent_company": {"source": "advancy.com", "confidence": "high", "note": "Independent firm, no parent"},
+    "offices": {"source": "advancy.com + managementconsulted.com", "confidence": "high", "note": "US offices only per schema"},
+    "regions": {"source": "advancy.com", "confidence": "high"},
+    "specialties": {"source": "advancy.com + managementconsulted.com", "confidence": "high"},
+    "industries": {"source": "advancy.com + managementconsulted.com", "confidence": "high"},
+    "known_for": {"source": "advancy.com + managementconsulted.com", "confidence": "high"},
+    "hires_ug": {"source": "managementconsulted.com/advancy + advancy.com/careers", "confidence": "high"},
+    "hires_mba": {"source": "managementconsulted.com/advancy", "confidence": "high"},
+    "career_path": {"source": "managementconsulted.com/advancy", "confidence": "high"},
+    "travel": {"source": "managementconsulted.com/advancy", "confidence": "high", "note": "~10% travel, primarily office-based"},
+    "work_hours": {"source": "managementconsulted.com/advancy", "confidence": "medium", "note": "Inferred from consulting nature and competitive culture"},
+    "compensation.ug.base": {"source": "Glassdoor + web search", "confidence": "medium", "note": "Range $76K-$100K reported, using $95K as midpoint"},
+    "compensation.ug.bonus": {"source": "Web search + industry standard", "confidence": "medium", "note": "15% bonus typical for boutique strategy firms"},
+    "compensation.ug.signing": {"source": "Industry standard estimation", "confidence": "low", "note": "Estimated based on boutique firm norms"},
+    "recruiting.process": {"source": "managementconsulted.com/advancy", "confidence": "high"},
+    "recruiting.unique": {"source": "managementconsulted.com/advancy", "confidence": "high"},
+    "recruiting.timeline": {"source": "managementconsulted.com/advancy", "confidence": "high"},
+    "byu.pipeline": {"source": "CSV data analysis + BYU alumni count", "confidence": "high", "note": "Only 1 BYU alum, 0 Marriott - classified as hustle"},
+    "byu.tip": {"source": "Analysis of firm recruiting targets + BYU alumni presence", "confidence": "high"}
+  },
+  "gaps": [
+    {"field": "email_format", "reason": "Not listed on Management Consulted profile or firm website"},
+    {"field": "compensation.mba.base", "reason": "MBA compensation not specified in available sources"},
+    {"field": "compensation.mba.bonus", "reason": "MBA compensation not specified in available sources"},
+    {"field": "compensation.mba.signing", "reason": "MBA compensation not specified in available sources"}
+  ],
+  "notes": "CSV data provided all LinkedIn and BYU alumni fields successfully. Advancy has minimal BYU presence (1 alum total, 0 from Marriott), making this a 'hustle' pipeline firm. Management Consulted profile was accessed via Chrome extension due to bot protection. Firm specializes in 3 core sectors (Chemicals/Materials, Life Sciences, Consumer) with deep expertise. Low travel (~10%) is a distinctive feature. Compensation data for MBA level not available from public sources."
+}

@@ -1,0 +1,248 @@
+{
+  "firm_id": "point-b",
+  "researched_at": "2026-01-27T19:15:00Z",
+  "duration_seconds": 180,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.pointb.com",
+    "https://www.pointb.com/careers",
+    "https://managementconsulted.com/consulting-firm/point-b/",
+    "https://www.glassdoor.com/Salary/Point-B-Salaries-E101930.htm",
+    "https://www.levels.fyi/companies/point-b/salaries/management-consultant",
+    "https://rocketreach.co/point-b-email-format_b5c49f50f42e0dc4",
+    "https://www.fishbowlapp.com/post/whats-worklife-balance-like-at-point-b-and-slalom-do-you-still-travel-what-about-compensation-equivalent-to-mbb",
+    "https://www.pointb.com/About/News/Point-B-Goes-Global--Joins-Nextcontinent-Consulting-Network",
+    "https://www.businesswire.com/news/home/20220118005978/en/Point-B-Partners-with-Endeavour-Ignites-Growth-and-Deepens-Industry-and-Technology-Expertise",
+    "https://www.pointb.com/Careers/Benefits",
+    "https://umbrex.com/resources/profiles-of-the-top-consulting-firms/overview-profile-and-history-of-point-b-inc/",
+    "https://www.glassdoor.com/Interview/Point-B-Interview-Questions-E101930.htm",
+    "https://www.casebasix.com/pages/point-b"
+  ],
+  "field_sources": {
+    "id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "name": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "type": {
+      "source": "analyst judgment",
+      "confidence": "high",
+      "note": "Boutique classification - not MBB or Big 4"
+    },
+    "tagline": {
+      "source": "analyst synthesis from multiple sources",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv (linkedin_overview)",
+      "confidence": "high"
+    },
+    "headquarters": {
+      "source": "umbrex.com, builtinseattle.com",
+      "confidence": "high",
+      "note": "1420 5th Avenue, Suite 2200, Seattle, WA 98101"
+    },
+    "founded": {
+      "source": "managementconsulted.com, umbrex.com",
+      "confidence": "high",
+      "note": "Founded by Tim Jenkins, Darran Littlefield, and Jim Hodge"
+    },
+    "employees": {
+      "source": "consulting-firms.csv (number_emp_linkedin)",
+      "confidence": "high"
+    },
+    "parent_company": {
+      "source": "businesswire.com",
+      "confidence": "high",
+      "note": "Endeavour private equity partnership established January 2022"
+    },
+    "offices": {
+      "source": "web search results, pointb.com",
+      "confidence": "high",
+      "note": "13 US offices"
+    },
+    "regions": {
+      "source": "pointb.com, linkedin",
+      "confidence": "high"
+    },
+    "specialties": {
+      "source": "pointb.com, managementconsulted.com",
+      "confidence": "high"
+    },
+    "industries": {
+      "source": "pointb.com",
+      "confidence": "high"
+    },
+    "known_for": {
+      "source": "analyst synthesis from multiple sources",
+      "confidence": "high"
+    },
+    "hires_ug": {
+      "source": "pointb.com/careers",
+      "confidence": "high",
+      "note": "Explicitly mentions students and recent graduates"
+    },
+    "hires_mba": {
+      "source": "pointb.com/careers",
+      "confidence": "high",
+      "note": "Hires experienced professionals with 3+ years"
+    },
+    "career_path": {
+      "source": "analyst inference from industry standards",
+      "confidence": "medium",
+      "note": "Typical boutique consulting progression"
+    },
+    "travel": {
+      "source": "fishbowlapp.com",
+      "confidence": "high",
+      "note": "Local staffing available, no unwanted travel"
+    },
+    "work_hours": {
+      "source": "fishbowlapp.com, glassdoor.com",
+      "confidence": "high",
+      "note": "40-45 hours per week, rated 3.9/5 for work-life balance"
+    },
+    "compensation.ug.base": {
+      "source": "glassdoor.com",
+      "confidence": "medium",
+      "note": "2025-2026 data for Analyst roles"
+    },
+    "compensation.ug.bonus": {
+      "source": "not found",
+      "confidence": "low"
+    },
+    "compensation.ug.signing": {
+      "source": "not found",
+      "confidence": "low"
+    },
+    "compensation.mba.base": {
+      "source": "glassdoor.com, levels.fyi",
+      "confidence": "medium",
+      "note": "Management Consultant average ~$140-162K total comp"
+    },
+    "compensation.mba.bonus": {
+      "source": "not found",
+      "confidence": "low"
+    },
+    "compensation.mba.signing": {
+      "source": "not found",
+      "confidence": "low"
+    },
+    "recruiting.process": {
+      "source": "glassdoor.com, casebasix.com",
+      "confidence": "medium",
+      "note": "Process varies but generally includes phone screen, multiple interviews, potential work sample"
+    },
+    "recruiting.unique": {
+      "source": "glassdoor.com, casebasix.com",
+      "confidence": "medium"
+    },
+    "recruiting.timeline": {
+      "source": "glassdoor.com",
+      "confidence": "medium",
+      "note": "Based on candidate reports of 3-7 week processes"
+    },
+    "email_format": {
+      "source": "rocketreach.co",
+      "confidence": "high",
+      "note": "FLast@pointb.com format used 77% of time"
+    },
+    "links.website": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "links.linkedin": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "links.careers": {
+      "source": "pointb.com",
+      "confidence": "high"
+    },
+    "links.mc_profile": {
+      "source": "not found",
+      "confidence": "high",
+      "note": "Management Consulted redirected to different firm profile"
+    },
+    "links.byu_keyword": {
+      "source": "generated from schema pattern",
+      "confidence": "high"
+    },
+    "links.byu_current": {
+      "source": "generated from schema pattern with linkedin_id",
+      "confidence": "high"
+    },
+    "links.byu_past": {
+      "source": "generated from schema pattern with linkedin_id",
+      "confidence": "high"
+    },
+    "links.marriott_keyword": {
+      "source": "generated from schema pattern",
+      "confidence": "high"
+    },
+    "links.marriott_current": {
+      "source": "generated from schema pattern with linkedin_id",
+      "confidence": "high"
+    },
+    "links.marriott_past": {
+      "source": "generated from schema pattern with linkedin_id",
+      "confidence": "high"
+    },
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.pipeline": {
+      "source": "analyst judgment based on alumni count",
+      "confidence": "high",
+      "note": "Zero BYU alumni indicates hustle required"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv (alltime_byu)",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv (current_byu)",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv (alltime_byu_marriott)",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv (current_byu_marriott)",
+      "confidence": "high"
+    },
+    "byu.tip": {
+      "source": "analyst synthesis",
+      "confidence": "medium",
+      "note": "Based on zero alumni presence and firm culture"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.ug.bonus",
+      "reason": "Not available in Glassdoor or other public sources"
+    },
+    {
+      "field": "compensation.ug.signing",
+      "reason": "Not available in Glassdoor or other public sources"
+    },
+    {
+      "field": "compensation.mba.bonus",
+      "reason": "Glassdoor shows total comp but doesn't break out bonus separately"
+    },
+    {
+      "field": "compensation.mba.signing",
+      "reason": "Not available in Glassdoor or other public sources"
+    },
+    {
+      "field": "links.mc_profile",
+      "reason": "Management Consulted profile for Point B redirected to a different firm (Bates White). Profile may not exist or URL structure changed."
+    }
+  ],
+  "notes": "Point B is a well-established boutique consulting firm founded in 1995 with a unique employee ownership model (100% ESOP since 2014). The firm has strong work-life balance ratings and is backed by Endeavour private equity. They are part of the Nextcontinent global consulting network. Zero BYU alumni presence indicates this is a 'hustle' firm for BYU students. Compensation data is limited to base salary estimates from Glassdoor. The firm's distinctive culture around work-life balance and local staffing makes them different from traditional MBB/Big 4 models."
+}

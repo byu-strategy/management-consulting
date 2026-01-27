@@ -1,0 +1,89 @@
+{
+  "id": "alixpartners",
+  "name": "AlixPartners",
+  "type": "Boutique",
+  "tagline": "Crisis management and restructuring experts—when it really matters",
+  "description": "For more than forty years, AlixPartners has helped businesses around the world respond quickly and decisively to their most critical challenges – circumstances as diverse as urgent performance improvement, accelerated transformation, complex restructuring and risk mitigation. These are the moments when everything is on the line – a sudden shift in the market, an unexpected performance decline, a time-sensitive deal, a fork-in-the-road decision. But it's not what we do that makes a difference, it's how we do it. Tackling situations when time is of the essence is part of our DNA – so we adopt an action-oriented approach at all times. We work in small, highly qualified teams with specific industry and functional expertise, and we operate at pace, moving quickly from analysis to implementation. We stand shoulder to shoulder with our clients until the job is done, and only measure our success in terms of the results we deliver. Our approach enables us to help our clients confront and overcome truly future-defining challenges. We partner with you to make the right decisions and take the right actions. And we are right by your side. When it really matters.",
+  "headquarters": "New York, USA",
+  "founded": 1981,
+  "employees": 3845,
+  "parent_company": null,
+  "offices": [
+    "New York",
+    "Chicago",
+    "Boston",
+    "Dallas",
+    "Houston",
+    "Los Angeles",
+    "San Francisco",
+    "Washington DC",
+    "Southfield",
+    "Wilmington"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Restructuring",
+    "Turnaround",
+    "Performance Improvement",
+    "M&A",
+    "Operations",
+    "Strategy"
+  ],
+  "industries": [
+    "Retail",
+    "Financial Services",
+    "Healthcare",
+    "Automotive",
+    "Manufacturing",
+    "Energy"
+  ],
+  "known_for": "AlixPartners is the leading global firm for crisis management, corporate turnarounds, and restructuring, advising on major Chapter 11 reorganizations including General Motors, Kmart, and Enron. Known for their action-oriented approach and ability to deliver results in high-stakes, time-sensitive situations where everything is on the line.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Vice President (2-3 yrs) → Senior Vice President (2-3 yrs) → Director (3-4 yrs) → Managing Director",
+  "travel": "high",
+  "work_hours": "intense",
+  "compensation": {
+    "ug": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    },
+    "mba": {
+      "base": 180000,
+      "bonus": 60000,
+      "signing": 35000
+    }
+  },
+  "recruiting": {
+    "process": "Resume → Recruiter Interview (30 min fit) → First Round (1-2 interviews, 45 min case + fit) → Final Round (2-3 case interviews with senior directors, 45 min each) → Psychological Assessment",
+    "unique": "Includes psychometric testing conducted by a psychologist as part of final evaluation. Focus on restructuring and turnaround cases rather than traditional strategy. Does minimal university campus recruiting, primarily uses recruitment firms.",
+    "timeline": "Process typically takes 4 weeks from application to offer. Limited campus presence except at top-tier MBA programs."
+  },
+  "email_format": "first_initial.lastname@alixpartners.com",
+  "links": {
+    "website": "https://www.alixpartners.com",
+    "linkedin": "https://www.linkedin.com/company/alixpartners/",
+    "careers": "https://www.alixpartners.com/careers/",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/alixpartners/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22AlixPartners%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%227787%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%227787%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22AlixPartners%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%227787%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%227787%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 7787,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 20,
+    "alumni_current": 13,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "AlixPartners does minimal campus recruiting. Focus on networking with BYU alumni currently at the firm (13 total). The firm primarily uses recruitment firms rather than campus channels."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "credera",
+  "name": "Credera",
+  "type": "Boutique",
+  "tagline": "Omnicom's MarTech and digital transformation consultancy bridging strategy and execution",
+  "description": "Credera empowers the world's leading brands to navigate the complexities of data, technology, and marketing. As the global consultancy embedded within Omnicom's creative and media scale, we bridge marketing ambition and technical execution to accelerate growth and build transformations that last.",
+  "headquarters": "Dallas, USA",
+  "founded": 1999,
+  "employees": 1859,
+  "parent_company": "Omnicom",
+  "offices": [
+    "Dallas",
+    "Denver",
+    "Houston",
+    "Chicago",
+    "New York",
+    "Los Angeles"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Digital Transformation",
+    "MarTech",
+    "Strategy",
+    "Technology",
+    "Marketing Analytics",
+    "AI"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Retail",
+    "Technology",
+    "Consumer",
+    "Life Sciences"
+  ],
+  "known_for": "As Omnicom's embedded global consultancy, Credera uniquely bridges marketing strategy and technical execution with deep MarTech expertise. Known for strong work-life balance relative to traditional consulting (40-50 hour weeks, minimal travel) while delivering sophisticated digital transformation and marketing analytics solutions.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Manager (3-4 yrs) → Senior Manager (3-4 yrs) → Partner",
+  "travel": "low",
+  "work_hours": "balanced",
+  "compensation": {
+    "ug": {
+      "base": 87000,
+      "bonus": null,
+      "signing": null
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Behavioral Interview (Cappfinity assessment) → Technical Interview → Final Round (senior leader)",
+    "unique": "Heavy emphasis on behavioral assessment using Cappfinity tool to evaluate eight behavioral traits aligned with four core values (Professionalism, Excellence, Humility, Integrity). Virtual interview process focused on cultural fit.",
+    "timeline": "Approximately 2 weeks from application to offer for most candidates"
+  },
+  "email_format": "firstname.lastname@credera.com",
+  "links": {
+    "website": "https://www.credera.com/en-us",
+    "linkedin": "https://www.linkedin.com/company/credera/",
+    "careers": "https://www.credera.com/en-us/careers",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/credera/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Credera%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2221837%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2221837%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Credera%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2221837%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2221837%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 21837,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 26,
+    "alumni_current": 13,
+    "marriott_alumni_all_time": 14,
+    "marriott_alumni_current": 8,
+    "tip": "Credera values cultural fit and humility. Network with the 13 current BYU alumni, especially the 8 Marriott alumni. Emphasize alignment with their core values (Professionalism, Excellence, Humility, Integrity) in your behavioral interviews."
+  }
+}

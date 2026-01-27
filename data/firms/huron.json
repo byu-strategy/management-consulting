@@ -1,0 +1,87 @@
+{
+  "id": "huron",
+  "name": "Huron Consulting Group",
+  "type": "Boutique",
+  "tagline": "Industry-focused consulting for healthcare, education, and business transformation",
+  "description": "Huron is a global professional services firm that collaborates with clients to put possible into practice by creating sound strategies, optimizing operations, accelerating digital transformation, and empowering businesses and their people to own their future. By embracing diverse perspectives, encouraging new ideas, and challenging the status quo, we create sustainable results for the organizations we serve. Learn more at huronconsultinggroup.com.",
+  "headquarters": "Chicago, USA",
+  "founded": 2002,
+  "employees": 6265,
+  "parent_company": null,
+  "offices": [
+    "Chicago",
+    "New York",
+    "Washington DC",
+    "Dallas",
+    "Denver",
+    "Columbus",
+    "Pensacola",
+    "Hillsboro"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Digital Transformation",
+    "Transaction Advisory",
+    "Organizational Transformation",
+    "Managed Services"
+  ],
+  "industries": [
+    "Healthcare",
+    "Education",
+    "Financial Services",
+    "Energy",
+    "Public Sector",
+    "Industrial"
+  ],
+  "known_for": "Huron is distinguished by its deep industry expertise, particularly in healthcare and education sectors. Founded in 2002 from Arthur Andersen alumni post-collapse, the firm emphasizes practical implementation and operational transformation alongside strategic consulting.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Associate (2-3 yrs) → Manager (3-4 yrs) → Director (3-4 yrs) → Senior Director (4+ yrs) → Managing Director",
+  "travel": "high",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 74000,
+      "bonus": 8000,
+      "signing": 5000
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Resume → Phone Screen (behavioral) → Consultant Screen (behavioral) → Final Round (case + behavioral interviews with consultants and leadership)",
+    "unique": "Year-round rolling applications rather than fixed recruiting windows. Case interviews can cover any industry including retail, financial services, healthcare, education, and government.",
+    "timeline": "Process typically takes 4 weeks from application to offer. Most active recruiting occurs during fall at select schools, but accepts applications year-round."
+  },
+  "email_format": "first_initial.lastname@huronconsultinggroup.com",
+  "links": {
+    "website": "https://www.huronconsultinggroup.com",
+    "linkedin": "https://www.linkedin.com/company/huronconsulting/",
+    "careers": "https://www.huronconsultinggroup.com/company/careers",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Huron%20Consulting%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225751%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225751%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Huron%20Consulting%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225751%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225751%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 5751,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 75,
+    "alumni_current": 17,
+    "marriott_alumni_all_time": 5,
+    "marriott_alumni_current": 3,
+    "tip": "Huron has a solid BYU alumni base but doesn't actively recruit on campus. Reach out to alumni for informational interviews and referrals. The firm's industry focus on healthcare and education may align well with BYU students interested in mission-driven consulting work."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "guidehouse",
+  "name": "Guidehouse",
+  "type": "Boutique",
+  "tagline": "Risk management and regulated industries specialist—born from PwC in 2018",
+  "description": "Guidehouse is a global AI-led professional services firm delivering advisory, technology, and managed services to the commercial and government sectors. With an integrated business technology approach, Guidehouse drives efficiency and resilience in the healthcare, financial services, energy, infrastructure, and national security markets. Built to help clients across industries outwit complexity, the firm brings together approximately 18,000 professionals to achieve lasting impact and shape a meaningful future.",
+  "headquarters": "McLean, VA, USA",
+  "founded": 2018,
+  "employees": 15156,
+  "parent_company": null,
+  "offices": [
+    "McLean",
+    "Washington DC",
+    "New York",
+    "Chicago",
+    "Boston",
+    "Denver",
+    "San Francisco",
+    "Los Angeles",
+    "Atlanta",
+    "Dallas"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Middle East"
+  ],
+  "specialties": [
+    "Risk",
+    "Regulatory Compliance",
+    "Technology Solutions",
+    "Operations",
+    "Cybersecurity",
+    "Financial Crime",
+    "Managed Services"
+  ],
+  "industries": [
+    "Public Sector",
+    "Healthcare",
+    "Financial Services",
+    "Energy",
+    "Defense",
+    "National Security"
+  ],
+  "known_for": "Born from PwC's public sector arm in 2018 and strengthened by acquiring Navigant in 2019, Guidehouse specializes in risk management, regulatory compliance, and technology consulting for highly regulated industries. Strong emphasis on public sector clients alongside commercial work.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Managing Consultant (2-3 yrs) → Associate Director (3-4 yrs) → Director → Partner",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 75000,
+      "bonus": 10000,
+      "signing": null
+    },
+    "mba": {
+      "base": 150000,
+      "bonus": 30000,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Phone Screen (30 min behavioral) → First Round (case + behavioral) → Final Round (3-4 interviews: mix of case + behavioral)",
+    "unique": "Heavy emphasis on candidate-led case interviews; includes take-home case assignments with 24-48 hour deadlines; may include Excel-based data analysis cases",
+    "timeline": "Campus recruiting in fall; typical process takes 2-4 weeks from application to offer; some programs have specific deadlines (e.g., Gateway to Guidehouse due Feb 28)"
+  },
+  "email_format": "first_initial.lastname@guidehouse.com",
+  "links": {
+    "website": "https://www.guidehouse.com",
+    "linkedin": "https://www.linkedin.com/company/guidehouse/",
+    "careers": "https://guidehouse.com/careers",
+    "mc_profile": "https://managementconsulted.com/guidehouse/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Guidehouse%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2228974109%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2228974109%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Guidehouse%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2228974109%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2228974109%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 28974109,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 41,
+    "alumni_current": 16,
+    "marriott_alumni_all_time": 4,
+    "marriott_alumni_current": 1,
+    "tip": "Focus on public sector or healthcare practice areas—these align with Guidehouse's core strengths and may be more receptive to BYU candidates"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "putnam",
+  "name": "Putnam (Inizio Advisory)",
+  "type": "Boutique",
+  "tagline": "Life sciences strategy boutique bridging science and business decisions",
+  "description": "We are now Inizio Ignite, the global advisory partner for health and life sciences, encompassing connected expertise across Research Partnership, Putnam, Vynamic, and STEM. Our Putnam strategy consulting team bridges science and strategy to enable confident decision-making and build value for pharma. We partner with leading health and life science companies serving brand & commercial leaders, Medical Affairs, access & pricing, and R&D. Our expertise spans offerings including therapeutic area strategy, data & AI strategy, go-to-market strategy, commercialization & growth, value, pricing & access (VPA) strategy, and evidence generation. Proudly part of Inizio – the market-leading commercialization partner for health and life sciences. From early-stage development to loss of exclusivity, we simplify complexity, unlock value, and make collaboration seamless at every pivotal moment – supporting confident, insight-driven decisions that move innovation forward.",
+  "headquarters": "Boston, USA",
+  "founded": 1988,
+  "employees": 416,
+  "parent_company": "Inizio Advisory",
+  "offices": ["Boston", "New York", "San Francisco"],
+  "regions": ["North America", "Europe", "Asia Pacific"],
+  "specialties": ["Strategy", "Commercialization", "Pricing & Market Access", "Evidence Generation", "Data & AI Strategy"],
+  "industries": ["Life Sciences", "Pharmaceuticals", "Biotechnology", "Medical Devices", "Diagnostics"],
+  "known_for": "Founded by ex-Bain consultants in 1988, Putnam is a leading life sciences strategy boutique serving all top 20 global biopharma companies. Known for deep scientific expertise, minimal travel requirements (under 25%), and strong work-life balance compared to traditional consulting firms.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate Consultant (2-3 yrs) → Senior Associate (2-3 yrs) → Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Manager (3-4 yrs) → Principal (3-4 yrs) → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 93000,
+      "bonus": 8000,
+      "signing": null
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Resume Screen → Phone Interview (behavioral, for non-core schools) → First Round (2 case interviews + behavioral) → Final Round (2 case + 1 behavioral + Q&A)",
+    "unique": "Heavy focus on healthcare and life sciences cases including drug pricing, product launch strategy, and market sizing. Behavioral interviews emphasize Putnam's core values around teamwork, leadership, and grit. Candidate-led case format.",
+    "timeline": "2-4 weeks from application to offer. Hear back within 2-5 business days between rounds. Offers extended within 48-72 hours after final round."
+  },
+  "email_format": "first_initial.lastname@putassoc.com",
+  "links": {
+    "website": "https://inizio.com/our-businesses/ignite/about-inizio-ignite/our-teams/",
+    "linkedin": "https://www.linkedin.com/company/putnam-associates/",
+    "careers": "https://www.putassoc.com/join-putnam/",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Putnam%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2221263%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2221263%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Putnam%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2221263%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2221263%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 21263,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No current BYU pipeline. Focus on networking with life sciences professionals and highlighting any biology, chemistry, or health-related coursework. Consider gaining research experience or biotech industry exposure to strengthen your profile."
+  }
+}

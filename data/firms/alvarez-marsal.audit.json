@@ -1,0 +1,241 @@
+{
+  "firm_id": "alvarez-marsal",
+  "researched_at": "2026-01-27T13:35:22Z",
+  "duration_seconds": 420,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://poetsandquants.com/2025/01/29/consulting-pay-what-mbas-earned-in-2024/2/",
+    "https://www.glassdoor.com/Salary/Alvarez-and-Marsal-Salaries-E16369.htm",
+    "https://www.levels.fyi/companies/alvarez-and-marsal/salaries/management-consultant",
+    "https://poetsandquantsforundergrads.com/news/consulting-pay-what-business-graduates-earned-in-2024/2/",
+    "https://en.wikipedia.org/wiki/Alvarez_and_Marsal",
+    "https://www.alvarezandmarsal.com/about-am",
+    "https://craft.co/alvarez-marsal/locations",
+    "https://www.casebasix.com/pages/alvarez-marsal",
+    "https://www.hackingthecaseinterview.com/pages/alvarez-marsal-case-interview",
+    "https://www.glassdoor.com/Interview/Alvarez-and-Marsal-Interview-Questions-E16369.htm",
+    "https://managementconsulted.com/alvarez-marsal-interview/",
+    "https://alvarezandmarsal-crg.com/campus-recruiting/",
+    "https://www.glassdoor.com/Community/consulting/what-are-the-rankslevels-for-alvarez-marsal",
+    "https://managementconsulted.com/alvarez-marsal-interviews-and-culture/",
+    "https://www.glassdoor.com/Reviews/Alvarez-and-Marsal-100-travel-Reviews-EI_IE16369.0,18_KH19,29.htm",
+    "https://rocketreach.co/alvarez-marsal-email-format_b5c4638df42e0dc3",
+    "https://www.signalhire.com/companies/alvarez-marsal/email-format",
+    "https://www.indeed.com/cmp/Alvarez-&-Marsal/locations",
+    "https://craft.co/alvarez-marsal/locations",
+    "https://careers.alvarezandmarsal.com/pages/our-locations"
+  ],
+  "field_sources": {
+    "id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "name": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "type": {
+      "source": "judgment",
+      "confidence": "high",
+      "note": "Not MBB or Big 4, classified as Boutique per schema"
+    },
+    "tagline": {
+      "source": "judgment + Wikipedia + firm description",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv (linkedin_overview)",
+      "confidence": "high"
+    },
+    "headquarters": {
+      "source": "Wikipedia + Craft.co",
+      "confidence": "high",
+      "note": "600 Madison Avenue, New York"
+    },
+    "founded": {
+      "source": "Wikipedia",
+      "confidence": "high",
+      "note": "Founded in 1983 by Tony Alvarez II and Bryan Marsal"
+    },
+    "employees": {
+      "source": "consulting-firms.csv (number_emp_linkedin)",
+      "confidence": "high"
+    },
+    "parent_company": {
+      "source": "Wikipedia + firm description",
+      "confidence": "high",
+      "note": "Privately held, no parent company"
+    },
+    "offices": {
+      "source": "Indeed.com + Craft.co + careers page",
+      "confidence": "high",
+      "note": "US offices only per schema requirements"
+    },
+    "regions": {
+      "source": "firm description + Wikipedia",
+      "confidence": "high",
+      "note": "39 countries across six continents"
+    },
+    "specialties": {
+      "source": "firm description + Wikipedia + CaseBasix",
+      "confidence": "high",
+      "note": "Focus on restructuring and turnaround heritage"
+    },
+    "industries": {
+      "source": "firm description + multiple web searches",
+      "confidence": "high"
+    },
+    "known_for": {
+      "source": "Wikipedia + CaseBasix + Management Consulted",
+      "confidence": "high",
+      "note": "Lehman Brothers, HealthSouth, Tribune Company cases cited"
+    },
+    "hires_ug": {
+      "source": "campus recruiting pages + career progression data",
+      "confidence": "high",
+      "note": "Analyst and Associate roles confirmed"
+    },
+    "hires_mba": {
+      "source": "campus recruiting pages + compensation data",
+      "confidence": "high",
+      "note": "Manager-level MBA hires confirmed"
+    },
+    "career_path": {
+      "source": "Glassdoor forums + multiple community discussions",
+      "confidence": "high",
+      "note": "7-level progression from Analyst to Managing Director"
+    },
+    "travel": {
+      "source": "Glassdoor reviews + Management Consulted",
+      "confidence": "high",
+      "note": "Up to 90% travel reported, varies by practice"
+    },
+    "work_hours": {
+      "source": "Glassdoor + Management Consulted",
+      "confidence": "high",
+      "note": "70 hours common during active engagements"
+    },
+    "compensation.ug.base": {
+      "source": "Poets&Quants 2025 report + Management Consulted",
+      "confidence": "high",
+      "note": "$112,000 base for undergrads"
+    },
+    "compensation.ug.bonus": {
+      "source": "Poets&Quants 2025 report",
+      "confidence": "high",
+      "note": "Up to $51,000 performance bonus"
+    },
+    "compensation.ug.signing": {
+      "source": "Poets&Quants 2025 report",
+      "confidence": "high",
+      "note": "$10,000 signing bonus"
+    },
+    "compensation.mba.base": {
+      "source": "Poets&Quants 2025 report + Levels.fyi",
+      "confidence": "medium",
+      "note": "Estimated based on total comp of $262,000"
+    },
+    "compensation.mba.bonus": {
+      "source": "Poets&Quants 2025 report",
+      "confidence": "high",
+      "note": "$52,500-$87,000 range, using high end"
+    },
+    "compensation.mba.signing": {
+      "source": "industry standard estimate",
+      "confidence": "medium",
+      "note": "Typical MBA signing bonus, not explicitly stated"
+    },
+    "recruiting.process": {
+      "source": "Hacking the Case Interview + Glassdoor",
+      "confidence": "high"
+    },
+    "recruiting.unique": {
+      "source": "Management Consulted + multiple interview prep sites",
+      "confidence": "high",
+      "note": "13-week cash flow modeling test confirmed for RX/TAG"
+    },
+    "recruiting.timeline": {
+      "source": "Glassdoor + campus recruiting pages",
+      "confidence": "high",
+      "note": "Average 37-38 days, fall recruiting confirmed"
+    },
+    "email_format": {
+      "source": "RocketReach + SignalHire",
+      "confidence": "medium",
+      "note": "77.5% use first_initiallast format per RocketReach"
+    },
+    "links.website": {
+      "source": "consulting-firms.csv (firm_url)",
+      "confidence": "high"
+    },
+    "links.linkedin": {
+      "source": "consulting-firms.csv (linkedin url)",
+      "confidence": "high"
+    },
+    "links.careers": {
+      "source": "careers subdomain discovered",
+      "confidence": "high"
+    },
+    "links.mc_profile": {
+      "source": "constructed from firm name",
+      "confidence": "high",
+      "note": "Management Consulted has A&M profile confirmed via search"
+    },
+    "links.byu_keyword": {
+      "source": "constructed per schema pattern",
+      "confidence": "high"
+    },
+    "links.byu_current": {
+      "source": "constructed using linkedin_id from CSV",
+      "confidence": "high"
+    },
+    "links.byu_past": {
+      "source": "constructed using linkedin_id from CSV",
+      "confidence": "high"
+    },
+    "links.marriott_keyword": {
+      "source": "constructed per schema pattern",
+      "confidence": "high"
+    },
+    "links.marriott_current": {
+      "source": "constructed using linkedin_id from CSV",
+      "confidence": "high"
+    },
+    "links.marriott_past": {
+      "source": "constructed using linkedin_id from CSV",
+      "confidence": "high"
+    },
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.pipeline": {
+      "source": "judgment based on alumni count",
+      "confidence": "medium",
+      "note": "24 current alumni suggests network but no formal BYU recruiting"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv (alltime_byu)",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv (current_byu)",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv (alltime_byu_marriott)",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv (current_byu_marriott)",
+      "confidence": "high"
+    },
+    "byu.tip": {
+      "source": "judgment based on firm specialties",
+      "confidence": "medium",
+      "note": "Based on firm's focus on restructuring and operational work"
+    }
+  },
+  "gaps": [],
+  "notes": "Successfully researched Alvarez & Marsal using web searches since both Management Consulted and the firm website have bot protection (403 errors). All required CSV fields were populated from the pre-gathered data. Compensation data from Poets&Quants 2025 Consulting Salaries Report is authoritative. MBA base salary estimated at $175K based on total comp of $262K and typical bonus structure. Email format has some variation across sources but primary format confirmed. All six mandatory CSV fields verified populated."
+}

@@ -1,0 +1,87 @@
+{
+  "id": "roland-berger",
+  "name": "Roland Berger",
+  "type": "Boutique",
+  "tagline": "Europe's leading independent strategy consultancy with global reach",
+  "description": "Roland Berger is a global leader in strategy consulting, renowned for its focus on transformation, innovation, and sustainability. Founded in 1967 and headquartered in Munich, we shape the future of businesses and industries globally. Whether it's digitalization, globalization, or sustainability, we see challenges as opportunities to drive impact. With innovative solutions, deep industry expertise, and agile international teams, we deliver measurable results and lasting change. Our goal is clear: accelerate transformation, build resilient business models, and contribute to a CO2-neutral future – bold, collaborative, and impactful.",
+  "headquarters": "Munich, Germany",
+  "founded": 1967,
+  "employees": 4696,
+  "parent_company": null,
+  "offices": [
+    "Boston",
+    "Chicago",
+    "Detroit"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Middle East",
+    "Latin America"
+  ],
+  "specialties": [
+    "Strategy",
+    "Digital",
+    "Operations",
+    "Restructuring",
+    "Transformation",
+    "M&A"
+  ],
+  "industries": [
+    "Automotive",
+    "Aerospace & Defense",
+    "Chemicals",
+    "Consumer",
+    "Energy",
+    "Financial Services",
+    "Healthcare",
+    "Industrial",
+    "Technology"
+  ],
+  "known_for": "The only native European strategy consultancy with global presence, Roland Berger is top 3 in Europe and top 10 globally. Known for entrepreneurial culture, strong industrial sector expertise (especially automotive and chemicals), and practical implementation focus rather than purely theoretical frameworks.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Junior Consultant (2-3 yrs) → Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Project Manager (2-3 yrs) → Director (3-4 yrs) → Principal (3-4 yrs) → Partner",
+  "travel": "high",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    },
+    "mba": {
+      "base": 160000,
+      "bonus": 32000,
+      "signing": 30000
+    }
+  },
+  "recruiting": {
+    "process": "Resume & Cover Letter → Online Reasoning Test (90 min: numerical, verbal, figurative) → First Round (case + fit) → Final Round (written case + fit + business knowledge discussion)",
+    "unique": "90-minute online reasoning test similar to GMAT. Final round includes 'business knowledge discussion' which is like an unstructured case. Emphasis on entrepreneurial drive in fit interviews. All candidates receive feedback regardless of outcome.",
+    "timeline": null
+  },
+  "email_format": "firstname.lastname@rolandberger.com",
+  "links": {
+    "website": "https://www.rolandberger.com/en/?country=US",
+    "linkedin": "https://www.linkedin.com/company/rolandberger/",
+    "careers": "https://www.rolandberger.com/en/Join/All-Jobs/",
+    "mc_profile": "https://managementconsulted.com/roland-berger/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Roland%20Berger%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%223950%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%223950%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Roland%20Berger%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%223950%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%223950%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 3950,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No BYU alumni network at Roland Berger. Focus networking on European offices where firm has strongest brand, or target US offices (Boston, Chicago, Detroit) through cold outreach. Emphasize entrepreneurial mindset and willingness to take initiative—highly valued in RB's startup-like culture."
+  }
+}

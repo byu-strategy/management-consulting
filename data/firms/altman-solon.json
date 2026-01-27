@@ -1,0 +1,60 @@
+{
+  "id": "altman-solon",
+  "name": "Altman Solon",
+  "type": "Boutique",
+  "tagline": "World's largest TMT-exclusive strategy firm—telecom, media, and tech specialists",
+  "description": "In 2020, Altman Vilandrie & Company and Solon Management Consulting have cemented a decades-long partnership across the Atlantic to form Altman Solon, the world's largest global strategy consulting firm with an exclusive focus on the TMT sector. Our consultants are united by our passion and intellectual curiosity for the Telecommunications, Media, and Technology (TMT) sectors. These sectors, representing a $5+ trillion global market, are defined by remarkable technological innovations, business model disruptions, rapidly shifting consumer demands, shrinking barriers to entry, and confusing regulatory changes – challenges that Altman Solon is prepared for and eager to address on behalf of our clients. As trusted advisors to major industry players and leading investors, we have helped to identify, develop, and implement many of the era-defining strategies that have shaped the TMT sector over the last twenty years. Altman Solon has an extensive international reach with offices in Amsterdam, Boston, London, Los Angeles, Mexico City, Milan, Munich, New York, Paris, Riyadh, San Francisco, Singapore, Stockholm, Sydney, Warsaw, and Zurich, with successful projects completed across the globe in more than 100 countries.",
+  "headquarters": "Boston, USA",
+  "founded": 2020,
+  "employees": 660,
+  "parent_company": null,
+  "offices": ["Boston", "New York", "Los Angeles", "San Francisco"],
+  "regions": ["North America", "Europe", "Asia Pacific", "Latin America", "Middle East"],
+  "specialties": ["Strategy", "M&A", "Operations", "Go-to-Market", "Due Diligence"],
+  "industries": ["Telecommunications", "Media & Entertainment", "Technology"],
+  "known_for": "The world's largest strategy consulting firm focused exclusively on TMT sectors. Formed in 2020 from the merger of Altman Vilandrie & Company (founded 2002) and Solon Management Consulting (founded 1996). Known for deep TMT expertise, working with top global telecom, technology, and media companies. Recently named #1 TMT Strategy Consultancy in CAPITAL's 2026/27 ranking.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Manager (3-4 yrs) → Principal (3-4 yrs) → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 95000,
+      "bonus": 15000,
+      "signing": 10000
+    },
+    "mba": {
+      "base": 172000,
+      "bonus": 40000,
+      "signing": 27000
+    }
+  },
+  "recruiting": {
+    "process": "Resume → HR Interview (30 min) → First Round (3 interviews: 15 min fit + 40 min case + 5 min Q&A each) → Final Round (2 interviews: same structure)",
+    "unique": "TMT-focused cases—expect telecom, media, or technology industry scenarios. Mix of interviewer-led and candidate-led cases. Average process takes 35 days.",
+    "timeline": "MBA applications due January 1st with interviews throughout January. Undergrad roles hire year-round for Graduate Analyst positions. Process typically takes 4-6 weeks from application to offer."
+  },
+  "email_format": "firstname.lastname@altmansolon.com",
+  "links": {
+    "website": "https://www.altmansolon.com",
+    "linkedin": "https://www.linkedin.com/company/altman-solon/",
+    "careers": "https://www.altmansolon.com/careers",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Altman%20Solon%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2265683578%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2265683578%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Altman%20Solon%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2265683578%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2265683578%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 65683578,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No BYU alumni at the firm currently—you'll need to network cold to break in. Focus on demonstrating genuine passion for TMT sectors and stay current on industry trends. Consider targeting their Boston, New York, or San Francisco offices."
+  }
+}

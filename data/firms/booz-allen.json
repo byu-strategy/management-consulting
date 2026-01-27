@@ -1,0 +1,90 @@
+{
+  "id": "booz-allen",
+  "name": "Booz Allen Hamilton",
+  "type": "Boutique",
+  "tagline": "Government and defense technology powerhouse—mission-critical solutions for federal clients",
+  "description": "Whether at the border, up in space, or on the battlefield, we build the advanced technology that makes America stronger, faster, and safer. It's who we are and what we do. It's in our code.",
+  "headquarters": "McLean, USA",
+  "founded": 1914,
+  "employees": 37368,
+  "parent_company": null,
+  "offices": [
+    "McLean",
+    "Washington DC",
+    "San Diego",
+    "Atlanta",
+    "Austin",
+    "Charleston",
+    "Arlington",
+    "San Antonio",
+    "Colorado Springs",
+    "Honolulu",
+    "Huntsville",
+    "Dayton"
+  ],
+  "regions": [
+    "North America",
+    "Asia Pacific",
+    "Europe"
+  ],
+  "specialties": [
+    "Analytics",
+    "Cybersecurity",
+    "Digital",
+    "Engineering",
+    "Technology"
+  ],
+  "industries": [
+    "Public Sector",
+    "Defense",
+    "Intelligence",
+    "Healthcare",
+    "Financial Services",
+    "Energy"
+  ],
+  "known_for": "Leading government and defense consulting firm focused on advanced technology solutions for federal clients. Known for mission-critical work across intelligence, defense, and civilian agencies, with deep expertise in cybersecurity, analytics, and digital transformation.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Consultant (1-2 yrs) → Senior Consultant (2 yrs) → Associate (2 yrs) → Lead Associate (2 yrs) → Senior Associate (2-3 yrs) → Principal (3-4 yrs) → Vice President",
+  "travel": "moderate",
+  "work_hours": "balanced",
+  "compensation": {
+    "ug": {
+      "base": 75000,
+      "bonus": 10000,
+      "signing": null
+    },
+    "mba": {
+      "base": 130000,
+      "bonus": 45000,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Recruiter Screen (behavioral) → Hiring Manager Interview (situational/behavioral) → Panel Interview (2-3 people, behavioral/fit)",
+    "unique": "No case interviews—focuses exclusively on behavioral and situational questions. Requires U.S. government security clearance eligibility.",
+    "timeline": "4-6 weeks from application to offer, with decisions often made within one week after final interview. Apply through school job portal for on-campus recruiting or directly through Workday."
+  },
+  "email_format": "lastname_firstname@bah.com",
+  "links": {
+    "website": "https://www.boozallen.com",
+    "linkedin": "https://www.linkedin.com/company/booz-allen-hamilton/",
+    "careers": "https://www.boozallen.com/careers.html",
+    "mc_profile": "https://managementconsulted.com/booz-allen-hamilton/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Booz%20Allen%20Hamilton%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221403%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221403%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Booz%20Allen%20Hamilton%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221403%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221403%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 1403,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 271,
+    "alumni_current": 65,
+    "marriott_alumni_all_time": 6,
+    "marriott_alumni_current": 1,
+    "tip": "Strong BYU alumni base (65 current) concentrated in DC area offices. Security clearance required—plan ahead as this can take 6-12 months. Focus networking on defense and intelligence practice areas."
+  }
+}

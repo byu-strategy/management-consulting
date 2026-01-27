@@ -1,0 +1,177 @@
+{
+  "firm_id": "nera",
+  "researched_at": "2026-01-27T18:27:26Z",
+  "duration_seconds": 420,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.nera.com",
+    "https://www.nera.com/about.html",
+    "https://www.nera.com/why-nera.html",
+    "https://www.nera.com/locations.html",
+    "https://www.nera.com/career-path.html",
+    "https://www.indeed.com/cmp/Nera-Economic-Consulting/salaries",
+    "https://www.glassdoor.com/Reviews/NERA-Economic-Consulting-work-life-balance-Reviews-EI_IE38370.0,24_KH25,42.htm",
+    "https://managementconsulted.com/nera-economic-consulting-interview/",
+    "https://www.hackingthecaseinterview.com/pages/nera-case-interview",
+    "https://rocketreach.co/nera-economic-consulting-email-format_b5c60fabf42e0c50",
+    "https://en.wikipedia.org/wiki/National_Economic_Research_Associates"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv (LinkedIn overview)",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "nera.com/about.html",
+      "confidence": "high"
+    },
+    "headquarters": {
+      "source": "nera.com/about.html + Wikipedia",
+      "confidence": "high"
+    },
+    "parent_company": {
+      "source": "nera.com/about.html + Wikipedia",
+      "confidence": "high",
+      "note": "Acquired by Marsh McLennan in 1983"
+    },
+    "offices": {
+      "source": "nera.com/locations.html",
+      "confidence": "high"
+    },
+    "regions": {
+      "source": "nera.com/locations.html",
+      "confidence": "high"
+    },
+    "specialties": {
+      "source": "Web search + NERA practice pages",
+      "confidence": "high",
+      "note": "Antitrust, Securities, IP, Regulatory Economics, Transfer Pricing, Litigation Support"
+    },
+    "industries": {
+      "source": "Web search + NERA website",
+      "confidence": "high"
+    },
+    "known_for": {
+      "source": "nera.com/about.html + multiple sources",
+      "confidence": "high"
+    },
+    "hires_ug": {
+      "source": "nera.com/career-path.html + Management Consulted",
+      "confidence": "high",
+      "note": "Research Associate entry level for undergrads"
+    },
+    "hires_mba": {
+      "source": "Management Consulted + web search",
+      "confidence": "high",
+      "note": "Consultant entry level for MBAs"
+    },
+    "career_path": {
+      "source": "Management Consulted + nera.com/career-path.html",
+      "confidence": "medium",
+      "note": "North America path documented; requires MBA to advance past Senior Analyst"
+    },
+    "travel": {
+      "source": "Inferred from office-based economic consulting model",
+      "confidence": "medium",
+      "note": "Economic consulting is typically less travel-intensive than strategy consulting"
+    },
+    "work_hours": {
+      "source": "Glassdoor reviews",
+      "confidence": "medium",
+      "note": "Rated 3.2/5 for work-life balance; described as demanding with unpredictable hours"
+    },
+    "compensation.ug.base": {
+      "source": "Indeed.com (November 2025)",
+      "confidence": "high",
+      "note": "Analyst salary $98,489 based on 6 reported salaries"
+    },
+    "compensation.ug.bonus": {
+      "source": "Glassdoor + Wall Street Oasis",
+      "confidence": "medium",
+      "note": "Average bonus $13k-$15k reported across sources"
+    },
+    "compensation.ug.signing": {
+      "source": "Not found",
+      "confidence": "low",
+      "note": "No reliable data on signing bonuses"
+    },
+    "compensation.mba": {
+      "source": "Not found",
+      "confidence": "low",
+      "note": "No specific MBA compensation data available"
+    },
+    "recruiting.process": {
+      "source": "Management Consulted + Glassdoor + HackingTheCaseInterview",
+      "confidence": "high",
+      "note": "2-3 rounds, typically phone screen then super day with 5 interviews"
+    },
+    "recruiting.unique": {
+      "source": "Management Consulted + multiple interview prep sources",
+      "confidence": "high",
+      "note": "Not all candidates get case interviews; behavioral testing for team fit"
+    },
+    "recruiting.timeline": {
+      "source": "Web search",
+      "confidence": "medium",
+      "note": "No standardized timeline; varies by office"
+    },
+    "email_format": {
+      "source": "RocketReach + LeadIQ",
+      "confidence": "high",
+      "note": "firstname.lastname@nera.com used 92% of the time"
+    },
+    "byu.pipeline": {
+      "source": "Inferred from zero alumni presence",
+      "confidence": "high",
+      "note": "No BYU pipeline; students must cold network"
+    },
+    "byu.tip": {
+      "source": "Strategic inference",
+      "confidence": "medium",
+      "note": "Emphasized economics/econometrics background and Marsh McLennan connections"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.ug.signing",
+      "reason": "No signing bonus data found in multiple salary sources"
+    },
+    {
+      "field": "compensation.mba.base",
+      "reason": "MBA-level compensation not reported in public sources"
+    },
+    {
+      "field": "compensation.mba.bonus",
+      "reason": "MBA-level compensation not reported in public sources"
+    },
+    {
+      "field": "compensation.mba.signing",
+      "reason": "MBA-level compensation not reported in public sources"
+    }
+  ],
+  "notes": "NERA Economic Consulting is a specialized economic consulting firm (not a traditional strategy firm) that was founded in 1961 and acquired by Marsh McLennan in 1983. The firm has zero BYU/Marriott alumni presence, making it a 'hustle' pipeline for BYU students. CSV data covered all LinkedIn and BYU metrics. NERA's website provided headquarters, founding year, offices, and practice areas. Compensation data came from Indeed (analyst base at $98k) and Glassdoor (average bonus $13-14k). Interview process details from Management Consulted and case interview prep sites. MBA compensation data was not available from public sources. Work-life balance appears demanding but varies significantly by team per Glassdoor reviews (3.2/5 rating)."
+}

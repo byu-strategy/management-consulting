@@ -1,0 +1,52 @@
+{
+  "id": "leader-factor",
+  "name": "Leader Factor",
+  "type": "Boutique",
+  "tagline": "Pioneering psychological safety consulting—builds cultures of inclusion and innovation",
+  "description": "A leader is the # 1 factor in determining organizational success. Here at LeaderFactor, we are dedicated to sharing HR and L&D best practices as leaders plan, program, and sequence their development initiatives. Because we believe that real change happens at the behavioral level, this is the place to discover practical frameworks, tools, and insights to build a healthy culture that lasts.",
+  "headquarters": "American Fork, USA",
+  "founded": null,
+  "employees": 24,
+  "parent_company": null,
+  "offices": [],
+  "regions": ["North America"],
+  "specialties": ["Organizational Culture", "Leadership Development", "Change Management", "Human Capital"],
+  "industries": ["Financial Services", "Healthcare", "Technology", "Public Sector", "Energy", "Consumer"],
+  "known_for": "Founded by Dr. Timothy R. Clark (Oxford PhD), LeaderFactor is a global authority on psychological safety and cultural transformation. Known for The 4 Stages of Psychological Safety framework and Core15™ leadership system. Clients include Microsoft, NASA, Stanford, American Express, and over 200 executive teams worldwide.",
+  "hires_ug": null,
+  "hires_mba": null,
+  "career_path": null,
+  "travel": null,
+  "work_hours": null,
+  "compensation": {
+    "ug": null,
+    "mba": null
+  },
+  "recruiting": {
+    "process": null,
+    "unique": null,
+    "timeline": null
+  },
+  "email_format": null,
+  "links": {
+    "website": "http://leaderfactor.com",
+    "linkedin": "https://www.linkedin.com/company/leaderfactor/",
+    "careers": null,
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Leader%20Factor%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2218059141%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2218059141%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Leader%20Factor%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2218059141%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2218059141%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 18059141,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 16,
+    "alumni_current": 16,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Small but growing Utah-based firm with strong BYU presence—all 16 BYU alumni are still current employees. Focus on psychological safety and leadership development, not traditional strategy consulting."
+  }
+}

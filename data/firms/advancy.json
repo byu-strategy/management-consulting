@@ -1,0 +1,60 @@
+{
+  "id": "advancy",
+  "name": "Advancy",
+  "type": "Boutique",
+  "tagline": "Pure-play strategy boutique focused on chemicals, life sciences, and consumer sectors",
+  "description": "Established in 1999, Advancy is a leading international management consultancy firm with offices in Boston, Frankfurt, London, New-York, Paris, São Paulo, Shanghai, Singapore and Sydney, and an additional network of 20 partners around the world. Through our experience on >1,500 projects and dealings with 150 clients we have acquired a wealth of knowledge across a variety of functions and industry sectors, most importantly learning that each business is DIFFERENT. Therefore we work closely with our clients and always provide a tailored approach which has a measurable impact on the bottom line. Our commitment to implementation, senior involvement and challenging the given has provided our clients with exceptional results and is reflected in their continuous loyalty to Advancy. To find out more about us and our experience in your industry please visit: www.advancy.com and see the \"Expertise\" section.",
+  "headquarters": "Paris, France",
+  "founded": 1999,
+  "employees": 283,
+  "parent_company": null,
+  "offices": ["Boston", "New York"],
+  "regions": ["North America", "Europe", "Asia Pacific", "Latin America"],
+  "specialties": ["Strategy", "M&A", "Turnaround", "Performance Improvement", "Operations", "Commercial Efficiency"],
+  "industries": ["Chemicals", "Life Sciences", "Healthcare", "Industrials", "Consumer Goods", "Retail", "Luxury"],
+  "known_for": "Result-driven approach based on quantitative fact-based analyses delivering simple recommendations with impactful action plans. Small, nimble consulting teams with deep sector focus in just three core industries, creating exceptional depth of expertise and strong client relationships.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Junior Consultant (2 yrs) → Consultant (2 yrs) → Senior Consultant (2-3 yrs) → Manager (3-4 yrs) → Principal (3-4 yrs) → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 95000,
+      "bonus": 15000,
+      "signing": 10000
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Resume → Online Assessment (numerical + logical reasoning) → First Round (15min behavioral screening) → Final Round (2-hour in-person with CEO: 1 interviewer-led case + 1 candidate-led case + behavioral)",
+    "unique": "Online assessment with 18 numerical reasoning questions (25 min) and 24 logical reasoning questions (25 min). Final round is a 2-hour session with the CEO. First case is interviewer-led while second case is candidate-led.",
+    "timeline": "Year-round rolling applications. 7 days to complete online assessment after receiving link. Only ~5% of interviewed candidates receive offers."
+  },
+  "email_format": null,
+  "links": {
+    "website": "https://www.advancy.com/",
+    "linkedin": "https://www.linkedin.com/company/advancy/",
+    "careers": "https://advancy.recruitee.com/careers",
+    "mc_profile": "https://managementconsulted.com/advancy/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Advancy%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2239974%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2239974%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Advancy%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2239974%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2239974%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 39974,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 1,
+    "alumni_current": 1,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Advancy does not recruit at BYU. With only 1 current BYU alum and no Marriott alumni, you'll need to cold-network aggressively. Target top-tier schools where they do recruit (Harvard, MIT, Stanford, etc.) or leverage industry connections in their core sectors: chemicals, life sciences, or consumer goods."
+  }
+}

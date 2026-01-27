@@ -1,0 +1,163 @@
+{
+  "firm_id": "huron",
+  "researched_at": "2026-01-27T13:33:51Z",
+  "duration_seconds": 180,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.huronconsultinggroup.com",
+    "https://www.wallstreetoasis.com/company/huron-consulting-group/salary",
+    "https://www.glassdoor.com/Salary/Huron-Consulting-Group-Salaries-E35223.htm",
+    "https://www.levels.fyi/companies/huron/salaries/management-consultant",
+    "https://en.wikipedia.org/wiki/Huron_Consulting_Group",
+    "https://www.huronconsultinggroup.com/company/about-us/locations",
+    "https://www.glassdoor.com/Location/All-Huron-Consulting-Group-Office-Locations-E35223.htm",
+    "https://www.glassdoor.com/Interview/Huron-Consulting-Group-Interview-Questions-E35223.htm",
+    "https://www.hackingthecaseinterview.com/pages/huron-case-interview",
+    "https://www.casebasix.com/pages/huron-consulting-firm",
+    "https://www.indeed.com/cmp/Huron-Consulting-Group/reviews?ftopic=wlbalance",
+    "https://rocketreach.co/huron-consulting-group-holdings-llc-email-format_b7550a8ac53f4544"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "headquarters": {
+      "source": "huronconsultinggroup.com + Wikipedia",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "Wikipedia + Encyclopedia.com",
+      "confidence": "high",
+      "note": "Founded May 2002 by Arthur Andersen alumni"
+    },
+    "offices": {
+      "source": "huronconsultinggroup.com/company/about-us/locations",
+      "confidence": "high"
+    },
+    "regions": {
+      "source": "huronconsultinggroup.com",
+      "confidence": "high",
+      "note": "Firm mentions 23 global locations"
+    },
+    "specialties": {
+      "source": "huronconsultinggroup.com",
+      "confidence": "high"
+    },
+    "industries": {
+      "source": "huronconsultinggroup.com",
+      "confidence": "high"
+    },
+    "known_for": {
+      "source": "huronconsultinggroup.com + Wikipedia",
+      "confidence": "high"
+    },
+    "hires_ug": {
+      "source": "huronconsultinggroup.com/company/careers/entry-level-careers",
+      "confidence": "high"
+    },
+    "hires_mba": {
+      "source": "casebasix.com + Glassdoor",
+      "confidence": "high"
+    },
+    "career_path": {
+      "source": "casebasix.com + Fishbowl",
+      "confidence": "high"
+    },
+    "travel": {
+      "source": "Indeed reviews + Glassdoor",
+      "confidence": "high",
+      "note": "60-90% travel weekly Monday-Thursday to client sites"
+    },
+    "work_hours": {
+      "source": "Indeed reviews + Glassdoor",
+      "confidence": "high",
+      "note": "40-60 hours per week typical, can reach 60+ on busy projects"
+    },
+    "compensation.ug.base": {
+      "source": "Glassdoor + PayScale 2026",
+      "confidence": "high",
+      "note": "Average Consulting Analyst salary $74,062"
+    },
+    "compensation.ug.bonus": {
+      "source": "Wall Street Oasis + Glassdoor",
+      "confidence": "medium",
+      "note": "Bonuses range $5k-$8k for analysts"
+    },
+    "compensation.ug.signing": {
+      "source": "Industry estimates",
+      "confidence": "low",
+      "note": "Estimated based on boutique consulting firm averages"
+    },
+    "compensation.mba": {
+      "source": "Not found",
+      "confidence": "low",
+      "note": "No specific MBA compensation data available for Huron"
+    },
+    "recruiting.process": {
+      "source": "Glassdoor interviews + Indeed",
+      "confidence": "high"
+    },
+    "recruiting.unique": {
+      "source": "hackingthecaseinterview.com + Glassdoor",
+      "confidence": "high"
+    },
+    "recruiting.timeline": {
+      "source": "Glassdoor + Indeed + hackingthecaseinterview.com",
+      "confidence": "high"
+    },
+    "email_format": {
+      "source": "RocketReach + LeadIQ",
+      "confidence": "high",
+      "note": "90% use first_initial.lastname@huronconsultinggroup.com"
+    },
+    "byu.pipeline": {
+      "source": "Inferred from CSV alumni counts",
+      "confidence": "medium",
+      "note": "75 total alumni but no evidence of campus recruiting"
+    },
+    "byu.tip": {
+      "source": "Analysis of firm focus areas + alumni data",
+      "confidence": "medium"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.mba.base",
+      "reason": "No reliable MBA-level compensation data found for Huron specifically"
+    },
+    {
+      "field": "compensation.mba.bonus",
+      "reason": "No reliable MBA-level compensation data found for Huron specifically"
+    },
+    {
+      "field": "compensation.mba.signing",
+      "reason": "No reliable MBA-level compensation data found for Huron specifically"
+    }
+  ],
+  "notes": "Pre-populated data from CSV covered LinkedIn ID, employee count, and all BYU alumni metrics. Huron does not have a Management Consulted profile page. Founded in 2002 by Arthur Andersen alumni following that firm's collapse related to the Enron scandal. Compensation data for undergraduate level was found through multiple sources (Glassdoor, Wall Street Oasis, Levels.fyi), but MBA-level compensation data was not available. The firm operates with year-round rolling applications rather than fixed recruiting cycles. Travel expectations are high (60-90% weekly to client sites) with demanding hours (40-60+ per week)."
+}

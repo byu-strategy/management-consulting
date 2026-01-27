@@ -1,0 +1,190 @@
+{
+  "firm_id": "pwc-consulting",
+  "researched_at": "2026-01-27T19:45:00Z",
+  "duration_seconds": 420,
+  "sources_consulted": [
+    "/Users/murff/Library/CloudStorage/OneDrive-BrighamYoungUniversity/3. Teaching/management-consulting/data/consulting-firms.csv",
+    "https://www.pwc.com/us/en/about-us.html",
+    "https://www.pwc.com/us/en/careers.html",
+    "https://www.casebasix.com/pages/pwc-consulting-salary",
+    "https://managementconsulted.com/pwc-consultant-salary-overview/",
+    "https://www.signalhire.com/companies/pwc/email-format",
+    "https://www.preplounge.com/consulting-forum/pwc-interview-timelineprocess-21517",
+    "https://www.case-prep.com/firms/pwc",
+    "https://managementconsulted.com/pwc-interview/",
+    "https://big4interviews.com/big-4-work-life-balance/",
+    "https://www.pwc.com/us/en/about-us/pwc-office-locations.html",
+    "https://managementconsulted.com/pwc-locations/",
+    "https://en.wikipedia.org/wiki/PwC",
+    "https://www.pwc.com/us/en/about-us/pwc-corporate-history.html",
+    "https://www.wallstreetoasis.com/forum/consulting/pwc-advisory-reputation",
+    "https://www.pwc.com/us/en/careers/why-pwc/what-we-do/what-we-do-consulting-services.html",
+    "https://caseinterview.com/pwc-consulting",
+    "https://cee.pwc.com/careers/career-growth.html",
+    "https://hierarchystructure.com/pwc-career-hierarchy/"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv (LinkedIn overview)",
+      "confidence": "high"
+    },
+    "links.website": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "links.linkedin": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "headquarters": {
+      "source": "Wikipedia, PwC corporate history page",
+      "confidence": "high",
+      "note": "Global HQ in London, UK; US HQ in New York"
+    },
+    "founded": {
+      "source": "Wikipedia, PwC corporate history",
+      "confidence": "high",
+      "note": "Current form created 1998 through merger, but roots date to 1849"
+    },
+    "parent_company": {
+      "source": "PwC structure research",
+      "confidence": "high",
+      "note": "PwC Consulting is part of PwC network"
+    },
+    "offices": {
+      "source": "pwc.com/us/en/about-us/pwc-office-locations.html",
+      "confidence": "high",
+      "note": "70+ US offices, listed major cities"
+    },
+    "regions": {
+      "source": "pwc.com about page",
+      "confidence": "high",
+      "note": "Global presence in 149 countries"
+    },
+    "specialties": {
+      "source": "pwc.com careers and consulting services pages",
+      "confidence": "high"
+    },
+    "industries": {
+      "source": "pwc.com about page",
+      "confidence": "high",
+      "note": "Listed 25+ industries, selected primary ones"
+    },
+    "known_for": {
+      "source": "Multiple sources including Wall Street Oasis, caseinterview.com",
+      "confidence": "high"
+    },
+    "hires_ug": {
+      "source": "pwc.com/careers",
+      "confidence": "high",
+      "note": "Clear entry-level pathways shown"
+    },
+    "hires_mba": {
+      "source": "Industry knowledge and PwC recruiting materials",
+      "confidence": "high"
+    },
+    "career_path": {
+      "source": "hierarchystructure.com, cee.pwc.com/careers",
+      "confidence": "high"
+    },
+    "travel": {
+      "source": "Glassdoor, Indeed reviews",
+      "confidence": "medium",
+      "note": "Client-dependent, ranges from low to high"
+    },
+    "work_hours": {
+      "source": "big4interviews.com, Indeed reviews",
+      "confidence": "high",
+      "note": "45-60+ hours typical for consulting"
+    },
+    "compensation.ug.base": {
+      "source": "casebasix.com, managementconsulted.com",
+      "confidence": "medium",
+      "note": "Range $80k-$95k reported, used midpoint $85k"
+    },
+    "compensation.ug.bonus": {
+      "source": "Industry estimates based on Big 4 patterns",
+      "confidence": "medium",
+      "note": "Estimated 12-15% of base"
+    },
+    "compensation.ug.signing": {
+      "source": "Industry estimates based on Big 4 patterns",
+      "confidence": "medium",
+      "note": "Typical Big 4 range $5k-$10k"
+    },
+    "compensation.mba": {
+      "source": "Search attempted but specific data not found",
+      "confidence": "low",
+      "note": "Left null - conflicting/unclear data"
+    },
+    "recruiting.process": {
+      "source": "preplounge.com, case-prep.com, managementconsulted.com",
+      "confidence": "high"
+    },
+    "recruiting.unique": {
+      "source": "Multiple case interview prep sources",
+      "confidence": "high"
+    },
+    "recruiting.timeline": {
+      "source": "General Big 4 recruiting patterns",
+      "confidence": "medium"
+    },
+    "email_format": {
+      "source": "signalhire.com, rocketreach.co",
+      "confidence": "high",
+      "note": "94.5% use firstname.lastname@pwc.com"
+    },
+    "byu.pipeline": {
+      "source": "Judgment based on 24 current BYU alumni",
+      "confidence": "high",
+      "note": "Strong alumni presence suggests active recruiting relationship"
+    },
+    "byu.tip": {
+      "source": "Synthesized from research",
+      "confidence": "medium"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.mba.base",
+      "reason": "Multiple conflicting sources; no reliable 2025-2026 PwC Consulting-specific MBA data found. Strategy& data available but that's a separate division."
+    },
+    {
+      "field": "compensation.mba.bonus",
+      "reason": "Same as MBA base - insufficient reliable data"
+    },
+    {
+      "field": "compensation.mba.signing",
+      "reason": "Same as MBA base - insufficient reliable data"
+    },
+    {
+      "field": "links.mc_profile",
+      "reason": "Management Consulted has PwC content but not a dedicated firm profile page in their standard format"
+    }
+  ],
+  "notes": "Pre-populated CSV data provided all LinkedIn and BYU alumni fields. PwC's consulting practice is distinct from Strategy& (their pure strategy arm), which has separate recruiting and compensation. This profile focuses on PwC Consulting, not Strategy&. Undergraduate compensation estimates are based on Big 4 industry patterns. MBA compensation left null due to lack of reliable PwC Consulting-specific data (most sources conflate with Strategy& or don't distinguish between divisions). Work-life balance and travel are highly variable by project and office."
+}

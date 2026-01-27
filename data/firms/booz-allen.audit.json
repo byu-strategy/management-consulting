@@ -1,0 +1,138 @@
+{
+  "firm_id": "booz-allen",
+  "researched_at": "2026-01-27T18:30:00Z",
+  "duration_seconds": 180,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.boozallen.com/about.html",
+    "https://www.boozallen.com/careers.html",
+    "https://managementconsulted.com/booz-allen-hamilton/",
+    "https://www.levels.fyi/companies/booz-allen-hamilton/salaries",
+    "https://www.glassdoor.com/Interview/Booz-Allen-Hamilton-Interview-Questions-E2735.htm",
+    "https://leadiq.com/c/booz-allen-hamilton/5a1d89e824000024006346b4/email-format",
+    "https://managementconsulted.com/booz-allen-hamilton-locations/",
+    "https://www.indeed.com/cmp/Booz-Allen-Hamilton/reviews?fcountry=ALL&ftopic=wlbalance"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "boozallen.com",
+      "confidence": "high"
+    },
+    "headquarters": {
+      "source": "boozallen.com",
+      "confidence": "high"
+    },
+    "offices": {
+      "source": "managementconsulted.com, multiple web sources",
+      "confidence": "high",
+      "note": "80+ US offices, listed major consulting hubs"
+    },
+    "specialties": {
+      "source": "boozallen.com",
+      "confidence": "high"
+    },
+    "industries": {
+      "source": "boozallen.com",
+      "confidence": "high"
+    },
+    "hires_ug": {
+      "source": "boozallen.com/careers",
+      "confidence": "high",
+      "note": "Explicit university talent recruiting program"
+    },
+    "hires_mba": {
+      "source": "boozallen.com/careers",
+      "confidence": "high",
+      "note": "MBA hiring confirmed via career portal"
+    },
+    "career_path": {
+      "source": "fishbowlapp.com, glassdoor.com",
+      "confidence": "high",
+      "note": "Multiple sources confirmed progression: Consultant → Senior Consultant → Associate → Lead Associate → Senior Associate → Principal → VP"
+    },
+    "travel": {
+      "source": "indeed.com reviews, touristplaces.guide",
+      "confidence": "medium",
+      "note": "Varies by role; DC-area roles often have less travel, mid-level can see 50-80% travel"
+    },
+    "work_hours": {
+      "source": "indeed.com reviews",
+      "confidence": "medium",
+      "note": "Rated 4.2 for work-life balance, paid overtime for entry-level, varies by team/contract"
+    },
+    "compensation.ug.base": {
+      "source": "levels.fyi, multiple salary sites",
+      "confidence": "medium",
+      "note": "Entry-level consultant range $75-80K based on 2025-2026 data"
+    },
+    "compensation.ug.bonus": {
+      "source": "levels.fyi, glassdoor.com",
+      "confidence": "medium",
+      "note": "Performance-based bonus, estimated ~$10K for entry level"
+    },
+    "compensation.mba.base": {
+      "source": "levels.fyi, management consulted",
+      "confidence": "medium",
+      "note": "Post-MBA base ~$130K reported for 2025-2026"
+    },
+    "compensation.mba.bonus": {
+      "source": "levels.fyi, web search",
+      "confidence": "medium",
+      "note": "Bonus brings total comp to ~$175K, estimated ~$45K bonus"
+    },
+    "recruiting.process": {
+      "source": "glassdoor.com, indeed.com, boozallen.com",
+      "confidence": "high",
+      "note": "No case interviews, behavioral/situational focus confirmed by multiple sources"
+    },
+    "recruiting.timeline": {
+      "source": "glassdoor.com, indeed.com",
+      "confidence": "high",
+      "note": "4-6 weeks total, often decisions within one week after final round"
+    },
+    "email_format": {
+      "source": "leadiq.com, rocketreach.co",
+      "confidence": "high",
+      "note": "lastname_firstname@bah.com used 67% of the time"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.ug.signing",
+      "reason": "No reliable data found on signing bonus for undergraduate hires"
+    },
+    {
+      "field": "compensation.mba.signing",
+      "reason": "No reliable data found on signing bonus for MBA hires"
+    }
+  ],
+  "notes": "Pre-populated data from CSV covered LinkedIn/BYU fields. Booz Allen is unique among consulting firms: no case interviews, government/defense focus, security clearance required. Strong BYU alumni presence (65 current, 271 all-time) makes this an accessible firm for BYU students through alumni networking. Management Consulted profile could not be accessed directly (403 error), but supplementary sources provided compensation and recruiting details. Firm is publicly traded (not partnership structure like MBB), which affects career progression terminology (VP instead of Partner)."
+}

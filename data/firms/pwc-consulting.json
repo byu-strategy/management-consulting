@@ -1,0 +1,103 @@
+{
+  "id": "pwc-consulting",
+  "name": "PwC Consulting",
+  "type": "Big 4",
+  "tagline": "Big 4 scale with execution-focused consulting from strategy through implementation",
+  "description": "Preparing for tomorrow's workforce, today. At PwC, we help clients transform their businesses today in order to thrive tomorrow. As we all experience fundamental shifts in the way we work, our team is taking a holistic approach that encompasses business strategy, as well as operational, technological, regulatory, social and tax considerations to help our clients navigate the future.",
+  "headquarters": "London, UK",
+  "founded": 1998,
+  "employees": 10000,
+  "parent_company": "PwC",
+  "offices": [
+    "New York",
+    "Boston",
+    "Chicago",
+    "San Francisco",
+    "Los Angeles",
+    "Dallas",
+    "Houston",
+    "Atlanta",
+    "Miami",
+    "Washington DC",
+    "Philadelphia",
+    "Seattle",
+    "Denver",
+    "Phoenix",
+    "Minneapolis",
+    "Detroit",
+    "Charlotte",
+    "Austin",
+    "Baltimore"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East",
+    "Africa"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Digital",
+    "M&A",
+    "Transformation",
+    "Risk",
+    "Technology"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Consumer",
+    "Energy",
+    "Industrial",
+    "Public Sector"
+  ],
+  "known_for": "PwC Consulting is known for execution-focused work that goes beyond strategy to implementation. Part of the Big 4, they combine deep industry expertise with the scale and resources to deliver complex projects end-to-end, from C-suite strategy down to operational details. Strong reputation for technology transformation, risk management, and helping organizations navigate regulatory complexity.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate (2-3 yrs) → Senior Associate (2-3 yrs) → Manager (2-3 yrs) → Senior Manager (2-3 yrs) → Director (3-4 yrs) → Managing Director (3-4 yrs) → Partner",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 85000,
+      "bonus": 12000,
+      "signing": 5000
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Online Assessment (Numerical, Verbal, Inductive Reasoning) → Digital Interview → First Round (Behavioral with Recruiter) → Second Round (2 case + 2 behavioral) → Final Round (2-3 case + behavioral, possible group case or written case)",
+    "unique": "Online assessments required before interviews. Interviewer-led case format. Some offices use group case exercises during assessment day, especially for undergrad internship recruiting.",
+    "timeline": "Applications open in fall, interviews October-November, rolling basis. 4-6 weeks from application to offer typical."
+  },
+  "email_format": "firstname.lastname@pwc.com",
+  "links": {
+    "website": "https://www.pwc.com/us/en.html",
+    "linkedin": "https://www.linkedin.com/showcase/pwc-us-consulting/",
+    "careers": "https://www.pwc.com/us/en/careers.html",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22PwC%20Consulting%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221044%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221044%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22PwC%20Consulting%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221044%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221044%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 1044,
+  "byu": {
+    "pipeline": "recruits",
+    "alumni_all_time": 151,
+    "alumni_current": 24,
+    "marriott_alumni_all_time": 25,
+    "marriott_alumni_current": 6,
+    "tip": "PwC has strong BYU connections with 24 current BYU alumni. Network with alumni across their 70+ US offices to find the best location fit for your interests and desired industry exposure."
+  }
+}

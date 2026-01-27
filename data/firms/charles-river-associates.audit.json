@@ -1,0 +1,154 @@
+{
+  "firm_id": "charles-river-associates",
+  "researched_at": "2026-01-27T19:30:00Z",
+  "duration_seconds": 180,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.crai.com",
+    "https://www.crai.com/careers",
+    "https://www.glassdoor.com/Salary/Charles-River-Associates-Salaries-E252446.htm",
+    "https://www.levels.fyi/companies/charles-river-associates/salaries/analyst",
+    "https://www.wallstreetoasis.com/company/charles-river-associates/salary",
+    "https://www.glassdoor.com/Interview/Charles-River-Associates-Interview-Questions-E252446.htm",
+    "https://www.hackingthecaseinterview.com/pages/charles-river-associates-case-interview",
+    "https://www.crai.com/careers/blogs/my-cra-application-process/",
+    "https://www.indeed.com/cmp/Charles-River-Associates/reviews",
+    "https://www.glassdoor.com/Reviews/Charles-River-Associates-Analyst-Reviews-EI_IE252446.0,24_KO25,32.htm",
+    "https://careerservices.fas.harvard.edu/jobs/charles-river-associates-2026-ba-ma-grads-econ-consulting-analyst-associate/",
+    "https://www.signalhire.com/companies/charles-river-associates/email-format",
+    "https://rocketreach.co/charles-river-associates-email-format_b5c600bdf42e0c56",
+    "https://en.wikipedia.org/wiki/CRA_International"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv (linkedin_overview)",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "crai.com",
+      "confidence": "high"
+    },
+    "headquarters": {
+      "source": "linkedin_overview",
+      "confidence": "high"
+    },
+    "offices": {
+      "source": "web search results",
+      "confidence": "high",
+      "note": "Compiled from multiple sources including Glassdoor and firm website references"
+    },
+    "specialties": {
+      "source": "crai.com",
+      "confidence": "high"
+    },
+    "industries": {
+      "source": "crai.com",
+      "confidence": "high"
+    },
+    "hires_ug": {
+      "source": "crai.com/careers",
+      "confidence": "high",
+      "note": "Firm explicitly mentions university hires and students & recent graduates"
+    },
+    "hires_mba": {
+      "source": "crai.com/careers",
+      "confidence": "medium",
+      "note": "Inferred from 'experienced consultants' category and general industry practice"
+    },
+    "compensation.ug.base": {
+      "source": "Harvard FAS job posting for 2026 BA/MA grads",
+      "confidence": "high",
+      "note": "Range $91,000-$95,000, used midpoint"
+    },
+    "compensation.ug.bonus": {
+      "source": "glassdoor.com and web search",
+      "confidence": "medium",
+      "note": "Multiple sources cite $6K-$10K in additional pay"
+    },
+    "recruiting.process": {
+      "source": "glassdoor.com and hackingthecaseinterview.com",
+      "confidence": "high"
+    },
+    "recruiting.unique": {
+      "source": "glassdoor.com and casebasix.com",
+      "confidence": "high"
+    },
+    "recruiting.timeline": {
+      "source": "crai.com careers blog and glassdoor",
+      "confidence": "medium",
+      "note": "Synthesized from multiple candidate experiences"
+    },
+    "email_format": {
+      "source": "signalhire.com and rocketreach.co",
+      "confidence": "high",
+      "note": "Multiple sources confirm first_initial.lastname format (93-94% usage)"
+    },
+    "travel": {
+      "source": "glassdoor.com and indeed.com reviews",
+      "confidence": "medium",
+      "note": "Economic consulting typically involves less travel than strategy consulting"
+    },
+    "work_hours": {
+      "source": "indeed.com and glassdoor.com reviews",
+      "confidence": "high",
+      "note": "Reviews mention 70+ hour weeks during busy periods, 6-6:30 PM typical departure"
+    },
+    "career_path": {
+      "source": "industry standard for economic consulting",
+      "confidence": "medium",
+      "note": "Typical progression for firms of this type"
+    },
+    "byu.pipeline": {
+      "source": "consulting-firms.csv alumni counts",
+      "confidence": "high",
+      "note": "12 current BYU alumni but 0 Marriott alumni suggests no active recruiting"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.ug.signing",
+      "reason": "No reliable source found for signing bonus data"
+    },
+    {
+      "field": "compensation.mba.base",
+      "reason": "No MBA-specific compensation data found in searches"
+    },
+    {
+      "field": "compensation.mba.bonus",
+      "reason": "No MBA-specific compensation data found in searches"
+    },
+    {
+      "field": "compensation.mba.signing",
+      "reason": "No MBA-specific compensation data found in searches"
+    },
+    {
+      "field": "links.mc_profile",
+      "reason": "Management Consulted does not have a profile for Charles River Associates"
+    }
+  ],
+  "notes": "Pre-populated data from CSV covered all LinkedIn/BYU fields. Firm website and careers page provided company info, founding year, and recruiting approach. Glassdoor and salary aggregators provided compensation data. Economic consulting firms like CRA typically have lower travel expectations than traditional strategy consulting firms, as work is more office/data-based. No active BYU recruiting presence identified—all Marriott alumni counts are 0, suggesting networking through general BYU alumni is the only pathway."
+}

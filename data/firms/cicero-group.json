@@ -1,0 +1,83 @@
+{
+  "id": "cicero-group",
+  "name": "Cicero Group",
+  "type": "Boutique",
+  "tagline": "Data-driven boutique with Utah roots and strong BYU pipeline",
+  "description": "Cicero® is a premier management consulting firm focused on implementing data-driven strategies for a broad mix of private, public, and social sector organizations across the globe. Cicero is headquartered in Salt Lake City, Utah, with additional offices in New York City, and Washington D.C. Cicero uses data and experience to generate insights, create actionable strategies, and drive transformation with an overarching purpose of helping people create and continuously deliver extraordinary results. At Cicero, our people come first. We work hard to foster a culture where employees can thrive both professionally and personally. If you would like to learn more about career opportunities with Cicero, please visit us at www.cicerogroup.com/careers.",
+  "headquarters": "Salt Lake City, USA",
+  "founded": 2001,
+  "employees": 156,
+  "parent_company": "MGT",
+  "offices": [
+    "Salt Lake City",
+    "New York",
+    "Washington DC",
+    "Dallas"
+  ],
+  "regions": [
+    "North America",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Strategy",
+    "Customer Insights & Analytics",
+    "Transformation",
+    "Operational Excellence",
+    "M&A Advisory",
+    "Private Equity Services"
+  ],
+  "industries": [
+    "Consumer",
+    "Education",
+    "Technology",
+    "Financial Services",
+    "Healthcare",
+    "Retail",
+    "Industrial"
+  ],
+  "known_for": "Founded by BYU alumnus Randy Shumway in 2001, Cicero is known for its data-driven approach and strong analytics capabilities. The firm operates a low-travel model (50 hours/week vs 70+ at MBB) making it particularly family-friendly, and has become one of the strongest consulting pipelines for BYU students with 129 alumni across its history.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate Consultant (2-3 yrs) → Consultant (2-3 yrs) → Engagement Manager (3-4 yrs) → Principal (4+ yrs) → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 111000,
+      "bonus": 18000,
+      "signing": 10000
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → HireVue Video Interview → First Round (case + behavioral) → Final Round (45-min case + 30-min behavioral + 1-hour presentation with data analysis)",
+    "unique": "Final round includes a unique 1-hour data analysis challenge where you review data and create a short deck. Known for being more accessible than MBB—some candidates receive offers with minimal case prep, though solid preparation is still recommended.",
+    "timeline": "Rolling recruitment throughout the year; process typically takes 6-8 weeks from application to offer"
+  },
+  "email_format": "firstinitiallast@cicerogroup.com",
+  "links": {
+    "website": "https://cicerogroup.com/",
+    "linkedin": "https://www.linkedin.com/company/cicerogroup/",
+    "careers": "https://cicerogroup.com/careers/",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Cicero%20Group%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221262517%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221262517%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Cicero%20Group%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221262517%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221262517%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 1262517,
+  "byu": {
+    "pipeline": "recruits",
+    "alumni_all_time": 129,
+    "alumni_current": 28,
+    "marriott_alumni_all_time": 32,
+    "marriott_alumni_current": 9,
+    "tip": "Cicero has the strongest BYU presence of any boutique firm outside of the Big 4. Founder Randy Shumway is a BYU grad, and the Salt Lake City headquarters creates a natural pipeline. Network with Salt Lake City office alumni—they actively mentor BYU students. The firm's culture values collaboration over prestige, making it a great first consulting role."
+  }
+}

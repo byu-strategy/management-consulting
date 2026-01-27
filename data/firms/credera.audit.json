@@ -1,0 +1,243 @@
+{
+  "firm_id": "credera",
+  "researched_at": "2026-01-27T13:35:30Z",
+  "duration_seconds": 420,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.credera.com/en-us",
+    "https://www.credera.com/en-us/about",
+    "https://www.consulting.us/news/794/omnicom-acquires-management-and-tech-consulting-firm-credera",
+    "https://www.glassdoor.com/Salary/Credera-Salaries-E245498.htm",
+    "https://www.glassdoor.com/Interview/Credera-Interview-Questions-E245498.htm",
+    "https://www.glassdoor.com/Reviews/Credera-work-life-balance-Reviews-EI_IE245498.0,7_KH8,25.htm",
+    "https://www.credera.com/en-us/about-us/our-offices",
+    "https://www.credera.com/en-us/careers/students",
+    "https://www.credera.com/en-us/industries",
+    "https://rocketreach.co/credera-email-format_b5c64c9ff42e0cb4",
+    "https://managementconsulted.com/consulting-firm/credera/ (attempted - 403 error)"
+  ],
+  "field_sources": {
+    "id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "name": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "type": {
+      "source": "inference based on firm size and focus",
+      "confidence": "high",
+      "note": "Boutique classification - not MBB or Big 4"
+    },
+    "tagline": {
+      "source": "credera.com/about",
+      "confidence": "high",
+      "note": "Synthesized from LinkedIn overview and company positioning"
+    },
+    "description": {
+      "source": "consulting-firms.csv (linkedin_overview)",
+      "confidence": "high"
+    },
+    "headquarters": {
+      "source": "consulting.us acquisition article",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "consulting.us acquisition article",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv (number_emp_linkedin)",
+      "confidence": "high"
+    },
+    "parent_company": {
+      "source": "omnicomgroup.com press releases",
+      "confidence": "high",
+      "note": "Acquired by Omnicom in 2018"
+    },
+    "offices": {
+      "source": "credera.com/about-us/our-offices",
+      "confidence": "high",
+      "note": "US offices only, extracted from office locations page"
+    },
+    "regions": {
+      "source": "credera.com and web search",
+      "confidence": "high",
+      "note": "Global presence across North America, Europe, Asia Pacific"
+    },
+    "specialties": {
+      "source": "credera.com/services and industry research",
+      "confidence": "high",
+      "note": "Core capabilities in digital transformation, MarTech, analytics"
+    },
+    "industries": {
+      "source": "credera.com/industries",
+      "confidence": "high"
+    },
+    "known_for": {
+      "source": "company positioning and Glassdoor reviews",
+      "confidence": "high",
+      "note": "Synthesized from Omnicom relationship and work-life balance feedback"
+    },
+    "hires_ug": {
+      "source": "credera.com/careers/students",
+      "confidence": "high",
+      "note": "Dedicated student recruiting program and campus hiring"
+    },
+    "hires_mba": {
+      "source": "credera.com/careers/experienced-professionals",
+      "confidence": "medium",
+      "note": "Inferred from experienced hiring program"
+    },
+    "career_path": {
+      "source": "Glassdoor and PayScale salary data",
+      "confidence": "medium",
+      "note": "Constructed from role titles found in compensation data"
+    },
+    "travel": {
+      "source": "Glassdoor reviews",
+      "confidence": "high",
+      "note": "Multiple reviews cite <20% travel"
+    },
+    "work_hours": {
+      "source": "Glassdoor reviews",
+      "confidence": "high",
+      "note": "Consistently reported as 40-50 hours/week"
+    },
+    "compensation.ug.base": {
+      "source": "Glassdoor entry-level consultant salary data",
+      "confidence": "medium",
+      "note": "Average of $87K from Glassdoor 2025 data"
+    },
+    "compensation.ug.bonus": {
+      "source": "not found",
+      "confidence": "low",
+      "note": "Specific performance bonus amounts not disclosed publicly"
+    },
+    "compensation.ug.signing": {
+      "source": "credera.com/careers (mentions relocation bonus)",
+      "confidence": "low",
+      "note": "Signing/relocation bonus mentioned but specific amount not disclosed"
+    },
+    "compensation.mba": {
+      "source": "not found",
+      "confidence": "low",
+      "note": "MBA-level compensation not found in public sources"
+    },
+    "recruiting.process": {
+      "source": "Glassdoor interview reviews",
+      "confidence": "high",
+      "note": "Virtual process with behavioral and technical components"
+    },
+    "recruiting.unique": {
+      "source": "Glassdoor and company blog",
+      "confidence": "high",
+      "note": "Cappfinity behavioral assessment mentioned in multiple sources"
+    },
+    "recruiting.timeline": {
+      "source": "Glassdoor interview reviews",
+      "confidence": "medium",
+      "note": "Approximately 2 weeks based on candidate reports"
+    },
+    "email_format": {
+      "source": "RocketReach and LeadIQ email format databases",
+      "confidence": "high",
+      "note": "Firstname.lastname@credera.com reported as most common format"
+    },
+    "links.website": {
+      "source": "consulting-firms.csv (firm_url)",
+      "confidence": "high"
+    },
+    "links.linkedin": {
+      "source": "consulting-firms.csv (linkedin url)",
+      "confidence": "high"
+    },
+    "links.careers": {
+      "source": "credera.com",
+      "confidence": "high"
+    },
+    "links.mc_profile": {
+      "source": "web search found URL but access blocked",
+      "confidence": "high",
+      "note": "URL confirmed via search but content not accessible (403 error)"
+    },
+    "links.byu_keyword": {
+      "source": "constructed from schema pattern",
+      "confidence": "high"
+    },
+    "links.byu_current": {
+      "source": "constructed from schema pattern using linkedin_id",
+      "confidence": "high"
+    },
+    "links.byu_past": {
+      "source": "constructed from schema pattern using linkedin_id",
+      "confidence": "high"
+    },
+    "links.marriott_keyword": {
+      "source": "constructed from schema pattern",
+      "confidence": "high"
+    },
+    "links.marriott_current": {
+      "source": "constructed from schema pattern using linkedin_id",
+      "confidence": "high"
+    },
+    "links.marriott_past": {
+      "source": "constructed from schema pattern using linkedin_id",
+      "confidence": "high"
+    },
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.pipeline": {
+      "source": "inference from alumni count",
+      "confidence": "medium",
+      "note": "13 current alumni suggests alumni network but no evidence of active BYU recruiting"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv (alltime_byu)",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv (current_byu)",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv (alltime_byu_marriott)",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv (current_byu_marriott)",
+      "confidence": "high"
+    },
+    "byu.tip": {
+      "source": "synthesized from company values and alumni data",
+      "confidence": "medium",
+      "note": "Based on emphasis on cultural fit in recruiting and alumni network strength"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.ug.bonus",
+      "reason": "Performance bonus amounts not publicly disclosed"
+    },
+    {
+      "field": "compensation.ug.signing",
+      "reason": "Signing bonus amount not publicly disclosed (only confirmed it exists)"
+    },
+    {
+      "field": "compensation.mba.base",
+      "reason": "MBA-level compensation data not found in public sources"
+    },
+    {
+      "field": "compensation.mba.bonus",
+      "reason": "MBA-level compensation data not found in public sources"
+    },
+    {
+      "field": "compensation.mba.signing",
+      "reason": "MBA-level compensation data not found in public sources"
+    }
+  ],
+  "notes": "Pre-populated CSV data provided all LinkedIn and BYU alumni fields. Credera was acquired by Omnicom in 2018, giving it unique positioning as a consultancy embedded within a marketing/advertising conglomerate. Management Consulted profile exists but was inaccessible due to bot protection (403 error). Company emphasizes work-life balance and cultural fit more than traditional consulting firms. Strong Marriott alumni representation (8 of 13 current BYU alumni are from Marriott). Compensation data limited to entry-level base salary estimate from Glassdoor; specific bonus structures not publicly available."
+}

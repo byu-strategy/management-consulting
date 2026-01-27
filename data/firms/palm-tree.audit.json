@@ -1,0 +1,46 @@
+{
+  "firm_id": "palm-tree",
+  "researched_at": "2026-01-27T18:45:00Z",
+  "duration_seconds": 180,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.palmtreellc.com/",
+    "https://managementconsulted.com/palm-tree-llc/",
+    "https://umbrex.com/resources/profiles-of-the-top-consulting-firms/overview-profile-and-history-of-palm-tree-llc/",
+    "https://www.glassdoor.com/Salary/Palm-Tree-Salaries-E1729317.htm",
+    "https://www.casebasix.com/pages/palm-tree",
+    "https://palmtreellc.com/careers/",
+    "https://palmtreellc.com/palm-tree-expands-into-new-los-angeles-headquarters/",
+    "https://www.businesswire.com/news/home/20230927128143/en/Palm-Tree-LLC-Opens-Dallas-Office-to-Serve-Growing-Market",
+    "https://rocketreach.co/palm-tree-llc-email-format_b7ea894ec2e75419",
+    "https://leadiq.com/c/palm-tree-llc/5a1d93545400005c0077c5b2/email-format"
+  ],
+  "field_sources": {
+    "linkedin_id": {"source": "consulting-firms.csv", "confidence": "high"},
+    "employees": {"source": "consulting-firms.csv", "confidence": "high"},
+    "byu.alumni_all_time": {"source": "consulting-firms.csv", "confidence": "high"},
+    "byu.alumni_current": {"source": "consulting-firms.csv", "confidence": "high"},
+    "byu.marriott_alumni_all_time": {"source": "consulting-firms.csv", "confidence": "high"},
+    "byu.marriott_alumni_current": {"source": "consulting-firms.csv", "confidence": "high"},
+    "description": {"source": "consulting-firms.csv (LinkedIn overview)", "confidence": "high"},
+    "founded": {"source": "managementconsulted.com + umbrex.com", "confidence": "high", "note": "Founded 2010 by Pardis Nasseri"},
+    "headquarters": {"source": "palmtreellc.com + businesswire.com", "confidence": "high", "note": "Los Angeles office at 11755 Wilshire Blvd"},
+    "offices": {"source": "businesswire.com + web search", "confidence": "high", "note": "LA, Chicago, Detroit, Dallas confirmed"},
+    "compensation.ug.base": {"source": "glassdoor.com + managementconsulted.com", "confidence": "medium", "note": "$75,000 for analysts"},
+    "compensation.ug.bonus": {"source": "glassdoor.com", "confidence": "medium", "note": "Estimated ~20% performance bonus"},
+    "compensation.mba.base": {"source": "glassdoor.com + salary.com", "confidence": "medium", "note": "$125,000 for associates"},
+    "compensation.mba.bonus": {"source": "glassdoor.com", "confidence": "medium", "note": "Estimated 30%+ performance bonus"},
+    "recruiting.process": {"source": "casebasix.com + glassdoor.com", "confidence": "high", "note": "Detailed multi-stage process with 4-6 hr case study"},
+    "email_format": {"source": "rocketreach.co + leadiq.com", "confidence": "high", "note": "first_initial.last@palmtreellc.com used 75% of the time"},
+    "career_path": {"source": "glassdoor.com + salary.com", "confidence": "medium", "note": "Inferred from job postings and salary data"},
+    "known_for": {"source": "umbrex.com + managementconsulted.com", "confidence": "high", "note": "600+ engagements, $75B+ transaction value"},
+    "type": {"source": "judgment", "confidence": "high", "note": "Boutique classification - PE-focused advisory, not MBB or Big 4"}
+  },
+  "gaps": [
+    {"field": "compensation.ug.signing", "reason": "No reliable source found for signing bonuses"},
+    {"field": "compensation.mba.signing", "reason": "No reliable source found for signing bonuses"},
+    {"field": "travel", "reason": "Inferred as 'moderate' based on client-site work but no explicit data"},
+    {"field": "work_hours", "reason": "Inferred as 'demanding' based on PE advisory nature but no explicit data"}
+  ],
+  "notes": "Pre-populated data from CSV covered LinkedIn/BYU fields. Founded in 2010 by ex-PE investor Pardis Nasseri. Firm specializes in PE deal lifecycle support with 600+ engagements worth $75B+. Very small BYU presence (1 current, 3 all-time). Compensation data available for analyst/associate levels from Glassdoor but signing bonus data not found. Interview process features unique 4-6 hour case study. Email format confirmed via multiple sources."
+}

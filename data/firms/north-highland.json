@@ -1,0 +1,87 @@
+{
+  "id": "north-highland",
+  "name": "North Highland",
+  "type": "Boutique",
+  "tagline": "Change and transformation consultancy with local staffing and strong work-life balance",
+  "description": "North Highland helps businesses move from strategy to reality, taking a pragmatic and practical approach to build solutions that work and create impact that lasts. As the world's leading change and transformation consultancy, our award-winning services – powered by a combination of talent and technology – turn client visions into real, measurable value.",
+  "headquarters": "Atlanta, USA",
+  "founded": 1992,
+  "employees": 2073,
+  "parent_company": "OMERS Private Equity",
+  "offices": [
+    "Atlanta",
+    "Los Angeles",
+    "Chicago",
+    "Philadelphia",
+    "Boston",
+    "Austin",
+    "Denver",
+    "Nashville",
+    "Houston",
+    "Minneapolis",
+    "Arlington"
+  ],
+  "regions": [
+    "North America",
+    "Europe"
+  ],
+  "specialties": [
+    "Transformation",
+    "Strategy",
+    "Operations",
+    "Digital",
+    "Data Modernization",
+    "Change Management"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Energy",
+    "Public Sector",
+    "Retail",
+    "Life Sciences",
+    "Media & Entertainment",
+    "Transportation"
+  ],
+  "known_for": "Founded in 1992 with a focus on work-life balance and local staffing model to minimize consultant travel. Known for practical, results-oriented transformation consulting across industries. Part of Cordence Worldwide network and backed by OMERS Private Equity since 2023.",
+  "hires_ug": false,
+  "hires_mba": true,
+  "career_path": "Business Analyst (2-3 yrs) → Consultant (2-3 yrs) → Senior Consultant (3-4 yrs) → Manager → Partner",
+  "travel": "moderate",
+  "work_hours": "balanced",
+  "compensation": {
+    "ug": null,
+    "mba": {
+      "base": 107000,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Resume → Phone Screen (recruiter) → HR Interview → Manager/Technical Interview → Offer",
+    "unique": "Does not hire fresh undergraduates. MBAs hired at Senior Consultant level. May include case study or business scenario analysis. Process can take 2-12 weeks.",
+    "timeline": "Rolling applications year-round, 2-12 weeks from application to offer"
+  },
+  "email_format": "firstname.lastname@northhighland.com",
+  "links": {
+    "website": "https://www.northhighland.com/",
+    "linkedin": "https://www.linkedin.com/company/northhighland/",
+    "careers": "https://careers.northhighland.com/",
+    "mc_profile": "https://managementconsulted.com/north-highland-consulting/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22North%20Highland%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22166391%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22166391%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22North%20Highland%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22166391%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22166391%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 166391,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 34,
+    "alumni_current": 6,
+    "marriott_alumni_all_time": 3,
+    "marriott_alumni_current": 3,
+    "tip": "North Highland doesn't recruit undergrads. MBAs or experienced professionals only. Leverage the 6 current BYU alumni for informational interviews about the Sr. Consultant role and their local office model."
+  }
+}

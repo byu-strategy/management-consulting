@@ -1,0 +1,60 @@
+{
+  "id": "decibio",
+  "name": "DeciBio Consulting",
+  "type": "Boutique",
+  "tagline": "Precision medicine strategy experts—100% life sciences consulting",
+  "description": "DeciBio Consulting is a boutique strategy consulting firm focusing on the life science industry. DeciBio's mission is to provide strategic insights that accelerate innovation in precision medicine. Headquartered in Los Angeles, CA, DeciBio serves clients and customers across the globe, ranging from incubator-stage startups to Fortune 500 life science corporations. DeciBio addresses business solutions that range from market landscape analyses to full commercial strategies, including organic and inorganic growth opportunities (commercial due diligences). DeciBio's work is typically supported by a mix of primary and secondary research leveraging Dexter, its in-house expert network, and DeciBio Analytics' proprietary data intelligence products. DeciBio's Analytics division offers numerous data products to support strategic insights, including in clinical diagnostics (the DxBooks), oncology biomarkers, liquid biopsy, NGS, spatial biology, omics market segmentation (Market Reports), the entire life sciences industry (BioTrack), and more. Internal teams such as the Culture Committee, Women* in Consulting, and Queers in Consulting enrich the employee experience. DeciBio's Social Impact board and the DeciBio Impact Lab work collaboratively across divisions and externally to uproot discrimination and increase access to precision medicine. DeciBio Consulting, LLC recently launched DeciBio Ventures. This venture capital and creation firm invests in and supports ground-breaking companies in the precision medicine space.",
+  "headquarters": "Los Angeles, USA",
+  "founded": 2013,
+  "employees": 62,
+  "parent_company": null,
+  "offices": ["Los Angeles"],
+  "regions": ["North America", "Europe"],
+  "specialties": ["Strategy", "Market Research", "Due Diligence", "Pricing", "Analytics"],
+  "industries": ["Life Sciences", "Clinical Diagnostics", "Pharma & Biotech", "Research Tools", "Financial Services"],
+  "known_for": "Boutique firm with 100% focus on precision medicine and life sciences. All consultants hold life sciences degrees and 70% of projects involve global research. Known for combining deep scientific understanding with business strategy, plus proprietary data analytics platform (DeciBio Analytics). Recognized for exceptional work-life balance and entrepreneurial culture.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2 yrs) → Senior Analyst (2 yrs) → Associate or Life Science Expert (2-3 yrs) → Senior Associate or Senior Life Science Expert (2-3 yrs) → Project Leader (3 yrs) → Senior Project Leader (3 yrs) → Principal (3-4 yrs) → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 85000,
+      "bonus": 12000,
+      "signing": null
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Round 1 (one-way video: market sizing case + behavioral) → Round 2 (live remote: qualitative case + behavioral) → Round 3 (3+ hour case simulation presentation to Hiring Committee) → Final Round (meet & greet: half-day with team, coffee walks, lunch/happy hour)",
+    "unique": "One-way video interview platform for Round 1 standardizes case process objectively. Round 3 requires 3+ hour case simulation exercise culminating in presentation to Hiring Committee. Less than 1% of applicants receive offers. All cases are interviewer-led.",
+    "timeline": "Fall recruiting cycle (apply July-September for best consideration). Rolling applications year-round. Full process takes fewer than 8 weeks. Hiring Committee delivers decision within 2 weeks of completed interview. Average process time ~3 weeks."
+  },
+  "email_format": null,
+  "links": {
+    "website": "http://www.decibio.com",
+    "linkedin": "https://www.linkedin.com/company/decibio/",
+    "careers": "https://www.decibio.com/careers",
+    "mc_profile": "https://managementconsulted.com/decibio-consulting/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22DeciBio%20Consulting%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22571154%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22571154%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22DeciBio%20Consulting%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22571154%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22571154%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 571154,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Requires life sciences degree for all positions. Network heavily with DeciBio consultants on LinkedIn. Attend their bi-weekly virtual info sessions which include sample case questions. Strong fit for students with biology, biochemistry, or other life sciences backgrounds interested in consulting."
+  }
+}

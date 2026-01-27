@@ -1,0 +1,60 @@
+{
+  "id": "alvarez-marsal-crg",
+  "name": "Alvarez & Marsal Consumer and Retail Group",
+  "type": "Boutique",
+  "tagline": "Action-oriented consumer and retail transformation—over 50% of leaders are former industry executives",
+  "description": "Formed in 2019, the Consumer and Retail Group at Alvarez & Marsal is dedicated to delivering transformation to our clients. A&M CRG combines the best of our broader firm's bias toward action and practicality with deep consumer and retail industry experience. The result? An unquestionably different approach and measurable impact for our clients. Our team has led and implemented major transformations in both industry and consulting roles. We know what it is like to face the challenges you are up against. When A&M CRG starts working with your team, we get to know the nuances of your business and deploy our creativity and rigor to your unique situation. We implement proven results that meet your needs and goals. Every time.",
+  "headquarters": "New York, USA",
+  "founded": 2019,
+  "employees": 146,
+  "parent_company": "Alvarez & Marsal",
+  "offices": ["New York", "Chicago"],
+  "regions": ["North America"],
+  "specialties": ["Strategy", "Operations", "Transformation", "Restructuring", "Implementation"],
+  "industries": ["Consumer", "Retail"],
+  "known_for": "Founded in 2019 as A&M's first industry-focused consulting vertical, A&M CRG distinguishes itself through an operator mindset—over 50% of senior leaders held executive roles in industry. They reject traditional consulting approaches in favor of hands-on implementation and measurable business transformation, leveraging Alvarez & Marsal's turnaround and restructuring heritage.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate (2-3 yrs) → Manager (2-3 yrs) → Managing Director → Partner",
+  "travel": "high",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 107500,
+      "bonus": 15000,
+      "signing": 10000
+    },
+    "mba": {
+      "base": 190000,
+      "bonus": 70000,
+      "signing": 27500
+    }
+  },
+  "recruiting": {
+    "process": "Resume → First Round (1 behavioral + 1 case) → Final Round (2 case + 1 behavioral)",
+    "unique": "Cases are described as difficult with emphasis on consulting math; lean team structure means new hires get meaningful client exposure quickly",
+    "timeline": "Applications open in Fall, interviews throughout Fall by video/phone/in-person, offers by late Fall"
+  },
+  "email_format": "firstinitiallastname@alvarezandmarsal.com",
+  "links": {
+    "website": "https://alvarezandmarsal-crg.com/",
+    "linkedin": "https://www.linkedin.com/company/alvarezandmarsal-crg/",
+    "careers": "https://alvarezandmarsal-crg.com/campus-recruiting/",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Alvarez%20%26%20Marsal%20Consumer%20and%20Retail%20Group%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280198080%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2280198080%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Alvarez%20%26%20Marsal%20Consumer%20and%20Retail%20Group%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280198080%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2280198080%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 80198080,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No current BYU alumni—requires aggressive cold outreach and networking through parent firm Alvarez & Marsal connections to break in"
+  }
+}

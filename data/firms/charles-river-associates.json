@@ -1,0 +1,91 @@
+{
+  "id": "charles-river-associates",
+  "name": "Charles River Associates",
+  "type": "Boutique",
+  "tagline": "Economic and financial consulting for litigation and regulatory proceedings",
+  "description": "Charles River Associates (CRA) is a global consulting firm specializing in litigation, regulatory, financial, and management consulting. We provide economic and financial analysis in litigation and regulatory proceedings and guide businesses through critical strategy and operational issues. Since 1965, clients have engaged CRA for our unique combination of functional expertise and industry knowledge, and for our objective solutions to complex problems. Headquartered in Boston, CRA has offices throughout the world. Learn more about our careers at http://www.crai.com/careers.",
+  "headquarters": "Boston, USA",
+  "founded": 1965,
+  "employees": 1611,
+  "parent_company": null,
+  "offices": [
+    "Boston",
+    "New York",
+    "Washington DC",
+    "Chicago",
+    "Oakland",
+    "San Francisco",
+    "Los Angeles",
+    "Salt Lake City",
+    "Summit",
+    "Tallahassee",
+    "Bryan",
+    "Plano"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Economic Analysis",
+    "Litigation Support",
+    "Regulatory Consulting",
+    "Financial Analysis",
+    "Management Consulting",
+    "Antitrust and Competition"
+  ],
+  "industries": [
+    "Financial Services",
+    "Energy",
+    "Life Sciences",
+    "Healthcare",
+    "Technology",
+    "Manufacturing & Industrials"
+  ],
+  "known_for": "CRA is a leading economic consulting firm known for rigorous quantitative analysis in litigation and regulatory proceedings. Founded in 1965, the firm combines deep academic expertise with practical business insight, particularly in antitrust, competition, and damages analysis.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Senior Analyst (2-3 yrs) → Associate (2-3 yrs) → Principal (3-4 yrs) → Vice President",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 93000,
+      "bonus": 10000,
+      "signing": null
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Resume → First Round (behavioral + mini-case, 45 min) → Final Round (3 interviews: behavioral + case + group case, 30 min each)",
+    "unique": "Heavy emphasis on quantitative and econometric analysis in cases; final round includes a group case exercise; cases often presented via shared Word documents with tables and graphs",
+    "timeline": "Applications open fall semester, first rounds within 2-4 weeks of application, offers typically by Thanksgiving for undergraduate analysts"
+  },
+  "email_format": "first_initial.lastname@crai.com",
+  "links": {
+    "website": "https://www.crai.com",
+    "linkedin": "https://www.linkedin.com/company/charles-river-associates/",
+    "careers": "https://www.crai.com/cra-careers/jobs/",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Charles%20River%20Associates%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%226511%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%226511%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Charles%20River%20Associates%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%226511%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%226511%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 6511,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 69,
+    "alumni_current": 12,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No active BYU recruiting—leverage the 12 current BYU alumni for networking. Focus on economic analysis skills and quantitative coursework in applications."
+  }
+}

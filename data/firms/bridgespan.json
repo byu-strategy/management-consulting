@@ -1,0 +1,60 @@
+{
+  "id": "bridgespan",
+  "name": "Bridgespan Group",
+  "type": "Boutique",
+  "tagline": "Leading nonprofit strategy consultancy founded by Bain alumni",
+  "description": "The Bridgespan Group is a global nonprofit that strives to make the world more equitable and just. Since 2000, we have had the privilege of advising and collaborating with many of the world's most extraordinary social change leaders including philanthropists, nonprofit and NGO leaders, and impact investors. We are passionate about helping social change leaders find solutions to economic and social barriers that perpetuate inequities and prevent individuals, families, and communities from having access to opportunities they need to thrive. We use rigorous research to gain insights that help our clients solve problems and achieve their goals. Our services include strategy consulting and advising, sourcing and diligence, and leadership team support. We take what we learn from this work and build on it with original research, identifying best practices and innovative ideas to share with the social sector.",
+  "headquarters": "Boston, USA",
+  "founded": 2000,
+  "employees": 494,
+  "parent_company": null,
+  "offices": ["Boston", "New York", "San Francisco", "Washington DC"],
+  "regions": ["North America", "Asia Pacific", "Africa"],
+  "specialties": ["Strategy", "Philanthropy Advisory", "Impact Investing", "Organizational Effectiveness", "Leadership Development"],
+  "industries": ["Nonprofit", "Social Impact", "Philanthropy", "Education", "Healthcare", "Climate", "Public Health"],
+  "known_for": "Founded by former Bain & Company leaders to bring management consulting rigor to the social sector. Known for commitment to equity, lower travel demands than traditional consulting, and access to Bain's training programs. Ranked #4 in Vault's Top 50 Consulting Firms for workplace culture.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate Consultant (2-3 yrs) → Senior Associate Consultant (2-3 yrs) → Consultant (2-3 yrs) → Manager (2-3 yrs) → Senior Manager → Principal → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 55000,
+      "bonus": null,
+      "signing": null
+    },
+    "mba": {
+      "base": 98000,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Resume Screen → First Round (1-2 case interviews via phone) → Final Round (2-3 case interviews + 1 behavioral interview in-person) → Offer",
+    "unique": "All cases are candidate-led with nonprofit/social sector focus and emphasis on equity. No nonprofit experience required but must demonstrate passion for social impact. New hires attend Bain's training programs.",
+    "timeline": "Applications open mid-August, deadline mid-September, first rounds early October, final rounds late October, offers early November"
+  },
+  "email_format": "firstname.lastname@bridgespan.org",
+  "links": {
+    "website": "https://www.bridgespan.org",
+    "linkedin": "https://www.linkedin.com/company/the-bridgespan-group/",
+    "careers": "https://www.bridgespan.org/careers-at-bridgespan",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Bridgespan%20Group%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2211750%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2211750%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Bridgespan%20Group%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2211750%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2211750%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 11750,
+  "byu": {
+    "pipeline": null,
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No current BYU pipeline. Focus on demonstrating genuine passion for social impact work. Attend Bridgespan webinars and info sessions to understand their mission-driven culture. Network with nonprofit leaders who have worked with Bridgespan."
+  }
+}

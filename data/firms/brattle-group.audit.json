@@ -1,0 +1,136 @@
+{
+  "firm_id": "brattle-group",
+  "researched_at": "2026-01-27T18:15:03Z",
+  "duration_seconds": 420,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.brattle.com",
+    "https://www.brattle.com/careers/",
+    "https://www.glassdoor.com/Salary/The-Brattle-Group-Salaries-E214152.htm",
+    "https://www.levels.fyi/companies/the-brattle-group/salaries",
+    "https://managementconsulted.com/brattle-group/",
+    "https://www.casebasix.com/pages/brattle-group",
+    "https://rocketreach.co/the-brattle-group-email-format_b5c62787f42e0ca9",
+    "https://umbrex.com/resources/profiles-of-the-top-consulting-firms/overview-profile-and-history-of-the-brattle-group/",
+    "https://en.wikipedia.org/wiki/Brattle_Group"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "managementconsulted.com, umbrex.com",
+      "confidence": "high",
+      "note": "Founded in 1990 in Cambridge, MA. Merged with Incentives Research Inc. (founded 1983) in 1995."
+    },
+    "headquarters": {
+      "source": "brattle.com",
+      "confidence": "high",
+      "note": "Listed as Cambridge, Massachusetts (Boston area)"
+    },
+    "offices": {
+      "source": "brattle.com/careers",
+      "confidence": "high",
+      "note": "US offices only: Boston, Chicago, New York, San Francisco, Washington DC"
+    },
+    "specialties": {
+      "source": "brattle.com, managementconsulted.com",
+      "confidence": "high",
+      "note": "Economic consulting firm focusing on strategy, analytics, M&A, risk, and due diligence with emphasis on litigation and regulatory work"
+    },
+    "industries": {
+      "source": "brattle.com",
+      "confidence": "high",
+      "note": "Primary industries: Financial Services, Energy, Healthcare, Technology, Telecommunications"
+    },
+    "compensation.ug.base": {
+      "source": "glassdoor.com, indeed.com",
+      "confidence": "medium",
+      "note": "Research Analyst positions for 2026 start at $97,908 in New York. Used rounded figure."
+    },
+    "compensation.mba.base": {
+      "source": "glassdoor.com, levels.fyi",
+      "confidence": "medium",
+      "note": "Associate positions range $188k-$220k depending on degree (MBA vs PhD). Used midpoint estimate."
+    },
+    "recruiting.process": {
+      "source": "glassdoor.com, managementconsulted.com",
+      "confidence": "high",
+      "note": "Half-day first round with case exercise, full-day super day with multiple interviewers"
+    },
+    "recruiting.timeline": {
+      "source": "glassdoor.com",
+      "confidence": "medium",
+      "note": "Fall on-campus recruiting, winter second rounds, decisions within 1-2 weeks"
+    },
+    "email_format": {
+      "source": "rocketreach.co",
+      "confidence": "high",
+      "note": "85-99% use firstname.lastname@brattle.com format"
+    },
+    "career_path": {
+      "source": "brattle.com/careers",
+      "confidence": "high",
+      "note": "Titles extracted from careers page navigation"
+    },
+    "travel": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Consultants below Principal level travel infrequently, mostly office-based"
+    },
+    "work_hours": {
+      "source": "managementconsulted.com, vault.com",
+      "confidence": "high",
+      "note": "Typically 40-50 hours/week with occasional spikes. Better work-life balance than traditional strategy consulting."
+    },
+    "byu.pipeline": {
+      "source": "judgment based on CSV data",
+      "confidence": "high",
+      "note": "Only 2 current BYU alumni (0 Marriott) suggests alumni_only pipeline—need to network with existing alumni"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.ug.bonus",
+      "reason": "No reliable data found for Research Analyst bonus"
+    },
+    {
+      "field": "compensation.ug.signing",
+      "reason": "No reliable data found for Research Analyst signing bonus"
+    },
+    {
+      "field": "compensation.mba.bonus",
+      "reason": "No reliable data found for Associate bonus"
+    },
+    {
+      "field": "compensation.mba.signing",
+      "reason": "No reliable data found for Associate signing bonus"
+    },
+    {
+      "field": "links.mc_profile",
+      "reason": "Management Consulted page exists but redirects to other firms—likely paywall or access issue. Set to null."
+    }
+  ],
+  "notes": "The Brattle Group is an economic consulting boutique founded in 1990, specializing in litigation support and regulatory economics. Pre-populated CSV data covered all LinkedIn and BYU fields. Firm website and careers page provided company information. Compensation data from Glassdoor and Levels.fyi. Interview process details from multiple sources. Very limited BYU presence with only 2 current alumni and 0 Marriott alumni, suggesting students will need to hustle and network strategically."
+}

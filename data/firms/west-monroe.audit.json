@@ -1,0 +1,219 @@
+{
+  "firm_id": "west-monroe",
+  "researched_at": "2026-01-27T18:26:45Z",
+  "duration_seconds": 240,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.westmonroe.com/",
+    "https://www.westmonroe.com/careers",
+    "https://www.levels.fyi/companies/west-monroe/salaries/management-consultant",
+    "https://www.glassdoor.com/Salary/West-Monroe-Salaries-E118343.htm",
+    "https://www.glassdoor.com/Interview/West-Monroe-Interview-Questions-E118343.htm",
+    "https://builtin.com/company/west-monroe/offices",
+    "https://en.wikipedia.org/wiki/West_Monroe_Partners",
+    "https://www.signalhire.com/companies/west-monroe-partners/email-format",
+    "https://www.consulting.us/news/6709/msd-partners-buys-50-of-west-monroe"
+  ],
+  "field_sources": {
+    "id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "name": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "type": {
+      "source": "judgment based on firm size and market position",
+      "confidence": "high"
+    },
+    "tagline": {
+      "source": "synthesized from westmonroe.com and ownership structure",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv (LinkedIn overview)",
+      "confidence": "high"
+    },
+    "headquarters": {
+      "source": "westmonroe.com",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "westmonroe.com and Wikipedia",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "parent_company": {
+      "source": "consulting.us (50/50 MSD Partners ownership but not traditional parent)",
+      "confidence": "high",
+      "note": "50% owned by MSD Partners, 50% employee-owned, no traditional parent company"
+    },
+    "offices": {
+      "source": "builtin.com and westmonroe.com press releases",
+      "confidence": "high"
+    },
+    "regions": {
+      "source": "westmonroe.com (London office mentioned)",
+      "confidence": "high"
+    },
+    "specialties": {
+      "source": "westmonroe.com",
+      "confidence": "high"
+    },
+    "industries": {
+      "source": "westmonroe.com",
+      "confidence": "high"
+    },
+    "known_for": {
+      "source": "westmonroe.com and consulting.us",
+      "confidence": "high"
+    },
+    "hires_ug": {
+      "source": "westmonroe.com/careers (Sophomore Series program)",
+      "confidence": "high"
+    },
+    "hires_mba": {
+      "source": "westmonroe.com/careers",
+      "confidence": "medium",
+      "note": "Not explicitly stated but implied by consulting firm structure"
+    },
+    "career_path": {
+      "source": "glassdoor.com and levels.fyi role listings",
+      "confidence": "medium"
+    },
+    "travel": {
+      "source": "glassdoor.com and fishbowl reviews",
+      "confidence": "medium",
+      "note": "Less travel than typical MBB but still project-based"
+    },
+    "work_hours": {
+      "source": "glassdoor.com and fishbowl reviews",
+      "confidence": "medium",
+      "note": "~50 hours/week average with surge weeks of 60-80"
+    },
+    "compensation.ug.base": {
+      "source": "levels.fyi and glassdoor.com",
+      "confidence": "medium",
+      "note": "Entry-level compensation lower than Big 4/MBB"
+    },
+    "compensation.ug.bonus": {
+      "source": "glassdoor.com",
+      "confidence": "low",
+      "note": "Estimated based on typical consulting bonus structure"
+    },
+    "compensation.ug.signing": {
+      "source": "glassdoor.com",
+      "confidence": "low",
+      "note": "Estimated based on typical consulting signing bonus"
+    },
+    "compensation.mba": {
+      "source": "not found",
+      "confidence": "low",
+      "note": "MBA compensation data not available"
+    },
+    "recruiting.process": {
+      "source": "glassdoor.com interviews",
+      "confidence": "high"
+    },
+    "recruiting.unique": {
+      "source": "glassdoor.com and westmonroe.com career resources",
+      "confidence": "high"
+    },
+    "recruiting.timeline": {
+      "source": "westmonroe.com/careers",
+      "confidence": "medium"
+    },
+    "email_format": {
+      "source": "signalhire.com",
+      "confidence": "medium",
+      "note": "Multiple formats observed, most common is first_initial.lastname"
+    },
+    "links.website": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "links.linkedin": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "links.careers": {
+      "source": "westmonroe.com",
+      "confidence": "high"
+    },
+    "links.mc_profile": {
+      "source": "managementconsulted.com search results",
+      "confidence": "high"
+    },
+    "links.byu_keyword": {
+      "source": "constructed from firm name",
+      "confidence": "high"
+    },
+    "links.byu_current": {
+      "source": "constructed from linkedin_id and BYU school ID",
+      "confidence": "high"
+    },
+    "links.byu_past": {
+      "source": "constructed from linkedin_id and BYU school ID",
+      "confidence": "high"
+    },
+    "links.marriott_keyword": {
+      "source": "constructed from firm name",
+      "confidence": "high"
+    },
+    "links.marriott_current": {
+      "source": "constructed from linkedin_id and Marriott school ID",
+      "confidence": "high"
+    },
+    "links.marriott_past": {
+      "source": "constructed from linkedin_id and Marriott school ID",
+      "confidence": "high"
+    },
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.pipeline": {
+      "source": "judgment based on zero alumni count",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.tip": {
+      "source": "synthesized from zero alumni count and firm focus",
+      "confidence": "medium"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.mba.base",
+      "reason": "No MBA-specific compensation data found in public sources"
+    },
+    {
+      "field": "compensation.mba.bonus",
+      "reason": "No MBA-specific compensation data found in public sources"
+    },
+    {
+      "field": "compensation.mba.signing",
+      "reason": "No MBA-specific compensation data found in public sources"
+    }
+  ],
+  "notes": "Pre-populated data from CSV covered LinkedIn ID and BYU alumni counts (all zero). West Monroe has zero BYU alumni presence according to LinkedIn data, making it a 'hustle' firm for BYU students. The firm has a unique 50/50 ownership structure between MSD Partners and employees. Compensation data for undergraduate entry-level is below typical Big 4/MBB ranges. Management Consulted profile exists but has bot protection (403 error). Email format has multiple variations but most common appears to be first_initial.lastname@westmonroe.com."
+}

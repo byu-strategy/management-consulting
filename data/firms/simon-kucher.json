@@ -1,0 +1,85 @@
+{
+  "id": "simon-kucher",
+  "name": "Simon-Kucher & Partners",
+  "type": "Boutique",
+  "tagline": "World's leading pricing and commercial growth specialist",
+  "description": "Simon-Kucher is a global consultancy with more than 2,000 employees in 30+ countries. Our sole focus is on unlocking better growth that drives measurable revenue and profit for our clients. We achieve this by optimizing every lever of their commercial strategy – product, price, innovation, marketing, and sales – based on deep insights into what customers want and value. With nearly 40 years of experience in monetization topics of all kinds, we are regarded as the world's leading pricing and growth specialist. (Legal notice: https://www.simon-kucher.com/en/legal-notice) -- Terms of use: Simon-Kucher's official LinkedIn page is run by Simon-Kucher & Partners Strategy & Marketing Consultants (SK). This is a public forum and we welcome your comments, thoughts and insights. However, all posts are regularly monitored and SK will remove, hide and/or delete any that are found to be abusive or deemed inappropriate for this page for whatever reason, including content that is deemed none compliant with LinkedIn's User Agreement (https://www.linkedin.com/legal/user-agreement). This includes the banning and reporting of users who are deemed to be non compliant with the above expectations of Simon-Kucher. All comments, visuals, links to other digital pages and other type of material posted by followers on this site (\"User Content\") do not necessarily reflect the opinions or values of SK, its employees, partners or affiliates. SK does not represent or warrant the accuracy of any statement or product claims made here, is not responsible for any User Content on this site and does not endorse any opinions expressed on this page.",
+  "headquarters": "Bonn, Germany",
+  "founded": 1985,
+  "employees": 2873,
+  "parent_company": null,
+  "offices": [
+    "Boston",
+    "New York",
+    "Chicago",
+    "San Francisco",
+    "Atlanta",
+    "Houston"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East"
+  ],
+  "specialties": [
+    "Pricing",
+    "Strategy",
+    "Digital",
+    "Marketing",
+    "Sales"
+  ],
+  "industries": [
+    "Consumer",
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Industrial"
+  ],
+  "known_for": "Founded in 1985 as a university spinoff, Simon-Kucher pioneered the field of pricing strategy and has become the world's leading pricing and growth specialist. The firm claims projects increase client profitability by 100-500 basis points on average. Unlike generalist consultancies, Simon-Kucher focuses exclusively on commercial growth—optimizing product, price, innovation, marketing, and sales with scientific rigor.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Consultant (1.5-2 yrs) → Senior Consultant (1.5-2 yrs) → Manager (2 yrs) → Director (2-3 yrs) → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 92000,
+      "bonus": 10000,
+      "signing": null
+    },
+    "mba": {
+      "base": 170000,
+      "bonus": 40000,
+      "signing": 25000
+    }
+  },
+  "recruiting": {
+    "process": "Application → First Round (2 interviews: case + fit) → Final Round (3 interviews: case + fit)",
+    "unique": "Strong emphasis on pricing cases reflecting firm's specialization; candidate-led format; cases focus on monetization, revenue growth, and sales excellence rather than pure strategy",
+    "timeline": "Approximately 26 days from application to offer; 3-4 rounds total combining behavioral, quantitative, and case interviews"
+  },
+  "email_format": "firstname.lastname@simon-kucher.com",
+  "links": {
+    "website": "https://www.simon-kucher.com/en",
+    "linkedin": "https://www.linkedin.com/company/simon-kucher/",
+    "careers": "https://www.simon-kucher.com/en/careers",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/simon-kucher-partners/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Simon-Kucher%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%229546%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%229546%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Simon-Kucher%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%229546%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%229546%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 9546,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 4,
+    "alumni_current": 1,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Very limited BYU presence (only 1 current alum). Focus on cold networking through LinkedIn and target partners/managers in Boston, New York, or San Francisco offices. Emphasize quantitative skills and pricing/revenue optimization interests."
+  }
+}

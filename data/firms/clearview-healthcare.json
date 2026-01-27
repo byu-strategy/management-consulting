@@ -1,0 +1,80 @@
+{
+  "id": "clearview-healthcare",
+  "name": "ClearView Healthcare Partners",
+  "type": "Boutique",
+  "tagline": "Leading life sciences boutique—over half of consultants hold PhDs",
+  "description": "Founded in Boston in 2007, ClearView Healthcare Partners is a diverse, inclusive, and innovative global strategy consulting firm serving the life science sector. The firm combines international industry knowledge and deep scientific expertise across a range of therapeutic areas with an extensive network of external stakeholders to deliver practical and actionable recommendations to our clients' most complex challenges. The firm's projects include cross-functional support at the corporate, franchise, and product levels for pharmaceutical, biotech, medical device, and diagnostics companies worldwide. We take pride in deploying high caliber consulting teams from our Boston, New York, San Francisco, London, Zurich, and Gurgaon offices that can provide the best support available on issues that require strategic capabilities and deep content expertise within life sciences. ClearView was ranked #13 overall and #1 boutique in the 2020 Vault Consulting 50. Specific rankings include Top 5 for Innovation, Formal and Informal Training, and Internal Mobility and Promotion Policies. ClearView was also ranked Top 10 for Firm Leadership, Compensation, and Firm Culture.",
+  "headquarters": "Newton, USA",
+  "founded": 2007,
+  "employees": 696,
+  "parent_company": null,
+  "offices": [
+    "Boston",
+    "New York",
+    "San Francisco"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Strategy",
+    "Pricing",
+    "M&A",
+    "Analytics",
+    "Due Diligence"
+  ],
+  "industries": [
+    "Life Sciences",
+    "Healthcare",
+    "Pharma & Biotech",
+    "Medtech",
+    "Diagnostics"
+  ],
+  "known_for": "The largest independent life sciences-focused strategy consultancy with a uniquely scientific approach—over 50% of consultants hold PhDs. Known for dedicating 100% of team resources to individual projects rather than splitting consultants across multiple engagements, enabling deep expertise and scientific rigor on complex pharma and biotech challenges.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Senior Analyst (2-3 yrs) → Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Engagement Manager (3-4 yrs) → Associate Principal (3-4 yrs) → Principal/Managing Director → Partner",
+  "travel": "low",
+  "work_hours": "intense",
+  "compensation": {
+    "ug": {
+      "base": 95000,
+      "bonus": 12000,
+      "signing": null
+    },
+    "mba": {
+      "base": 125000,
+      "bonus": 18000,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Resume Review → First Round (behavioral + life sciences case) → Final Round (market sizing case + market entry case + science discussion)",
+    "unique": "Connect to ClearView program for PhD/MD/Post-docs; heavy emphasis on scientific knowledge alongside business cases; very challenging quantitative questions with multiple follow-ups",
+    "timeline": "Connect to ClearView applications due February/March for April-May in-person sessions; offers for following year's summer start. General recruiting September-October for other needs."
+  },
+  "email_format": "firstname.lastname@clearviewhcp.com",
+  "links": {
+    "website": "https://clearviewhcp.com/",
+    "linkedin": "https://www.linkedin.com/company/clearview-healthcare-partners/",
+    "careers": "https://clearviewhcp.com/careers/",
+    "mc_profile": "https://managementconsulted.com/clearview-healthcare-partners/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22ClearView%20Healthcare%20Partners%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22434006%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22434006%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22ClearView%20Healthcare%20Partners%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22434006%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22434006%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 434006,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 1,
+    "alumni_current": 4,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Very limited BYU presence—you'll need to network aggressively to break in. Consider leveraging life sciences background if you have one, as firm strongly prefers candidates with scientific credentials (50%+ have PhDs)."
+  }
+}

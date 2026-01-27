@@ -1,0 +1,85 @@
+{
+  "id": "cornerstone-research",
+  "name": "Cornerstone Research",
+  "type": "Boutique",
+  "tagline": "Elite litigation economics—expert testimony and financial analysis for complex lawsuits",
+  "description": "At Cornerstone Research, we attribute our success to a unique combination of resources: a creative and energetic staff, cutting-edge technology and research, and our work with academic and industry experts. Our consultants use innovative problem-solving approaches and achieve unparalleled analytic depth. Working with faculty experts from leading business schools, economics departments, and law schools keeps us at the forefront of academic research, while industry experts share their practical experience and business acumen. Our culture of growth and collegiality provides a dynamic work environment. Our team-based approach to casework emphasizes a combination of collaboration and individual initiative. This approach offers our employees the opportunity to work with and learn from professionals at all levels of the firm as well as from a network of leading academic and industry experts.",
+  "headquarters": "San Francisco, USA",
+  "founded": 1989,
+  "employees": 1329,
+  "parent_company": null,
+  "offices": [
+    "San Francisco",
+    "Boston",
+    "Chicago",
+    "Los Angeles",
+    "New York",
+    "Menlo Park",
+    "Washington DC"
+  ],
+  "regions": [
+    "North America",
+    "Europe"
+  ],
+  "specialties": [
+    "Litigation Support",
+    "Economic Analysis",
+    "Expert Testimony",
+    "Financial Analysis",
+    "Antitrust",
+    "Securities Litigation"
+  ],
+  "industries": [
+    "Financial Services",
+    "Technology",
+    "Healthcare",
+    "Life Sciences",
+    "Energy",
+    "Telecommunications"
+  ],
+  "known_for": "Premier litigation economics firm providing expert testimony and economic analysis in high-stakes commercial litigation and regulatory proceedings. Known for partnering with leading academic economists from top universities to deliver rigorous, data-driven analysis for complex legal cases across antitrust, securities, intellectual property, and financial disputes.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Senior Analyst (2-3 yrs) → Associate (2-4 yrs) → Senior Associate → Principal → Vice President",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 97000,
+      "bonus": 10000,
+      "signing": 15000
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → First Round (2 virtual interviews: behavioral + case) → Final Round (4 interviews + lunch with analysts)",
+    "unique": "Cases based on actual firm projects condensed to 30-45 minutes. Interviewer-led cases focused on economic and financial analysis. Expect questions on economics concepts and quantitative reasoning.",
+    "timeline": "Applications open September for full-time analysts and summer analysts. Process averages 2-3 weeks from application to offer."
+  },
+  "email_format": "first_initiallast@cornerstone.com",
+  "links": {
+    "website": "http://www.cornerstone.com",
+    "linkedin": "https://www.linkedin.com/company/cornerstone-research/",
+    "careers": "https://www.cornerstone.com/careers/",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/cornerstone-research/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Cornerstone%20Research%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225345%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225345%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Cornerstone%20Research%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225345%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225345%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 5345,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 92,
+    "alumni_current": 17,
+    "marriott_alumni_all_time": 3,
+    "marriott_alumni_current": 1,
+    "tip": "Strong economics or quantitative background is essential. Network with BYU alumni in Boston or San Francisco offices where most BYU connections are located."
+  }
+}

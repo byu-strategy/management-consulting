@@ -98,6 +98,494 @@
 }
 ,
 {
+  "id": "advancy",
+  "name": "Advancy",
+  "type": "Boutique",
+  "tagline": "Pure-play strategy boutique focused on chemicals, life sciences, and consumer sectors",
+  "description": "Established in 1999, Advancy is a leading international management consultancy firm with offices in Boston, Frankfurt, London, New-York, Paris, São Paulo, Shanghai, Singapore and Sydney, and an additional network of 20 partners around the world. Through our experience on >1,500 projects and dealings with 150 clients we have acquired a wealth of knowledge across a variety of functions and industry sectors, most importantly learning that each business is DIFFERENT. Therefore we work closely with our clients and always provide a tailored approach which has a measurable impact on the bottom line. Our commitment to implementation, senior involvement and challenging the given has provided our clients with exceptional results and is reflected in their continuous loyalty to Advancy. To find out more about us and our experience in your industry please visit: www.advancy.com and see the \"Expertise\" section.",
+  "headquarters": "Paris, France",
+  "founded": 1999,
+  "employees": 283,
+  "parent_company": null,
+  "offices": ["Boston", "New York"],
+  "regions": ["North America", "Europe", "Asia Pacific", "Latin America"],
+  "specialties": ["Strategy", "M&A", "Turnaround", "Performance Improvement", "Operations", "Commercial Efficiency"],
+  "industries": ["Chemicals", "Life Sciences", "Healthcare", "Industrials", "Consumer Goods", "Retail", "Luxury"],
+  "known_for": "Result-driven approach based on quantitative fact-based analyses delivering simple recommendations with impactful action plans. Small, nimble consulting teams with deep sector focus in just three core industries, creating exceptional depth of expertise and strong client relationships.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Junior Consultant (2 yrs) → Consultant (2 yrs) → Senior Consultant (2-3 yrs) → Manager (3-4 yrs) → Principal (3-4 yrs) → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 95000,
+      "bonus": 15000,
+      "signing": 10000
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Resume → Online Assessment (numerical + logical reasoning) → First Round (15min behavioral screening) → Final Round (2-hour in-person with CEO: 1 interviewer-led case + 1 candidate-led case + behavioral)",
+    "unique": "Online assessment with 18 numerical reasoning questions (25 min) and 24 logical reasoning questions (25 min). Final round is a 2-hour session with the CEO. First case is interviewer-led while second case is candidate-led.",
+    "timeline": "Year-round rolling applications. 7 days to complete online assessment after receiving link. Only ~5% of interviewed candidates receive offers."
+  },
+  "email_format": null,
+  "links": {
+    "website": "https://www.advancy.com/",
+    "linkedin": "https://www.linkedin.com/company/advancy/",
+    "careers": "https://advancy.recruitee.com/careers",
+    "mc_profile": "https://managementconsulted.com/advancy/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Advancy%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2239974%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2239974%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Advancy%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2239974%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2239974%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 39974,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 1,
+    "alumni_current": 1,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Advancy does not recruit at BYU. With only 1 current BYU alum and no Marriott alumni, you'll need to cold-network aggressively. Target top-tier schools where they do recruit (Harvard, MIT, Stanford, etc.) or leverage industry connections in their core sectors: chemicals, life sciences, or consumer goods."
+  }
+}
+,
+{
+  "id": "alixpartners",
+  "name": "AlixPartners",
+  "type": "Boutique",
+  "tagline": "Crisis management and restructuring experts—when it really matters",
+  "description": "For more than forty years, AlixPartners has helped businesses around the world respond quickly and decisively to their most critical challenges – circumstances as diverse as urgent performance improvement, accelerated transformation, complex restructuring and risk mitigation. These are the moments when everything is on the line – a sudden shift in the market, an unexpected performance decline, a time-sensitive deal, a fork-in-the-road decision. But it's not what we do that makes a difference, it's how we do it. Tackling situations when time is of the essence is part of our DNA – so we adopt an action-oriented approach at all times. We work in small, highly qualified teams with specific industry and functional expertise, and we operate at pace, moving quickly from analysis to implementation. We stand shoulder to shoulder with our clients until the job is done, and only measure our success in terms of the results we deliver. Our approach enables us to help our clients confront and overcome truly future-defining challenges. We partner with you to make the right decisions and take the right actions. And we are right by your side. When it really matters.",
+  "headquarters": "New York, USA",
+  "founded": 1981,
+  "employees": 3845,
+  "parent_company": null,
+  "offices": [
+    "New York",
+    "Chicago",
+    "Boston",
+    "Dallas",
+    "Houston",
+    "Los Angeles",
+    "San Francisco",
+    "Washington DC",
+    "Southfield",
+    "Wilmington"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Restructuring",
+    "Turnaround",
+    "Performance Improvement",
+    "M&A",
+    "Operations",
+    "Strategy"
+  ],
+  "industries": [
+    "Retail",
+    "Financial Services",
+    "Healthcare",
+    "Automotive",
+    "Manufacturing",
+    "Energy"
+  ],
+  "known_for": "AlixPartners is the leading global firm for crisis management, corporate turnarounds, and restructuring, advising on major Chapter 11 reorganizations including General Motors, Kmart, and Enron. Known for their action-oriented approach and ability to deliver results in high-stakes, time-sensitive situations where everything is on the line.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Vice President (2-3 yrs) → Senior Vice President (2-3 yrs) → Director (3-4 yrs) → Managing Director",
+  "travel": "high",
+  "work_hours": "intense",
+  "compensation": {
+    "ug": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    },
+    "mba": {
+      "base": 180000,
+      "bonus": 60000,
+      "signing": 35000
+    }
+  },
+  "recruiting": {
+    "process": "Resume → Recruiter Interview (30 min fit) → First Round (1-2 interviews, 45 min case + fit) → Final Round (2-3 case interviews with senior directors, 45 min each) → Psychological Assessment",
+    "unique": "Includes psychometric testing conducted by a psychologist as part of final evaluation. Focus on restructuring and turnaround cases rather than traditional strategy. Does minimal university campus recruiting, primarily uses recruitment firms.",
+    "timeline": "Process typically takes 4 weeks from application to offer. Limited campus presence except at top-tier MBA programs."
+  },
+  "email_format": "first_initial.lastname@alixpartners.com",
+  "links": {
+    "website": "https://www.alixpartners.com",
+    "linkedin": "https://www.linkedin.com/company/alixpartners/",
+    "careers": "https://www.alixpartners.com/careers/",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/alixpartners/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22AlixPartners%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%227787%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%227787%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22AlixPartners%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%227787%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%227787%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 7787,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 20,
+    "alumni_current": 13,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "AlixPartners does minimal campus recruiting. Focus on networking with BYU alumni currently at the firm (13 total). The firm primarily uses recruitment firms rather than campus channels."
+  }
+}
+,
+{
+  "id": "altman-solon",
+  "name": "Altman Solon",
+  "type": "Boutique",
+  "tagline": "World's largest TMT-exclusive strategy firm—telecom, media, and tech specialists",
+  "description": "In 2020, Altman Vilandrie & Company and Solon Management Consulting have cemented a decades-long partnership across the Atlantic to form Altman Solon, the world's largest global strategy consulting firm with an exclusive focus on the TMT sector. Our consultants are united by our passion and intellectual curiosity for the Telecommunications, Media, and Technology (TMT) sectors. These sectors, representing a $5+ trillion global market, are defined by remarkable technological innovations, business model disruptions, rapidly shifting consumer demands, shrinking barriers to entry, and confusing regulatory changes – challenges that Altman Solon is prepared for and eager to address on behalf of our clients. As trusted advisors to major industry players and leading investors, we have helped to identify, develop, and implement many of the era-defining strategies that have shaped the TMT sector over the last twenty years. Altman Solon has an extensive international reach with offices in Amsterdam, Boston, London, Los Angeles, Mexico City, Milan, Munich, New York, Paris, Riyadh, San Francisco, Singapore, Stockholm, Sydney, Warsaw, and Zurich, with successful projects completed across the globe in more than 100 countries.",
+  "headquarters": "Boston, USA",
+  "founded": 2020,
+  "employees": 660,
+  "parent_company": null,
+  "offices": ["Boston", "New York", "Los Angeles", "San Francisco"],
+  "regions": ["North America", "Europe", "Asia Pacific", "Latin America", "Middle East"],
+  "specialties": ["Strategy", "M&A", "Operations", "Go-to-Market", "Due Diligence"],
+  "industries": ["Telecommunications", "Media & Entertainment", "Technology"],
+  "known_for": "The world's largest strategy consulting firm focused exclusively on TMT sectors. Formed in 2020 from the merger of Altman Vilandrie & Company (founded 2002) and Solon Management Consulting (founded 1996). Known for deep TMT expertise, working with top global telecom, technology, and media companies. Recently named #1 TMT Strategy Consultancy in CAPITAL's 2026/27 ranking.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Manager (3-4 yrs) → Principal (3-4 yrs) → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 95000,
+      "bonus": 15000,
+      "signing": 10000
+    },
+    "mba": {
+      "base": 172000,
+      "bonus": 40000,
+      "signing": 27000
+    }
+  },
+  "recruiting": {
+    "process": "Resume → HR Interview (30 min) → First Round (3 interviews: 15 min fit + 40 min case + 5 min Q&A each) → Final Round (2 interviews: same structure)",
+    "unique": "TMT-focused cases—expect telecom, media, or technology industry scenarios. Mix of interviewer-led and candidate-led cases. Average process takes 35 days.",
+    "timeline": "MBA applications due January 1st with interviews throughout January. Undergrad roles hire year-round for Graduate Analyst positions. Process typically takes 4-6 weeks from application to offer."
+  },
+  "email_format": "firstname.lastname@altmansolon.com",
+  "links": {
+    "website": "https://www.altmansolon.com",
+    "linkedin": "https://www.linkedin.com/company/altman-solon/",
+    "careers": "https://www.altmansolon.com/careers",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Altman%20Solon%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2265683578%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2265683578%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Altman%20Solon%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2265683578%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2265683578%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 65683578,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No BYU alumni at the firm currently—you'll need to network cold to break in. Focus on demonstrating genuine passion for TMT sectors and stay current on industry trends. Consider targeting their Boston, New York, or San Francisco offices."
+  }
+}
+,
+{
+  "id": "alvarez-marsal-crg",
+  "name": "Alvarez & Marsal Consumer and Retail Group",
+  "type": "Boutique",
+  "tagline": "Action-oriented consumer and retail transformation—over 50% of leaders are former industry executives",
+  "description": "Formed in 2019, the Consumer and Retail Group at Alvarez & Marsal is dedicated to delivering transformation to our clients. A&M CRG combines the best of our broader firm's bias toward action and practicality with deep consumer and retail industry experience. The result? An unquestionably different approach and measurable impact for our clients. Our team has led and implemented major transformations in both industry and consulting roles. We know what it is like to face the challenges you are up against. When A&M CRG starts working with your team, we get to know the nuances of your business and deploy our creativity and rigor to your unique situation. We implement proven results that meet your needs and goals. Every time.",
+  "headquarters": "New York, USA",
+  "founded": 2019,
+  "employees": 146,
+  "parent_company": "Alvarez & Marsal",
+  "offices": ["New York", "Chicago"],
+  "regions": ["North America"],
+  "specialties": ["Strategy", "Operations", "Transformation", "Restructuring", "Implementation"],
+  "industries": ["Consumer", "Retail"],
+  "known_for": "Founded in 2019 as A&M's first industry-focused consulting vertical, A&M CRG distinguishes itself through an operator mindset—over 50% of senior leaders held executive roles in industry. They reject traditional consulting approaches in favor of hands-on implementation and measurable business transformation, leveraging Alvarez & Marsal's turnaround and restructuring heritage.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate (2-3 yrs) → Manager (2-3 yrs) → Managing Director → Partner",
+  "travel": "high",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 107500,
+      "bonus": 15000,
+      "signing": 10000
+    },
+    "mba": {
+      "base": 190000,
+      "bonus": 70000,
+      "signing": 27500
+    }
+  },
+  "recruiting": {
+    "process": "Resume → First Round (1 behavioral + 1 case) → Final Round (2 case + 1 behavioral)",
+    "unique": "Cases are described as difficult with emphasis on consulting math; lean team structure means new hires get meaningful client exposure quickly",
+    "timeline": "Applications open in Fall, interviews throughout Fall by video/phone/in-person, offers by late Fall"
+  },
+  "email_format": "firstinitiallastname@alvarezandmarsal.com",
+  "links": {
+    "website": "https://alvarezandmarsal-crg.com/",
+    "linkedin": "https://www.linkedin.com/company/alvarezandmarsal-crg/",
+    "careers": "https://alvarezandmarsal-crg.com/campus-recruiting/",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Alvarez%20%26%20Marsal%20Consumer%20and%20Retail%20Group%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280198080%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2280198080%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Alvarez%20%26%20Marsal%20Consumer%20and%20Retail%20Group%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280198080%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2280198080%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 80198080,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No current BYU alumni—requires aggressive cold outreach and networking through parent firm Alvarez & Marsal connections to break in"
+  }
+}
+,
+{
+  "id": "alvarez-marsal",
+  "name": "Alvarez & Marsal",
+  "type": "Boutique",
+  "tagline": "Turnaround and restructuring powerhouse—hands-on operational expertise",
+  "description": "Alvarez & Marsal is a leading global professional services firm dedicated to helping organizations tackle their most complex business issues, maximize stakeholder value, and deliver sustainable change. Privately held since its founding in 1983, clients select us for our deep expertise and proven ability to create and deliver practical solutions to their unique problems. Leveraging A&M's restructuring heritage, our fact-driven, action-oriented approach empowers organizations to drive transformation and unlock value at every stage of growth. Our worldwide network extends across six continents, with over 10,000 people comprised of experienced operators, world-class consultants, former regulators and industry authorities. We foster a uniquely collaborative environment that embraces our peoples' diverse perspectives and A&M's entrepreneurial spirit to deliver end-to-end capabilities that span advisory, business performance improvement, and turnaround management.",
+  "headquarters": "New York, USA",
+  "founded": 1983,
+  "employees": 13191,
+  "parent_company": null,
+  "offices": [
+    "New York",
+    "Chicago",
+    "Dallas",
+    "Houston",
+    "Miami",
+    "San Francisco",
+    "San Jose",
+    "Seattle",
+    "Atlanta",
+    "Los Angeles"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East"
+  ],
+  "specialties": [
+    "Restructuring",
+    "Turnaround",
+    "Performance Improvement",
+    "M&A",
+    "Due Diligence",
+    "Transaction Advisory"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Energy",
+    "Consumer",
+    "Retail",
+    "Technology",
+    "Private Equity"
+  ],
+  "known_for": "The go-to firm for turnaround and restructuring with hands-on operational expertise. Known for high-profile work on Lehman Brothers, HealthSouth, and Tribune Company. Distinguished by hiring experienced operators with C-suite backgrounds who roll up their sleeves rather than just advising from the sidelines.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Associate (2-3 yrs) → Senior Associate (2-3 yrs) → Manager (2-3 yrs) → Director (3-4 yrs) → Senior Director (3-4 yrs) → Managing Director",
+  "travel": "high",
+  "work_hours": "intense",
+  "compensation": {
+    "ug": {
+      "base": 112000,
+      "bonus": 51000,
+      "signing": 10000
+    },
+    "mba": {
+      "base": 175000,
+      "bonus": 87000,
+      "signing": 25000
+    }
+  },
+  "recruiting": {
+    "process": "Resume → Phone Screen (30 min) → First Round (2-3 interviews with case + behavioral) → Final Round (2-3 interviews with case + behavioral)",
+    "unique": "Requires 60-90 minute financial modeling test for Restructuring and Transaction Advisory roles. Focus on 13-week cash flow models. Cases emphasize restructuring, cost optimization, and operational turnaround scenarios.",
+    "timeline": "Applications reviewed fall of junior/senior year. Average process takes 1 month from application to offer, though can be as short as 2-3 weeks. Interviews held throughout fall by video, phone, or in person."
+  },
+  "email_format": "first_initiallast@alvarezandmarsal.com",
+  "links": {
+    "website": "http://www.alvarezandmarsal.com",
+    "linkedin": "https://www.linkedin.com/company/alvarez-&-marsal/",
+    "careers": "https://careers.alvarezandmarsal.com/",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/alvarez-marsal/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Alvarez%20%26%20Marsal%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22162399%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22162399%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Alvarez%20%26%20Marsal%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22162399%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22162399%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 162399,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 65,
+    "alumni_current": 24,
+    "marriott_alumni_all_time": 8,
+    "marriott_alumni_current": 4,
+    "tip": "Focus on restructuring or transaction advisory if you have strong accounting/finance background. A&M values operational experience and hands-on problem-solving over pure strategy consulting."
+  }
+}
+,
+{
+  "id": "analysis-group",
+  "name": "Analysis Group",
+  "type": "Boutique",
+  "tagline": "Leading economics consulting firm for litigation and regulatory matters",
+  "description": "Analysis Group is one of the largest international economics consulting firms, with more than 1,500 professionals across 15 offices in North America, Europe, and Asia. Since 1981, we have provided expertise in economics, finance, health care analytics, and strategy to top law firms, Fortune Global 500 companies, and government agencies worldwide. Our internal experts, together with our network of affiliated experts from academia, industry, and government, offer our clients exceptional breadth and depth of expertise.",
+  "headquarters": "Boston, USA",
+  "founded": 1981,
+  "employees": 1815,
+  "parent_company": null,
+  "offices": ["Boston", "New York", "Washington DC", "Chicago", "Dallas", "Denver", "Los Angeles", "San Francisco", "Menlo Park"],
+  "regions": ["North America", "Europe", "Asia Pacific"],
+  "specialties": ["Economics", "Antitrust & Competition", "Intellectual Property", "Securities & Financial Products", "Health Care Analytics", "Data Science & Statistical Modeling"],
+  "industries": ["Financial Services", "Healthcare", "Technology", "Telecommunications", "Energy", "Life Sciences", "Insurance"],
+  "known_for": "Leading economics consulting firm specializing in complex litigation and regulatory matters, particularly antitrust cases and damages calculations. Known for bridging business and academia with deep economic and statistical expertise. Recognized in the GCR 100 for outstanding economics work.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Senior Analyst (2-3 yrs) → Associate (2-3 yrs) → Senior Associate → Principal → Managing Principal",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 96200,
+      "bonus": 24050,
+      "signing": 12500
+    },
+    "mba": {
+      "base": 190000,
+      "bonus": 47500,
+      "signing": 45000
+    }
+  },
+  "recruiting": {
+    "process": "Application → First Round (1-2 behavioral interviews, 30 min virtual) → Final Round (4 back-to-back behavioral interviews in-person)",
+    "unique": "No case interviews—one of the only top consulting firms without formal case interviews. Focus on behavioral questions and deep dive into analytical projects on resume. Must demonstrate understanding of economic consulting.",
+    "timeline": "Rolling applications year-round, average 25 days from application to offer"
+  },
+  "email_format": "firstname.lastname@analysisgroup.com",
+  "links": {
+    "website": "http://www.analysisgroup.com/",
+    "linkedin": "https://www.linkedin.com/company/analysis-group/",
+    "careers": "https://www.analysisgroup.com/careers/",
+    "mc_profile": "https://managementconsulted.com/analysis-group/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Analysis%20Group%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%229091%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%229091%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Analysis%20Group%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%229091%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%229091%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 9091,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 155,
+    "alumni_current": 7,
+    "marriott_alumni_all_time": 13,
+    "marriott_alumni_current": 0,
+    "tip": "Strong BYU alumni network (155 all-time) but no active campus recruiting. Focus on networking with current alumni, especially in Boston, New York, or SF offices. Emphasize analytical coursework and economic research experience."
+  }
+}
+,
+{
+  "id": "arthur-d-little",
+  "name": "Arthur D. Little",
+  "type": "Boutique",
+  "tagline": "World's first consulting firm—strategy with deep tech and innovation DNA",
+  "description": "As people, organizations and societies embrace change at pace, its leaders must anticipate, innovate and transform ever faster. We help our clients overcome today's most pressing challenges and seize tomorrow's most promising opportunities. With a powerful blend of creative thinking and scientific rigor we link people, technology and strategy to find original and pragmatic ways to accelerate performance, innovate through convergence and digital, and make a positive impact on the world.",
+  "headquarters": "Brussels, Belgium",
+  "founded": 1886,
+  "employees": 2418,
+  "parent_company": null,
+  "offices": ["Boston", "New York", "Houston", "San Francisco"],
+  "regions": ["North America", "Europe", "Asia Pacific", "Middle East"],
+  "specialties": ["Strategy", "Innovation", "Digital Transformation", "Operations", "Sustainability", "Corporate Finance"],
+  "industries": ["Automotive", "Energy", "Financial Services", "Healthcare", "Telecommunications", "Consumer", "Aerospace", "Chemicals"],
+  "known_for": "Founded in 1886, Arthur D. Little is the world's first management consulting firm and maintains a distinctive heritage linking strategy, technology, and innovation. Known for rigorous scientific thinking combined with creative problem-solving, particularly strong in automotive, energy, and telecommunications sectors.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Business Analyst (2-3 yrs) → Consultant (2-3 yrs) → Manager (2-3 yrs) → Principal (3-4 yrs) → Partner",
+  "travel": "high",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 90000,
+      "bonus": 15000,
+      "signing": 10000
+    },
+    "mba": {
+      "base": 150000,
+      "bonus": 30000,
+      "signing": 25000
+    }
+  },
+  "recruiting": {
+    "process": "Application → Phone Screen (behavioral + market sizing) → First Round (2 case + behavioral) → Final Round (2 case + behavioral with senior interviewers)",
+    "unique": "Mix of traditional one-on-one cases and written case presentations. Phone screen includes a full market sizing case that develops from initial questions. Interviewers collaborative and willing to help rather than letting candidates get stuck.",
+    "timeline": "Rolling applications year-round. Average hiring process takes ~26 days from application to offer. Target schools include Brown, Dartmouth, Stanford, and UC Berkeley for U.S. undergrads."
+  },
+  "email_format": "lastname.firstname@adlittle.com",
+  "links": {
+    "website": "https://www.adlittle.com",
+    "linkedin": "https://www.linkedin.com/company/arthur-d--little/",
+    "careers": "https://www.adlittle.com/en/careers",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/arthur-d-little/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Arthur%20D.%20Little%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%223550%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%223550%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Arthur%20D.%20Little%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%223550%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%223550%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 3550,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No BYU presence—requires cold networking. Focus on Boston or San Francisco offices for tech-oriented work. Emphasize any innovation, R&D, or technical background in your outreach."
+  }
+}
+,
+{
   "id": "bain",
   "name": "Bain & Company",
   "type": "MBB",
@@ -188,6 +676,63 @@
     "marriott_alumni_all_time": 29,
     "marriott_alumni_current": 11,
     "tip": "Strong BYU presence with 54+ current alumni. Network early with Bain's MBA and undergraduate recruiting teams. Consider offices in SF, Seattle, and LA for West Coast proximity."
+  }
+}
+,
+{
+  "id": "bates-white",
+  "name": "Bates White",
+  "type": "Boutique",
+  "tagline": "PhD-heavy economic consulting for antitrust and complex litigation",
+  "description": "Bates White Economic Consulting offers services to law firms, Fortune 500 companies, and government agencies. We specialize in advanced economic, financial, and econometric analysis and excel at complex matters that require sophisticated problem solving and deep empirical analysis. Established in 1999 and privately held, we have a culture where bright minds from diverse cultures solve difficult challenges. We build strong, collaborative relationships with our clients, within our team, and in the community. Our firm is distinguished by the strength of our collective experiences—intellectual and analytical rigor, creativity, responsiveness, and practical know-how. In each matter, we take a hands-on approach to develop a deep understanding of relevant industry, factual, and legal contexts. We are consistently recognized for an ability to support our opinions with sound economic theory and rigorous empirical analyses that withstand intense scrutiny. Our experts are noted for their ability to communicate clearly, succinctly, and persuasively to litigators, judges, juries, and government enforcers. With extensive experience in the application of economics to a wide range of industries and issues, most of our professionals hold PhD or master's level degrees. We complement our in-house expertise through an extensive network of leading academics and industry experts. Many of our senior staff and academic affiliates have significant government agency experience.",
+  "headquarters": "Washington, DC",
+  "founded": 1999,
+  "employees": 439,
+  "parent_company": null,
+  "offices": ["Washington DC"],
+  "regions": ["North America"],
+  "specialties": ["Economics", "Antitrust", "Litigation Support", "Econometrics", "Expert Testimony", "Financial Analysis"],
+  "industries": ["Legal Services", "Financial Services", "Healthcare", "Energy", "Technology", "Telecommunications"],
+  "known_for": "Distinguished by deep expertise in econometric modeling and economic analysis for complex litigation and regulatory matters. Over 100 PhDs on staff bring academic rigor to antitrust cases, mass torts, and strategic advisory work. Recognized by Management Consulted as a top boutique firm for three consecutive years in the Economic and Litigation category.",
+  "hires_ug": true,
+  "hires_mba": false,
+  "career_path": "Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Manager (3-4 yrs) → Principal → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 90000,
+      "bonus": 10000,
+      "signing": null
+    },
+    "mba": null
+  },
+  "recruiting": {
+    "process": "Resume → First Round (2-on-1 case + fit/behavioral) → Final Round (3 hrs: case + behavioral + consultant chat)",
+    "unique": "Cases focus on microeconomic concepts and litigation scenarios. Candidates with quantitative backgrounds (economics, statistics, math) preferred. PhD candidates may skip case interviews.",
+    "timeline": "Summer Consultant Program for rising seniors (10-week program in DC). Campus recruiting in fall with first rounds on campus, final rounds at DC office."
+  },
+  "email_format": "firstname.lastname@bateswhite.com",
+  "links": {
+    "website": "https://www.bateswhite.com/",
+    "linkedin": "https://www.linkedin.com/company/bates-white-economic-consulting/",
+    "careers": "https://www.bateswhite.com/careers",
+    "mc_profile": "https://managementconsulted.com/bates-white/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Bates%20White%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2221830%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2221830%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Bates%20White%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2221830%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2221830%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 21830,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 29,
+    "alumni_current": 5,
+    "marriott_alumni_all_time": 2,
+    "marriott_alumni_current": 0,
+    "tip": "Emphasize quantitative coursework and economic analysis skills. The firm values PhD-level rigor, so highlight econometrics, statistics, or data science experience. DC location means limited geographic diversity—demonstrate commitment to living in the capital."
   }
 }
 ,
@@ -289,6 +834,852 @@
     "marriott_alumni_all_time": 18,
     "marriott_alumni_current": 6,
     "tip": "BCG has strong BYU representation with 49 current alumni (BYU + Marriott combined). Focus on networking with BCG alumni and emphasize analytical rigor and creative problem-solving in your applications."
+  }
+}
+,
+{
+  "id": "booz-allen",
+  "name": "Booz Allen Hamilton",
+  "type": "Boutique",
+  "tagline": "Government and defense technology powerhouse—mission-critical solutions for federal clients",
+  "description": "Whether at the border, up in space, or on the battlefield, we build the advanced technology that makes America stronger, faster, and safer. It's who we are and what we do. It's in our code.",
+  "headquarters": "McLean, USA",
+  "founded": 1914,
+  "employees": 37368,
+  "parent_company": null,
+  "offices": [
+    "McLean",
+    "Washington DC",
+    "San Diego",
+    "Atlanta",
+    "Austin",
+    "Charleston",
+    "Arlington",
+    "San Antonio",
+    "Colorado Springs",
+    "Honolulu",
+    "Huntsville",
+    "Dayton"
+  ],
+  "regions": [
+    "North America",
+    "Asia Pacific",
+    "Europe"
+  ],
+  "specialties": [
+    "Analytics",
+    "Cybersecurity",
+    "Digital",
+    "Engineering",
+    "Technology"
+  ],
+  "industries": [
+    "Public Sector",
+    "Defense",
+    "Intelligence",
+    "Healthcare",
+    "Financial Services",
+    "Energy"
+  ],
+  "known_for": "Leading government and defense consulting firm focused on advanced technology solutions for federal clients. Known for mission-critical work across intelligence, defense, and civilian agencies, with deep expertise in cybersecurity, analytics, and digital transformation.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Consultant (1-2 yrs) → Senior Consultant (2 yrs) → Associate (2 yrs) → Lead Associate (2 yrs) → Senior Associate (2-3 yrs) → Principal (3-4 yrs) → Vice President",
+  "travel": "moderate",
+  "work_hours": "balanced",
+  "compensation": {
+    "ug": {
+      "base": 75000,
+      "bonus": 10000,
+      "signing": null
+    },
+    "mba": {
+      "base": 130000,
+      "bonus": 45000,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Recruiter Screen (behavioral) → Hiring Manager Interview (situational/behavioral) → Panel Interview (2-3 people, behavioral/fit)",
+    "unique": "No case interviews—focuses exclusively on behavioral and situational questions. Requires U.S. government security clearance eligibility.",
+    "timeline": "4-6 weeks from application to offer, with decisions often made within one week after final interview. Apply through school job portal for on-campus recruiting or directly through Workday."
+  },
+  "email_format": "lastname_firstname@bah.com",
+  "links": {
+    "website": "https://www.boozallen.com",
+    "linkedin": "https://www.linkedin.com/company/booz-allen-hamilton/",
+    "careers": "https://www.boozallen.com/careers.html",
+    "mc_profile": "https://managementconsulted.com/booz-allen-hamilton/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Booz%20Allen%20Hamilton%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221403%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221403%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Booz%20Allen%20Hamilton%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221403%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221403%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 1403,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 271,
+    "alumni_current": 65,
+    "marriott_alumni_all_time": 6,
+    "marriott_alumni_current": 1,
+    "tip": "Strong BYU alumni base (65 current) concentrated in DC area offices. Security clearance required—plan ahead as this can take 6-12 months. Focus networking on defense and intelligence practice areas."
+  }
+}
+,
+{
+  "id": "brattle-group",
+  "name": "The Brattle Group",
+  "type": "Boutique",
+  "tagline": "Leading economic consulting firm specializing in litigation and regulatory economics",
+  "description": "The Brattle Group answers complex economic, finance, and regulatory questions for corporations, law firms, and governments around the world. We are distinguished by the clarity of our insights and the credibility of our experts, which include leading international academics and industry specialists. Brattle has over 500 talented professionals across three continents. For more information, please visit brattle.com.",
+  "headquarters": "Cambridge, USA",
+  "founded": 1990,
+  "employees": 596,
+  "parent_company": null,
+  "offices": ["Boston", "Chicago", "New York", "San Francisco", "Washington DC"],
+  "regions": ["North America", "Europe", "Asia Pacific"],
+  "specialties": ["Strategy", "Analytics", "M&A", "Risk", "Due Diligence"],
+  "industries": ["Financial Services", "Energy", "Healthcare", "Technology", "Telecommunications"],
+  "known_for": "Deep expertise in economic and financial analysis for litigation and regulatory proceedings. Distinguished by strong academic ties—many principals are leading university professors. Known for rigorous, data-driven approaches to complex economic questions and expert testimony that withstands intense scrutiny in courtrooms and regulatory hearings.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Research Analyst (2-3 yrs) → Research Associate (2-3 yrs) → Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Associate (3-4 yrs) → Senior Associate (3-4 yrs) → Principal",
+  "travel": "low",
+  "work_hours": "balanced",
+  "compensation": {
+    "ug": {
+      "base": 97900,
+      "bonus": null,
+      "signing": null
+    },
+    "mba": {
+      "base": 195000,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Resume → First Round (behavioral + case discussion) → Final Round (multiple 1-on-1 interviews + case exercises + lunch with analysts)",
+    "unique": "Case interviews focus on interactive discussion around real consulting scenarios rather than traditional business cases. Emphasis on critical thinking, economic intuition, data interpretation, and oral communication. Candidates may choose between economic theory, regression, or data visualization questions.",
+    "timeline": "Fall on-campus recruiting with behavioral interviews, second round in winter. Decisions typically within 1-2 weeks of interview day. Average hiring process takes about 3 weeks."
+  },
+  "email_format": "firstname.lastname@brattle.com",
+  "links": {
+    "website": "https://www.brattle.com",
+    "linkedin": "https://www.linkedin.com/company/the-brattle-group/",
+    "careers": "https://www.brattle.com/careers/",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22The%20Brattle%20Group%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2215957%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2215957%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22The%20Brattle%20Group%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2215957%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2215957%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 15957,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 5,
+    "alumni_current": 2,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Very small BYU presence (2 current alumni). Network with current BYU alumni at the firm and emphasize quantitative skills and economics background. Strong fit for students with economics, finance, or statistics majors."
+  }
+}
+,
+{
+  "id": "bridgespan",
+  "name": "Bridgespan Group",
+  "type": "Boutique",
+  "tagline": "Leading nonprofit strategy consultancy founded by Bain alumni",
+  "description": "The Bridgespan Group is a global nonprofit that strives to make the world more equitable and just. Since 2000, we have had the privilege of advising and collaborating with many of the world's most extraordinary social change leaders including philanthropists, nonprofit and NGO leaders, and impact investors. We are passionate about helping social change leaders find solutions to economic and social barriers that perpetuate inequities and prevent individuals, families, and communities from having access to opportunities they need to thrive. We use rigorous research to gain insights that help our clients solve problems and achieve their goals. Our services include strategy consulting and advising, sourcing and diligence, and leadership team support. We take what we learn from this work and build on it with original research, identifying best practices and innovative ideas to share with the social sector.",
+  "headquarters": "Boston, USA",
+  "founded": 2000,
+  "employees": 494,
+  "parent_company": null,
+  "offices": ["Boston", "New York", "San Francisco", "Washington DC"],
+  "regions": ["North America", "Asia Pacific", "Africa"],
+  "specialties": ["Strategy", "Philanthropy Advisory", "Impact Investing", "Organizational Effectiveness", "Leadership Development"],
+  "industries": ["Nonprofit", "Social Impact", "Philanthropy", "Education", "Healthcare", "Climate", "Public Health"],
+  "known_for": "Founded by former Bain & Company leaders to bring management consulting rigor to the social sector. Known for commitment to equity, lower travel demands than traditional consulting, and access to Bain's training programs. Ranked #4 in Vault's Top 50 Consulting Firms for workplace culture.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate Consultant (2-3 yrs) → Senior Associate Consultant (2-3 yrs) → Consultant (2-3 yrs) → Manager (2-3 yrs) → Senior Manager → Principal → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 55000,
+      "bonus": null,
+      "signing": null
+    },
+    "mba": {
+      "base": 98000,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Resume Screen → First Round (1-2 case interviews via phone) → Final Round (2-3 case interviews + 1 behavioral interview in-person) → Offer",
+    "unique": "All cases are candidate-led with nonprofit/social sector focus and emphasis on equity. No nonprofit experience required but must demonstrate passion for social impact. New hires attend Bain's training programs.",
+    "timeline": "Applications open mid-August, deadline mid-September, first rounds early October, final rounds late October, offers early November"
+  },
+  "email_format": "firstname.lastname@bridgespan.org",
+  "links": {
+    "website": "https://www.bridgespan.org",
+    "linkedin": "https://www.linkedin.com/company/the-bridgespan-group/",
+    "careers": "https://www.bridgespan.org/careers-at-bridgespan",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Bridgespan%20Group%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2211750%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2211750%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Bridgespan%20Group%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2211750%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2211750%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 11750,
+  "byu": {
+    "pipeline": null,
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No current BYU pipeline. Focus on demonstrating genuine passion for social impact work. Attend Bridgespan webinars and info sessions to understand their mission-driven culture. Network with nonprofit leaders who have worked with Bridgespan."
+  }
+}
+,
+{
+  "id": "charles-river-associates",
+  "name": "Charles River Associates",
+  "type": "Boutique",
+  "tagline": "Economic and financial consulting for litigation and regulatory proceedings",
+  "description": "Charles River Associates (CRA) is a global consulting firm specializing in litigation, regulatory, financial, and management consulting. We provide economic and financial analysis in litigation and regulatory proceedings and guide businesses through critical strategy and operational issues. Since 1965, clients have engaged CRA for our unique combination of functional expertise and industry knowledge, and for our objective solutions to complex problems. Headquartered in Boston, CRA has offices throughout the world. Learn more about our careers at http://www.crai.com/careers.",
+  "headquarters": "Boston, USA",
+  "founded": 1965,
+  "employees": 1611,
+  "parent_company": null,
+  "offices": [
+    "Boston",
+    "New York",
+    "Washington DC",
+    "Chicago",
+    "Oakland",
+    "San Francisco",
+    "Los Angeles",
+    "Salt Lake City",
+    "Summit",
+    "Tallahassee",
+    "Bryan",
+    "Plano"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Economic Analysis",
+    "Litigation Support",
+    "Regulatory Consulting",
+    "Financial Analysis",
+    "Management Consulting",
+    "Antitrust and Competition"
+  ],
+  "industries": [
+    "Financial Services",
+    "Energy",
+    "Life Sciences",
+    "Healthcare",
+    "Technology",
+    "Manufacturing & Industrials"
+  ],
+  "known_for": "CRA is a leading economic consulting firm known for rigorous quantitative analysis in litigation and regulatory proceedings. Founded in 1965, the firm combines deep academic expertise with practical business insight, particularly in antitrust, competition, and damages analysis.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Senior Analyst (2-3 yrs) → Associate (2-3 yrs) → Principal (3-4 yrs) → Vice President",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 93000,
+      "bonus": 10000,
+      "signing": null
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Resume → First Round (behavioral + mini-case, 45 min) → Final Round (3 interviews: behavioral + case + group case, 30 min each)",
+    "unique": "Heavy emphasis on quantitative and econometric analysis in cases; final round includes a group case exercise; cases often presented via shared Word documents with tables and graphs",
+    "timeline": "Applications open fall semester, first rounds within 2-4 weeks of application, offers typically by Thanksgiving for undergraduate analysts"
+  },
+  "email_format": "first_initial.lastname@crai.com",
+  "links": {
+    "website": "https://www.crai.com",
+    "linkedin": "https://www.linkedin.com/company/charles-river-associates/",
+    "careers": "https://www.crai.com/cra-careers/jobs/",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Charles%20River%20Associates%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%226511%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%226511%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Charles%20River%20Associates%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%226511%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%226511%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 6511,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 69,
+    "alumni_current": 12,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No active BYU recruiting—leverage the 12 current BYU alumni for networking. Focus on economic analysis skills and quantitative coursework in applications."
+  }
+}
+,
+{
+  "id": "chartis",
+  "name": "The Chartis Group",
+  "type": "Boutique",
+  "tagline": "Healthcare transformation specialist—advising 900+ healthcare organizations annually",
+  "description": "The challenges facing US healthcare are longstanding and all too familiar. We are Chartis, and we believe in better. We work with over 900 clients annually to develop and activate transformative strategies, operating models, and organizational enterprises that make U.S. healthcare more affordable, accessible, safe, and human. With over 1,000 professionals, we help providers, payers, technology innovators, retail companies, and investors create and embrace solutions that tangibly and materially reshape healthcare for the better. Our family of brands—Chartis, Jarrard, Greeley, and HealthScape Advisors—is 100% focused on healthcare and each has a longstanding commitment to helping transform healthcare in big and small ways. Chartis. Believe in better.",
+  "headquarters": "Chicago, USA",
+  "founded": 2009,
+  "employees": 3504,
+  "parent_company": null,
+  "offices": [
+    "Chicago",
+    "Boston",
+    "New York",
+    "San Francisco",
+    "Washington DC",
+    "Minneapolis",
+    "Brentwood",
+    "Atlanta"
+  ],
+  "regions": [
+    "North America"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Digital",
+    "Transformation",
+    "Financial Performance",
+    "Clinical Transformation"
+  ],
+  "industries": [
+    "Healthcare",
+    "Life Sciences"
+  ],
+  "known_for": "100% focused on healthcare with deep expertise across providers, payers, and technology innovators. Ranked best overall management consulting firm by KLAS with a 95.1 client satisfaction rating. Known for strong work-life balance and mission-driven culture.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Associate Consultant (2-3 yrs) → Consultant (2-3 yrs) → Engagement Manager (2-3 yrs) → Manager (3-4 yrs) → Senior Manager → Associate Principal → Principal → Partner",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 80000,
+      "bonus": null,
+      "signing": null
+    },
+    "mba": {
+      "base": 150000,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Resume → First Round (2 behavioral/case interviews via Zoom) → Final Round (3 in-person interviews: 1 case, 1 analytic case, 1 behavioral with partner) → Offer within 2-3 days",
+    "unique": "Excel test included in process. Three distinct case studies across interviews. Final round includes specialized analytic case interview.",
+    "timeline": "MBA: Outreach in September, interviews in October, offers by Thanksgiving. Undergrad: Chartis Connect diversity program for rising juniors. Process takes ~3 weeks from start to finish."
+  },
+  "email_format": "first_initiallast@chartis.com",
+  "links": {
+    "website": "https://www.chartis.com",
+    "linkedin": "https://www.linkedin.com/company/the-chartis-group/",
+    "careers": "https://www.chartis.com/about/careers",
+    "mc_profile": "https://managementconsulted.com/the-chartis-group/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22The%20Chartis%20Group%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2238109%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2238109%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22The%20Chartis%20Group%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2238109%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2238109%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 38109,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 12,
+    "alumni_current": 3,
+    "marriott_alumni_all_time": 2,
+    "marriott_alumni_current": 1,
+    "tip": "Chartis has a small but growing BYU presence. Target Chicago, Boston, or Minneapolis offices where internships are based. Leverage healthcare knowledge and emphasize mission-driven motivation."
+  }
+}
+,
+{
+  "id": "cicero-group",
+  "name": "Cicero Group",
+  "type": "Boutique",
+  "tagline": "Data-driven boutique with Utah roots and strong BYU pipeline",
+  "description": "Cicero® is a premier management consulting firm focused on implementing data-driven strategies for a broad mix of private, public, and social sector organizations across the globe. Cicero is headquartered in Salt Lake City, Utah, with additional offices in New York City, and Washington D.C. Cicero uses data and experience to generate insights, create actionable strategies, and drive transformation with an overarching purpose of helping people create and continuously deliver extraordinary results. At Cicero, our people come first. We work hard to foster a culture where employees can thrive both professionally and personally. If you would like to learn more about career opportunities with Cicero, please visit us at www.cicerogroup.com/careers.",
+  "headquarters": "Salt Lake City, USA",
+  "founded": 2001,
+  "employees": 156,
+  "parent_company": "MGT",
+  "offices": [
+    "Salt Lake City",
+    "New York",
+    "Washington DC",
+    "Dallas"
+  ],
+  "regions": [
+    "North America",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Strategy",
+    "Customer Insights & Analytics",
+    "Transformation",
+    "Operational Excellence",
+    "M&A Advisory",
+    "Private Equity Services"
+  ],
+  "industries": [
+    "Consumer",
+    "Education",
+    "Technology",
+    "Financial Services",
+    "Healthcare",
+    "Retail",
+    "Industrial"
+  ],
+  "known_for": "Founded by BYU alumnus Randy Shumway in 2001, Cicero is known for its data-driven approach and strong analytics capabilities. The firm operates a low-travel model (50 hours/week vs 70+ at MBB) making it particularly family-friendly, and has become one of the strongest consulting pipelines for BYU students with 129 alumni across its history.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate Consultant (2-3 yrs) → Consultant (2-3 yrs) → Engagement Manager (3-4 yrs) → Principal (4+ yrs) → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 111000,
+      "bonus": 18000,
+      "signing": 10000
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → HireVue Video Interview → First Round (case + behavioral) → Final Round (45-min case + 30-min behavioral + 1-hour presentation with data analysis)",
+    "unique": "Final round includes a unique 1-hour data analysis challenge where you review data and create a short deck. Known for being more accessible than MBB—some candidates receive offers with minimal case prep, though solid preparation is still recommended.",
+    "timeline": "Rolling recruitment throughout the year; process typically takes 6-8 weeks from application to offer"
+  },
+  "email_format": "firstinitiallast@cicerogroup.com",
+  "links": {
+    "website": "https://cicerogroup.com/",
+    "linkedin": "https://www.linkedin.com/company/cicerogroup/",
+    "careers": "https://cicerogroup.com/careers/",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Cicero%20Group%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221262517%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221262517%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Cicero%20Group%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221262517%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221262517%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 1262517,
+  "byu": {
+    "pipeline": "recruits",
+    "alumni_all_time": 129,
+    "alumni_current": 28,
+    "marriott_alumni_all_time": 32,
+    "marriott_alumni_current": 9,
+    "tip": "Cicero has the strongest BYU presence of any boutique firm outside of the Big 4. Founder Randy Shumway is a BYU grad, and the Salt Lake City headquarters creates a natural pipeline. Network with Salt Lake City office alumni—they actively mentor BYU students. The firm's culture values collaboration over prestige, making it a great first consulting role."
+  }
+}
+,
+{
+  "id": "clarkston",
+  "name": "Clarkston Consulting",
+  "type": "Boutique",
+  "tagline": "Life sciences, consumer products, and retail transformation specialist",
+  "description": "Clarkston Consulting offers the full spectrum of strategy, operations, implementation, and managed services with a change-focused, data-driven approach for life sciences, consumer products, and retail companies. Leveraging decades of client commitment and industry experience, we deliver solutions that work for your business and people to drive growth, innovation, and transformation.",
+  "headquarters": "Durham, USA",
+  "founded": 1991,
+  "employees": 443,
+  "parent_company": null,
+  "offices": ["Durham", "Atlanta", "Chicago", "Detroit", "Bridgewater", "Roanoke"],
+  "regions": ["North America"],
+  "specialties": ["Strategy", "Operations", "Implementation", "Digital", "Analytics", "Transformation"],
+  "industries": ["Life Sciences", "Consumer Products", "Retail"],
+  "known_for": "Over 30 years of deep expertise in life sciences, consumer products, and retail industries. Known for data-driven implementation approach and strong employee culture that brands employees as 'stewards' with comprehensive wellness programs.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate Consultant (2-3 yrs) → Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Principal (3-4 yrs) → Associate Partner → Partner",
+  "travel": "high",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 70000,
+      "bonus": null,
+      "signing": null
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Resume → Phone Screen (recruiter) → Subject Matter Expert Interview → Final Round (4 interviews: behavioral + technical + case + partner)",
+    "unique": "Final round includes 4 separate interviews in one day, with the last being a partner interview. Case interview is described as 'unlike other cases' - more focused on practical business problem-solving relevant to their industries.",
+    "timeline": "Process typically takes 30 days on average, though some candidates report 4-6 weeks from application to offer"
+  },
+  "email_format": "first_initial.lastname@clarkstonconsulting.com",
+  "links": {
+    "website": "https://clarkstonconsulting.com/",
+    "linkedin": "https://www.linkedin.com/company/clarkston-consulting/",
+    "careers": "https://clarkstonconsulting.com/careers-at-clarkston/",
+    "mc_profile": "https://managementconsulted.com/clarkston-consulting/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Clarkston%20Consulting%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%228756%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%228756%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Clarkston%20Consulting%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%228756%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%228756%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 8756,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No current BYU pipeline—requires cold networking and strong industry interest in life sciences, consumer products, or retail. Consider highlighting any relevant industry experience or coursework."
+  }
+}
+,
+{
+  "id": "clearview-healthcare",
+  "name": "ClearView Healthcare Partners",
+  "type": "Boutique",
+  "tagline": "Leading life sciences boutique—over half of consultants hold PhDs",
+  "description": "Founded in Boston in 2007, ClearView Healthcare Partners is a diverse, inclusive, and innovative global strategy consulting firm serving the life science sector. The firm combines international industry knowledge and deep scientific expertise across a range of therapeutic areas with an extensive network of external stakeholders to deliver practical and actionable recommendations to our clients' most complex challenges. The firm's projects include cross-functional support at the corporate, franchise, and product levels for pharmaceutical, biotech, medical device, and diagnostics companies worldwide. We take pride in deploying high caliber consulting teams from our Boston, New York, San Francisco, London, Zurich, and Gurgaon offices that can provide the best support available on issues that require strategic capabilities and deep content expertise within life sciences. ClearView was ranked #13 overall and #1 boutique in the 2020 Vault Consulting 50. Specific rankings include Top 5 for Innovation, Formal and Informal Training, and Internal Mobility and Promotion Policies. ClearView was also ranked Top 10 for Firm Leadership, Compensation, and Firm Culture.",
+  "headquarters": "Newton, USA",
+  "founded": 2007,
+  "employees": 696,
+  "parent_company": null,
+  "offices": [
+    "Boston",
+    "New York",
+    "San Francisco"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Strategy",
+    "Pricing",
+    "M&A",
+    "Analytics",
+    "Due Diligence"
+  ],
+  "industries": [
+    "Life Sciences",
+    "Healthcare",
+    "Pharma & Biotech",
+    "Medtech",
+    "Diagnostics"
+  ],
+  "known_for": "The largest independent life sciences-focused strategy consultancy with a uniquely scientific approach—over 50% of consultants hold PhDs. Known for dedicating 100% of team resources to individual projects rather than splitting consultants across multiple engagements, enabling deep expertise and scientific rigor on complex pharma and biotech challenges.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Senior Analyst (2-3 yrs) → Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Engagement Manager (3-4 yrs) → Associate Principal (3-4 yrs) → Principal/Managing Director → Partner",
+  "travel": "low",
+  "work_hours": "intense",
+  "compensation": {
+    "ug": {
+      "base": 95000,
+      "bonus": 12000,
+      "signing": null
+    },
+    "mba": {
+      "base": 125000,
+      "bonus": 18000,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Resume Review → First Round (behavioral + life sciences case) → Final Round (market sizing case + market entry case + science discussion)",
+    "unique": "Connect to ClearView program for PhD/MD/Post-docs; heavy emphasis on scientific knowledge alongside business cases; very challenging quantitative questions with multiple follow-ups",
+    "timeline": "Connect to ClearView applications due February/March for April-May in-person sessions; offers for following year's summer start. General recruiting September-October for other needs."
+  },
+  "email_format": "firstname.lastname@clearviewhcp.com",
+  "links": {
+    "website": "https://clearviewhcp.com/",
+    "linkedin": "https://www.linkedin.com/company/clearview-healthcare-partners/",
+    "careers": "https://clearviewhcp.com/careers/",
+    "mc_profile": "https://managementconsulted.com/clearview-healthcare-partners/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22ClearView%20Healthcare%20Partners%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22434006%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22434006%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22ClearView%20Healthcare%20Partners%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22434006%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22434006%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 434006,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 1,
+    "alumni_current": 4,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Very limited BYU presence—you'll need to network aggressively to break in. Consider leveraging life sciences background if you have one, as firm strongly prefers candidates with scientific credentials (50%+ have PhDs)."
+  }
+}
+,
+{
+  "id": "cornerstone-research",
+  "name": "Cornerstone Research",
+  "type": "Boutique",
+  "tagline": "Elite litigation economics—expert testimony and financial analysis for complex lawsuits",
+  "description": "At Cornerstone Research, we attribute our success to a unique combination of resources: a creative and energetic staff, cutting-edge technology and research, and our work with academic and industry experts. Our consultants use innovative problem-solving approaches and achieve unparalleled analytic depth. Working with faculty experts from leading business schools, economics departments, and law schools keeps us at the forefront of academic research, while industry experts share their practical experience and business acumen. Our culture of growth and collegiality provides a dynamic work environment. Our team-based approach to casework emphasizes a combination of collaboration and individual initiative. This approach offers our employees the opportunity to work with and learn from professionals at all levels of the firm as well as from a network of leading academic and industry experts.",
+  "headquarters": "San Francisco, USA",
+  "founded": 1989,
+  "employees": 1329,
+  "parent_company": null,
+  "offices": [
+    "San Francisco",
+    "Boston",
+    "Chicago",
+    "Los Angeles",
+    "New York",
+    "Menlo Park",
+    "Washington DC"
+  ],
+  "regions": [
+    "North America",
+    "Europe"
+  ],
+  "specialties": [
+    "Litigation Support",
+    "Economic Analysis",
+    "Expert Testimony",
+    "Financial Analysis",
+    "Antitrust",
+    "Securities Litigation"
+  ],
+  "industries": [
+    "Financial Services",
+    "Technology",
+    "Healthcare",
+    "Life Sciences",
+    "Energy",
+    "Telecommunications"
+  ],
+  "known_for": "Premier litigation economics firm providing expert testimony and economic analysis in high-stakes commercial litigation and regulatory proceedings. Known for partnering with leading academic economists from top universities to deliver rigorous, data-driven analysis for complex legal cases across antitrust, securities, intellectual property, and financial disputes.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Senior Analyst (2-3 yrs) → Associate (2-4 yrs) → Senior Associate → Principal → Vice President",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 97000,
+      "bonus": 10000,
+      "signing": 15000
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → First Round (2 virtual interviews: behavioral + case) → Final Round (4 interviews + lunch with analysts)",
+    "unique": "Cases based on actual firm projects condensed to 30-45 minutes. Interviewer-led cases focused on economic and financial analysis. Expect questions on economics concepts and quantitative reasoning.",
+    "timeline": "Applications open September for full-time analysts and summer analysts. Process averages 2-3 weeks from application to offer."
+  },
+  "email_format": "first_initiallast@cornerstone.com",
+  "links": {
+    "website": "http://www.cornerstone.com",
+    "linkedin": "https://www.linkedin.com/company/cornerstone-research/",
+    "careers": "https://www.cornerstone.com/careers/",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/cornerstone-research/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Cornerstone%20Research%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225345%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225345%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Cornerstone%20Research%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225345%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225345%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 5345,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 92,
+    "alumni_current": 17,
+    "marriott_alumni_all_time": 3,
+    "marriott_alumni_current": 1,
+    "tip": "Strong economics or quantitative background is essential. Network with BYU alumni in Boston or San Francisco offices where most BYU connections are located."
+  }
+}
+,
+{
+  "id": "credera",
+  "name": "Credera",
+  "type": "Boutique",
+  "tagline": "Omnicom's MarTech and digital transformation consultancy bridging strategy and execution",
+  "description": "Credera empowers the world's leading brands to navigate the complexities of data, technology, and marketing. As the global consultancy embedded within Omnicom's creative and media scale, we bridge marketing ambition and technical execution to accelerate growth and build transformations that last.",
+  "headquarters": "Dallas, USA",
+  "founded": 1999,
+  "employees": 1859,
+  "parent_company": "Omnicom",
+  "offices": [
+    "Dallas",
+    "Denver",
+    "Houston",
+    "Chicago",
+    "New York",
+    "Los Angeles"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Digital Transformation",
+    "MarTech",
+    "Strategy",
+    "Technology",
+    "Marketing Analytics",
+    "AI"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Retail",
+    "Technology",
+    "Consumer",
+    "Life Sciences"
+  ],
+  "known_for": "As Omnicom's embedded global consultancy, Credera uniquely bridges marketing strategy and technical execution with deep MarTech expertise. Known for strong work-life balance relative to traditional consulting (40-50 hour weeks, minimal travel) while delivering sophisticated digital transformation and marketing analytics solutions.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Manager (3-4 yrs) → Senior Manager (3-4 yrs) → Partner",
+  "travel": "low",
+  "work_hours": "balanced",
+  "compensation": {
+    "ug": {
+      "base": 87000,
+      "bonus": null,
+      "signing": null
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Behavioral Interview (Cappfinity assessment) → Technical Interview → Final Round (senior leader)",
+    "unique": "Heavy emphasis on behavioral assessment using Cappfinity tool to evaluate eight behavioral traits aligned with four core values (Professionalism, Excellence, Humility, Integrity). Virtual interview process focused on cultural fit.",
+    "timeline": "Approximately 2 weeks from application to offer for most candidates"
+  },
+  "email_format": "firstname.lastname@credera.com",
+  "links": {
+    "website": "https://www.credera.com/en-us",
+    "linkedin": "https://www.linkedin.com/company/credera/",
+    "careers": "https://www.credera.com/en-us/careers",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/credera/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Credera%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2221837%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2221837%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Credera%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2221837%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2221837%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 21837,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 26,
+    "alumni_current": 13,
+    "marriott_alumni_all_time": 14,
+    "marriott_alumni_current": 8,
+    "tip": "Credera values cultural fit and humility. Network with the 13 current BYU alumni, especially the 8 Marriott alumni. Emphasize alignment with their core values (Professionalism, Excellence, Humility, Integrity) in your behavioral interviews."
+  }
+}
+,
+{
+  "id": "decibio",
+  "name": "DeciBio Consulting",
+  "type": "Boutique",
+  "tagline": "Precision medicine strategy experts—100% life sciences consulting",
+  "description": "DeciBio Consulting is a boutique strategy consulting firm focusing on the life science industry. DeciBio's mission is to provide strategic insights that accelerate innovation in precision medicine. Headquartered in Los Angeles, CA, DeciBio serves clients and customers across the globe, ranging from incubator-stage startups to Fortune 500 life science corporations. DeciBio addresses business solutions that range from market landscape analyses to full commercial strategies, including organic and inorganic growth opportunities (commercial due diligences). DeciBio's work is typically supported by a mix of primary and secondary research leveraging Dexter, its in-house expert network, and DeciBio Analytics' proprietary data intelligence products. DeciBio's Analytics division offers numerous data products to support strategic insights, including in clinical diagnostics (the DxBooks), oncology biomarkers, liquid biopsy, NGS, spatial biology, omics market segmentation (Market Reports), the entire life sciences industry (BioTrack), and more. Internal teams such as the Culture Committee, Women* in Consulting, and Queers in Consulting enrich the employee experience. DeciBio's Social Impact board and the DeciBio Impact Lab work collaboratively across divisions and externally to uproot discrimination and increase access to precision medicine. DeciBio Consulting, LLC recently launched DeciBio Ventures. This venture capital and creation firm invests in and supports ground-breaking companies in the precision medicine space.",
+  "headquarters": "Los Angeles, USA",
+  "founded": 2013,
+  "employees": 62,
+  "parent_company": null,
+  "offices": ["Los Angeles"],
+  "regions": ["North America", "Europe"],
+  "specialties": ["Strategy", "Market Research", "Due Diligence", "Pricing", "Analytics"],
+  "industries": ["Life Sciences", "Clinical Diagnostics", "Pharma & Biotech", "Research Tools", "Financial Services"],
+  "known_for": "Boutique firm with 100% focus on precision medicine and life sciences. All consultants hold life sciences degrees and 70% of projects involve global research. Known for combining deep scientific understanding with business strategy, plus proprietary data analytics platform (DeciBio Analytics). Recognized for exceptional work-life balance and entrepreneurial culture.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2 yrs) → Senior Analyst (2 yrs) → Associate or Life Science Expert (2-3 yrs) → Senior Associate or Senior Life Science Expert (2-3 yrs) → Project Leader (3 yrs) → Senior Project Leader (3 yrs) → Principal (3-4 yrs) → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 85000,
+      "bonus": 12000,
+      "signing": null
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Round 1 (one-way video: market sizing case + behavioral) → Round 2 (live remote: qualitative case + behavioral) → Round 3 (3+ hour case simulation presentation to Hiring Committee) → Final Round (meet & greet: half-day with team, coffee walks, lunch/happy hour)",
+    "unique": "One-way video interview platform for Round 1 standardizes case process objectively. Round 3 requires 3+ hour case simulation exercise culminating in presentation to Hiring Committee. Less than 1% of applicants receive offers. All cases are interviewer-led.",
+    "timeline": "Fall recruiting cycle (apply July-September for best consideration). Rolling applications year-round. Full process takes fewer than 8 weeks. Hiring Committee delivers decision within 2 weeks of completed interview. Average process time ~3 weeks."
+  },
+  "email_format": null,
+  "links": {
+    "website": "http://www.decibio.com",
+    "linkedin": "https://www.linkedin.com/company/decibio/",
+    "careers": "https://www.decibio.com/careers",
+    "mc_profile": "https://managementconsulted.com/decibio-consulting/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22DeciBio%20Consulting%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22571154%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22571154%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22DeciBio%20Consulting%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22571154%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22571154%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 571154,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Requires life sciences degree for all positions. Network heavily with DeciBio consultants on LinkedIn. Attend their bi-weekly virtual info sessions which include sample case questions. Strong fit for students with biology, biochemistry, or other life sciences backgrounds interested in consulting."
   }
 }
 ,
@@ -464,6 +1855,278 @@
 }
 ,
 {
+  "id": "fti-consulting",
+  "name": "FTI Consulting",
+  "type": "Boutique",
+  "tagline": "Crisis and transformation experts spanning restructuring to forensics",
+  "description": "FTI Consulting is the leading global expert firm for organizations facing crisis and transformation, with more than 7,900 employees located in 32 countries and territories. Our professionals work closely with clients to anticipate, illuminate and overcome complex business challenges and make the most of opportunities.",
+  "headquarters": "Washington DC, USA",
+  "founded": 1982,
+  "employees": 10192,
+  "parent_company": null,
+  "offices": [
+    "Washington DC",
+    "New York",
+    "Boston",
+    "Chicago",
+    "Atlanta",
+    "Dallas",
+    "Houston",
+    "Denver",
+    "Los Angeles",
+    "San Francisco"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Restructuring",
+    "Corporate Finance",
+    "Forensic Consulting",
+    "Litigation Consulting",
+    "Economic Consulting",
+    "Risk",
+    "Strategic Communications"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Energy",
+    "Technology",
+    "Private Equity",
+    "Public Sector",
+    "Real Estate"
+  ],
+  "known_for": "Leading global expert firm specializing in crisis management, corporate restructuring, forensic investigations, and litigation support. Known for handling high-stakes, complex business challenges with deep technical expertise across five specialized segments.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Director (3-4 yrs) → Senior Director (3-4 yrs) → Managing Director (4+ yrs) → Senior Managing Director",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 80000,
+      "bonus": 10000,
+      "signing": 5000
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Online Assessment (numerical, verbal, logical reasoning) → First Round (30-60 min behavioral/case with Senior Analyst or Engagement Manager) → Final Round (2-3 interviews with Directors/Partners including case + behavioral)",
+    "unique": "Pre-recorded video interview required; preference forms must be completed; two-stage process with emphasis on both technical and behavioral fit",
+    "timeline": "Applications open late August-September for diversity events, September-October for general recruiting; process takes several weeks to 2 months from application to offer"
+  },
+  "email_format": "firstname.lastname@fticonsulting.com",
+  "links": {
+    "website": "https://www.fticonsulting.com/",
+    "linkedin": "https://www.linkedin.com/company/fti-consulting/",
+    "careers": "https://www.fticonsulting.com/careers/early-careers",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22FTI%20Consulting%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225509%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225509%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22FTI%20Consulting%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225509%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225509%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 5509,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 36,
+    "alumni_current": 6,
+    "marriott_alumni_all_time": 8,
+    "marriott_alumni_current": 2,
+    "tip": "Small but established BYU presence (36 alumni all-time). Network with alumni in Corporate Finance & Restructuring and Forensic segments where BYU representation is strongest."
+  }
+}
+,
+{
+  "id": "guidehouse",
+  "name": "Guidehouse",
+  "type": "Boutique",
+  "tagline": "Risk management and regulated industries specialist—born from PwC in 2018",
+  "description": "Guidehouse is a global AI-led professional services firm delivering advisory, technology, and managed services to the commercial and government sectors. With an integrated business technology approach, Guidehouse drives efficiency and resilience in the healthcare, financial services, energy, infrastructure, and national security markets. Built to help clients across industries outwit complexity, the firm brings together approximately 18,000 professionals to achieve lasting impact and shape a meaningful future.",
+  "headquarters": "McLean, VA, USA",
+  "founded": 2018,
+  "employees": 15156,
+  "parent_company": null,
+  "offices": [
+    "McLean",
+    "Washington DC",
+    "New York",
+    "Chicago",
+    "Boston",
+    "Denver",
+    "San Francisco",
+    "Los Angeles",
+    "Atlanta",
+    "Dallas"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Middle East"
+  ],
+  "specialties": [
+    "Risk",
+    "Regulatory Compliance",
+    "Technology Solutions",
+    "Operations",
+    "Cybersecurity",
+    "Financial Crime",
+    "Managed Services"
+  ],
+  "industries": [
+    "Public Sector",
+    "Healthcare",
+    "Financial Services",
+    "Energy",
+    "Defense",
+    "National Security"
+  ],
+  "known_for": "Born from PwC's public sector arm in 2018 and strengthened by acquiring Navigant in 2019, Guidehouse specializes in risk management, regulatory compliance, and technology consulting for highly regulated industries. Strong emphasis on public sector clients alongside commercial work.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Managing Consultant (2-3 yrs) → Associate Director (3-4 yrs) → Director → Partner",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 75000,
+      "bonus": 10000,
+      "signing": null
+    },
+    "mba": {
+      "base": 150000,
+      "bonus": 30000,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Phone Screen (30 min behavioral) → First Round (case + behavioral) → Final Round (3-4 interviews: mix of case + behavioral)",
+    "unique": "Heavy emphasis on candidate-led case interviews; includes take-home case assignments with 24-48 hour deadlines; may include Excel-based data analysis cases",
+    "timeline": "Campus recruiting in fall; typical process takes 2-4 weeks from application to offer; some programs have specific deadlines (e.g., Gateway to Guidehouse due Feb 28)"
+  },
+  "email_format": "first_initial.lastname@guidehouse.com",
+  "links": {
+    "website": "https://www.guidehouse.com",
+    "linkedin": "https://www.linkedin.com/company/guidehouse/",
+    "careers": "https://guidehouse.com/careers",
+    "mc_profile": "https://managementconsulted.com/guidehouse/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Guidehouse%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2228974109%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2228974109%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Guidehouse%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2228974109%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2228974109%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 28974109,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 41,
+    "alumni_current": 16,
+    "marriott_alumni_all_time": 4,
+    "marriott_alumni_current": 1,
+    "tip": "Focus on public sector or healthcare practice areas—these align with Guidehouse's core strengths and may be more receptive to BYU candidates"
+  }
+}
+,
+{
+  "id": "huron",
+  "name": "Huron Consulting Group",
+  "type": "Boutique",
+  "tagline": "Industry-focused consulting for healthcare, education, and business transformation",
+  "description": "Huron is a global professional services firm that collaborates with clients to put possible into practice by creating sound strategies, optimizing operations, accelerating digital transformation, and empowering businesses and their people to own their future. By embracing diverse perspectives, encouraging new ideas, and challenging the status quo, we create sustainable results for the organizations we serve. Learn more at huronconsultinggroup.com.",
+  "headquarters": "Chicago, USA",
+  "founded": 2002,
+  "employees": 6265,
+  "parent_company": null,
+  "offices": [
+    "Chicago",
+    "New York",
+    "Washington DC",
+    "Dallas",
+    "Denver",
+    "Columbus",
+    "Pensacola",
+    "Hillsboro"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Digital Transformation",
+    "Transaction Advisory",
+    "Organizational Transformation",
+    "Managed Services"
+  ],
+  "industries": [
+    "Healthcare",
+    "Education",
+    "Financial Services",
+    "Energy",
+    "Public Sector",
+    "Industrial"
+  ],
+  "known_for": "Huron is distinguished by its deep industry expertise, particularly in healthcare and education sectors. Founded in 2002 from Arthur Andersen alumni post-collapse, the firm emphasizes practical implementation and operational transformation alongside strategic consulting.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Associate (2-3 yrs) → Manager (3-4 yrs) → Director (3-4 yrs) → Senior Director (4+ yrs) → Managing Director",
+  "travel": "high",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 74000,
+      "bonus": 8000,
+      "signing": 5000
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Resume → Phone Screen (behavioral) → Consultant Screen (behavioral) → Final Round (case + behavioral interviews with consultants and leadership)",
+    "unique": "Year-round rolling applications rather than fixed recruiting windows. Case interviews can cover any industry including retail, financial services, healthcare, education, and government.",
+    "timeline": "Process typically takes 4 weeks from application to offer. Most active recruiting occurs during fall at select schools, but accepts applications year-round."
+  },
+  "email_format": "first_initial.lastname@huronconsultinggroup.com",
+  "links": {
+    "website": "https://www.huronconsultinggroup.com",
+    "linkedin": "https://www.linkedin.com/company/huronconsulting/",
+    "careers": "https://www.huronconsultinggroup.com/company/careers",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Huron%20Consulting%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225751%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225751%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Huron%20Consulting%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225751%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225751%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 5751,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 75,
+    "alumni_current": 17,
+    "marriott_alumni_all_time": 5,
+    "marriott_alumni_current": 3,
+    "tip": "Huron has a solid BYU alumni base but doesn't actively recruit on campus. Reach out to alumni for informational interviews and referrals. The firm's industry focus on healthcare and education may align well with BYU students interested in mission-driven consulting work."
+  }
+}
+,
+{
   "id": "innosight",
   "name": "Innosight",
   "type": "Boutique",
@@ -520,6 +2183,663 @@
     "marriott_alumni_all_time": 1,
     "marriott_alumni_current": 1,
     "tip": null
+  }
+}
+,
+{
+  "id": "kearney",
+  "name": "Kearney",
+  "type": "Boutique",
+  "tagline": "Operations and procurement powerhouse with McKinsey heritage",
+  "description": "As one of the original firms, we've never lost sight of the fact that consulting is a people business. A global partnership in more than 40 countries, our people make us who we are. We're individuals with different passions and strengths who take as much joy in the work we do as from those we work with. Our strategic operations heritage means we've always known that a plan is only as good as the outcome it inspires. In practice, our teams bring the perspective, understanding, and hands-on know-how to build the future as you see it. Working together we'll see big ideas through to working realities, helping you move from keeping up to breaking through. By your side, we deliver—value, results, impact.",
+  "headquarters": "Chicago, USA",
+  "founded": 1926,
+  "employees": 10000,
+  "parent_company": null,
+  "offices": [
+    "Chicago",
+    "New York",
+    "San Francisco",
+    "Boston",
+    "Washington DC",
+    "Atlanta",
+    "Dallas",
+    "Houston",
+    "Detroit",
+    "Minneapolis"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Procurement",
+    "Supply Chain",
+    "Transformation",
+    "M&A"
+  ],
+  "industries": [
+    "Consumer",
+    "Retail",
+    "Industrial",
+    "Automotive",
+    "Financial Services",
+    "Healthcare",
+    "Energy",
+    "Technology",
+    "Private Equity",
+    "Public Sector"
+  ],
+  "known_for": "Kearney traces its roots to McKinsey's Chicago office and is renowned as a global leader in operations, procurement, and supply chain consulting. The firm is known for rigorous quantitative analysis and deep operational expertise, particularly in manufacturing, consumer, and retail sectors.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Business Analyst (2-3 yrs) → Senior Business Analyst (1.5-2 yrs) → Associate (2-3 yrs) → Manager (2-4 yrs) → Principal (2-5 yrs) → Partner",
+  "travel": "high",
+  "work_hours": "intense",
+  "compensation": {
+    "ug": {
+      "base": 107000,
+      "bonus": 7000,
+      "signing": 5000
+    },
+    "mba": {
+      "base": 168000,
+      "bonus": 40000,
+      "signing": 30000
+    }
+  },
+  "recruiting": {
+    "process": "Application → First Round (2 case + fit/behavioral interviews) → Final Round (2 case + 1 fit/behavioral interviews)",
+    "unique": "Known for highly quantitative cases with heavy focus on operations and procurement. Some offices include written case and Excel skills test. Expect to work with many numbers and perform detailed calculations.",
+    "timeline": "MBA recruiting runs September-December. Average hiring process takes 32 days from application to offer. High performers can be promoted faster due to leaner structure."
+  },
+  "email_format": "firstname.lastname@kearney.com",
+  "links": {
+    "website": "https://www.kearney.com/",
+    "linkedin": "https://www.linkedin.com/company/kearney/",
+    "careers": "https://www.kearney.com/careers/opportunities",
+    "mc_profile": "https://managementconsulted.com/kearney/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Kearney%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%222196%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%222196%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Kearney%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%222196%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%222196%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 2196,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 84,
+    "alumni_current": 6,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Kearney has 84 BYU alumni but no Marriott-specific alumni showing in LinkedIn. Focus on networking with BYU alumni in Chicago, New York, or San Francisco offices. Highlight any operations, supply chain, or quantitative coursework."
+  }
+}
+,
+{
+  "id": "keystone-group",
+  "name": "The Keystone Group",
+  "type": "Boutique",
+  "tagline": "Results-driven mid-market specialists in manufacturing and distribution turnarounds",
+  "description": "The Keystone Group is a results-oriented management consulting firm. Our small, experienced teams work with middle-market manufacturing, distribution, and business services clients to develop and execute strategic growth, improve operations, restructure finances, and integrate acquisitions. Our mission is to make a substantive difference in the companies we work with and the lives of the people that work for them. For over thirty years, we have been building long-term relationships with our clients by helping them identify and implement solutions to their most complex business issues.",
+  "headquarters": "Chicago, USA",
+  "founded": 1991,
+  "employees": 64,
+  "parent_company": null,
+  "offices": ["Chicago", "Atlanta", "Los Angeles"],
+  "regions": ["North America"],
+  "specialties": ["Strategy", "Operations", "Restructuring", "M&A"],
+  "industries": ["Manufacturing", "Distribution", "Business Services", "Automotive", "Food & Beverage", "Industrial Equipment", "Consumer Products"],
+  "known_for": "Boutique firm specializing in middle-market manufacturing and distribution with deep operational expertise. Ranked #1 by Vault for firm culture (2020-2023) and known for hands-on implementation work, no up-or-out model, and strong work-life balance for consulting.",
+  "hires_ug": true,
+  "hires_mba": null,
+  "career_path": "Analyst (varies) → Associate (varies) → Principal (varies) → Partner",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 100000,
+      "bonus": null,
+      "signing": null
+    },
+    "mba": null
+  },
+  "recruiting": {
+    "process": "Resume → Round 1 (behavioral/fit) → Round 2 (1 case + 1 behavioral) → Round 3 (office visit to Chicago to meet team)",
+    "unique": "Heavy emphasis on cultural fit throughout all rounds. Final round is full-day office visit to assess fit across firm. No digital assessment or group case. Interviews conducted by leadership team.",
+    "timeline": "Fall recruiting at target schools. Offers Consultant Development Program (CDP) - 2-day conference in Chicago for sophomores."
+  },
+  "email_format": "first_initial.last@thekeystonegroup.com",
+  "links": {
+    "website": "https://www.thekeystonegroup.com/",
+    "linkedin": "https://www.linkedin.com/company/the-keystone-group/",
+    "careers": "https://www.thekeystonegroup.com/careers",
+    "mc_profile": "https://managementconsulted.com/the-keystone-group/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22The%20Keystone%20Group%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22609798%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22609798%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22The%20Keystone%20Group%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22609798%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22609798%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 609798,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No BYU alumni presence - cold networking required. Firm recruits from Emory, Georgia Tech, Howard, Indiana, and Michigan. Focus on manufacturing/distribution expertise and cultural fit when reaching out."
+  }
+}
+,
+{
+  "id": "korn-ferry",
+  "name": "Korn Ferry",
+  "type": "Boutique",
+  "tagline": "Global organizational consulting firm merging talent strategy with executive search",
+  "description": "Korn Ferry is a global consulting firm that powers performance. We unlock the potential in your people and unleash transformation across your business—synchronizing strategy, operations, and talent to accelerate performance, fuel growth, and inspire a legacy of change. That's why the world's most forward-thinking companies across every major industry turn to us—for a shared commitment to lasting impact and the bold ambition to Be More Than.",
+  "headquarters": "Los Angeles, USA",
+  "founded": 1969,
+  "employees": 19960,
+  "parent_company": null,
+  "offices": [
+    "Los Angeles",
+    "New York",
+    "Chicago",
+    "Boston",
+    "San Francisco",
+    "Washington DC",
+    "Dallas",
+    "Houston",
+    "Atlanta",
+    "Philadelphia",
+    "Miami",
+    "Minneapolis"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America"
+  ],
+  "specialties": [
+    "Organizational Strategy",
+    "Leadership Development",
+    "Talent Acquisition",
+    "Human Capital",
+    "Executive Search",
+    "Workforce Planning"
+  ],
+  "industries": [
+    "Consumer Markets",
+    "Financial Services",
+    "Healthcare",
+    "Life Sciences",
+    "Industrial",
+    "Technology",
+    "Public Sector"
+  ],
+  "known_for": "Unique blend of organizational consulting and executive search capabilities, particularly strong in talent strategy and human capital. Acquired Hay Group in 2015 to bolster organizational consulting expertise. Known for data-driven approach to aligning people strategy with business performance.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Associate Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Manager (3-4 yrs) → Principal (4+ yrs) → Partner",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 75000,
+      "bonus": 7000,
+      "signing": 5000
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Resume Screen → First Round (behavioral + case) → Final Round (case + fit interviews) → Offer",
+    "unique": "Six-week 'Start Up' training program for early career hires includes classroom activities, simulations, and experiential learning. Candidates may be relocated to offices based on business needs after training.",
+    "timeline": "Rolling applications year-round. Interview process typically takes 3-5 weeks from application to offer."
+  },
+  "email_format": "first.last@kornferry.com",
+  "links": {
+    "website": "http://www.kornferry.com",
+    "linkedin": "https://www.linkedin.com/company/kornferry/",
+    "careers": "https://www.kornferry.com/careers",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Korn%20Ferry%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%223741%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%223741%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Korn%20Ferry%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%223741%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%223741%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 3741,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 41,
+    "alumni_current": 8,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Limited BYU Marriott presence—focus on networking with general BYU alumni currently at the firm. Emphasize interest in organizational strategy and talent consulting."
+  }
+}
+,
+{
+  "id": "kpmg-us",
+  "name": "KPMG Advisory",
+  "type": "Big 4",
+  "tagline": "Fastest-growing Big Four firm with multi-disciplinary advisory services",
+  "description": "KPMG is one of the world's leading professional services firms and the fastest growing Big Four accounting firm in the United States. With 90+ offices and more than 36,000 employees and partners throughout the US, we're leading the industry in new and exciting ways. Our size and strength make us much more agile and responsive to changing trends.",
+  "headquarters": "New York, USA",
+  "founded": 1897,
+  "employees": 53729,
+  "parent_company": null,
+  "offices": [
+    "New York",
+    "Chicago",
+    "San Francisco",
+    "Dallas",
+    "Washington DC",
+    "Los Angeles",
+    "Atlanta",
+    "Denver",
+    "Houston",
+    "Philadelphia",
+    "Detroit",
+    "Orlando",
+    "Boston"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East",
+    "Africa"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Technology",
+    "Risk",
+    "Deal Advisory",
+    "Digital Transformation"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Consumer",
+    "Retail",
+    "Energy",
+    "Public Sector",
+    "Private Equity",
+    "Insurance",
+    "Manufacturing"
+  ],
+  "known_for": "First of the Big Four firms to organize along industry lines matching clients. Ranked #1 for quality of work in risk consulting by Source. Known for technology-enabled transformation and multi-disciplinary approach combining audit, tax, and advisory expertise.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Associate (2-3 yrs) → Senior Associate (2-3 yrs) → Manager (2-3 yrs) → Senior Manager (2 yrs) → Director (3-4 yrs) → Managing Director/Partner",
+  "travel": "high",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 72000,
+      "bonus": 10000,
+      "signing": 5000
+    },
+    "mba": {
+      "base": 111000,
+      "bonus": 20000,
+      "signing": 15000
+    }
+  },
+  "recruiting": {
+    "process": "Application → First Round (1 case + 1 behavioral, 30 min each) → Final Round (1 case + 1 behavioral + 1 written case, 30-60 min each)",
+    "unique": "Written case in final round. Behavioral interviews weighted more heavily than at other Big 4 firms. Strong emphasis on cultural fit and understanding KPMG values.",
+    "timeline": "Applications open September, first rounds October-November, offers typically within 2 days of final round with written offers in 10 days"
+  },
+  "email_format": "first_initial.last@kpmg.com",
+  "links": {
+    "website": "https://www.kpmg.com/us",
+    "linkedin": "https://www.linkedin.com/company/kpmg-us/",
+    "careers": "https://www.kpmguscareers.com/job-search/",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22KPMG%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221079%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221079%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22KPMG%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221079%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221079%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 1079,
+  "byu": {
+    "pipeline": "recruits",
+    "alumni_all_time": 87,
+    "alumni_current": 19,
+    "marriott_alumni_all_time": 13,
+    "marriott_alumni_current": 3,
+    "tip": "KPMG actively recruits from BYU and has a solid alumni network. Emphasize cultural fit and values alignment in behavioral interviews, which carry more weight than at other firms."
+  }
+}
+,
+{
+  "id": "kpmg",
+  "name": "KPMG",
+  "type": "Big 4",
+  "tagline": "Global Big Four professional services network—advisory, audit, tax across 143 countries",
+  "description": "KPMG is a global organization of independent professional services firms providing Audit, Tax and Advisory services. KPMG is the brand under which the member firms of KPMG International Limited (\"KPMG International\") operate and provide professional services. \"KPMG\" is used to refer to individual member firms within the KPMG organization or to one or more member firms collectively. KPMG firms operate in 143 countries and territories with more than 273,000 partners and employees working in member firms around the world. Each KPMG firm is a legally distinct and separate entity and describes itself as such. Each KPMG member firm is responsible for its own obligations and liabilities.",
+  "headquarters": "Amstelveen, Netherlands",
+  "founded": 1987,
+  "employees": 239190,
+  "parent_company": null,
+  "offices": [
+    "New York",
+    "Chicago",
+    "San Francisco",
+    "Los Angeles",
+    "Boston",
+    "Washington DC",
+    "Atlanta",
+    "Dallas",
+    "Houston",
+    "Philadelphia",
+    "Seattle",
+    "Denver",
+    "Miami",
+    "Phoenix",
+    "Detroit",
+    "Minneapolis",
+    "San Diego",
+    "Austin",
+    "Charlotte",
+    "Portland"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East",
+    "Africa"
+  ],
+  "specialties": [
+    "Advisory",
+    "Strategy",
+    "Risk",
+    "Digital",
+    "Operations",
+    "Transformation"
+  ],
+  "industries": [
+    "Financial Services",
+    "Technology",
+    "Healthcare",
+    "Consumer",
+    "Retail",
+    "Energy",
+    "Public Sector",
+    "Industrial"
+  ],
+  "known_for": "One of the Big Four accounting/advisory firms with truly global reach across 143 countries. KPMG Advisory provides strategy, risk, digital transformation, and operational consulting services with deep industry expertise, particularly in financial services and technology. Part of a broader professional services platform that also includes audit, tax, and legal services.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2 yrs) → Senior Analyst (2 yrs) → Associate Consultant (2-3 yrs) → Consultant (2-3 yrs) → Manager (2-4 yrs) → Senior Manager (2-5 yrs) → Director → Partner",
+  "travel": "high",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 90000,
+      "bonus": 10000,
+      "signing": 10000
+    },
+    "mba": {
+      "base": 165000,
+      "bonus": 35000,
+      "signing": 10000
+    }
+  },
+  "recruiting": {
+    "process": "Application + Resume → Video Interview 1 (behavioral + case) → Video Interview 2 (behavioral + case) → Offer",
+    "unique": "Rolling admissions—apply early as positions fill quickly. Emphasis on behavioral/cultural fit (50-75% behavioral) with less focus on pure strategy cases compared to MBB. Video interviews conducted remotely with business leaders.",
+    "timeline": "Applications open September on rolling basis, first rounds October-November, offers through winter. Process typically takes 1 month from application to offer."
+  },
+  "email_format": "lastname_firstInitial@kpmg.com",
+  "links": {
+    "website": "http://www.kpmg.com/",
+    "linkedin": "https://www.linkedin.com/company/kpmg/",
+    "careers": "https://www.kpmguscareers.com/",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22KPMG%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%222525300%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%222525300%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22KPMG%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%222525300%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%222525300%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 2525300,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 87,
+    "alumni_current": 7,
+    "marriott_alumni_all_time": 13,
+    "marriott_alumni_current": 3,
+    "tip": "KPMG has a smaller BYU presence compared to other Big 4 firms. Focus on networking with the 7 current BYU alumni and leverage the stronger connection through KPMG US (separate entity with 87 BYU alumni total). Consider applying to both KPMG global and KPMG US opportunities."
+  }
+}
+,
+{
+  "id": "leader-factor",
+  "name": "Leader Factor",
+  "type": "Boutique",
+  "tagline": "Pioneering psychological safety consulting—builds cultures of inclusion and innovation",
+  "description": "A leader is the # 1 factor in determining organizational success. Here at LeaderFactor, we are dedicated to sharing HR and L&D best practices as leaders plan, program, and sequence their development initiatives. Because we believe that real change happens at the behavioral level, this is the place to discover practical frameworks, tools, and insights to build a healthy culture that lasts.",
+  "headquarters": "American Fork, USA",
+  "founded": null,
+  "employees": 24,
+  "parent_company": null,
+  "offices": [],
+  "regions": ["North America"],
+  "specialties": ["Organizational Culture", "Leadership Development", "Change Management", "Human Capital"],
+  "industries": ["Financial Services", "Healthcare", "Technology", "Public Sector", "Energy", "Consumer"],
+  "known_for": "Founded by Dr. Timothy R. Clark (Oxford PhD), LeaderFactor is a global authority on psychological safety and cultural transformation. Known for The 4 Stages of Psychological Safety framework and Core15™ leadership system. Clients include Microsoft, NASA, Stanford, American Express, and over 200 executive teams worldwide.",
+  "hires_ug": null,
+  "hires_mba": null,
+  "career_path": null,
+  "travel": null,
+  "work_hours": null,
+  "compensation": {
+    "ug": null,
+    "mba": null
+  },
+  "recruiting": {
+    "process": null,
+    "unique": null,
+    "timeline": null
+  },
+  "email_format": null,
+  "links": {
+    "website": "http://leaderfactor.com",
+    "linkedin": "https://www.linkedin.com/company/leaderfactor/",
+    "careers": null,
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Leader%20Factor%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2218059141%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2218059141%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Leader%20Factor%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2218059141%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2218059141%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 18059141,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 16,
+    "alumni_current": 16,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Small but growing Utah-based firm with strong BYU presence—all 16 BYU alumni are still current employees. Focus on psychological safety and leadership development, not traditional strategy consulting."
+  }
+}
+,
+{
+  "id": "leavitt-partners",
+  "name": "Leavitt Partners",
+  "type": "Boutique",
+  "tagline": "Healthcare policy consulting—navigating value-based care and federal regulations",
+  "description": "Leavitt Partners helps clients successfully improve health by advancing value. The firm provides services focused on market and industry influences, value-based care, alternative payment models, federal strategies, public health, digital health, and alliances.",
+  "headquarters": "Washington, USA",
+  "founded": 2009,
+  "employees": 65,
+  "parent_company": "Health Management Associates",
+  "offices": ["Washington DC", "Salt Lake City"],
+  "regions": ["North America"],
+  "specialties": ["Healthcare Policy", "Value-Based Care", "Federal Strategy", "Alternative Payment Models", "Public Health", "Digital Health"],
+  "industries": ["Healthcare", "Public Sector", "Life Sciences", "Insurance"],
+  "known_for": "Founded by former HHS Secretary and Utah Governor Mike Leavitt, the firm specializes in healthcare policy intelligence and value-based care transformation. Known for deep federal policy connections and helping healthcare stakeholders navigate regulatory complexity.",
+  "hires_ug": true,
+  "hires_mba": null,
+  "career_path": "Analyst/Fellow (2-3 yrs) → Associate (2-3 yrs) → Consultant (3-4 yrs) → Director (4+ yrs)",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 70000,
+      "bonus": 6000,
+      "signing": null
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application (resume, cover letter, writing sample) → Phone Screen (30 min) → Panel Interview (video/in-person with 3 employees) → Written Case Study (1 hour timed analysis)",
+    "unique": "Written case study is timed (1 hour) with 3 different prompts to choose from, with candidates responding to one prompt with a one-page written analysis. Strong focus on healthcare policy knowledge and writing ability.",
+    "timeline": "Typically recruits from top universities with strong healthcare administration, economics, and public policy programs. Rolling applications."
+  },
+  "email_format": "first.last@leavittpartners.com",
+  "links": {
+    "website": "https://leavittpartners.com/",
+    "linkedin": "https://www.linkedin.com/company/leavitt-partners/",
+    "careers": "https://leavittpartners.com/careers/",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Leavitt%20Partners%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22925726%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22925726%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Leavitt%20Partners%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22925726%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22925726%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 925726,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 5,
+    "alumni_current": 5,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Founded by Utah Governor Mike Leavitt—Utah roots may help. Focus on healthcare policy knowledge and strong writing samples. Salt Lake City office may be more accessible than DC."
+  }
+}
+,
+{
+  "id": "lek",
+  "name": "L.E.K. Consulting",
+  "type": "Boutique",
+  "tagline": "Pure-play strategy boutique known as 'The Growth Guys'",
+  "description": "L.E.K. Consulting is a global management consulting firm that uses deep industry expertise and rigorous analysis to help business leaders achieve practical results with real impact. We are uncompromising in our approach to helping clients consistently make better decisions, deliver improved business performance and create greater shareholder returns. The firm advises and supports global companies that are leaders in their industries — including the largest private and public sector organizations, private equity firms and emerging entrepreneurial businesses. Founded in 1983, L.E.K. employs more than 2,300 professionals across the Americas, Asia-Pacific and Europe. We have deep expertise and a proven track record in a broad range of industries: • Business Services • Consumer Products • Education • Energy & Environment • Financial Services • Healthcare Services • Industrials • Life Sciences & Pharma • Media & Entertainment • MedTech • Private Equity • Retail • Technology • Travel & Transport",
+  "headquarters": "London, United Kingdom",
+  "founded": 1983,
+  "employees": 4244,
+  "parent_company": null,
+  "offices": [
+    "Boston",
+    "New York",
+    "Chicago",
+    "San Francisco",
+    "Los Angeles",
+    "Houston",
+    "Atlanta"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Middle East"
+  ],
+  "specialties": [
+    "Strategy",
+    "M&A",
+    "Private Equity",
+    "Due Diligence",
+    "Growth Strategy",
+    "Market Sizing"
+  ],
+  "industries": [
+    "Private Equity",
+    "Life Sciences",
+    "Healthcare",
+    "Consumer",
+    "Retail",
+    "Technology",
+    "Financial Services",
+    "Industrials",
+    "Media & Entertainment"
+  ],
+  "known_for": "L.E.K. is known as 'The Growth Guys' with deep expertise in growth strategy, private equity due diligence, and market sizing. The firm offers unusually low travel (office-based model) compared to traditional strategy consulting, strong quantitative rigor, and specialization in strategic growth across diverse industries.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate (1-2 yrs) → Associate Consultant (2 yrs) → Consultant (2 yrs) → Manager (3-5 yrs) → Principal (3-5 yrs) → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 108000,
+      "bonus": 28000,
+      "signing": 10000
+    },
+    "mba": {
+      "base": 167000,
+      "bonus": 40000,
+      "signing": 25000
+    }
+  },
+  "recruiting": {
+    "process": "Online Application → Online Assessments (numerical + verbal reasoning) → First Round (2 case interviews + fit) → Final Round (2 case + fit + 60-min written case)",
+    "unique": "Written case in final round, heavy emphasis on market sizing and quantitative analysis, online assessments required before interviews",
+    "timeline": "Applications open June-July for summer internships, deadlines mid-to-late August, process takes 3-4 weeks from application to offer"
+  },
+  "email_format": "f.lastname@lek.com",
+  "links": {
+    "website": "https://www.lek.com/",
+    "linkedin": "https://www.linkedin.com/company/lekconsulting/",
+    "careers": "https://www.lek.com/join-lek",
+    "mc_profile": "https://managementconsulted.com/lek-consulting/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22L.E.K.%20Consulting%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225210%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225210%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22L.E.K.%20Consulting%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225210%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225210%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 5210,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 66,
+    "alumni_current": 2,
+    "marriott_alumni_all_time": 7,
+    "marriott_alumni_current": 2,
+    "tip": "Low travel model makes L.E.K. attractive for work-life balance. Strong fit for students with quantitative skills interested in growth strategy and private equity work."
   }
 }
 ,
@@ -633,6 +2953,557 @@
 }
 ,
 {
+  "id": "mercer",
+  "name": "Mercer",
+  "type": "Boutique",
+  "tagline": "Global HR and benefits advisory—advising on talent, health, retirement, and investments",
+  "description": "At Mercer, A Marsh business, we're helping our clients realize their investment objectives, shape the future of work, and enhance health and retirement outcomes for their people. As a business of Marsh, for 80 years, we've been helping our clients, colleagues and communities build the confidence to thrive, creating healthier and more sustainable futures. Together with Marsh Risk, Guy Carpenter, and Oliver Wyman, we help organizations build resilience and competitive advantages from every angle. With annual revenue over $24 billion and more than 90,000 colleagues in 130 countries, Marsh helps build the confidence to thrive through the power of perspective.",
+  "headquarters": "New York, USA",
+  "founded": 1945,
+  "employees": 22125,
+  "parent_company": "Marsh McLennan",
+  "offices": ["New York", "Chicago", "Boston", "Washington DC", "Atlanta", "Dallas", "Houston", "Los Angeles", "San Francisco", "Philadelphia", "Minneapolis", "Phoenix", "Charlotte", "Miami", "Denver", "Portland"],
+  "regions": ["North America", "Europe", "Asia Pacific", "Latin America", "Middle East", "Africa"],
+  "specialties": ["Human Capital", "Health & Benefits", "Retirement", "Investments", "Talent Strategy", "Compensation & Rewards"],
+  "industries": ["Financial Services", "Healthcare", "Technology", "Consumer", "Energy", "Industrial", "Public Sector", "Private Equity"],
+  "known_for": "One of the world's largest HR consulting firms with deep expertise in workforce strategy, retirement planning, and employee benefits. Known for quantitative rigor in compensation benchmarking and actuarial analysis, collaborative culture, and better work-life balance than traditional strategy consulting.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Associate (2-3 yrs) → Senior Associate (3-4 yrs) → Principal (4-5 yrs) → Senior Principal (4+ yrs) → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 70000,
+      "bonus": 5000,
+      "signing": null
+    },
+    "mba": {
+      "base": 110000,
+      "bonus": 15000,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Resume → Phone/Video Screen (behavioral) → First Round (1-2 case + behavioral) → Final Round (3-4 case + behavioral interviews)",
+    "unique": "Heavy emphasis on fit and cultural alignment; cases focus on HR/benefits scenarios rather than traditional business strategy; less competitive than MBB but still rigorous",
+    "timeline": "MBA applications July-September, interviews August-October; undergraduate applications vary by school"
+  },
+  "email_format": "firstname.lastname@mercer.com",
+  "links": {
+    "website": "http://www.mercer.com",
+    "linkedin": "https://www.linkedin.com/company/mercer/",
+    "careers": "https://www.mercer.com/en-us/careers/mercer-careers/",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Mercer%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%222423%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%222423%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Mercer%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%222423%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%222423%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 2423,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 280,
+    "alumni_current": 32,
+    "marriott_alumni_all_time": 24,
+    "marriott_alumni_current": 2,
+    "tip": "Strong BYU alumni network (280+ all-time) but no active on-campus recruiting. Leverage alumni connections for informational interviews and referrals. Focus on HR consulting and benefits expertise to differentiate."
+  }
+}
+,
+{
+  "id": "nera",
+  "name": "NERA Economic Consulting",
+  "type": "Boutique",
+  "tagline": "Economic experts since 1961—litigation support and regulatory guidance",
+  "description": "Since 1961, NERA has provided unparalleled guidance on the most important market, legal, and regulatory questions of the day. Our work has shaped industries and policy around the world. Our field-leading experts and deep experience allows us to provide rigorous analysis, reliable expert testimony, and data-powered policy recommendations for the world's leading law firms and corporations as well as regulators and governments. Our experience, integrity, and economic ingenuity mean you can depend on us in the face of your biggest economic and financial challenges.",
+  "headquarters": "New York, USA",
+  "founded": 1961,
+  "employees": 777,
+  "parent_company": "Marsh McLennan",
+  "offices": [
+    "New York",
+    "Boston",
+    "Chicago",
+    "Houston",
+    "Los Angeles",
+    "Miami",
+    "Philadelphia",
+    "San Francisco",
+    "Washington DC",
+    "White Plains"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America"
+  ],
+  "specialties": [
+    "Antitrust & Competition",
+    "Securities & Finance",
+    "Intellectual Property",
+    "Litigation Support",
+    "Regulatory Economics",
+    "Transfer Pricing"
+  ],
+  "industries": [
+    "Financial Services",
+    "Energy",
+    "Healthcare",
+    "Technology",
+    "Telecommunications",
+    "Life Sciences"
+  ],
+  "known_for": "Pioneering the economic consulting industry in 1961, NERA applies rigorous microeconomic theory to litigation, regulatory matters, and expert testimony. Known for deep expertise in antitrust, securities litigation, and intellectual property disputes, with over 500 PhD economists and experts providing defensible analysis for the world's most complex legal and regulatory challenges.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Research Associate (2-3 yrs) → Associate Analyst (2 yrs) → Analyst (2-3 yrs) → Senior Analyst (requires MBA) → Consultant → Senior Consultant → VP → Senior VP",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 98000,
+      "bonus": 14000,
+      "signing": null
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application (resume, cover letter, transcripts) → Phone Screen (behavioral) → Super Day (5 rounds: behavioral + technical + case interviews with all levels)",
+    "unique": "Not all candidates receive case interviews. Behavioral testing to assess team fit. Heavy focus on economics knowledge and research skills. May require writing sample depending on position.",
+    "timeline": "Varies by office—no standardized timeline. Typically 2-3 rounds over 4-6 weeks from application to offer. Summer internships for final-year undergrads and graduate students."
+  },
+  "email_format": "firstname.lastname@nera.com",
+  "links": {
+    "website": "https://www.nera.com",
+    "linkedin": "https://www.linkedin.com/company/nera-economic-consulting/",
+    "careers": "https://www.nera.com/open-roles.html",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/nera-economic-consulting/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22NERA%20Economic%20Consulting%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225753%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225753%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22NERA%20Economic%20Consulting%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225753%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225753%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 5753,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "NERA has no BYU alumni presence. Focus on economics/econometrics coursework and research experience. Target offices with litigation practices. Network with Marsh McLenlan professionals who might provide internal referrals."
+  }
+}
+,
+{
+  "id": "north-highland",
+  "name": "North Highland",
+  "type": "Boutique",
+  "tagline": "Change and transformation consultancy with local staffing and strong work-life balance",
+  "description": "North Highland helps businesses move from strategy to reality, taking a pragmatic and practical approach to build solutions that work and create impact that lasts. As the world's leading change and transformation consultancy, our award-winning services – powered by a combination of talent and technology – turn client visions into real, measurable value.",
+  "headquarters": "Atlanta, USA",
+  "founded": 1992,
+  "employees": 2073,
+  "parent_company": "OMERS Private Equity",
+  "offices": [
+    "Atlanta",
+    "Los Angeles",
+    "Chicago",
+    "Philadelphia",
+    "Boston",
+    "Austin",
+    "Denver",
+    "Nashville",
+    "Houston",
+    "Minneapolis",
+    "Arlington"
+  ],
+  "regions": [
+    "North America",
+    "Europe"
+  ],
+  "specialties": [
+    "Transformation",
+    "Strategy",
+    "Operations",
+    "Digital",
+    "Data Modernization",
+    "Change Management"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Energy",
+    "Public Sector",
+    "Retail",
+    "Life Sciences",
+    "Media & Entertainment",
+    "Transportation"
+  ],
+  "known_for": "Founded in 1992 with a focus on work-life balance and local staffing model to minimize consultant travel. Known for practical, results-oriented transformation consulting across industries. Part of Cordence Worldwide network and backed by OMERS Private Equity since 2023.",
+  "hires_ug": false,
+  "hires_mba": true,
+  "career_path": "Business Analyst (2-3 yrs) → Consultant (2-3 yrs) → Senior Consultant (3-4 yrs) → Manager → Partner",
+  "travel": "moderate",
+  "work_hours": "balanced",
+  "compensation": {
+    "ug": null,
+    "mba": {
+      "base": 107000,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Resume → Phone Screen (recruiter) → HR Interview → Manager/Technical Interview → Offer",
+    "unique": "Does not hire fresh undergraduates. MBAs hired at Senior Consultant level. May include case study or business scenario analysis. Process can take 2-12 weeks.",
+    "timeline": "Rolling applications year-round, 2-12 weeks from application to offer"
+  },
+  "email_format": "firstname.lastname@northhighland.com",
+  "links": {
+    "website": "https://www.northhighland.com/",
+    "linkedin": "https://www.linkedin.com/company/northhighland/",
+    "careers": "https://careers.northhighland.com/",
+    "mc_profile": "https://managementconsulted.com/north-highland-consulting/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22North%20Highland%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22166391%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22166391%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22North%20Highland%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22166391%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22166391%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 166391,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 34,
+    "alumni_current": 6,
+    "marriott_alumni_all_time": 3,
+    "marriott_alumni_current": 3,
+    "tip": "North Highland doesn't recruit undergrads. MBAs or experienced professionals only. Leverage the 6 current BYU alumni for informational interviews about the Sr. Consultant role and their local office model."
+  }
+}
+,
+{
+  "id": "occ",
+  "name": "OC&C Strategy Consultants",
+  "type": "Boutique",
+  "tagline": "Consumer and retail strategy specialists with B Corp values",
+  "description": "At OC&C Strategy Consultants we have more than 35 years of experience at unpicking the most complex business challenges with simple, uncommon sense™. We're an international consulting firm, spanning 10 countries, but we've never seen size as an end in itself. Our expertise is focused on a few core specialisms, allowing us to deliver results that get noticed. Our people are agile thinkers, cut from different cloths but united by a relentless curiosity and desire to solve problems. To us, each client challenge is unique, so boilerplate solutions don't cut it. We interrogate a problem until we find its root. Then we develop a powerful way to solve it. We don't duck the difficult answers, we give clients the strategies they need. _ OC&C is a Certified B Corporation™ and is committed to embracing a new standard for the consulting landscape. Learn more about us at occstrategy.com",
+  "headquarters": "London, UK",
+  "founded": 1987,
+  "employees": 1052,
+  "parent_company": null,
+  "offices": ["New York", "Boston"],
+  "regions": ["North America", "Europe", "Asia Pacific"],
+  "specialties": ["Strategy", "M&A", "Due Diligence", "Digital", "Analytics"],
+  "industries": ["Consumer", "Retail", "Private Equity", "Technology", "Media & Entertainment", "Leisure"],
+  "known_for": "Founded by former Booz Allen consultants, OC&C built its reputation on deep consumer goods and retail expertise. Known for rigorous commercial due diligence for private equity and refusing to apply 'generic frameworks'—each client problem gets a bespoke solution. Certified B Corporation as of 2023.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate Consultant (2-3 yrs) → Consultant (2-3 yrs) → Manager (2-3 yrs) → Associate Partner (3-4 yrs) → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 119000,
+      "bonus": 12000,
+      "signing": null
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Online Assessment (45-min GMAT-style + HireVue) → First Round (2 case + 2 fit) → Final Round (2-4 interviews with Partners)",
+    "unique": "45-minute GMAT-style online assessment required before first round. Cases are highly interactive and commercially focused—closer to MBB rigor with heavy probing and little tolerance for vague answers. Some offices include written case exercise in final round.",
+    "timeline": "Applications open mid-August, close end of September for undergrads. MBA windows: Sept-Oct (full-time), Oct-Jan (internships). Feedback within 3 weeks of closing date. Non-rolling—all applications reviewed after deadline."
+  },
+  "email_format": "first.last@occstrategy.com",
+  "links": {
+    "website": "https://www.occstrategy.com/",
+    "linkedin": "https://www.linkedin.com/company/oc&c-strategy-consultants/",
+    "careers": "https://www.occstrategy.com/usa/careers/your-application/",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22OC%26C%20Strategy%20Consultants%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%228203%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%228203%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22OC%26C%20Strategy%20Consultants%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%228203%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%228203%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 8203,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 3,
+    "alumni_current": 1,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Very limited BYU pipeline—only 1 current alum. Focus networking on consumer/retail projects and emphasize analytical rigor. Their B Corp status suggests they value purpose-driven candidates."
+  }
+}
+,
+{
+  "id": "oliver-wyman",
+  "name": "Oliver Wyman",
+  "type": "Boutique",
+  "tagline": "Financial services specialist—deep risk and actuarial expertise within Marsh McLennan",
+  "description": "We guide clients through high-stakes decisions and transformative moments so they can adapt, grow, and thrive. Our edge? The power of perspective — driven by deep industry insight, specialized expertise, and a spirit of true collaboration.",
+  "headquarters": "New York, USA",
+  "founded": 1984,
+  "employees": 9379,
+  "parent_company": "Marsh McLennan",
+  "offices": [
+    "New York",
+    "Boston",
+    "Chicago",
+    "San Francisco",
+    "Washington DC",
+    "Los Angeles",
+    "Dallas",
+    "Houston",
+    "Atlanta",
+    "Miami",
+    "Detroit",
+    "Seattle",
+    "Minneapolis"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East",
+    "Africa"
+  ],
+  "specialties": [
+    "Strategy",
+    "Risk",
+    "Actuarial",
+    "Digital",
+    "Operations",
+    "M&A"
+  ],
+  "industries": [
+    "Financial Services",
+    "Insurance",
+    "Healthcare",
+    "Energy",
+    "Retail",
+    "Technology"
+  ],
+  "known_for": "Founded by former Booz Allen partners in 1984 as a financial services specialist. Known for rigorous analytical approach, deep actuarial expertise, and strong risk management capabilities. Part of Marsh McLennan—maintains specialized focus while resisting generalist diversification.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Consultant (2-3 yrs) → Associate (2-3 yrs) → Engagement Manager (3-4 yrs) → Partner",
+  "travel": "high",
+  "work_hours": "intense",
+  "compensation": {
+    "ug": {
+      "base": 95000,
+      "bonus": 15000,
+      "signing": 10000
+    },
+    "mba": {
+      "base": 190000,
+      "bonus": 36000,
+      "signing": 45000
+    }
+  },
+  "recruiting": {
+    "process": "Application → Phone Screen (case + fit) → First Round (2 interviews: 1 case + 1 fit) → Final Round (3 interviews: 1 case + 1 written case + 1 fit)",
+    "unique": "Written case exercise in final round. Strong emphasis on financial services and risk management scenarios.",
+    "timeline": "Applications open July-August, rolling review. Process takes 2-3 months total, typically 14 days between steps. Interviews begin late August-October."
+  },
+  "email_format": "firstname.lastname@oliverwyman.com",
+  "links": {
+    "website": "https://www.oliverwyman.com/index.html",
+    "linkedin": "https://www.linkedin.com/company/oliver-wyman/",
+    "careers": "https://www.oliverwyman.com/careers.html",
+    "mc_profile": "https://managementconsulted.com/oliver-wyman/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Oliver%20Wyman%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%222454%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%222454%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Oliver%20Wyman%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%222454%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%222454%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 2454,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 26,
+    "alumni_current": 6,
+    "marriott_alumni_all_time": 1,
+    "marriott_alumni_current": 1,
+    "tip": "Small BYU presence—leverage financial services or actuarial background. Network with alumni in Boston and New York offices where financial services hiring is strongest."
+  }
+}
+,
+{
+  "id": "palm-tree",
+  "name": "Palm Tree LLC",
+  "type": "Boutique",
+  "tagline": "Private equity-focused M&A advisor born out of PE",
+  "description": "As a single-source partner, Palm Tree integrates financial, operational, analytical, and capital solutions to advise and execute value-creation initiatives that drive transactions, transitions, and transformations. We guide private equity firms through high-stakes processes, engaging with them to highlight opportunities, mitigate risks, and reduce deal friction. Our integrated services work alongside management teams to help them prepare for, navigate, and succeed in strategic events so they can focus on company performance and preserving operational capacity. We were born out of private equity. It gives us the resilience, flexibility, and perspective of owners and operators. Our team comes from private equity, Big-4 accounting, investment banking, and business operations experience.",
+  "headquarters": "Los Angeles, USA",
+  "founded": 2010,
+  "employees": 80,
+  "parent_company": null,
+  "offices": ["Los Angeles", "Chicago", "Detroit", "Dallas"],
+  "regions": ["North America"],
+  "specialties": ["M&A", "Transaction Advisory", "Operations", "Finance & Accounting", "Data & Analytics", "Investment Banking"],
+  "industries": ["Private Equity"],
+  "known_for": "The modern M&A advisor for private equity, Palm Tree is unique as a one-stop-shop specializing in the full PE deal lifecycle. With 600+ engagements across 6 continents totaling $75B+ in transaction value, they bring hands-on expertise from private equity, Big-4, and investment banking backgrounds.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Senior Analyst (2-3 yrs) → Associate (2-3 yrs) → Vice President → Principal",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 75000,
+      "bonus": 15000,
+      "signing": null
+    },
+    "mba": {
+      "base": 125000,
+      "bonus": 30000,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Resume → Behavioral Round (recruiting team) → Peer Fit Interview → Case Study (4-6 hrs) → Technical Review (1 hr with senior member) → Final Rounds (culture fit)",
+    "unique": "Extended 4-6 hour case study conducted off-hours or over the weekend, followed by detailed technical review with senior leadership",
+    "timeline": "Rolling applications year-round, 3-4 weeks from application to offer"
+  },
+  "email_format": "first_initial.last@palmtreellc.com",
+  "links": {
+    "website": "https://www.palmtreellc.com/",
+    "linkedin": "https://www.linkedin.com/company/palm-tree-llc/",
+    "careers": "https://palmtreellc.com/careers/",
+    "mc_profile": "https://managementconsulted.com/palm-tree-llc/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Palm%20Tree%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221689444%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221689444%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Palm%20Tree%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221689444%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221689444%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 1689444,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 3,
+    "alumni_current": 1,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Limited BYU presence—network with the single current alumnus and reach out directly to LA office recruiters"
+  }
+}
+,
+{
+  "id": "point-b",
+  "name": "Point B",
+  "type": "Boutique",
+  "tagline": "Employee-owned firm balancing impact with work-life quality",
+  "description": "Trusted by the world's leading organizations, Point B is a consulting company that drives impact at the intersection of expertise, industry insight, and transformative technology. This collaborative approach enables you to solve your most important challenges by bringing together the right mix of talent and technology to deliver greater value and impact. With over 850 associates in the US and 3,000+ consultants around the world through our partnership with Nextcontinent, we work where you do to deliver the change you seek.",
+  "headquarters": "Seattle, USA",
+  "founded": 1995,
+  "employees": 746,
+  "parent_company": "Endeavour",
+  "offices": [
+    "Seattle",
+    "New York",
+    "Boston",
+    "Chicago",
+    "Austin",
+    "Dallas",
+    "Denver",
+    "Los Angeles",
+    "Phoenix",
+    "Portland",
+    "San Antonio",
+    "San Francisco",
+    "Charlotte"
+  ],
+  "regions": [
+    "North America"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Digital Transformation",
+    "Technology",
+    "M&A",
+    "Data & Analytics",
+    "Healthcare"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Consumer",
+    "Retail",
+    "Energy",
+    "Life Sciences"
+  ],
+  "known_for": "Founded in 1995 by three former consultants seeking to build an alternative to traditional big-firm consulting, Point B is 100% employee-owned (ESOP) with a distinctive focus on work-life balance. The firm promotes 'wrapping work around life' with local staffing options, flexible PTO, and 40-45 hour work weeks—significantly more balanced than MBB firms. Partnered with Endeavour (PE firm) and Nextcontinent (global consulting network).",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Manager (3-4 yrs) → Director (4+ yrs) → Partner",
+  "travel": "low",
+  "work_hours": "balanced",
+  "compensation": {
+    "ug": {
+      "base": 93000,
+      "bonus": null,
+      "signing": null
+    },
+    "mba": {
+      "base": 140000,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Phone Screen → Multiple Interview Rounds (behavioral + case scenarios) → Potential Written Work Sample/Business Case Presentation → Offer",
+    "unique": "May include take-home business case with slide presentation; case interviews are not always administered; focuses heavily on cultural fit and work-life values; process is generally regarded as easier than MBB interviews",
+    "timeline": "Process typically takes 3-7 weeks from application to offer; rolling applications for experienced hires; structured recruiting for students and recent graduates"
+  },
+  "email_format": "first_initial.lastname@pointb.com",
+  "links": {
+    "website": "https://www.pointb.com",
+    "linkedin": "https://www.linkedin.com/company/point-b/",
+    "careers": "https://www.pointb.com/Careers",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Point%20B%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22165506%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22165506%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Point%20B%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22165506%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22165506%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 165506,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No BYU alumni presence detected. Focus on demonstrating cultural fit with Point B's work-life balance values and employee ownership model. Highlight interest in technology-enabled transformation and local market staffing preferences."
+  }
+}
+,
+{
   "id": "porsche-consulting",
   "name": "Porsche Consulting",
   "type": "Boutique",
@@ -689,6 +3560,171 @@
     "marriott_alumni_all_time": 2,
     "marriott_alumni_current": 0,
     "tip": null
+  }
+}
+,
+{
+  "id": "putnam",
+  "name": "Putnam (Inizio Advisory)",
+  "type": "Boutique",
+  "tagline": "Life sciences strategy boutique bridging science and business decisions",
+  "description": "We are now Inizio Ignite, the global advisory partner for health and life sciences, encompassing connected expertise across Research Partnership, Putnam, Vynamic, and STEM. Our Putnam strategy consulting team bridges science and strategy to enable confident decision-making and build value for pharma. We partner with leading health and life science companies serving brand & commercial leaders, Medical Affairs, access & pricing, and R&D. Our expertise spans offerings including therapeutic area strategy, data & AI strategy, go-to-market strategy, commercialization & growth, value, pricing & access (VPA) strategy, and evidence generation. Proudly part of Inizio – the market-leading commercialization partner for health and life sciences. From early-stage development to loss of exclusivity, we simplify complexity, unlock value, and make collaboration seamless at every pivotal moment – supporting confident, insight-driven decisions that move innovation forward.",
+  "headquarters": "Boston, USA",
+  "founded": 1988,
+  "employees": 416,
+  "parent_company": "Inizio Advisory",
+  "offices": ["Boston", "New York", "San Francisco"],
+  "regions": ["North America", "Europe", "Asia Pacific"],
+  "specialties": ["Strategy", "Commercialization", "Pricing & Market Access", "Evidence Generation", "Data & AI Strategy"],
+  "industries": ["Life Sciences", "Pharmaceuticals", "Biotechnology", "Medical Devices", "Diagnostics"],
+  "known_for": "Founded by ex-Bain consultants in 1988, Putnam is a leading life sciences strategy boutique serving all top 20 global biopharma companies. Known for deep scientific expertise, minimal travel requirements (under 25%), and strong work-life balance compared to traditional consulting firms.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate Consultant (2-3 yrs) → Senior Associate (2-3 yrs) → Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Manager (3-4 yrs) → Principal (3-4 yrs) → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 93000,
+      "bonus": 8000,
+      "signing": null
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Resume Screen → Phone Interview (behavioral, for non-core schools) → First Round (2 case interviews + behavioral) → Final Round (2 case + 1 behavioral + Q&A)",
+    "unique": "Heavy focus on healthcare and life sciences cases including drug pricing, product launch strategy, and market sizing. Behavioral interviews emphasize Putnam's core values around teamwork, leadership, and grit. Candidate-led case format.",
+    "timeline": "2-4 weeks from application to offer. Hear back within 2-5 business days between rounds. Offers extended within 48-72 hours after final round."
+  },
+  "email_format": "first_initial.lastname@putassoc.com",
+  "links": {
+    "website": "https://inizio.com/our-businesses/ignite/about-inizio-ignite/our-teams/",
+    "linkedin": "https://www.linkedin.com/company/putnam-associates/",
+    "careers": "https://www.putassoc.com/join-putnam/",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Putnam%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2221263%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2221263%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Putnam%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2221263%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2221263%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 21263,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No current BYU pipeline. Focus on networking with life sciences professionals and highlighting any biology, chemistry, or health-related coursework. Consider gaining research experience or biotech industry exposure to strengthen your profile."
+  }
+}
+,
+{
+  "id": "pwc-consulting",
+  "name": "PwC Consulting",
+  "type": "Big 4",
+  "tagline": "Big 4 scale with execution-focused consulting from strategy through implementation",
+  "description": "Preparing for tomorrow's workforce, today. At PwC, we help clients transform their businesses today in order to thrive tomorrow. As we all experience fundamental shifts in the way we work, our team is taking a holistic approach that encompasses business strategy, as well as operational, technological, regulatory, social and tax considerations to help our clients navigate the future.",
+  "headquarters": "London, UK",
+  "founded": 1998,
+  "employees": 10000,
+  "parent_company": "PwC",
+  "offices": [
+    "New York",
+    "Boston",
+    "Chicago",
+    "San Francisco",
+    "Los Angeles",
+    "Dallas",
+    "Houston",
+    "Atlanta",
+    "Miami",
+    "Washington DC",
+    "Philadelphia",
+    "Seattle",
+    "Denver",
+    "Phoenix",
+    "Minneapolis",
+    "Detroit",
+    "Charlotte",
+    "Austin",
+    "Baltimore"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East",
+    "Africa"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Digital",
+    "M&A",
+    "Transformation",
+    "Risk",
+    "Technology"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Consumer",
+    "Energy",
+    "Industrial",
+    "Public Sector"
+  ],
+  "known_for": "PwC Consulting is known for execution-focused work that goes beyond strategy to implementation. Part of the Big 4, they combine deep industry expertise with the scale and resources to deliver complex projects end-to-end, from C-suite strategy down to operational details. Strong reputation for technology transformation, risk management, and helping organizations navigate regulatory complexity.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate (2-3 yrs) → Senior Associate (2-3 yrs) → Manager (2-3 yrs) → Senior Manager (2-3 yrs) → Director (3-4 yrs) → Managing Director (3-4 yrs) → Partner",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 85000,
+      "bonus": 12000,
+      "signing": 5000
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Online Assessment (Numerical, Verbal, Inductive Reasoning) → Digital Interview → First Round (Behavioral with Recruiter) → Second Round (2 case + 2 behavioral) → Final Round (2-3 case + behavioral, possible group case or written case)",
+    "unique": "Online assessments required before interviews. Interviewer-led case format. Some offices use group case exercises during assessment day, especially for undergrad internship recruiting.",
+    "timeline": "Applications open in fall, interviews October-November, rolling basis. 4-6 weeks from application to offer typical."
+  },
+  "email_format": "firstname.lastname@pwc.com",
+  "links": {
+    "website": "https://www.pwc.com/us/en.html",
+    "linkedin": "https://www.linkedin.com/showcase/pwc-us-consulting/",
+    "careers": "https://www.pwc.com/us/en/careers.html",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22PwC%20Consulting%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221044%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221044%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22PwC%20Consulting%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%221044%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%221044%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 1044,
+  "byu": {
+    "pipeline": "recruits",
+    "alumni_all_time": 151,
+    "alumni_current": 24,
+    "marriott_alumni_all_time": 25,
+    "marriott_alumni_current": 6,
+    "tip": "PwC has strong BYU connections with 24 current BYU alumni. Network with alumni across their 70+ US offices to find the best location fit for your interests and desired industry exposure."
   }
 }
 ,
@@ -750,6 +3786,180 @@
     "marriott_alumni_all_time": 27,
     "marriott_alumni_current": 7,
     "tip": "Apply through Strategy& portal specifically, not general PwC careers site—they have separate recruiting processes."
+  }
+}
+,
+{
+  "id": "roland-berger",
+  "name": "Roland Berger",
+  "type": "Boutique",
+  "tagline": "Europe's leading independent strategy consultancy with global reach",
+  "description": "Roland Berger is a global leader in strategy consulting, renowned for its focus on transformation, innovation, and sustainability. Founded in 1967 and headquartered in Munich, we shape the future of businesses and industries globally. Whether it's digitalization, globalization, or sustainability, we see challenges as opportunities to drive impact. With innovative solutions, deep industry expertise, and agile international teams, we deliver measurable results and lasting change. Our goal is clear: accelerate transformation, build resilient business models, and contribute to a CO2-neutral future – bold, collaborative, and impactful.",
+  "headquarters": "Munich, Germany",
+  "founded": 1967,
+  "employees": 4696,
+  "parent_company": null,
+  "offices": [
+    "Boston",
+    "Chicago",
+    "Detroit"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Middle East",
+    "Latin America"
+  ],
+  "specialties": [
+    "Strategy",
+    "Digital",
+    "Operations",
+    "Restructuring",
+    "Transformation",
+    "M&A"
+  ],
+  "industries": [
+    "Automotive",
+    "Aerospace & Defense",
+    "Chemicals",
+    "Consumer",
+    "Energy",
+    "Financial Services",
+    "Healthcare",
+    "Industrial",
+    "Technology"
+  ],
+  "known_for": "The only native European strategy consultancy with global presence, Roland Berger is top 3 in Europe and top 10 globally. Known for entrepreneurial culture, strong industrial sector expertise (especially automotive and chemicals), and practical implementation focus rather than purely theoretical frameworks.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Junior Consultant (2-3 yrs) → Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Project Manager (2-3 yrs) → Director (3-4 yrs) → Principal (3-4 yrs) → Partner",
+  "travel": "high",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    },
+    "mba": {
+      "base": 160000,
+      "bonus": 32000,
+      "signing": 30000
+    }
+  },
+  "recruiting": {
+    "process": "Resume & Cover Letter → Online Reasoning Test (90 min: numerical, verbal, figurative) → First Round (case + fit) → Final Round (written case + fit + business knowledge discussion)",
+    "unique": "90-minute online reasoning test similar to GMAT. Final round includes 'business knowledge discussion' which is like an unstructured case. Emphasis on entrepreneurial drive in fit interviews. All candidates receive feedback regardless of outcome.",
+    "timeline": null
+  },
+  "email_format": "firstname.lastname@rolandberger.com",
+  "links": {
+    "website": "https://www.rolandberger.com/en/?country=US",
+    "linkedin": "https://www.linkedin.com/company/rolandberger/",
+    "careers": "https://www.rolandberger.com/en/Join/All-Jobs/",
+    "mc_profile": "https://managementconsulted.com/roland-berger/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Roland%20Berger%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%223950%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%223950%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Roland%20Berger%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%223950%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%223950%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 3950,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No BYU alumni network at Roland Berger. Focus networking on European offices where firm has strongest brand, or target US offices (Boston, Chicago, Detroit) through cold outreach. Emphasize entrepreneurial mindset and willingness to take initiative—highly valued in RB's startup-like culture."
+  }
+}
+,
+{
+  "id": "simon-kucher",
+  "name": "Simon-Kucher & Partners",
+  "type": "Boutique",
+  "tagline": "World's leading pricing and commercial growth specialist",
+  "description": "Simon-Kucher is a global consultancy with more than 2,000 employees in 30+ countries. Our sole focus is on unlocking better growth that drives measurable revenue and profit for our clients. We achieve this by optimizing every lever of their commercial strategy – product, price, innovation, marketing, and sales – based on deep insights into what customers want and value. With nearly 40 years of experience in monetization topics of all kinds, we are regarded as the world's leading pricing and growth specialist. (Legal notice: https://www.simon-kucher.com/en/legal-notice) -- Terms of use: Simon-Kucher's official LinkedIn page is run by Simon-Kucher & Partners Strategy & Marketing Consultants (SK). This is a public forum and we welcome your comments, thoughts and insights. However, all posts are regularly monitored and SK will remove, hide and/or delete any that are found to be abusive or deemed inappropriate for this page for whatever reason, including content that is deemed none compliant with LinkedIn's User Agreement (https://www.linkedin.com/legal/user-agreement). This includes the banning and reporting of users who are deemed to be non compliant with the above expectations of Simon-Kucher. All comments, visuals, links to other digital pages and other type of material posted by followers on this site (\"User Content\") do not necessarily reflect the opinions or values of SK, its employees, partners or affiliates. SK does not represent or warrant the accuracy of any statement or product claims made here, is not responsible for any User Content on this site and does not endorse any opinions expressed on this page.",
+  "headquarters": "Bonn, Germany",
+  "founded": 1985,
+  "employees": 2873,
+  "parent_company": null,
+  "offices": [
+    "Boston",
+    "New York",
+    "Chicago",
+    "San Francisco",
+    "Atlanta",
+    "Houston"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East"
+  ],
+  "specialties": [
+    "Pricing",
+    "Strategy",
+    "Digital",
+    "Marketing",
+    "Sales"
+  ],
+  "industries": [
+    "Consumer",
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Industrial"
+  ],
+  "known_for": "Founded in 1985 as a university spinoff, Simon-Kucher pioneered the field of pricing strategy and has become the world's leading pricing and growth specialist. The firm claims projects increase client profitability by 100-500 basis points on average. Unlike generalist consultancies, Simon-Kucher focuses exclusively on commercial growth—optimizing product, price, innovation, marketing, and sales with scientific rigor.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Consultant (1.5-2 yrs) → Senior Consultant (1.5-2 yrs) → Manager (2 yrs) → Director (2-3 yrs) → Partner",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 92000,
+      "bonus": 10000,
+      "signing": null
+    },
+    "mba": {
+      "base": 170000,
+      "bonus": 40000,
+      "signing": 25000
+    }
+  },
+  "recruiting": {
+    "process": "Application → First Round (2 interviews: case + fit) → Final Round (3 interviews: case + fit)",
+    "unique": "Strong emphasis on pricing cases reflecting firm's specialization; candidate-led format; cases focus on monetization, revenue growth, and sales excellence rather than pure strategy",
+    "timeline": "Approximately 26 days from application to offer; 3-4 rounds total combining behavioral, quantitative, and case interviews"
+  },
+  "email_format": "firstname.lastname@simon-kucher.com",
+  "links": {
+    "website": "https://www.simon-kucher.com/en",
+    "linkedin": "https://www.linkedin.com/company/simon-kucher/",
+    "careers": "https://www.simon-kucher.com/en/careers",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/simon-kucher-partners/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Simon-Kucher%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%229546%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%229546%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Simon-Kucher%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%229546%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%229546%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 9546,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 4,
+    "alumni_current": 1,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Very limited BYU presence (only 1 current alum). Focus on cold networking through LinkedIn and target partners/managers in Boston, New York, or San Francisco offices. Emphasize quantitative skills and pricing/revenue optimization interests."
   }
 }
 ,
@@ -853,6 +4063,255 @@
     "marriott_alumni_all_time": 4,
     "marriott_alumni_current": 0,
     "tip": "Leverage BYU alumni network, particularly in Seattle and Denver offices. Strong fit for candidates interested in technology consulting with better work-life balance. Salt Lake City office may be particularly BYU-friendly given proximity to Utah."
+  }
+}
+,
+{
+  "id": "stax",
+  "name": "Stax (Grant Thornton)",
+  "type": "Boutique",
+  "tagline": "PE-focused strategy firm specializing in commercial due diligence and value creation",
+  "description": "Grant Thornton Stax is a global strategy consulting firm specializing in commercial due diligence, value creation, and exit planning for private equity firms, PE-backed companies, hedge funds, and investment banks across a broad range of industries including software/technology, industrials, business services, healthcare, consumer, and the events ecosystem. The firm partners with clients to provide data-driven, actionable insights designed to drive growth, enhance profits, increase value, and make better investment decisions. Stax is a wholly-owned subsidiary of Grant Thornton Advisors LLC. Grant Thornton International Limited (GTIL) and the member firms, including Grant Thornton LLP and Grant Thornton Advisors LLC, are not a worldwide partnership. Services are delivered by the member firms. GTIL and its member firms are not agents of, and do not obligate, one another and are not liable for one another's acts or omissions.",
+  "headquarters": "Boston, USA",
+  "founded": 1994,
+  "employees": 372,
+  "parent_company": "Grant Thornton",
+  "offices": ["Boston", "New York", "Chicago"],
+  "regions": ["North America", "Europe"],
+  "specialties": ["Strategy", "Commercial Due Diligence", "M&A", "Value Creation", "Exit Planning"],
+  "industries": ["Private Equity", "Technology", "Industrial", "Business Services", "Healthcare", "Consumer"],
+  "known_for": "Leading PE-focused strategy firm with deep commercial due diligence expertise and limited-travel model. Ranked #1 for work-life balance in EMEA (Vault 2025). Acquired by Grant Thornton in 2025, serving nearly 70% of the PE International 300.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate Consultant (18-24 mos) → Consultant (18-24 mos) → Senior Consultant (18-24 mos) → Manager (3-5 yrs) → Senior Manager (3-5 yrs) → Director → Managing Director",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 83000,
+      "bonus": 12000,
+      "signing": null
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Phone Screen → First Round (45-min behavioral + 45-min case) → Second Round (behavioral + Excel test + case) → Final Round (30-min behavioral with partner)",
+    "unique": "Excel modeling test with Q&A in second round - distinctive focus on analytical modeling and presentation skills. Atypical case questions with back-and-forth discussion. May include slide re-arrangement exercise.",
+    "timeline": "Process typically takes 2-3 weeks from application to offer. Average 17 days reported across all roles."
+  },
+  "email_format": "first.last@us.gt.com",
+  "links": {
+    "website": "https://www.stax.com/",
+    "linkedin": "https://www.linkedin.com/company/grant-thornton-stax/",
+    "careers": "https://www.stax.com/careers",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/stax/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Stax%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22644906%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22644906%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Stax%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22644906%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22644906%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 644906,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 2,
+    "alumni_current": 2,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Very limited BYU presence - requires aggressive networking. Focus on Boston, New York, or Chicago offices. Highlight any private equity or Excel modeling experience."
+  }
+}
+,
+{
+  "id": "west-monroe",
+  "name": "West Monroe",
+  "type": "Boutique",
+  "tagline": "Business and technology consulting with employee ownership culture",
+  "description": "West Monroe is a global business and technology consulting firm passionate about creating value for our clients. We co-create solutions that accelerate results now and prepare industries to tackle what's next. We're excited by the possibilities that technology creates. We work with our clients to deliver on the possible, building on their goals, generating fresh insights and creating inspiring outcomes. We excel at the intersection of industry, strategy, people and technology—always driving rapid impact. Our all-in approach comes from our unique employee ownership structure. Our clients' success is our success. From the beginning, our growth has come from putting people at the center. Fortune and USA Today consistently celebrate West Monroe as a top workplace, and we're recognized as a leading consultancy by Forbes and Forrester. Share our passion at westmonroe.com.",
+  "headquarters": "Chicago, USA",
+  "founded": 2002,
+  "employees": 2182,
+  "parent_company": null,
+  "offices": [
+    "Chicago",
+    "Boston",
+    "Dallas",
+    "Houston",
+    "Los Angeles",
+    "Minneapolis",
+    "New York",
+    "Pittsburgh",
+    "San Francisco",
+    "Seattle",
+    "Washington DC"
+  ],
+  "regions": [
+    "North America",
+    "Europe"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Digital",
+    "M&A",
+    "Technology",
+    "AI"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Consumer",
+    "Energy",
+    "Insurance",
+    "Life Sciences",
+    "Private Equity"
+  ],
+  "known_for": "West Monroe combines business and technology consulting expertise with a unique 50/50 employee-MSD Partners ownership structure. Known for middle-market focus, practical implementations, and award-winning culture. Great Place To Work Certified for 10+ consecutive years.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Manager (3-4 yrs) → Senior Manager (3-4 yrs) → Director → Partner",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 85000,
+      "bonus": 10000,
+      "signing": 5000
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Video Interview (HireVue - 2 behavioral questions) → Super Day (3 interviews: Case + Skills + Behavioral, 45 min each)",
+    "unique": "Story-driven case studies from real West Monroe projects, conversational interview style rather than rigid Q&A format",
+    "timeline": "Sophomore Series program for rising juniors, fall recruiting for full-time roles, 3-5 interviews total with different employees"
+  },
+  "email_format": "first_initial.lastname@westmonroe.com",
+  "links": {
+    "website": "https://www.westmonroe.com/",
+    "linkedin": "https://www.linkedin.com/company/westmonroe/",
+    "careers": "https://www.westmonroe.com/careers",
+    "mc_profile": "https://managementconsulted.com/west-monroe-partners/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22West%20Monroe%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2213798%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2213798%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22West%20Monroe%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2213798%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2213798%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 13798,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No current BYU alumni pipeline. Focus on networking through industry events and reaching out to consultants in target offices (Chicago, Dallas, Seattle). Strong fit for students with tech + business backgrounds."
+  }
+}
+,
+{
+  "id": "zs-associates",
+  "name": "ZS Associates",
+  "type": "Boutique",
+  "tagline": "Life sciences powerhouse combining data science and consulting expertise",
+  "description": "ZS is a management consulting and technology firm that partners with companies to improve life and how we live it. We transform ideas into impact by bringing together data, science, technology and human ingenuity to deliver better outcomes for all. Founded in 1983, ZS has more than 13,000 employees in over 35 offices worldwide. To learn more, visit www.zs.com/ At ZS, our mission is to inspire each other to bring our unique perspective and experience to work each day. When you join our firm, you have access to a wealth of community groups to support you, energize you and inspire you to bring your authentic self to work each day.",
+  "headquarters": "Evanston, USA",
+  "founded": 1983,
+  "employees": 20848,
+  "parent_company": null,
+  "offices": [
+    "Evanston",
+    "New York",
+    "Chicago",
+    "Boston",
+    "San Francisco",
+    "Atlanta",
+    "Philadelphia",
+    "Washington DC",
+    "Seattle",
+    "Los Angeles",
+    "San Diego",
+    "Princeton",
+    "Raleigh-Durham"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America"
+  ],
+  "specialties": [
+    "Strategy",
+    "Analytics",
+    "Digital",
+    "Sales & Marketing",
+    "Operations",
+    "Technology"
+  ],
+  "industries": [
+    "Life Sciences",
+    "Healthcare",
+    "Consumer",
+    "Retail",
+    "Financial Services",
+    "Technology",
+    "Telecommunications",
+    "Travel & Hospitality"
+  ],
+  "known_for": "ZS is recognized as the leading consulting firm in life sciences and healthcare, with deep expertise in commercial strategy, sales force effectiveness, and advanced analytics. Founded by two Northwestern professors, ZS combines rigorous quantitative methods with hands-on implementation capabilities.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate (2 yrs) → Associate Consultant (2-3 yrs) → Consultant (2-3 yrs) → Manager (3 yrs) → Associate Principal (3-4 yrs) → Principal",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 90000,
+      "bonus": 9000,
+      "signing": 8000
+    },
+    "mba": {
+      "base": 175000,
+      "bonus": 30000,
+      "signing": 30000
+    }
+  },
+  "recruiting": {
+    "process": "Application → Online Assessment (quant, verbal, logical) → Video Interview (8 video questions + 3 written) → Case Interviews (2-4 rounds) → Behavioral Interviews",
+    "unique": "Video interview with timed responses (30 sec to think, 3 min to answer), plus written brain teasers. Heavy focus on analytics and quantitative problem-solving throughout the process.",
+    "timeline": "Campus recruiting in fall, 2-4 weeks response time during busy season"
+  },
+  "email_format": "first.last@zs.com",
+  "links": {
+    "website": "https://www.zs.com",
+    "linkedin": "https://www.linkedin.com/company/zs-associates/",
+    "careers": "https://jobs.zs.com/jobs",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/zs-associates/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22ZS%20Associates%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225240%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225240%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22ZS%20Associates%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225240%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225240%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 5240,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 16,
+    "alumni_current": 8,
+    "marriott_alumni_all_time": 3,
+    "marriott_alumni_current": 1,
+    "tip": "Focus on healthcare and life sciences interests when networking—ZS values deep industry knowledge alongside analytical skills"
   }
 }
 ]

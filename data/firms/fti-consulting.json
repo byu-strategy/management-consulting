@@ -1,0 +1,91 @@
+{
+  "id": "fti-consulting",
+  "name": "FTI Consulting",
+  "type": "Boutique",
+  "tagline": "Crisis and transformation experts spanning restructuring to forensics",
+  "description": "FTI Consulting is the leading global expert firm for organizations facing crisis and transformation, with more than 7,900 employees located in 32 countries and territories. Our professionals work closely with clients to anticipate, illuminate and overcome complex business challenges and make the most of opportunities.",
+  "headquarters": "Washington DC, USA",
+  "founded": 1982,
+  "employees": 10192,
+  "parent_company": null,
+  "offices": [
+    "Washington DC",
+    "New York",
+    "Boston",
+    "Chicago",
+    "Atlanta",
+    "Dallas",
+    "Houston",
+    "Denver",
+    "Los Angeles",
+    "San Francisco"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Restructuring",
+    "Corporate Finance",
+    "Forensic Consulting",
+    "Litigation Consulting",
+    "Economic Consulting",
+    "Risk",
+    "Strategic Communications"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Energy",
+    "Technology",
+    "Private Equity",
+    "Public Sector",
+    "Real Estate"
+  ],
+  "known_for": "Leading global expert firm specializing in crisis management, corporate restructuring, forensic investigations, and litigation support. Known for handling high-stakes, complex business challenges with deep technical expertise across five specialized segments.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Director (3-4 yrs) → Senior Director (3-4 yrs) → Managing Director (4+ yrs) → Senior Managing Director",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 80000,
+      "bonus": 10000,
+      "signing": 5000
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Online Assessment (numerical, verbal, logical reasoning) → First Round (30-60 min behavioral/case with Senior Analyst or Engagement Manager) → Final Round (2-3 interviews with Directors/Partners including case + behavioral)",
+    "unique": "Pre-recorded video interview required; preference forms must be completed; two-stage process with emphasis on both technical and behavioral fit",
+    "timeline": "Applications open late August-September for diversity events, September-October for general recruiting; process takes several weeks to 2 months from application to offer"
+  },
+  "email_format": "firstname.lastname@fticonsulting.com",
+  "links": {
+    "website": "https://www.fticonsulting.com/",
+    "linkedin": "https://www.linkedin.com/company/fti-consulting/",
+    "careers": "https://www.fticonsulting.com/careers/early-careers",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22FTI%20Consulting%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225509%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225509%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22FTI%20Consulting%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225509%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225509%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 5509,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 36,
+    "alumni_current": 6,
+    "marriott_alumni_all_time": 8,
+    "marriott_alumni_current": 2,
+    "tip": "Small but established BYU presence (36 alumni all-time). Network with alumni in Corporate Finance & Restructuring and Forensic segments where BYU representation is strongest."
+  }
+}

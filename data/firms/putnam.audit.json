@@ -1,0 +1,165 @@
+{
+  "firm_id": "putnam",
+  "researched_at": "2026-01-27T18:25:38Z",
+  "duration_seconds": 180,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://inizio.com/our-businesses/ignite/about-inizio-ignite/our-teams/",
+    "https://www.putassoc.com/about-us/our-story/",
+    "https://www.putassoc.com/about-us/where-we-are/",
+    "https://caseinterview.com/putnam-associates",
+    "https://www.casebasix.com/pages/putnam-associates-interview",
+    "https://www.glassdoor.com/Salary/Putnam-Salaries-E116502.htm",
+    "https://www.glassdoor.com/Reviews/Putnam-Associate-Consultant-Reviews-EI_IE116502.0,6_KO7,27.htm",
+    "https://rocketreach.co/Putnam-Associates-email-format_21263",
+    "https://www.myconsultingoffer.org/what-is-consulting/putnam-careers/"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "name": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv (LinkedIn overview)",
+      "confidence": "high"
+    },
+    "headquarters": {
+      "source": "putassoc.com and web search",
+      "confidence": "high",
+      "note": "Boston headquarters at 501 Boylston Street"
+    },
+    "founded": {
+      "source": "Web search (multiple sources)",
+      "confidence": "high",
+      "note": "Founded 1988 by Bill Putnam, Richard McFarland, and Dennis Swinford (ex-Bain consultants)"
+    },
+    "parent_company": {
+      "source": "LinkedIn and Inizio website",
+      "confidence": "high",
+      "note": "Acquired by Inizio Advisory, rebranded in 2021"
+    },
+    "offices": {
+      "source": "putassoc.com office locations page",
+      "confidence": "high",
+      "note": "US offices only: Boston, New York, San Francisco. Also has London, Tokyo, and other international offices"
+    },
+    "regions": {
+      "source": "putassoc.com and web search",
+      "confidence": "high",
+      "note": "Offices in Boston, NY, SF, London, Tokyo confirm North America, Europe, Asia Pacific presence"
+    },
+    "specialties": {
+      "source": "LinkedIn description and Inizio website",
+      "confidence": "high"
+    },
+    "industries": {
+      "source": "Multiple web sources",
+      "confidence": "high",
+      "note": "Exclusive focus on life sciences sector"
+    },
+    "known_for": {
+      "source": "Multiple web sources",
+      "confidence": "high"
+    },
+    "hires_ug": {
+      "source": "Web search and career pages",
+      "confidence": "high",
+      "note": "Associate Consultant role for undergrads"
+    },
+    "hires_mba": {
+      "source": "Web search",
+      "confidence": "high"
+    },
+    "career_path": {
+      "source": "myconsultingoffer.org and umbrex.com",
+      "confidence": "high"
+    },
+    "travel": {
+      "source": "Glassdoor and caseinterview.com",
+      "confidence": "high",
+      "note": "Less than 25% travel, major differentiator vs. traditional consulting"
+    },
+    "work_hours": {
+      "source": "Glassdoor reviews",
+      "confidence": "medium",
+      "note": "55-60 hours per week typical"
+    },
+    "compensation.ug.base": {
+      "source": "Glassdoor salary data",
+      "confidence": "medium",
+      "note": "Average base $93k based on reported salaries"
+    },
+    "compensation.ug.bonus": {
+      "source": "Glassdoor salary data",
+      "confidence": "medium",
+      "note": "Average bonus $8k based on reported total comp"
+    },
+    "recruiting.process": {
+      "source": "caseinterview.com and glassdoor.com",
+      "confidence": "high"
+    },
+    "recruiting.unique": {
+      "source": "caseinterview.com and casebasix.com",
+      "confidence": "high",
+      "note": "Healthcare/life sciences case focus with candidate-led format"
+    },
+    "recruiting.timeline": {
+      "source": "Web search (multiple sources)",
+      "confidence": "high",
+      "note": "2-4 weeks total process"
+    },
+    "email_format": {
+      "source": "rocketreach.co",
+      "confidence": "high",
+      "note": "First initial + last name format used 89% of time"
+    },
+    "byu.pipeline": {
+      "source": "Analyst judgment based on zero BYU alumni",
+      "confidence": "high",
+      "note": "No BYU presence = hustle required"
+    },
+    "byu.tip": {
+      "source": "Analyst judgment based on firm focus",
+      "confidence": "medium"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.ug.signing",
+      "reason": "No reliable source found for signing bonus data"
+    },
+    {
+      "field": "compensation.mba",
+      "reason": "No MBA-specific compensation data available in public sources"
+    },
+    {
+      "field": "links.mc_profile",
+      "reason": "Management Consulted redirected to different page; Putnam profile may have been removed or moved after Inizio acquisition"
+    }
+  ],
+  "notes": "Putnam Associates was founded in 1988 and acquired by Inizio Advisory, rebranding as part of Inizio Ignite in 2021. The firm maintains strong life sciences specialization and differentiates with low travel requirements. Zero BYU alumni presence suggests no recruiting relationship. CSV data confirmed all LinkedIn and BYU metrics. Compensation data from Glassdoor reflects averages but MBA-level data was not available."
+}

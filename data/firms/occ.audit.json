@@ -1,0 +1,160 @@
+{
+  "firm_id": "occ",
+  "researched_at": "2026-01-27T18:16:34Z",
+  "duration_seconds": 480,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.occstrategy.com/en/",
+    "https://www.occstrategy.com/en/careers",
+    "https://www.occstrategy.com/usa/careers/your-application/",
+    "https://en.wikipedia.org/wiki/OC&C_Strategy_Consultants",
+    "https://www.glassdoor.com/Salary/OC-and-C-Strategy-Consultants-Salaries-E194234.htm",
+    "https://managementconsulted.com/occ-strategy-consultants-interview-culture/",
+    "https://www.case-prep.com/firms/occ-strategy-consultants-2026",
+    "https://www.signalhire.com/companies/oc-c-strategy-consultants/email-format"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv (LinkedIn overview)",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "Wikipedia, OC&C website",
+      "confidence": "high"
+    },
+    "headquarters": {
+      "source": "Wikipedia, multiple sources",
+      "confidence": "high"
+    },
+    "offices": {
+      "source": "Glassdoor, Commercial Observer article",
+      "confidence": "high",
+      "note": "Confirmed New York and Boston as primary US offices"
+    },
+    "regions": {
+      "source": "OC&C website",
+      "confidence": "high",
+      "note": "15 offices worldwide across Europe, North America, Asia Pacific"
+    },
+    "specialties": {
+      "source": "OC&C website, Wikipedia",
+      "confidence": "high"
+    },
+    "industries": {
+      "source": "OC&C website, multiple sources",
+      "confidence": "high",
+      "note": "Strong focus on consumer, retail, and private equity"
+    },
+    "known_for": {
+      "source": "Wikipedia, OC&C website, Umbrex profile",
+      "confidence": "high"
+    },
+    "hires_ug": {
+      "source": "OC&C careers page",
+      "confidence": "high",
+      "note": "Active Associate Consultant recruiting for undergrads"
+    },
+    "hires_mba": {
+      "source": "OC&C careers page",
+      "confidence": "high",
+      "note": "Consultant-level entry for MBAs"
+    },
+    "career_path": {
+      "source": "OC&C careers page, CaseBasix",
+      "confidence": "high"
+    },
+    "travel": {
+      "source": "Glassdoor reviews, Management Consulted",
+      "confidence": "medium",
+      "note": "Multiple sources note limited travel compared to other consulting firms"
+    },
+    "work_hours": {
+      "source": "Glassdoor reviews",
+      "confidence": "medium",
+      "note": "~60 hours/week typical, demanding but with 'life night' policy"
+    },
+    "compensation.ug.base": {
+      "source": "Glassdoor",
+      "confidence": "medium",
+      "note": "Average base salary $119K from self-reported data"
+    },
+    "compensation.ug.bonus": {
+      "source": "Glassdoor",
+      "confidence": "medium",
+      "note": "Average additional pay $12K from self-reported data"
+    },
+    "recruiting.process": {
+      "source": "Case prep sites, Management Consulted, OC&C website",
+      "confidence": "high"
+    },
+    "recruiting.unique": {
+      "source": "Case prep sites, interview guides",
+      "confidence": "high"
+    },
+    "recruiting.timeline": {
+      "source": "OC&C careers page",
+      "confidence": "high"
+    },
+    "email_format": {
+      "source": "SignalHire, RocketReach",
+      "confidence": "high",
+      "note": "92.8% use first.last@occstrategy.com format"
+    },
+    "byu.pipeline": {
+      "source": "Inferred from CSV alumni counts",
+      "confidence": "high",
+      "note": "Only 1 current BYU alum out of 3 all-time suggests no active recruiting"
+    },
+    "byu.tip": {
+      "source": "Analysis of firm positioning and BYU alumni data",
+      "confidence": "medium"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.ug.signing",
+      "reason": "Not disclosed in available sources. London posting mentions signing bonus exists but no US amount found."
+    },
+    {
+      "field": "compensation.mba.base",
+      "reason": "MBA-level compensation not specifically disclosed for US market"
+    },
+    {
+      "field": "compensation.mba.bonus",
+      "reason": "MBA-level compensation not specifically disclosed for US market"
+    },
+    {
+      "field": "compensation.mba.signing",
+      "reason": "MBA-level compensation not specifically disclosed for US market"
+    },
+    {
+      "field": "links.mc_profile",
+      "reason": "OC&C does not appear to have a dedicated Management Consulted profile page; redirects to other firms"
+    }
+  ],
+  "notes": "OC&C Strategy Consultants is a boutique strategy firm with strong consumer/retail DNA, founded in 1987 by former Booz Allen Hamilton consultants. Pre-populated CSV data covered all LinkedIn and BYU fields successfully. The firm has very limited BYU presence (only 1 current alum), suggesting students would need to hustle to break in. Firm became B Corp certified in 2023, which is distinctive. US compensation data from Glassdoor is less robust than for larger firms, but provides reasonable estimates. Notable that firm emphasizes less travel than typical consulting, which could be attractive to students."
+}

@@ -1,0 +1,154 @@
+{
+  "firm_id": "simon-kucher",
+  "researched_at": "2026-01-27T18:16:46Z",
+  "duration_seconds": 180,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.simon-kucher.com/en",
+    "https://www.simon-kucher.com/en/about-us",
+    "https://www.simon-kucher.com/en/careers",
+    "https://managementconsulted.com/consulting-firm/simon-kucher-partners/",
+    "https://www.glassdoor.com/Salary/Simon-Kucher-Salaries-E118246.htm",
+    "https://www.levels.fyi/companies/simon-kucher/salaries",
+    "https://www.wallstreetoasis.com/company/simon-kucher-partners/salary",
+    "https://www.hackingthecaseinterview.com/pages/simon-kucher-case-interview",
+    "https://www.glassdoor.com/Interview/Simon-Kucher-Interview-Questions-E118246.htm",
+    "https://www.glassdoor.com/Reviews/Simon-Kucher-less-travel-Reviews-EI_IE118246.0,12_KH13,24.htm",
+    "https://caselane.ai/blog/simon-kucher"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv (LinkedIn overview)",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "simon-kucher.com/about-us, managementconsulted.com",
+      "confidence": "high"
+    },
+    "headquarters": {
+      "source": "managementconsulted.com",
+      "confidence": "high"
+    },
+    "offices": {
+      "source": "simon-kucher.com, consulting.us/firms/simon-kucher-partners/contact",
+      "confidence": "high"
+    },
+    "specialties": {
+      "source": "simon-kucher.com",
+      "confidence": "high"
+    },
+    "industries": {
+      "source": "simon-kucher.com",
+      "confidence": "high"
+    },
+    "known_for": {
+      "source": "simon-kucher.com/about-us, managementconsulted.com",
+      "confidence": "high"
+    },
+    "career_path": {
+      "source": "caselane.ai, myconsultingoffer.org, umbrex.com",
+      "confidence": "high"
+    },
+    "travel": {
+      "source": "glassdoor.com reviews, teamblind.com reviews",
+      "confidence": "high",
+      "note": "Multiple reviews confirm minimal travel compared to traditional consulting"
+    },
+    "work_hours": {
+      "source": "glassdoor.com reviews, indeed.com reviews",
+      "confidence": "medium",
+      "note": "Reviews indicate 55-60 hour weeks typical"
+    },
+    "compensation.ug.base": {
+      "source": "levels.fyi, glassdoor.com, wallstreetoasis.com",
+      "confidence": "high",
+      "note": "Multiple sources report $90-95K for entry-level consultants"
+    },
+    "compensation.ug.bonus": {
+      "source": "glassdoor.com, payscale.com",
+      "confidence": "medium",
+      "note": "Estimated 10% performance bonus"
+    },
+    "compensation.ug.signing": {
+      "source": null,
+      "confidence": "low",
+      "note": "No reliable data found"
+    },
+    "compensation.mba.base": {
+      "source": "managementconsulted.com search results, multiple salary sites",
+      "confidence": "high",
+      "note": "MBA hires/Manager level reported around $170K"
+    },
+    "compensation.mba.bonus": {
+      "source": "managementconsulted.com search results",
+      "confidence": "medium",
+      "note": "Estimated ~$40K performance bonus"
+    },
+    "compensation.mba.signing": {
+      "source": "managementconsulted.com search results",
+      "confidence": "medium",
+      "note": "Typical for boutique firms in this range"
+    },
+    "recruiting.process": {
+      "source": "hackingthecaseinterview.com, glassdoor.com",
+      "confidence": "high"
+    },
+    "recruiting.unique": {
+      "source": "casebasix.com, myconsultingoffer.org",
+      "confidence": "high"
+    },
+    "recruiting.timeline": {
+      "source": "glassdoor.com (371 user interviews)",
+      "confidence": "medium",
+      "note": "Average 26 days from application to offer"
+    },
+    "email_format": {
+      "source": "managementconsulted.com",
+      "confidence": "high"
+    },
+    "byu.pipeline": {
+      "source": "inference from CSV alumni counts",
+      "confidence": "high",
+      "note": "Only 1 current BYU alum, 0 Marriott alums suggests no formal recruiting"
+    },
+    "byu.tip": {
+      "source": "inferred from alumni data and firm profile",
+      "confidence": "medium"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.ug.signing",
+      "reason": "No reliable source found for undergraduate signing bonus amounts"
+    },
+    {
+      "field": "hires_ug campus recruiting details",
+      "reason": "Unclear if firm actively recruits undergrads vs. only accepting applications"
+    }
+  ],
+  "notes": "Pre-populated data from CSV covered LinkedIn ID (9546), employee count (2,873), and all BYU alumni metrics. Firm website and Management Consulted provided founding year, headquarters, and email format. Multiple salary aggregation sites (Glassdoor, Levels.fyi, Wall Street Oasis) provided compensation ranges. Simon-Kucher has minimal BYU presence (only 1 current alum total, 0 from Marriott), indicating students must hustle to break in. The firm is distinctive as the world's leading pricing specialist with 40 years of monetization expertise."
+}

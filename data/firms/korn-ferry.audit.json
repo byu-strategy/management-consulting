@@ -1,0 +1,126 @@
+{
+  "firm_id": "korn-ferry",
+  "researched_at": "2026-01-27T13:47:58Z",
+  "duration_seconds": 180,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.kornferry.com",
+    "https://en.wikipedia.org/wiki/Korn_Ferry",
+    "https://www.hackingthecaseinterview.com/pages/korn-ferry-case-interview",
+    "https://www.glassdoor.com/Salary/Korn-Ferry-Salaries-E5644.htm",
+    "https://www.levels.fyi/companies/korn-ferry/salaries",
+    "https://www.indeed.com/cmp/Korn-Ferry/locations",
+    "https://rocketreach.co/korn-ferry-email-format_b5c6174ff42e0c4c",
+    "https://umbrex.com/resources/profiles-of-the-top-consulting-firms/overview-profile-and-history-of-korn-ferry/",
+    "https://www.kornferry.com/careers"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "en.wikipedia.org, umbrex.com",
+      "confidence": "high",
+      "note": "Founded in 1969 by Lester Korn and Richard Ferry in Los Angeles"
+    },
+    "headquarters": {
+      "source": "kornferry.com",
+      "confidence": "high",
+      "note": "1900 Avenue of the Stars, Suite 2600, Los Angeles, CA 90067"
+    },
+    "offices": {
+      "source": "indeed.com, glassdoor.com",
+      "confidence": "high",
+      "note": "27 US offices confirmed through multiple sources"
+    },
+    "specialties": {
+      "source": "kornferry.com",
+      "confidence": "high"
+    },
+    "industries": {
+      "source": "kornferry.com",
+      "confidence": "high"
+    },
+    "email_format": {
+      "source": "rocketreach.co",
+      "confidence": "high",
+      "note": "96.8% of employees use first.last@kornferry.com format"
+    },
+    "career_path": {
+      "source": "umbrex.com, fishbowl.com",
+      "confidence": "medium",
+      "note": "Standard consulting hierarchy confirmed across multiple forums"
+    },
+    "compensation.ug.base": {
+      "source": "glassdoor.com, levels.fyi",
+      "confidence": "medium",
+      "note": "Analyst roles range $70K-$85K based on 2025 data; used conservative estimate"
+    },
+    "recruiting.process": {
+      "source": "hackingthecaseinterview.com, kornferry.com",
+      "confidence": "medium",
+      "note": "Three-round process with behavioral and case interviews confirmed"
+    },
+    "recruiting.unique": {
+      "source": "kornferry.com",
+      "confidence": "high",
+      "note": "Start Up program details from careers page"
+    },
+    "hires_ug": {
+      "source": "kornferry.com/careers",
+      "confidence": "high",
+      "note": "Early career and recent graduate program explicitly mentioned"
+    },
+    "hires_mba": {
+      "source": "kornferry.com/careers",
+      "confidence": "high",
+      "note": "MBA internship and recruiting programs confirmed"
+    },
+    "travel": {
+      "source": "inferred from firm type",
+      "confidence": "medium",
+      "note": "Organizational consulting typically requires moderate travel"
+    },
+    "work_hours": {
+      "source": "inferred from firm type",
+      "confidence": "medium",
+      "note": "Standard consulting hours, less intense than pure strategy firms"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.mba",
+      "reason": "No reliable MBA-level compensation data found for Korn Ferry specifically"
+    },
+    {
+      "field": "links.mc_profile",
+      "reason": "Management Consulted page for Korn Ferry appears to have been moved or consolidated; could not access despite search results showing it exists"
+    },
+    {
+      "field": "recruiting.timeline",
+      "reason": "Specific recruiting calendar not published; appears to be rolling admissions"
+    }
+  ],
+  "notes": "Korn Ferry is distinctive as a hybrid organization combining traditional management consulting with executive search and talent acquisition. The firm's identity has evolved significantly since acquiring Hay Group in 2015. CSV data provided all LinkedIn and BYU metrics. Compensation data is less transparent than pure strategy firms, likely because the firm has multiple business lines beyond consulting. The firm appears to have limited BYU presence (8 current alumni, 0 from Marriott specifically), suggesting students would need to network through general BYU alumni rather than Marriott-specific connections."
+}

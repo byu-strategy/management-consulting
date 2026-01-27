@@ -1,0 +1,168 @@
+{
+  "firm_id": "fti-consulting",
+  "researched_at": "2026-01-27T18:15:21Z",
+  "duration_seconds": 180,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.fticonsulting.com/",
+    "https://www.fticonsulting.com/careers",
+    "https://managementconsulted.com/fti-consulting/",
+    "https://en.wikipedia.org/wiki/FTI_Consulting",
+    "https://www.fticonsulting.com/about/our-history",
+    "https://rocketreach.co/fti-consulting-email-format_b5c60c57f42e0c51",
+    "https://www.glassdoor.com/Reviews/FTI-Consulting-long-hours-Reviews-EI_IE6069.0,14_KH15,25.htm",
+    "https://www.fishbowlapp.com/post/what-are-the-levels-at-fti-consulting",
+    "https://fticonsult.referrals.selectminds.com/ftistudentcareers/jobs/2026-entry-level-consultant-corporate-finance-restructuring-21105",
+    "https://www.fticonsulting.com/careers/early-careers/hiring-process",
+    "https://www.fticonsulting.com/about/client-services"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "name": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "Wikipedia, FTI corporate history page",
+      "confidence": "high"
+    },
+    "headquarters": {
+      "source": "Management Consulted, Wikipedia",
+      "confidence": "high"
+    },
+    "type": {
+      "source": "Analysis (not MBB, not Big 4, specialized boutique)",
+      "confidence": "high"
+    },
+    "tagline": {
+      "source": "Synthesized from firm positioning",
+      "confidence": "high"
+    },
+    "offices": {
+      "source": "GlobalData, FTI locations page, web search",
+      "confidence": "high"
+    },
+    "regions": {
+      "source": "FTI website (32 countries noted)",
+      "confidence": "high"
+    },
+    "specialties": {
+      "source": "FTI client services page, Wikipedia",
+      "confidence": "high"
+    },
+    "industries": {
+      "source": "FTI website, job postings",
+      "confidence": "high"
+    },
+    "known_for": {
+      "source": "Management Consulted, firm website",
+      "confidence": "high"
+    },
+    "hires_ug": {
+      "source": "FTI 2026 entry-level job postings",
+      "confidence": "high"
+    },
+    "hires_mba": {
+      "source": "Management Consulted, MBA recruiting mentions",
+      "confidence": "high"
+    },
+    "career_path": {
+      "source": "Fishbowl (6 levels confirmed)",
+      "confidence": "high"
+    },
+    "travel": {
+      "source": "Glassdoor reviews",
+      "confidence": "medium",
+      "note": "Varies by segment; generally moderate with some client site work"
+    },
+    "work_hours": {
+      "source": "Glassdoor reviews",
+      "confidence": "high",
+      "note": "Multiple reviews cite 50-80 hour weeks, project-dependent"
+    },
+    "compensation.ug.base": {
+      "source": "Glassdoor, Fishbowl, Management Consulted",
+      "confidence": "medium",
+      "note": "$80,000 starting base for entry-level consultant"
+    },
+    "compensation.ug.bonus": {
+      "source": "Glassdoor average bonus data",
+      "confidence": "medium"
+    },
+    "compensation.ug.signing": {
+      "source": "Industry standard estimate",
+      "confidence": "low"
+    },
+    "recruiting.process": {
+      "source": "FTI hiring process page, Management Consulted, interview guides",
+      "confidence": "high"
+    },
+    "recruiting.unique": {
+      "source": "FTI job postings (pre-recorded video, preference forms)",
+      "confidence": "high"
+    },
+    "recruiting.timeline": {
+      "source": "Management Consulted, Wall Street Oasis forum",
+      "confidence": "medium"
+    },
+    "email_format": {
+      "source": "RocketReach, SignalHire (95.3% use firstname.lastname)",
+      "confidence": "high"
+    },
+    "byu.pipeline": {
+      "source": "Analysis of CSV alumni counts",
+      "confidence": "medium",
+      "note": "36 all-time alumni but only 6 current suggests alumni_only pipeline"
+    },
+    "byu.tip": {
+      "source": "Analysis of firm segments and alumni presence",
+      "confidence": "medium"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.mba.base",
+      "reason": "No reliable MBA-specific compensation data found for FTI Consulting"
+    },
+    {
+      "field": "compensation.mba.bonus",
+      "reason": "No reliable MBA-specific compensation data found"
+    },
+    {
+      "field": "compensation.mba.signing",
+      "reason": "No reliable MBA-specific compensation data found"
+    },
+    {
+      "field": "links.mc_profile",
+      "reason": "Management Consulted profile exists but redirects to different firm; URL not stable"
+    }
+  ],
+  "notes": "Pre-populated CSV data covered LinkedIn ID, employee count, and all BYU alumni metrics. FTI Consulting operates through five specialized segments (Corporate Finance & Restructuring, Forensic & Litigation, Economic Consulting, Technology, Strategic Communications). Firm founded in 1982 as Forensic Technologies International, went public 1996, rebranded 1998. Strong undergraduate recruiting program with multiple 2026 entry-level postings across all segments. MBA recruiting confirmed but compensation data unavailable. Work-life balance varies significantly by segment and project demands."
+}

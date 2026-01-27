@@ -1,0 +1,93 @@
+{
+  "id": "korn-ferry",
+  "name": "Korn Ferry",
+  "type": "Boutique",
+  "tagline": "Global organizational consulting firm merging talent strategy with executive search",
+  "description": "Korn Ferry is a global consulting firm that powers performance. We unlock the potential in your people and unleash transformation across your business—synchronizing strategy, operations, and talent to accelerate performance, fuel growth, and inspire a legacy of change. That's why the world's most forward-thinking companies across every major industry turn to us—for a shared commitment to lasting impact and the bold ambition to Be More Than.",
+  "headquarters": "Los Angeles, USA",
+  "founded": 1969,
+  "employees": 19960,
+  "parent_company": null,
+  "offices": [
+    "Los Angeles",
+    "New York",
+    "Chicago",
+    "Boston",
+    "San Francisco",
+    "Washington DC",
+    "Dallas",
+    "Houston",
+    "Atlanta",
+    "Philadelphia",
+    "Miami",
+    "Minneapolis"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America"
+  ],
+  "specialties": [
+    "Organizational Strategy",
+    "Leadership Development",
+    "Talent Acquisition",
+    "Human Capital",
+    "Executive Search",
+    "Workforce Planning"
+  ],
+  "industries": [
+    "Consumer Markets",
+    "Financial Services",
+    "Healthcare",
+    "Life Sciences",
+    "Industrial",
+    "Technology",
+    "Public Sector"
+  ],
+  "known_for": "Unique blend of organizational consulting and executive search capabilities, particularly strong in talent strategy and human capital. Acquired Hay Group in 2015 to bolster organizational consulting expertise. Known for data-driven approach to aligning people strategy with business performance.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Associate Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Manager (3-4 yrs) → Principal (4+ yrs) → Partner",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 75000,
+      "bonus": 7000,
+      "signing": 5000
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Resume Screen → First Round (behavioral + case) → Final Round (case + fit interviews) → Offer",
+    "unique": "Six-week 'Start Up' training program for early career hires includes classroom activities, simulations, and experiential learning. Candidates may be relocated to offices based on business needs after training.",
+    "timeline": "Rolling applications year-round. Interview process typically takes 3-5 weeks from application to offer."
+  },
+  "email_format": "first.last@kornferry.com",
+  "links": {
+    "website": "http://www.kornferry.com",
+    "linkedin": "https://www.linkedin.com/company/kornferry/",
+    "careers": "https://www.kornferry.com/careers",
+    "mc_profile": null,
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Korn%20Ferry%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%223741%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%223741%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Korn%20Ferry%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%223741%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%223741%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 3741,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 41,
+    "alumni_current": 8,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Limited BYU Marriott presence—focus on networking with general BYU alumni currently at the firm. Emphasize interest in organizational strategy and talent consulting."
+  }
+}

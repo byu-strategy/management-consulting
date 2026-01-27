@@ -1,0 +1,95 @@
+{
+  "id": "zs-associates",
+  "name": "ZS Associates",
+  "type": "Boutique",
+  "tagline": "Life sciences powerhouse combining data science and consulting expertise",
+  "description": "ZS is a management consulting and technology firm that partners with companies to improve life and how we live it. We transform ideas into impact by bringing together data, science, technology and human ingenuity to deliver better outcomes for all. Founded in 1983, ZS has more than 13,000 employees in over 35 offices worldwide. To learn more, visit www.zs.com/ At ZS, our mission is to inspire each other to bring our unique perspective and experience to work each day. When you join our firm, you have access to a wealth of community groups to support you, energize you and inspire you to bring your authentic self to work each day.",
+  "headquarters": "Evanston, USA",
+  "founded": 1983,
+  "employees": 20848,
+  "parent_company": null,
+  "offices": [
+    "Evanston",
+    "New York",
+    "Chicago",
+    "Boston",
+    "San Francisco",
+    "Atlanta",
+    "Philadelphia",
+    "Washington DC",
+    "Seattle",
+    "Los Angeles",
+    "San Diego",
+    "Princeton",
+    "Raleigh-Durham"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America"
+  ],
+  "specialties": [
+    "Strategy",
+    "Analytics",
+    "Digital",
+    "Sales & Marketing",
+    "Operations",
+    "Technology"
+  ],
+  "industries": [
+    "Life Sciences",
+    "Healthcare",
+    "Consumer",
+    "Retail",
+    "Financial Services",
+    "Technology",
+    "Telecommunications",
+    "Travel & Hospitality"
+  ],
+  "known_for": "ZS is recognized as the leading consulting firm in life sciences and healthcare, with deep expertise in commercial strategy, sales force effectiveness, and advanced analytics. Founded by two Northwestern professors, ZS combines rigorous quantitative methods with hands-on implementation capabilities.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate (2 yrs) → Associate Consultant (2-3 yrs) → Consultant (2-3 yrs) → Manager (3 yrs) → Associate Principal (3-4 yrs) → Principal",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 90000,
+      "bonus": 9000,
+      "signing": 8000
+    },
+    "mba": {
+      "base": 175000,
+      "bonus": 30000,
+      "signing": 30000
+    }
+  },
+  "recruiting": {
+    "process": "Application → Online Assessment (quant, verbal, logical) → Video Interview (8 video questions + 3 written) → Case Interviews (2-4 rounds) → Behavioral Interviews",
+    "unique": "Video interview with timed responses (30 sec to think, 3 min to answer), plus written brain teasers. Heavy focus on analytics and quantitative problem-solving throughout the process.",
+    "timeline": "Campus recruiting in fall, 2-4 weeks response time during busy season"
+  },
+  "email_format": "first.last@zs.com",
+  "links": {
+    "website": "https://www.zs.com",
+    "linkedin": "https://www.linkedin.com/company/zs-associates/",
+    "careers": "https://jobs.zs.com/jobs",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/zs-associates/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22ZS%20Associates%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225240%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225240%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22ZS%20Associates%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225240%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225240%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 5240,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 16,
+    "alumni_current": 8,
+    "marriott_alumni_all_time": 3,
+    "marriott_alumni_current": 1,
+    "tip": "Focus on healthcare and life sciences interests when networking—ZS values deep industry knowledge alongside analytical skills"
+  }
+}

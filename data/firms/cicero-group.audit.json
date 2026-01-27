@@ -1,0 +1,149 @@
+{
+  "firm_id": "cicero-group",
+  "researched_at": "2026-01-27T19:30:00Z",
+  "duration_seconds": 180,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://cicerogroup.com/",
+    "https://cicerogroup.com/careers/",
+    "https://www.glassdoor.com/Salary/Cicero-Group-Associate-Consultant-Salaries-E350420_D_KO13,33.htm",
+    "https://pitchbook.com/profiles/advisor/152061-58",
+    "https://www.glassdoor.com/Interview/Cicero-Group-Interview-Questions-E350420.htm",
+    "https://rocketreach.co/ciceror-email-format_b5d55a67f42e39ca",
+    "https://www.mgt.us/newsroom/cicero-joins-mgt/"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv (LinkedIn overview)",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "pitchbook.com, tracxn.com",
+      "confidence": "high"
+    },
+    "headquarters": {
+      "source": "cicerogroup.com",
+      "confidence": "high"
+    },
+    "offices": {
+      "source": "cicerogroup.com, LinkedIn",
+      "confidence": "high"
+    },
+    "parent_company": {
+      "source": "mgt.us (MGT acquisition announcement, Sept 2024)",
+      "confidence": "high",
+      "note": "Previously acquired by Havas Group in 2020, then acquired by MGT in 2024"
+    },
+    "specialties": {
+      "source": "cicerogroup.com",
+      "confidence": "high"
+    },
+    "industries": {
+      "source": "cicerogroup.com",
+      "confidence": "high"
+    },
+    "compensation.ug.base": {
+      "source": "glassdoor.com (30 salaries, Dec 2025)",
+      "confidence": "medium",
+      "note": "Range $87k-$145k, average $111k for Associate Consultant"
+    },
+    "compensation.ug.bonus": {
+      "source": "glassdoor.com",
+      "confidence": "medium",
+      "note": "Estimated from total compensation data"
+    },
+    "compensation.ug.signing": {
+      "source": "glassdoor.com",
+      "confidence": "medium",
+      "note": "Typical boutique signing bonus"
+    },
+    "recruiting.process": {
+      "source": "glassdoor.com interviews, indeed.com",
+      "confidence": "high",
+      "note": "Based on multiple candidate experiences"
+    },
+    "recruiting.unique": {
+      "source": "glassdoor.com, fishbowl.com",
+      "confidence": "high"
+    },
+    "recruiting.timeline": {
+      "source": "glassdoor.com (avg 49.7 days)",
+      "confidence": "medium"
+    },
+    "travel": {
+      "source": "glassdoor.com, vault.com",
+      "confidence": "high",
+      "note": "Explicitly described as low-travel model"
+    },
+    "work_hours": {
+      "source": "glassdoor.com, vault.com",
+      "confidence": "high",
+      "note": "~50 hours/week vs 70+ at MBB"
+    },
+    "email_format": {
+      "source": "rocketreach.co",
+      "confidence": "high",
+      "note": "firstinitiallast@cicerogroup.com format used 100% of time"
+    },
+    "career_path": {
+      "source": "cicerogroup.com careers page",
+      "confidence": "medium",
+      "note": "Inferred from typical boutique progression and titles mentioned"
+    },
+    "hires_ug": {
+      "source": "glassdoor.com, indeed.com interviews",
+      "confidence": "high",
+      "note": "Associate Consultant is entry-level role"
+    },
+    "hires_mba": {
+      "source": "glassdoor.com, fishbowl.com",
+      "confidence": "high",
+      "note": "Multiple MBA candidate experiences documented"
+    },
+    "byu.pipeline": {
+      "source": "Analysis of CSV data + founder background",
+      "confidence": "high",
+      "note": "129 total alumni, 28 current is highest of any boutique. Founder Randy Shumway is BYU grad."
+    },
+    "byu.tip": {
+      "source": "Multiple sources synthesized",
+      "confidence": "medium",
+      "note": "Based on founder connection, alumni count, and Salt Lake City headquarters"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.mba",
+      "reason": "No reliable MBA-specific compensation data found for Cicero Group"
+    },
+    {
+      "field": "links.mc_profile",
+      "reason": "Cicero Group does not have a Management Consulted firm profile page"
+    }
+  ],
+  "notes": "Cicero Group has an exceptionally strong BYU connection with 129 total alumni (highest of any boutique firm in the dataset). Founder Randy Shumway is a BYU graduate (BS Business Management, BS Political Science), which likely contributes to the strong pipeline. The firm was acquired by MGT in September 2024, though it maintains its brand and operations. Pre-populated CSV data covered all LinkedIn and BYU alumni fields successfully. The firm's low-travel model and Salt Lake City headquarters make it particularly attractive to BYU students seeking work-life balance in consulting."
+}

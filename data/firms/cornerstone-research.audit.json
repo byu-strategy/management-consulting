@@ -1,0 +1,132 @@
+{
+  "firm_id": "cornerstone-research",
+  "researched_at": "2026-01-27T13:35:41Z",
+  "duration_seconds": 420,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.cornerstone.com",
+    "https://www.cornerstone.com/about/",
+    "https://www.cornerstone.com/careers/",
+    "https://managementconsulted.com/consulting-firm/cornerstone-research/",
+    "https://www.glassdoor.com/Salary/Cornerstone-Research-Salaries-E23016.htm",
+    "https://www.levels.fyi/companies/cornerstone-research/salaries",
+    "https://en.wikipedia.org/wiki/Cornerstone_Research",
+    "https://umbrex.com/resources/profiles-of-the-top-consulting-firms/overview-profile-and-history-of-cornerstone-research/",
+    "https://www.hackingthecaseinterview.com/pages/cornerstone-research-case-interview",
+    "https://rocketreach.co/cornerstone-research-email-format_b5c60d33f42e0c51"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv (LinkedIn overview)",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "Wikipedia, Umbrex",
+      "confidence": "high",
+      "note": "Founded in 1989 by three former MAC Group consultants"
+    },
+    "headquarters": {
+      "source": "cornerstone.com, Management Consulted",
+      "confidence": "high"
+    },
+    "offices": {
+      "source": "cornerstone.com, Management Consulted",
+      "confidence": "high",
+      "note": "7 US offices, 2 international offices (London, Brussels)"
+    },
+    "specialties": {
+      "source": "cornerstone.com, Management Consulted",
+      "confidence": "high"
+    },
+    "industries": {
+      "source": "cornerstone.com",
+      "confidence": "high"
+    },
+    "compensation.ug.base": {
+      "source": "Management Consulted",
+      "confidence": "high",
+      "note": "2026 data: $97,000"
+    },
+    "compensation.ug.bonus": {
+      "source": "Management Consulted",
+      "confidence": "high",
+      "note": "Up to $10,000 performance bonus"
+    },
+    "compensation.ug.signing": {
+      "source": "Management Consulted",
+      "confidence": "high",
+      "note": "Up to $15,000 signing bonus"
+    },
+    "recruiting.process": {
+      "source": "Hacking the Case Interview, Glassdoor",
+      "confidence": "high"
+    },
+    "recruiting.timeline": {
+      "source": "cornerstone.com careers page, Glassdoor",
+      "confidence": "high"
+    },
+    "email_format": {
+      "source": "RocketReach",
+      "confidence": "medium",
+      "note": "First initial + last name is most common format (59.1%)"
+    },
+    "career_path": {
+      "source": "Management Consulted",
+      "confidence": "high"
+    },
+    "travel": {
+      "source": "Inference from firm type",
+      "confidence": "medium",
+      "note": "Litigation consulting typically involves moderate client travel"
+    },
+    "work_hours": {
+      "source": "Management Consulted, Glassdoor reviews",
+      "confidence": "medium",
+      "note": "Demanding hours typical for high-stakes litigation work"
+    },
+    "byu.pipeline": {
+      "source": "Analysis of alumni counts",
+      "confidence": "medium",
+      "note": "17 current alumni suggests networking opportunities but no formal BYU recruiting program"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.mba.base",
+      "reason": "Management Consulted did not have MBA-level compensation. Levels.fyi shows ~$228-255k total comp for Associates, but unable to break down into base/bonus/signing components."
+    },
+    {
+      "field": "compensation.mba.bonus",
+      "reason": "Not available from reliable sources"
+    },
+    {
+      "field": "compensation.mba.signing",
+      "reason": "Not available from reliable sources"
+    }
+  ],
+  "notes": "Cornerstone Research is a specialized litigation economics firm, not a traditional management consulting firm. Pre-populated data from CSV covered all LinkedIn/BYU fields. Firm specializes in expert testimony and economic analysis for high-stakes litigation rather than strategy or operations consulting. Founded by former MAC Group consultants in 1989. Strong academic connections with top university economists. All 6 required CSV fields were successfully populated."
+}

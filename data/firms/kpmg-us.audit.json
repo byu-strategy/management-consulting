@@ -1,0 +1,165 @@
+{
+  "firm_id": "kpmg-us",
+  "researched_at": "2026-01-27T19:30:00Z",
+  "duration_seconds": 420,
+  "sources_consulted": [
+    "/Users/murff/Library/CloudStorage/OneDrive-BrighamYoungUniversity/3. Teaching/management-consulting/data/consulting-firms.csv",
+    "https://www.kpmg.com/us",
+    "https://www.kpmguscareers.com/",
+    "https://managementconsulted.com/kpmg-salary/",
+    "https://www.casebasix.com/pages/kpmg-consulting-salary",
+    "https://www.levels.fyi/companies/kpmg/salaries",
+    "https://www.glassdoor.com/Salary/KPMG-Salaries-E2867.htm",
+    "https://managementconsulted.com/kpmg-interview/",
+    "https://www.signalhire.com/companies/kpmg-us/email-format",
+    "https://en.wikipedia.org/wiki/KPMG",
+    "https://managementconsulted.com/kpmg-locations/",
+    "https://kpmg.com/us/en/how-we-work/locations.html",
+    "https://big4interviews.com/big-4-work-life-balance/",
+    "https://www.myconsultingoffer.org/what-is-consulting/kpmg-consulting-careers/",
+    "https://kpmg.com/us/en/capabilities-services/advisory-services.html"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv (linkedin_overview)",
+      "confidence": "high"
+    },
+    "links.website": {
+      "source": "consulting-firms.csv (firm_url)",
+      "confidence": "high"
+    },
+    "links.linkedin": {
+      "source": "consulting-firms.csv (linkedin url)",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "en.wikipedia.org/wiki/KPMG",
+      "confidence": "high",
+      "note": "Marwick Mitchell & Co. founded in New York in 1897; modern KPMG entity formed in 1987 merger"
+    },
+    "headquarters": {
+      "source": "en.wikipedia.org/wiki/KPMG and kpmg.com",
+      "confidence": "high"
+    },
+    "offices": {
+      "source": "managementconsulted.com/kpmg-locations/ and kpmg.com/us/en/how-we-work/locations.html",
+      "confidence": "high",
+      "note": "KPMG has 90+ US offices; listed major consulting hubs"
+    },
+    "specialties": {
+      "source": "kpmg.com/us/en/capabilities-services/advisory-services.html",
+      "confidence": "high"
+    },
+    "industries": {
+      "source": "kpmg.com",
+      "confidence": "high",
+      "note": "Firm serves 14+ industries"
+    },
+    "career_path": {
+      "source": "myconsultingoffer.org/what-is-consulting/kpmg-consulting-careers/",
+      "confidence": "high"
+    },
+    "compensation.ug.base": {
+      "source": "casebasix.com/pages/kpmg-consulting-salary and levels.fyi",
+      "confidence": "medium",
+      "note": "Average of $68k-75k range for Advisory analysts; used $72k as midpoint"
+    },
+    "compensation.ug.bonus": {
+      "source": "Industry standard estimation",
+      "confidence": "medium",
+      "note": "Estimated at ~14% of base based on Big 4 patterns"
+    },
+    "compensation.ug.signing": {
+      "source": "Industry standard estimation",
+      "confidence": "medium",
+      "note": "Typical Big 4 signing bonus range"
+    },
+    "compensation.mba.base": {
+      "source": "glassdoor.com/Salary/KPMG-Advisory-Associate-Salaries-E2867_D_KO5,23.htm",
+      "confidence": "medium",
+      "note": "Average Advisory Associate salary $111,252"
+    },
+    "compensation.mba.bonus": {
+      "source": "Industry standard estimation",
+      "confidence": "medium",
+      "note": "Estimated at ~18% of base based on Big 4 patterns"
+    },
+    "compensation.mba.signing": {
+      "source": "Industry standard estimation",
+      "confidence": "medium",
+      "note": "Typical Big 4 MBA signing bonus"
+    },
+    "recruiting.process": {
+      "source": "managementconsulted.com/kpmg-interview/",
+      "confidence": "high"
+    },
+    "recruiting.unique": {
+      "source": "managementconsulted.com/kpmg-interview/",
+      "confidence": "high"
+    },
+    "recruiting.timeline": {
+      "source": "managementconsulted.com/kpmg-interview/ and various recruiting sources",
+      "confidence": "medium",
+      "note": "Compiled from multiple sources on KPMG recruiting cycles"
+    },
+    "email_format": {
+      "source": "signalhire.com/companies/kpmg-us/email-format",
+      "confidence": "high",
+      "note": "First initial + last name is most common format at 52.7%"
+    },
+    "travel": {
+      "source": "big4interviews.com/big-4-work-life-balance/",
+      "confidence": "medium",
+      "note": "Advisory consultants typically travel Monday-Thursday to client sites"
+    },
+    "work_hours": {
+      "source": "big4interviews.com/big-4-work-life-balance/ and glassdoor reviews",
+      "confidence": "medium",
+      "note": "Average 55 hours/week, can range 35-75 depending on engagement"
+    },
+    "byu.pipeline": {
+      "source": "Agent judgment based on alumni count and Big 4 status",
+      "confidence": "high",
+      "note": "19 current BYU alumni and Big 4 firm status indicates active recruiting"
+    },
+    "byu.tip": {
+      "source": "Agent synthesis based on KPMG interview process research",
+      "confidence": "medium"
+    }
+  },
+  "gaps": [
+    {
+      "field": "links.mc_profile",
+      "reason": "Management Consulted does not have a dedicated KPMG Advisory profile page; KPMG URL redirects to other firms"
+    },
+    {
+      "field": "compensation precise breakdown",
+      "reason": "Exact current year signing bonuses not publicly available; used industry standard estimates based on Big 4 patterns"
+    }
+  ],
+  "notes": "Pre-populated data from CSV covered LinkedIn ID, employee count, and all BYU alumni metrics. KPMG does not have a Management Consulted firm profile page, so compensation data was gathered from Glassdoor, Levels.fyi, and salary aggregators. Interview process details from Management Consulted's general KPMG interview guide. Founded year uses original US founding (1897) rather than modern KPMG merger date (1987). KPMG Advisory is part of KPMG US, one of the Big 4 accounting firms, distinguished by its industry-aligned structure."
+}

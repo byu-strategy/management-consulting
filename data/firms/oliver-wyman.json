@@ -1,0 +1,95 @@
+{
+  "id": "oliver-wyman",
+  "name": "Oliver Wyman",
+  "type": "Boutique",
+  "tagline": "Financial services specialist—deep risk and actuarial expertise within Marsh McLennan",
+  "description": "We guide clients through high-stakes decisions and transformative moments so they can adapt, grow, and thrive. Our edge? The power of perspective — driven by deep industry insight, specialized expertise, and a spirit of true collaboration.",
+  "headquarters": "New York, USA",
+  "founded": 1984,
+  "employees": 9379,
+  "parent_company": "Marsh McLennan",
+  "offices": [
+    "New York",
+    "Boston",
+    "Chicago",
+    "San Francisco",
+    "Washington DC",
+    "Los Angeles",
+    "Dallas",
+    "Houston",
+    "Atlanta",
+    "Miami",
+    "Detroit",
+    "Seattle",
+    "Minneapolis"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East",
+    "Africa"
+  ],
+  "specialties": [
+    "Strategy",
+    "Risk",
+    "Actuarial",
+    "Digital",
+    "Operations",
+    "M&A"
+  ],
+  "industries": [
+    "Financial Services",
+    "Insurance",
+    "Healthcare",
+    "Energy",
+    "Retail",
+    "Technology"
+  ],
+  "known_for": "Founded by former Booz Allen partners in 1984 as a financial services specialist. Known for rigorous analytical approach, deep actuarial expertise, and strong risk management capabilities. Part of Marsh McLennan—maintains specialized focus while resisting generalist diversification.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Consultant (2-3 yrs) → Associate (2-3 yrs) → Engagement Manager (3-4 yrs) → Partner",
+  "travel": "high",
+  "work_hours": "intense",
+  "compensation": {
+    "ug": {
+      "base": 95000,
+      "bonus": 15000,
+      "signing": 10000
+    },
+    "mba": {
+      "base": 190000,
+      "bonus": 36000,
+      "signing": 45000
+    }
+  },
+  "recruiting": {
+    "process": "Application → Phone Screen (case + fit) → First Round (2 interviews: 1 case + 1 fit) → Final Round (3 interviews: 1 case + 1 written case + 1 fit)",
+    "unique": "Written case exercise in final round. Strong emphasis on financial services and risk management scenarios.",
+    "timeline": "Applications open July-August, rolling review. Process takes 2-3 months total, typically 14 days between steps. Interviews begin late August-October."
+  },
+  "email_format": "firstname.lastname@oliverwyman.com",
+  "links": {
+    "website": "https://www.oliverwyman.com/index.html",
+    "linkedin": "https://www.linkedin.com/company/oliver-wyman/",
+    "careers": "https://www.oliverwyman.com/careers.html",
+    "mc_profile": "https://managementconsulted.com/oliver-wyman/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Oliver%20Wyman%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%222454%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%222454%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Oliver%20Wyman%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%222454%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%222454%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 2454,
+  "byu": {
+    "pipeline": "alumni_only",
+    "alumni_all_time": 26,
+    "alumni_current": 6,
+    "marriott_alumni_all_time": 1,
+    "marriott_alumni_current": 1,
+    "tip": "Small BYU presence—leverage financial services or actuarial background. Network with alumni in Boston and New York offices where financial services hiring is strongest."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "west-monroe",
+  "name": "West Monroe",
+  "type": "Boutique",
+  "tagline": "Business and technology consulting with employee ownership culture",
+  "description": "West Monroe is a global business and technology consulting firm passionate about creating value for our clients. We co-create solutions that accelerate results now and prepare industries to tackle what's next. We're excited by the possibilities that technology creates. We work with our clients to deliver on the possible, building on their goals, generating fresh insights and creating inspiring outcomes. We excel at the intersection of industry, strategy, people and technology—always driving rapid impact. Our all-in approach comes from our unique employee ownership structure. Our clients' success is our success. From the beginning, our growth has come from putting people at the center. Fortune and USA Today consistently celebrate West Monroe as a top workplace, and we're recognized as a leading consultancy by Forbes and Forrester. Share our passion at westmonroe.com.",
+  "headquarters": "Chicago, USA",
+  "founded": 2002,
+  "employees": 2182,
+  "parent_company": null,
+  "offices": [
+    "Chicago",
+    "Boston",
+    "Dallas",
+    "Houston",
+    "Los Angeles",
+    "Minneapolis",
+    "New York",
+    "Pittsburgh",
+    "San Francisco",
+    "Seattle",
+    "Washington DC"
+  ],
+  "regions": [
+    "North America",
+    "Europe"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Digital",
+    "M&A",
+    "Technology",
+    "AI"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Consumer",
+    "Energy",
+    "Insurance",
+    "Life Sciences",
+    "Private Equity"
+  ],
+  "known_for": "West Monroe combines business and technology consulting expertise with a unique 50/50 employee-MSD Partners ownership structure. Known for middle-market focus, practical implementations, and award-winning culture. Great Place To Work Certified for 10+ consecutive years.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Analyst (2-3 yrs) → Consultant (2-3 yrs) → Senior Consultant (2-3 yrs) → Manager (3-4 yrs) → Senior Manager (3-4 yrs) → Director → Partner",
+  "travel": "moderate",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 85000,
+      "bonus": 10000,
+      "signing": 5000
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Video Interview (HireVue - 2 behavioral questions) → Super Day (3 interviews: Case + Skills + Behavioral, 45 min each)",
+    "unique": "Story-driven case studies from real West Monroe projects, conversational interview style rather than rigid Q&A format",
+    "timeline": "Sophomore Series program for rising juniors, fall recruiting for full-time roles, 3-5 interviews total with different employees"
+  },
+  "email_format": "first_initial.lastname@westmonroe.com",
+  "links": {
+    "website": "https://www.westmonroe.com/",
+    "linkedin": "https://www.linkedin.com/company/westmonroe/",
+    "careers": "https://www.westmonroe.com/careers",
+    "mc_profile": "https://managementconsulted.com/west-monroe-partners/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22West%20Monroe%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2213798%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2213798%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22West%20Monroe%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%2213798%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%2213798%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 13798,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "No current BYU alumni pipeline. Focus on networking through industry events and reaching out to consultants in target offices (Chicago, Dallas, Seattle). Strong fit for students with tech + business backgrounds."
+  }
+}

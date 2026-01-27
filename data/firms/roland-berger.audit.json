@@ -1,0 +1,173 @@
+{
+  "firm_id": "roland-berger",
+  "researched_at": "2026-01-27T18:27:31Z",
+  "duration_seconds": 180,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://managementconsulted.com/roland-berger/",
+    "https://www.rolandberger.com/en/?country=US",
+    "https://rocketreach.co/roland-berger-email-format_b5c616bcf42e0c4c",
+    "https://www.rolandberger.com/en/Locations/United-States/Career/"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv (LinkedIn overview)",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "managementconsulted.com/roland-berger",
+      "confidence": "high",
+      "note": "Founded 1967 in Munich by Roland Berger after leaving BCG"
+    },
+    "headquarters": {
+      "source": "managementconsulted.com/roland-berger",
+      "confidence": "high"
+    },
+    "offices": {
+      "source": "rolandberger.com + managementconsulted.com",
+      "confidence": "high",
+      "note": "US offices: Boston, Chicago, Detroit confirmed from multiple sources"
+    },
+    "regions": {
+      "source": "managementconsulted.com/roland-berger",
+      "confidence": "high",
+      "note": "50+ offices in 30+ countries across all major regions"
+    },
+    "specialties": {
+      "source": "managementconsulted.com/roland-berger",
+      "confidence": "high",
+      "note": "Four umbrella practice areas: Digital, Operations, Restructuring/Performance/Transformation/Transaction, Sales & Marketing"
+    },
+    "industries": {
+      "source": "managementconsulted.com/roland-berger + rolandberger.com",
+      "confidence": "high",
+      "note": "Strong focus on industrial sectors, especially automotive and chemicals"
+    },
+    "known_for": {
+      "source": "managementconsulted.com/roland-berger",
+      "confidence": "high",
+      "note": "Only native European consultancy with global presence; top 3 in Europe, top 10 globally"
+    },
+    "hires_ug": {
+      "source": "managementconsulted.com/roland-berger",
+      "confidence": "high",
+      "note": "Offers Analyst and Career Starter programs"
+    },
+    "hires_mba": {
+      "source": "managementconsulted.com/roland-berger",
+      "confidence": "high"
+    },
+    "career_path": {
+      "source": "managementconsulted.com/roland-berger",
+      "confidence": "high"
+    },
+    "travel": {
+      "source": "managementconsulted.com/roland-berger",
+      "confidence": "medium",
+      "note": "Described as 'tons of travel' typical of strategy consulting"
+    },
+    "work_hours": {
+      "source": "managementconsulted.com/roland-berger",
+      "confidence": "medium",
+      "note": "Described as 'long hours' but not 'intense' like MBB"
+    },
+    "compensation.mba.base": {
+      "source": "managementconsulted.com/roland-berger",
+      "confidence": "high",
+      "note": "$160,000 base for MBA/PhD consultants"
+    },
+    "compensation.mba.bonus": {
+      "source": "managementconsulted.com/roland-berger",
+      "confidence": "high",
+      "note": "~$32,000 performance bonus"
+    },
+    "compensation.mba.signing": {
+      "source": "managementconsulted.com/roland-berger",
+      "confidence": "high",
+      "note": "$30,000-$35,000 signing bonus"
+    },
+    "recruiting.process": {
+      "source": "managementconsulted.com/roland-berger",
+      "confidence": "high"
+    },
+    "recruiting.unique": {
+      "source": "managementconsulted.com/roland-berger",
+      "confidence": "high",
+      "note": "90-min reasoning test, business knowledge discussion, emphasis on entrepreneurial drive"
+    },
+    "email_format": {
+      "source": "rocketreach.co + multiple email format databases",
+      "confidence": "high",
+      "note": "firstname.lastname@rolandberger.com used 94% of the time"
+    },
+    "links.website": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "links.linkedin": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "links.careers": {
+      "source": "rolandberger.com",
+      "confidence": "high"
+    },
+    "links.mc_profile": {
+      "source": "direct access",
+      "confidence": "high"
+    },
+    "byu.pipeline": {
+      "source": "inference from zero BYU alumni",
+      "confidence": "medium",
+      "note": "Zero BYU alumni indicates no recruiting or network; students must hustle"
+    },
+    "byu.tip": {
+      "source": "synthesis of firm culture and BYU context",
+      "confidence": "medium",
+      "note": "Tailored advice for BYU students given lack of alumni network"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.ug.base",
+      "reason": "No reliable US undergraduate compensation data found for Roland Berger"
+    },
+    {
+      "field": "compensation.ug.bonus",
+      "reason": "No reliable US undergraduate compensation data found for Roland Berger"
+    },
+    {
+      "field": "compensation.ug.signing",
+      "reason": "No reliable US undergraduate compensation data found for Roland Berger"
+    },
+    {
+      "field": "recruiting.timeline",
+      "reason": "Specific recruiting timeline not disclosed on website or Management Consulted profile"
+    }
+  ],
+  "notes": "Roland Berger is a prestigious European strategy consultancy with limited US presence (3 offices). Strong brand in Europe but less recognized than MBB globally. No BYU alumni network makes this a 'hustle' firm for BYU students. Firm culture emphasizes entrepreneurship and autonomy. MBA compensation data is solid; undergraduate data not available from reliable sources."
+}

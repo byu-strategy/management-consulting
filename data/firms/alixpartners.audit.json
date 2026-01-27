@@ -1,0 +1,167 @@
+{
+  "firm_id": "alixpartners",
+  "researched_at": "2026-01-27T13:47:27Z",
+  "duration_seconds": 420,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.alixpartners.com/careers/",
+    "https://www.wallstreetoasis.com/company/alixpartners/salary",
+    "https://www.glassdoor.com/Salary/AlixPartners-Salaries-E11595.htm",
+    "https://managementconsulted.com/consulting-firm/alixpartners/",
+    "https://en.wikipedia.org/wiki/AlixPartners",
+    "https://leadiq.com/c/alixpartners/5a1d87572400002400615f09/email-format",
+    "https://www.preplounge.com/en/articles/interview-alixpartners",
+    "https://www.indeed.com/cmp/Alixpartners/reviews?ftopic=wlbalance",
+    "https://www.fishbowlapp.com/post/what-is-the-hierarchy-career-progression-at-alixpartners"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv (LinkedIn overview)",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "managementconsulted.com, wikipedia",
+      "confidence": "high",
+      "note": "Founded by Jay Alix in 1981"
+    },
+    "headquarters": {
+      "source": "glassdoor.com, multiple sources",
+      "confidence": "high",
+      "note": "909 Third Avenue, New York, NY"
+    },
+    "offices": {
+      "source": "glassdoor.com, indeed.com",
+      "confidence": "high",
+      "note": "11 US office locations identified"
+    },
+    "regions": {
+      "source": "alixpartners.com careers page",
+      "confidence": "high",
+      "note": "24 offices in 11 countries worldwide"
+    },
+    "specialties": {
+      "source": "managementconsulted.com, alixpartners.com",
+      "confidence": "high",
+      "note": "Focused on restructuring, turnaround, crisis management"
+    },
+    "industries": {
+      "source": "preplounge.com, managementconsulted.com",
+      "confidence": "high",
+      "note": "Case interviews focus on these industries"
+    },
+    "known_for": {
+      "source": "managementconsulted.com, wikipedia",
+      "confidence": "high",
+      "note": "Major Chapter 11 reorganizations: GM, Kmart, Enron"
+    },
+    "hires_ug": {
+      "source": "alixpartners.com/careers",
+      "confidence": "high",
+      "note": "Separate programs for students and experienced professionals"
+    },
+    "hires_mba": {
+      "source": "alixpartners.com/careers, managementconsulted.com",
+      "confidence": "high",
+      "note": "VP is post-MBA entry level"
+    },
+    "career_path": {
+      "source": "fishbowlapp.com",
+      "confidence": "high",
+      "note": "Analyst → VP → SVP → Director → Managing Director"
+    },
+    "travel": {
+      "source": "fishbowlapp.com, indeed.com",
+      "confidence": "high",
+      "note": "90% travel M-F (differs from typical M-Th), 4+ days per week"
+    },
+    "work_hours": {
+      "source": "indeed.com, fishbowlapp.com",
+      "confidence": "high",
+      "note": "60-65 hours per week, 24/7 availability expected"
+    },
+    "compensation.mba.base": {
+      "source": "wallstreetoasis.com, managementconsulted.com",
+      "confidence": "high",
+      "note": "2025-2026 data for MBA hires"
+    },
+    "compensation.mba.bonus": {
+      "source": "wallstreetoasis.com",
+      "confidence": "high",
+      "note": "Maximum performance bonus of $60,000"
+    },
+    "compensation.mba.signing": {
+      "source": "wallstreetoasis.com, managementconsulted.com",
+      "confidence": "high",
+      "note": "$35,000 base, plus $10,000 for returning interns"
+    },
+    "recruiting.process": {
+      "source": "preplounge.com, managementconsulted.com",
+      "confidence": "high",
+      "note": "3-stage process with psychological assessment"
+    },
+    "recruiting.unique": {
+      "source": "preplounge.com, managementconsulted.com",
+      "confidence": "high",
+      "note": "Psychometric testing, minimal campus recruiting"
+    },
+    "recruiting.timeline": {
+      "source": "preplounge.com",
+      "confidence": "medium",
+      "note": "One candidate reported 4 weeks total"
+    },
+    "email_format": {
+      "source": "leadiq.com, rocketreach.co",
+      "confidence": "high",
+      "note": "95% use first_initial.lastname format"
+    },
+    "byu.pipeline": {
+      "source": "CSV data analysis",
+      "confidence": "medium",
+      "note": "13 current BYU alumni but minimal campus recruiting"
+    },
+    "byu.tip": {
+      "source": "Inferred from research",
+      "confidence": "medium",
+      "note": "Based on recruitment firm approach and limited campus presence"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.ug.base",
+      "reason": "No reliable undergraduate compensation data found in sources"
+    },
+    {
+      "field": "compensation.ug.bonus",
+      "reason": "No reliable undergraduate compensation data found in sources"
+    },
+    {
+      "field": "compensation.ug.signing",
+      "reason": "No reliable undergraduate compensation data found in sources"
+    }
+  ],
+  "notes": "Pre-populated data from CSV covered LinkedIn ID, BYU alumni counts, and employee count. AlixPartners is distinctive as a crisis management and restructuring specialist. The firm uses Vice President as the post-MBA entry title, which differs from traditional consulting hierarchies. Notable for extremely high travel requirements (M-F vs typical M-Th) and inclusion of psychological assessment in hiring process. Limited undergraduate compensation data available—firm appears to focus heavily on MBA and experienced hire recruiting. Acquired Galt & Company in 2021 to add strategy capabilities to their traditional restructuring focus."
+}

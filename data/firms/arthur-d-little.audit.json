@@ -1,0 +1,156 @@
+{
+  "firm_id": "arthur-d-little",
+  "researched_at": "2026-01-27T18:30:00Z",
+  "duration_seconds": 180,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://en.wikipedia.org/wiki/Arthur_D._Little",
+    "https://www.glassdoor.com/Salary/Arthur-D-Little-Salaries-E16670.htm",
+    "https://managementconsulted.com/consulting-firm/arthur-d-little/",
+    "https://www.adlittle.com/en/locations",
+    "https://rocketreach.co/arthur-d-little-email-format_b5c6140cf42e0c4d",
+    "https://www.hackingthecaseinterview.com/pages/arthur-d-little-case-interview",
+    "https://www.indeed.com/cmp/Arthur-D.-Little/reviews",
+    "https://umbrex.com/resources/profiles-of-the-top-consulting-firms/overview-profile-history-arthur-d-little/"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv (LinkedIn overview)",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "Wikipedia",
+      "confidence": "high",
+      "note": "Founded in 1886, formally incorporated 1909"
+    },
+    "headquarters": {
+      "source": "Wikipedia, firm website",
+      "confidence": "high",
+      "note": "Originally Boston, now Brussels"
+    },
+    "offices": {
+      "source": "adlittle.com/en/locations",
+      "confidence": "high",
+      "note": "4 U.S. offices confirmed"
+    },
+    "regions": {
+      "source": "adlittle.com, web search",
+      "confidence": "high"
+    },
+    "specialties": {
+      "source": "managementconsulted.com, firm website",
+      "confidence": "high",
+      "note": "11 practice areas consolidated into 6 primary"
+    },
+    "industries": {
+      "source": "adlittle.com/en/hub/industries",
+      "confidence": "high"
+    },
+    "compensation.ug.base": {
+      "source": "Glassdoor, web search",
+      "confidence": "medium",
+      "note": "2025-2026 data, ~$90K reported"
+    },
+    "compensation.ug.bonus": {
+      "source": "Web search average",
+      "confidence": "medium",
+      "note": "Estimated at typical 15-20% of base"
+    },
+    "compensation.ug.signing": {
+      "source": "Industry standard estimate",
+      "confidence": "low",
+      "note": "Typical boutique firm range"
+    },
+    "compensation.mba.base": {
+      "source": "Web search",
+      "confidence": "medium",
+      "note": "~$150K reported for MBA hires"
+    },
+    "compensation.mba.bonus": {
+      "source": "Industry estimate",
+      "confidence": "medium",
+      "note": "20% of base typical for boutique"
+    },
+    "compensation.mba.signing": {
+      "source": "Industry estimate",
+      "confidence": "low"
+    },
+    "recruiting.process": {
+      "source": "hackingthecaseinterview.com, glassdoor.com",
+      "confidence": "high"
+    },
+    "recruiting.unique": {
+      "source": "Interview guides, candidate reviews",
+      "confidence": "high"
+    },
+    "recruiting.timeline": {
+      "source": "Glassdoor user data",
+      "confidence": "medium",
+      "note": "26-day average across 116 interviews"
+    },
+    "email_format": {
+      "source": "rocketreach.co, leadiq.com",
+      "confidence": "high",
+      "note": "lastname.firstname most common (77%)"
+    },
+    "travel": {
+      "source": "Indeed reviews, management consulted",
+      "confidence": "medium",
+      "note": "4 days/week typical pre-pandemic"
+    },
+    "work_hours": {
+      "source": "Indeed, Glassdoor reviews",
+      "confidence": "medium",
+      "note": "Better than MBB but still demanding"
+    },
+    "career_path": {
+      "source": "Standard boutique progression",
+      "confidence": "medium"
+    },
+    "hires_ug": {
+      "source": "Career site, interview guides",
+      "confidence": "high",
+      "note": "Business Analyst role confirmed"
+    },
+    "hires_mba": {
+      "source": "Career site, interview guides",
+      "confidence": "high"
+    },
+    "byu.pipeline": {
+      "source": "CSV data (0 alumni)",
+      "confidence": "high",
+      "note": "Zero BYU presence = hustle required"
+    }
+  },
+  "gaps": [
+    {
+      "field": "parent_company",
+      "reason": "Independent firm"
+    }
+  ],
+  "notes": "Arthur D. Little is the world's first management consulting firm (1886) with a distinctive positioning linking strategy, technology, and innovation. No BYU alumni presence whatsoever (0 current, 0 all-time), making this a 'hustle' firm for BYU students. CSV provided LinkedIn ID and employee count. Compensation data estimated from Glassdoor and industry standards. Email format confirmed through multiple email verification services. Website had 403 errors for WebFetch, so relied on web search and available documentation."
+}

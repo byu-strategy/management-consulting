@@ -1,0 +1,90 @@
+{
+  "id": "nera",
+  "name": "NERA Economic Consulting",
+  "type": "Boutique",
+  "tagline": "Economic experts since 1961—litigation support and regulatory guidance",
+  "description": "Since 1961, NERA has provided unparalleled guidance on the most important market, legal, and regulatory questions of the day. Our work has shaped industries and policy around the world. Our field-leading experts and deep experience allows us to provide rigorous analysis, reliable expert testimony, and data-powered policy recommendations for the world's leading law firms and corporations as well as regulators and governments. Our experience, integrity, and economic ingenuity mean you can depend on us in the face of your biggest economic and financial challenges.",
+  "headquarters": "New York, USA",
+  "founded": 1961,
+  "employees": 777,
+  "parent_company": "Marsh McLennan",
+  "offices": [
+    "New York",
+    "Boston",
+    "Chicago",
+    "Houston",
+    "Los Angeles",
+    "Miami",
+    "Philadelphia",
+    "San Francisco",
+    "Washington DC",
+    "White Plains"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America"
+  ],
+  "specialties": [
+    "Antitrust & Competition",
+    "Securities & Finance",
+    "Intellectual Property",
+    "Litigation Support",
+    "Regulatory Economics",
+    "Transfer Pricing"
+  ],
+  "industries": [
+    "Financial Services",
+    "Energy",
+    "Healthcare",
+    "Technology",
+    "Telecommunications",
+    "Life Sciences"
+  ],
+  "known_for": "Pioneering the economic consulting industry in 1961, NERA applies rigorous microeconomic theory to litigation, regulatory matters, and expert testimony. Known for deep expertise in antitrust, securities litigation, and intellectual property disputes, with over 500 PhD economists and experts providing defensible analysis for the world's most complex legal and regulatory challenges.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Research Associate (2-3 yrs) → Associate Analyst (2 yrs) → Analyst (2-3 yrs) → Senior Analyst (requires MBA) → Consultant → Senior Consultant → VP → Senior VP",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 98000,
+      "bonus": 14000,
+      "signing": null
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application (resume, cover letter, transcripts) → Phone Screen (behavioral) → Super Day (5 rounds: behavioral + technical + case interviews with all levels)",
+    "unique": "Not all candidates receive case interviews. Behavioral testing to assess team fit. Heavy focus on economics knowledge and research skills. May require writing sample depending on position.",
+    "timeline": "Varies by office—no standardized timeline. Typically 2-3 rounds over 4-6 weeks from application to offer. Summer internships for final-year undergrads and graduate students."
+  },
+  "email_format": "firstname.lastname@nera.com",
+  "links": {
+    "website": "https://www.nera.com",
+    "linkedin": "https://www.linkedin.com/company/nera-economic-consulting/",
+    "careers": "https://www.nera.com/open-roles.html",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/nera-economic-consulting/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22NERA%20Economic%20Consulting%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225753%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225753%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22NERA%20Economic%20Consulting%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%225753%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%225753%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 5753,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 0,
+    "alumni_current": 0,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "NERA has no BYU alumni presence. Focus on economics/econometrics coursework and research experience. Target offices with litigation practices. Network with Marsh McLenlan professionals who might provide internal referrals."
+  }
+}

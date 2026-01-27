@@ -1,0 +1,144 @@
+{
+  "firm_id": "clarkston",
+  "researched_at": "2026-01-27T18:45:00Z",
+  "duration_seconds": 420,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://clarkstonconsulting.com/",
+    "https://www.glassdoor.com/Salary/Clarkston-Consulting-Salaries-E30380.htm",
+    "https://www.glassdoor.com/Interview/Clarkston-Consulting-Interview-Questions-E30380.htm",
+    "https://clarkstonconsulting.com/careers-at-clarkston/interview-with-us/",
+    "https://rocketreach.co/clarkston-consulting-email-format_b5c63be6f42e0c59",
+    "https://www.crunchbase.com/organization/clarkston-consulting",
+    "https://www.consulting.us/firms/clarkston-consulting/contact",
+    "Web search: Clarkston Consulting compensation salary",
+    "Web search: Clarkston Consulting interview process",
+    "Web search: Clarkston Consulting headquarters offices",
+    "Web search: Clarkston Consulting career path",
+    "Web search: Clarkston Consulting work-life balance culture"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "name": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "LinkedIn via consulting-firms.csv",
+      "confidence": "high"
+    },
+    "links.website": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "links.linkedin": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "Crunchbase and multiple web sources",
+      "confidence": "high",
+      "note": "Founded in 1991 by James Stefan, Neil Nelson, and Tom Finegan"
+    },
+    "headquarters": {
+      "source": "Multiple web sources including Consulting.us and Crunchbase",
+      "confidence": "high",
+      "note": "Research Triangle Park, Durham, NC"
+    },
+    "offices": {
+      "source": "Consulting.us and web search results",
+      "confidence": "high",
+      "note": "Six US offices: Durham NC (HQ), Atlanta GA, Chicago IL, Detroit/Novi MI, Bridgewater NJ, Roanoke VA"
+    },
+    "specialties": {
+      "source": "clarkstonconsulting.com and LinkedIn",
+      "confidence": "high"
+    },
+    "industries": {
+      "source": "clarkstonconsulting.com and LinkedIn",
+      "confidence": "high",
+      "note": "Focused exclusively on Life Sciences, Consumer Products, and Retail for 30+ years"
+    },
+    "compensation.ug.base": {
+      "source": "Glassdoor salary data",
+      "confidence": "medium",
+      "note": "Average Analyst salary $70,431. Associate Consultant averages $117K but may include experienced hires"
+    },
+    "recruiting.process": {
+      "source": "Glassdoor interviews and clarkstonconsulting.com",
+      "confidence": "high"
+    },
+    "recruiting.timeline": {
+      "source": "Glassdoor user-submitted data",
+      "confidence": "medium",
+      "note": "Average 30 days, with some candidates reporting 4-6 weeks"
+    },
+    "email_format": {
+      "source": "RocketReach email format database",
+      "confidence": "high",
+      "note": "87.6% use first_initial.lastname format"
+    },
+    "career_path": {
+      "source": "Multiple web sources and Clarkston careers pages",
+      "confidence": "medium",
+      "note": "Inferred from various mentions of titles and promotion announcements"
+    },
+    "travel": {
+      "source": "Glassdoor reviews and Indeed reviews",
+      "confidence": "high",
+      "note": "Monday-Thursday at client site (5-4-3 schedule)"
+    },
+    "work_hours": {
+      "source": "Glassdoor and Indeed employee reviews",
+      "confidence": "high",
+      "note": "Multiple sources cite 50-60 hours per week"
+    },
+    "byu.pipeline": {
+      "source": "Derived from alumni counts in CSV",
+      "confidence": "high",
+      "note": "Zero BYU alumni = hustle required"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.ug.bonus",
+      "reason": "No specific bonus data found for entry-level positions"
+    },
+    {
+      "field": "compensation.ug.signing",
+      "reason": "No signing bonus data found"
+    },
+    {
+      "field": "compensation.mba",
+      "reason": "No MBA-specific compensation data found; firm appears to hire fewer MBAs than undergrads"
+    },
+    {
+      "field": "links.careers",
+      "reason": "General careers page found but not specific job posting portal"
+    }
+  ],
+  "notes": "Clarkston Consulting is a boutique firm with strong industry focus on life sciences, consumer products, and retail. Founded in 1991 with headquarters in Durham, NC. The firm has zero BYU presence (no current or past alumni), making it a 'hustle' pipeline requiring cold networking. Management Consulted profile exists but has bot protection preventing direct access. Glassdoor provided most compensation and culture insights. The firm uses unique terminology calling employees 'stewards' and has strong wellness programs. Travel is high (Mon-Thu) but culture reviews are generally positive despite demanding hours."
+}

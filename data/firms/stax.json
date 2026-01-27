@@ -1,0 +1,60 @@
+{
+  "id": "stax",
+  "name": "Stax (Grant Thornton)",
+  "type": "Boutique",
+  "tagline": "PE-focused strategy firm specializing in commercial due diligence and value creation",
+  "description": "Grant Thornton Stax is a global strategy consulting firm specializing in commercial due diligence, value creation, and exit planning for private equity firms, PE-backed companies, hedge funds, and investment banks across a broad range of industries including software/technology, industrials, business services, healthcare, consumer, and the events ecosystem. The firm partners with clients to provide data-driven, actionable insights designed to drive growth, enhance profits, increase value, and make better investment decisions. Stax is a wholly-owned subsidiary of Grant Thornton Advisors LLC. Grant Thornton International Limited (GTIL) and the member firms, including Grant Thornton LLP and Grant Thornton Advisors LLC, are not a worldwide partnership. Services are delivered by the member firms. GTIL and its member firms are not agents of, and do not obligate, one another and are not liable for one another's acts or omissions.",
+  "headquarters": "Boston, USA",
+  "founded": 1994,
+  "employees": 372,
+  "parent_company": "Grant Thornton",
+  "offices": ["Boston", "New York", "Chicago"],
+  "regions": ["North America", "Europe"],
+  "specialties": ["Strategy", "Commercial Due Diligence", "M&A", "Value Creation", "Exit Planning"],
+  "industries": ["Private Equity", "Technology", "Industrial", "Business Services", "Healthcare", "Consumer"],
+  "known_for": "Leading PE-focused strategy firm with deep commercial due diligence expertise and limited-travel model. Ranked #1 for work-life balance in EMEA (Vault 2025). Acquired by Grant Thornton in 2025, serving nearly 70% of the PE International 300.",
+  "hires_ug": true,
+  "hires_mba": true,
+  "career_path": "Associate Consultant (18-24 mos) → Consultant (18-24 mos) → Senior Consultant (18-24 mos) → Manager (3-5 yrs) → Senior Manager (3-5 yrs) → Director → Managing Director",
+  "travel": "low",
+  "work_hours": "demanding",
+  "compensation": {
+    "ug": {
+      "base": 83000,
+      "bonus": 12000,
+      "signing": null
+    },
+    "mba": {
+      "base": null,
+      "bonus": null,
+      "signing": null
+    }
+  },
+  "recruiting": {
+    "process": "Application → Phone Screen → First Round (45-min behavioral + 45-min case) → Second Round (behavioral + Excel test + case) → Final Round (30-min behavioral with partner)",
+    "unique": "Excel modeling test with Q&A in second round - distinctive focus on analytical modeling and presentation skills. Atypical case questions with back-and-forth discussion. May include slide re-arrangement exercise.",
+    "timeline": "Process typically takes 2-3 weeks from application to offer. Average 17 days reported across all roles."
+  },
+  "email_format": "first.last@us.gt.com",
+  "links": {
+    "website": "https://www.stax.com/",
+    "linkedin": "https://www.linkedin.com/company/grant-thornton-stax/",
+    "careers": "https://www.stax.com/careers",
+    "mc_profile": "https://managementconsulted.com/consulting-firm/stax/",
+    "byu_keyword": "https://www.linkedin.com/school/brigham-young-university/people/?keywords=%22Stax%22",
+    "byu_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22644906%22%5D&schoolFilter=%5B%224035%22%5D",
+    "byu_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22644906%22%5D&schoolFilter=%5B%224035%22%5D",
+    "marriott_keyword": "https://www.linkedin.com/school/byumarriott/people/?keywords=%22Stax%22",
+    "marriott_current": "https://www.linkedin.com/search/results/people/?currentCompany=%5B%22644906%22%5D&schoolFilter=%5B%2215095601%22%5D",
+    "marriott_past": "https://www.linkedin.com/search/results/people/?pastCompany=%5B%22644906%22%5D&schoolFilter=%5B%2215095601%22%5D"
+  },
+  "linkedin_id": 644906,
+  "byu": {
+    "pipeline": "hustle",
+    "alumni_all_time": 2,
+    "alumni_current": 2,
+    "marriott_alumni_all_time": 0,
+    "marriott_alumni_current": 0,
+    "tip": "Very limited BYU presence - requires aggressive networking. Focus on Boston, New York, or Chicago offices. Highlight any private equity or Excel modeling experience."
+  }
+}

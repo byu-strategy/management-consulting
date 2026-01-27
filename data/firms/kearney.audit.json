@@ -1,0 +1,238 @@
+{
+  "firm_id": "kearney",
+  "researched_at": "2026-01-27T18:19:03Z",
+  "duration_seconds": 180,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://en.wikipedia.org/wiki/Kearney_(consulting_firm)",
+    "https://www.levels.fyi/companies/kearney/salaries/",
+    "https://managementconsulted.com/kearney/",
+    "https://www.glassdoor.com/Interview/Kearney-Interview-Questions-E13437.htm",
+    "https://www.kearney.com/careers/interviewing",
+    "https://www.myconsultingoffer.org/what-is-consulting/kearney-careers/",
+    "https://caselane.ai/blog/kearney-comprehensive-guide-for-aspiring-consultants",
+    "https://www.kearney.com/service/procurement",
+    "https://www.kearney.com/service/operations-performance",
+    "https://www.glassdoor.com/Reviews/Kearney-work-life-balance-Reviews-EI_IE13437.htm",
+    "https://www.kearney.com/about/locations",
+    "https://www.kearney.com/careers/united-states/mba",
+    "https://www.kearney.com/careers/united-states/undergraduate-and-advanced-degrees",
+    "https://leadiq.com/c/kearney/email-format"
+  ],
+  "field_sources": {
+    "id": {
+      "source": "consulting-firms.csv (name_id column)",
+      "confidence": "high"
+    },
+    "name": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "type": {
+      "source": "schema definition + industry knowledge",
+      "confidence": "high",
+      "note": "Boutique tier - prestigious strategy/operations firm but not MBB or Big 4"
+    },
+    "tagline": {
+      "source": "synthesized from firm history and specialties",
+      "confidence": "high",
+      "note": "Founded as part of McKinsey, known for operations/procurement"
+    },
+    "description": {
+      "source": "consulting-firms.csv (linkedin_overview column)",
+      "confidence": "high"
+    },
+    "headquarters": {
+      "source": "Wikipedia, multiple web sources",
+      "confidence": "high",
+      "note": "Chicago headquarters confirmed across multiple sources"
+    },
+    "founded": {
+      "source": "Wikipedia",
+      "confidence": "high",
+      "note": "Founded 1926 by James O. McKinsey, split from McKinsey 1937, renamed A.T. Kearney 1947, rebranded to Kearney 2020"
+    },
+    "employees": {
+      "source": "consulting-firms.csv (number_emp_linkedin column)",
+      "confidence": "high"
+    },
+    "parent_company": {
+      "source": "firm history research",
+      "confidence": "high",
+      "note": "Independent since 2006 management buyout from EDS"
+    },
+    "offices": {
+      "source": "kearney.com/about/locations, Glassdoor, Indeed",
+      "confidence": "high",
+      "note": "US offices only as per schema requirements"
+    },
+    "regions": {
+      "source": "firm website and Wikipedia",
+      "confidence": "high",
+      "note": "40+ countries globally across 5 regions"
+    },
+    "specialties": {
+      "source": "kearney.com service pages, multiple consulting guides",
+      "confidence": "high",
+      "note": "Particularly known for operations, procurement, supply chain"
+    },
+    "industries": {
+      "source": "Wikipedia, firm website, consulting guides",
+      "confidence": "high"
+    },
+    "known_for": {
+      "source": "synthesized from multiple sources",
+      "confidence": "high",
+      "note": "McKinsey heritage + operations/procurement leadership confirmed across sources"
+    },
+    "hires_ug": {
+      "source": "kearney.com/careers/undergraduate-and-advanced-degrees",
+      "confidence": "high",
+      "note": "Business Analyst role for undergraduates"
+    },
+    "hires_mba": {
+      "source": "kearney.com/careers/mba",
+      "confidence": "high",
+      "note": "Associate role for MBA graduates, recruits from 25+ MBA schools"
+    },
+    "career_path": {
+      "source": "myconsultingoffer.org, caselane.ai",
+      "confidence": "high",
+      "note": "Detailed progression with timeframes from multiple sources"
+    },
+    "travel": {
+      "source": "Glassdoor reviews, consulting guides",
+      "confidence": "high",
+      "note": "Described as intense travel schedule typical for consulting"
+    },
+    "work_hours": {
+      "source": "Glassdoor reviews",
+      "confidence": "high",
+      "note": "39% work 12+ hours/day, reports of 70 hour weeks"
+    },
+    "compensation.ug.base": {
+      "source": "Levels.fyi",
+      "confidence": "high",
+      "note": "Business Analyst range $107K-$237K, using lower end for entry"
+    },
+    "compensation.ug.bonus": {
+      "source": "estimated from base",
+      "confidence": "medium",
+      "note": "Estimated ~7% performance bonus"
+    },
+    "compensation.ug.signing": {
+      "source": "estimated from industry norms",
+      "confidence": "medium",
+      "note": "Typical boutique firm signing bonus range"
+    },
+    "compensation.mba.base": {
+      "source": "Levels.fyi, web search results",
+      "confidence": "high",
+      "note": "$168K confirmed from multiple sources for 2025-2026"
+    },
+    "compensation.mba.bonus": {
+      "source": "web search results",
+      "confidence": "high",
+      "note": "Up to $40K performance bonus reported"
+    },
+    "compensation.mba.signing": {
+      "source": "estimated from tier and industry data",
+      "confidence": "medium",
+      "note": "Competitive with boutique tier firms"
+    },
+    "recruiting.process": {
+      "source": "kearney.com/careers/interviewing, Glassdoor, consulting guides",
+      "confidence": "high",
+      "note": "2 rounds with 2-3 interviews each, confirmed across sources"
+    },
+    "recruiting.unique": {
+      "source": "multiple case interview prep guides",
+      "confidence": "high",
+      "note": "Known for quantitative focus, operations cases, written case/Excel tests"
+    },
+    "recruiting.timeline": {
+      "source": "TopMBA, Glassdoor",
+      "confidence": "high",
+      "note": "Sept-Dec for MBA, 32 day average process"
+    },
+    "email_format": {
+      "source": "LeadIQ",
+      "confidence": "high",
+      "note": "firstname.lastname@kearney.com (83.7% of occurrences)"
+    },
+    "links.website": {
+      "source": "consulting-firms.csv (firm_url column)",
+      "confidence": "high"
+    },
+    "links.linkedin": {
+      "source": "consulting-firms.csv (linkedin url column)",
+      "confidence": "high"
+    },
+    "links.careers": {
+      "source": "kearney.com navigation",
+      "confidence": "high"
+    },
+    "links.mc_profile": {
+      "source": "Management Consulted URL pattern",
+      "confidence": "high"
+    },
+    "links.byu_keyword": {
+      "source": "constructed from schema pattern + firm name",
+      "confidence": "high"
+    },
+    "links.byu_current": {
+      "source": "constructed from schema pattern + linkedin_id from CSV",
+      "confidence": "high"
+    },
+    "links.byu_past": {
+      "source": "constructed from schema pattern + linkedin_id from CSV",
+      "confidence": "high"
+    },
+    "links.marriott_keyword": {
+      "source": "constructed from schema pattern + firm name",
+      "confidence": "high"
+    },
+    "links.marriott_current": {
+      "source": "constructed from schema pattern + linkedin_id from CSV",
+      "confidence": "high"
+    },
+    "links.marriott_past": {
+      "source": "constructed from schema pattern + linkedin_id from CSV",
+      "confidence": "high"
+    },
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.pipeline": {
+      "source": "inferred from alumni data",
+      "confidence": "medium",
+      "note": "84 all-time alumni but only 6 current suggests alumni_only pipeline vs. active recruiting"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv (alltime_byu column)",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv (current_byu column)",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv (alltime_byu_marriott column)",
+      "confidence": "high",
+      "note": "Showing as 0 in CSV data"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv (current_byu_marriott column)",
+      "confidence": "high",
+      "note": "Showing as 0 in CSV data"
+    },
+    "byu.tip": {
+      "source": "synthesized from alumni data + firm specialties",
+      "confidence": "medium",
+      "note": "Advice based on alumni distribution and firm's operations focus"
+    }
+  },
+  "gaps": [],
+  "notes": "Complete profile successfully populated for Kearney. All required CSV data fields were present and populated. The firm has a rich history dating back to 1926 as part of McKinsey's Chicago office. Research revealed strong compensation data from Levels.fyi and multiple consulting career sites. The firm is particularly well-documented in case interview preparation resources due to its distinctive quantitative and operations-focused interview style. Notable that Marriott-specific alumni count shows 0 in CSV while general BYU has 84 all-time alumni, suggesting the alumni may have attended other BYU colleges. Kearney rebranded from A.T. Kearney to just 'Kearney' in January 2020."
+}

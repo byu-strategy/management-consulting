@@ -1,0 +1,186 @@
+{
+  "firm_id": "guidehouse",
+  "researched_at": "2026-01-27T13:37:42Z",
+  "duration_seconds": 240,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.guidehouse.com",
+    "https://www.guidehouse.com/careers",
+    "https://managementconsulted.com/guidehouse/",
+    "https://www.levels.fyi/companies/guidehouse/salaries/management-consultant",
+    "https://www.glassdoor.com/Salary/Guidehouse-Salaries-E2188107.htm",
+    "https://en.wikipedia.org/wiki/Guidehouse",
+    "https://leadiq.com/c/guidehouse/5b7eed0c220000598ba25636/email-format"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv (LinkedIn overview)",
+      "confidence": "high"
+    },
+    "links.website": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "links.linkedin": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "founded": {
+      "source": "managementconsulted.com, Wikipedia",
+      "confidence": "high",
+      "note": "Guidehouse was founded in 2018 when Veritas Capital acquired PwC's U.S. Public Sector business"
+    },
+    "headquarters": {
+      "source": "managementconsulted.com, guidehouse.com",
+      "confidence": "high",
+      "note": "Originally McLean, VA; moved to Tysons, VA in 2021"
+    },
+    "offices": {
+      "source": "guidehouse.com careers page",
+      "confidence": "medium",
+      "note": "Firm has 55+ locations globally; listed major U.S. cities based on firm website references"
+    },
+    "regions": {
+      "source": "guidehouse.com",
+      "confidence": "high",
+      "note": "Confirmed presence in Americas, Europe, Asia (India, South Korea), and Middle East (UAE)"
+    },
+    "specialties": {
+      "source": "managementconsulted.com, guidehouse.com",
+      "confidence": "high",
+      "note": "Practice areas confirmed from both firm website and MC profile"
+    },
+    "industries": {
+      "source": "guidehouse.com, managementconsulted.com",
+      "confidence": "high",
+      "note": "Emphasis on highly regulated industries and public sector"
+    },
+    "career_path": {
+      "source": "managementconsulted.com",
+      "confidence": "high",
+      "note": "Career progression includes uncommon 'Managing Consultant' title"
+    },
+    "hires_ug": {
+      "source": "managementconsulted.com, guidehouse.com/careers",
+      "confidence": "high",
+      "note": "Confirmed campus/early career recruiting pathway"
+    },
+    "hires_mba": {
+      "source": "managementconsulted.com, guidehouse.com/careers",
+      "confidence": "high",
+      "note": "Hires MBA and other advanced degree holders"
+    },
+    "travel": {
+      "source": "inferred from firm type and client base",
+      "confidence": "medium",
+      "note": "Set to moderate based on mix of government/commercial clients and project-based work"
+    },
+    "work_hours": {
+      "source": "managementconsulted.com",
+      "confidence": "medium",
+      "note": "MC profile notes long hours are expected, work-life balance efforts by management"
+    },
+    "compensation.ug.base": {
+      "source": "levels.fyi, managementconsulted.com",
+      "confidence": "high",
+      "note": "~$75K base salary for entry-level consultant"
+    },
+    "compensation.ug.bonus": {
+      "source": "levels.fyi, glassdoor.com",
+      "confidence": "medium",
+      "note": "Estimated at ~$10K based on typical consulting firm bonus structures"
+    },
+    "compensation.mba.base": {
+      "source": "managementconsulted.com, levels.fyi",
+      "confidence": "medium",
+      "note": "MC profile states MBA/PhD compensation roughly doubles UG level to ~$150K"
+    },
+    "compensation.mba.bonus": {
+      "source": "levels.fyi",
+      "confidence": "medium",
+      "note": "Estimated at ~$30K based on typical consulting firm structures"
+    },
+    "recruiting.process": {
+      "source": "managementconsulted.com, glassdoor.com, hackingthecaseinterview.com",
+      "confidence": "high",
+      "note": "Confirmed 2-round process with phone screen, case + behavioral interviews"
+    },
+    "recruiting.unique": {
+      "source": "managementconsulted.com, casebasix.com",
+      "confidence": "high",
+      "note": "Heavy emphasis on candidate-led cases, take-home assignments with 24-48 hr deadlines"
+    },
+    "recruiting.timeline": {
+      "source": "glassdoor.com, guidehouse.com/careers",
+      "confidence": "medium",
+      "note": "2-4 week process; some programs have specific deadlines like Gateway to Guidehouse"
+    },
+    "email_format": {
+      "source": "leadiq.com, rocketreach.co",
+      "confidence": "medium",
+      "note": "Most common format is first_initial.lastname@guidehouse.com (38-72% usage)"
+    },
+    "type": {
+      "source": "judgment based on firm profile",
+      "confidence": "high",
+      "note": "Boutique classification—not MBB or Big 4, despite PwC heritage"
+    },
+    "tagline": {
+      "source": "created based on research",
+      "confidence": "high"
+    },
+    "known_for": {
+      "source": "synthesized from managementconsulted.com",
+      "confidence": "high"
+    },
+    "byu.pipeline": {
+      "source": "inferred from alumni counts",
+      "confidence": "medium",
+      "note": "Set to alumni_only—16 current alumni indicates presence but no evidence of active BYU recruiting"
+    },
+    "byu.tip": {
+      "source": "synthesized from firm specialties",
+      "confidence": "medium",
+      "note": "Advice based on firm's public sector/healthcare strengths"
+    }
+  },
+  "gaps": [
+    {
+      "field": "compensation.ug.signing",
+      "reason": "No reliable data found on undergraduate signing bonuses"
+    },
+    {
+      "field": "compensation.mba.signing",
+      "reason": "No reliable data found on MBA signing bonuses"
+    },
+    {
+      "field": "parent_company",
+      "reason": "Guidehouse is independent (acquired by Bain Capital Private Equity in 2023, but operates independently)"
+    }
+  ],
+  "notes": "Guidehouse is a young firm (founded 2018) with rapid growth through the Navigant acquisition in 2019. The firm has a unique heritage from PwC's public sector business and maintains strong focus on government and regulated industries. Pre-populated CSV data covered all required LinkedIn/BYU fields. Compensation data is less transparent than MBB firms but consistent across multiple sources. The firm appears to have moderate BYU alumni presence (16 current) but no evidence of targeted campus recruiting at BYU."
+}

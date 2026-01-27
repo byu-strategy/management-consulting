@@ -1,0 +1,53 @@
+{
+  "firm_id": "leader-factor",
+  "researched_at": "2026-01-27T13:47:13Z",
+  "duration_seconds": 25,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.linkedin.com/company/leaderfactor",
+    "https://www.leaderfactor.com/",
+    "https://www.linkedin.com/in/timothyrclark/",
+    "https://www.leaderfactor.com/about",
+    "https://www.leaderfactor.com/4-stages-of-psychological-safety",
+    "https://www.zoominfo.com/c/leaderfactor-llc/380604468",
+    "https://www.leaderfactor.com/certification",
+    "https://www.leaderfactor.com/contact-us"
+  ],
+  "field_sources": {
+    "linkedin_id": {"source": "consulting-firms.csv", "confidence": "high"},
+    "employees": {"source": "consulting-firms.csv", "confidence": "high"},
+    "byu.alumni_all_time": {"source": "consulting-firms.csv", "confidence": "high"},
+    "byu.alumni_current": {"source": "consulting-firms.csv", "confidence": "high"},
+    "byu.marriott_alumni_all_time": {"source": "consulting-firms.csv", "confidence": "high"},
+    "byu.marriott_alumni_current": {"source": "consulting-firms.csv", "confidence": "high"},
+    "description": {"source": "consulting-firms.csv", "confidence": "high"},
+    "links.website": {"source": "consulting-firms.csv", "confidence": "high"},
+    "links.linkedin": {"source": "consulting-firms.csv", "confidence": "high"},
+    "headquarters": {"source": "ZoomInfo/web search", "confidence": "high", "note": "American Fork, Utah confirmed from multiple sources"},
+    "specialties": {"source": "leaderfactor.com/LinkedIn", "confidence": "high", "note": "Focus on psychological safety, leadership development, culture, and change management"},
+    "industries": {"source": "web search (client list)", "confidence": "high", "note": "Clients include Microsoft, NASA, American Express, Disney, Stanford, Intel, Lockheed Martin, etc."},
+    "known_for": {"source": "leaderfactor.com/LinkedIn/Timothy Clark profile", "confidence": "high", "note": "Founded by Oxford PhD Timothy Clark, known for 4 Stages framework"},
+    "tagline": {"source": "synthesized from multiple sources", "confidence": "high"},
+    "type": {"source": "judgment based on size/model", "confidence": "high", "note": "24 employees, specialized boutique in leadership/culture consulting"},
+    "email_format": {"source": "ZoomInfo search results", "confidence": "medium", "note": "Found @leaderfactor.com emails but couldn't confirm exact format pattern"},
+    "byu.pipeline": {"source": "judgment based on alumni data", "confidence": "high", "note": "16 current out of 16 all-time suggests strong local hiring, not active campus recruiting"},
+    "byu.tip": {"source": "synthesized from data", "confidence": "high"}
+  },
+  "gaps": [
+    {"field": "founded", "reason": "Not available from website or search results"},
+    {"field": "offices", "reason": "Only headquarters identified; no other office locations found"},
+    {"field": "hires_ug", "reason": "No recruiting information available on website or public sources"},
+    {"field": "hires_mba", "reason": "No recruiting information available"},
+    {"field": "career_path", "reason": "Small firm with no public career progression information"},
+    {"field": "travel", "reason": "No information available about consultant travel expectations"},
+    {"field": "work_hours", "reason": "No information available"},
+    {"field": "compensation.ug", "reason": "Glassdoor blocked, no compensation data available"},
+    {"field": "compensation.mba", "reason": "Likely doesn't hire MBAs into traditional consulting roles"},
+    {"field": "recruiting.process", "reason": "No public recruiting information available"},
+    {"field": "recruiting.unique", "reason": "No public recruiting information available"},
+    {"field": "recruiting.timeline", "reason": "No public recruiting information available"},
+    {"field": "email_format", "reason": "Confirmed @leaderfactor.com domain but couldn't determine exact pattern (firstname.lastname vs first_initial.lastname)"},
+    {"field": "links.careers", "reason": "Website not accessible; no careers page found"}
+  ],
+  "notes": "Leader Factor is a specialized leadership development and organizational culture consulting firm, not a traditional management consulting firm. Founded by Dr. Timothy R. Clark (Oxford PhD), the firm focuses exclusively on psychological safety and culture transformation. With only 24 employees and 16 BYU alumni currently employed (100% of all-time BYU alumni), it appears to be a Utah-based firm with strong local hiring patterns. The firm's website was not accessible during research (ECONNREFUSED), but LinkedIn and third-party sources provided good information about their services and client base. This is more of a training/certification/speaking business model than traditional consulting. All CSV-provided data successfully populated."
+}

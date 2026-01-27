@@ -1,0 +1,179 @@
+{
+  "firm_id": "lek",
+  "researched_at": "2026-01-27T18:16:35Z",
+  "duration_seconds": 35,
+  "sources_consulted": [
+    "data/consulting-firms.csv",
+    "https://www.lek.com/",
+    "https://www.lek.com/careers",
+    "https://www.lek.com/join-lek",
+    "https://managementconsulted.com/lek-consulting/",
+    "https://managementconsulted.com/consultant-salary/",
+    "https://www.glassdoor.com/Salary/L-E-K-Consulting-Salaries-E107859.htm",
+    "https://www.glassdoor.com/Salary/L-E-K-Consulting-Associate-Salaries-E107859_D_KO17,26.htm",
+    "https://www.levels.fyi/companies/lek/salaries/management-consultant",
+    "https://www.glassdoor.com/Interview/L-E-K-Consulting-Interview-Questions-E107859.htm",
+    "https://www.lek.com/join-lek/apply/interview-preparation",
+    "https://www.myconsultingoffer.org/case-study-interview-prep/lek-case-interview/",
+    "https://caseinterview.com/lek-consulting",
+    "https://careerinconsulting.com/lek-recruitment-process/",
+    "https://www.lek.com/join-lek/the-lek-career/roles-at-lek",
+    "https://www.lek.com/join-lek/the-lek-career",
+    "https://caselane.ai/blog/lek-consulting-insights-for-aspiring-consultants",
+    "https://www.myconsultingoffer.org/what-is-consulting/lek-consulting-careers/",
+    "https://www.consulting.us/firms/lek-consulting",
+    "https://leadiq.com/c/lek-consulting/5a1d87472400002400615382/email-format",
+    "https://www.glassdoor.com/Reviews/L-E-K-Consulting-low-travel-Reviews-EI_IE107859.0,16_KH17,27.htm",
+    "https://www.indeed.com/cmp/L.e.k.-Consulting/reviews?ftopic=wlbalance",
+    "https://www.consulting.us/firms/lek-consulting/contact",
+    "https://www.lek.com/global-offices/boston",
+    "https://www.lek.com/global-offices/new-york",
+    "https://www.lek.com/global-offices/houston",
+    "https://www.lek.com/global-offices/chicago",
+    "https://www.consulting.us/news/9536/lek-consulting-opens-atlanta-office"
+  ],
+  "field_sources": {
+    "linkedin_id": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "employees": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_all_time": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "byu.marriott_alumni_current": {
+      "source": "consulting-firms.csv",
+      "confidence": "high"
+    },
+    "description": {
+      "source": "consulting-firms.csv (LinkedIn overview)",
+      "confidence": "high"
+    },
+    "headquarters": {
+      "source": "lek.com",
+      "confidence": "high",
+      "note": "Global HQ is London (founded 1983), U.S. HQ is Boston"
+    },
+    "founded": {
+      "source": "lek.com and multiple sources",
+      "confidence": "high"
+    },
+    "offices": {
+      "source": "lek.com/global-offices and consulting.us",
+      "confidence": "high",
+      "note": "U.S. offices: Boston, New York, Chicago, San Francisco, Los Angeles, Houston, Atlanta"
+    },
+    "regions": {
+      "source": "lek.com",
+      "confidence": "high"
+    },
+    "specialties": {
+      "source": "lek.com and multiple sources",
+      "confidence": "high",
+      "note": "Known for growth strategy, private equity work, and market sizing"
+    },
+    "industries": {
+      "source": "lek.com and consulting-firms.csv",
+      "confidence": "high"
+    },
+    "known_for": {
+      "source": "Multiple sources including managementconsulted.com",
+      "confidence": "high",
+      "note": "Nicknamed 'The Growth Guys', notable for low travel model"
+    },
+    "hires_ug": {
+      "source": "lek.com/careers",
+      "confidence": "high"
+    },
+    "hires_mba": {
+      "source": "lek.com/careers",
+      "confidence": "high"
+    },
+    "career_path": {
+      "source": "lek.com/join-lek/the-lek-career/roles-at-lek and caselane.ai",
+      "confidence": "high"
+    },
+    "travel": {
+      "source": "Glassdoor and Indeed reviews",
+      "confidence": "high",
+      "note": "Office-based model with low travel, major differentiator from traditional consulting"
+    },
+    "work_hours": {
+      "source": "Glassdoor and Indeed reviews",
+      "confidence": "medium",
+      "note": "Average 55-60 hours per week, 'out-by-six' program at associate level"
+    },
+    "compensation.ug.base": {
+      "source": "Glassdoor",
+      "confidence": "medium",
+      "note": "Associate level base salary $108K average"
+    },
+    "compensation.ug.bonus": {
+      "source": "Glassdoor",
+      "confidence": "medium",
+      "note": "Additional pay averages $28K (bonus + other)"
+    },
+    "compensation.ug.signing": {
+      "source": "Industry standard estimate",
+      "confidence": "low",
+      "note": "Signing bonus not specifically documented, estimated based on boutique tier"
+    },
+    "compensation.mba.base": {
+      "source": "Levels.fyi",
+      "confidence": "medium",
+      "note": "Consultant level median $167K total comp"
+    },
+    "compensation.mba.bonus": {
+      "source": "Levels.fyi and Glassdoor",
+      "confidence": "medium",
+      "note": "Estimated from total comp packages"
+    },
+    "compensation.mba.signing": {
+      "source": "Industry standard estimate",
+      "confidence": "low",
+      "note": "Signing bonus not specifically documented"
+    },
+    "recruiting.process": {
+      "source": "lek.com/join-lek/apply/interview-preparation and multiple case prep sites",
+      "confidence": "high"
+    },
+    "recruiting.unique": {
+      "source": "Multiple case interview prep sources",
+      "confidence": "high",
+      "note": "Written case and online assessments confirmed"
+    },
+    "recruiting.timeline": {
+      "source": "Multiple sources including myconsultingoffer.org",
+      "confidence": "medium",
+      "note": "Timeline has accelerated in recent years"
+    },
+    "email_format": {
+      "source": "leadiq.com",
+      "confidence": "high",
+      "note": "F.Last@lek.com used 88% of the time"
+    },
+    "byu.pipeline": {
+      "source": "Inferred from alumni count",
+      "confidence": "medium",
+      "note": "Low current alumni count (2) suggests no active BYU recruiting"
+    },
+    "byu.tip": {
+      "source": "Synthesized from research",
+      "confidence": "medium"
+    }
+  },
+  "gaps": [],
+  "notes": "Pre-populated data from CSV covered LinkedIn ID, employee count, and all BYU alumni statistics. L.E.K.'s website provided company info and career details. Compensation data from Glassdoor and Levels.fyi, though MBA signing bonus is estimated. L.E.K. is distinctive for its low-travel, office-based model which is unusual in strategy consulting. The firm has strong quantitative rigor and deep private equity expertise. All required CSV fields successfully populated."
+}
