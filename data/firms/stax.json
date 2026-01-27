@@ -1,17 +1,37 @@
 {
   "id": "stax",
   "name": "Stax (Grant Thornton)",
-  "type": "Boutique",
+  "type": "PE/Transaction Advisory",
   "tagline": "PE-focused strategy firm specializing in commercial due diligence and value creation",
   "description": "Grant Thornton Stax is a global strategy consulting firm specializing in commercial due diligence, value creation, and exit planning for private equity firms, PE-backed companies, hedge funds, and investment banks across a broad range of industries including software/technology, industrials, business services, healthcare, consumer, and the events ecosystem. The firm partners with clients to provide data-driven, actionable insights designed to drive growth, enhance profits, increase value, and make better investment decisions. Stax is a wholly-owned subsidiary of Grant Thornton Advisors LLC. Grant Thornton International Limited (GTIL) and the member firms, including Grant Thornton LLP and Grant Thornton Advisors LLC, are not a worldwide partnership. Services are delivered by the member firms. GTIL and its member firms are not agents of, and do not obligate, one another and are not liable for one another's acts or omissions.",
   "headquarters": "Boston, USA",
   "founded": 1994,
   "employees": 372,
   "parent_company": "Grant Thornton",
-  "offices": ["Boston", "New York", "Chicago"],
-  "regions": ["North America", "Europe"],
-  "specialties": ["Strategy", "Commercial Due Diligence", "M&A", "Value Creation", "Exit Planning"],
-  "industries": ["Private Equity", "Technology", "Industrial", "Business Services", "Healthcare", "Consumer"],
+  "offices": [
+    "Boston",
+    "New York",
+    "Chicago"
+  ],
+  "regions": [
+    "North America",
+    "Europe"
+  ],
+  "specialties": [
+    "Strategy",
+    "Commercial Due Diligence",
+    "M&A",
+    "Value Creation",
+    "Exit Planning"
+  ],
+  "industries": [
+    "Private Equity",
+    "Technology",
+    "Industrial",
+    "Business Services",
+    "Healthcare",
+    "Consumer"
+  ],
   "known_for": "Leading PE-focused strategy firm with deep commercial due diligence expertise and limited-travel model. Ranked #1 for work-life balance in EMEA (Vault 2025). Acquired by Grant Thornton in 2025, serving nearly 70% of the PE International 300.",
   "hires_ug": true,
   "hires_mba": true,

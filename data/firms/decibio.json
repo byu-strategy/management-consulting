@@ -1,17 +1,34 @@
 {
   "id": "decibio",
   "name": "DeciBio Consulting",
-  "type": "Boutique",
+  "type": "Life Sciences",
   "tagline": "Precision medicine strategy experts—100% life sciences consulting",
   "description": "DeciBio Consulting is a boutique strategy consulting firm focusing on the life science industry. DeciBio's mission is to provide strategic insights that accelerate innovation in precision medicine. Headquartered in Los Angeles, CA, DeciBio serves clients and customers across the globe, ranging from incubator-stage startups to Fortune 500 life science corporations. DeciBio addresses business solutions that range from market landscape analyses to full commercial strategies, including organic and inorganic growth opportunities (commercial due diligences). DeciBio's work is typically supported by a mix of primary and secondary research leveraging Dexter, its in-house expert network, and DeciBio Analytics' proprietary data intelligence products. DeciBio's Analytics division offers numerous data products to support strategic insights, including in clinical diagnostics (the DxBooks), oncology biomarkers, liquid biopsy, NGS, spatial biology, omics market segmentation (Market Reports), the entire life sciences industry (BioTrack), and more. Internal teams such as the Culture Committee, Women* in Consulting, and Queers in Consulting enrich the employee experience. DeciBio's Social Impact board and the DeciBio Impact Lab work collaboratively across divisions and externally to uproot discrimination and increase access to precision medicine. DeciBio Consulting, LLC recently launched DeciBio Ventures. This venture capital and creation firm invests in and supports ground-breaking companies in the precision medicine space.",
   "headquarters": "Los Angeles, USA",
   "founded": 2013,
   "employees": 62,
   "parent_company": null,
-  "offices": ["Los Angeles"],
-  "regions": ["North America", "Europe"],
-  "specialties": ["Strategy", "Market Research", "Due Diligence", "Pricing", "Analytics"],
-  "industries": ["Life Sciences", "Clinical Diagnostics", "Pharma & Biotech", "Research Tools", "Financial Services"],
+  "offices": [
+    "Los Angeles"
+  ],
+  "regions": [
+    "North America",
+    "Europe"
+  ],
+  "specialties": [
+    "Strategy",
+    "Market Research",
+    "Due Diligence",
+    "Pricing",
+    "Analytics"
+  ],
+  "industries": [
+    "Life Sciences",
+    "Clinical Diagnostics",
+    "Pharma & Biotech",
+    "Research Tools",
+    "Financial Services"
+  ],
   "known_for": "Boutique firm with 100% focus on precision medicine and life sciences. All consultants hold life sciences degrees and 70% of projects involve global research. Known for combining deep scientific understanding with business strategy, plus proprietary data analytics platform (DeciBio Analytics). Recognized for exceptional work-life balance and entrepreneurial culture.",
   "hires_ug": true,
   "hires_mba": true,

@@ -1,17 +1,36 @@
 {
   "id": "keystone-group",
   "name": "The Keystone Group",
-  "type": "Boutique",
+  "type": "Regional/Niche",
   "tagline": "Results-driven mid-market specialists in manufacturing and distribution turnarounds",
   "description": "The Keystone Group is a results-oriented management consulting firm. Our small, experienced teams work with middle-market manufacturing, distribution, and business services clients to develop and execute strategic growth, improve operations, restructure finances, and integrate acquisitions. Our mission is to make a substantive difference in the companies we work with and the lives of the people that work for them. For over thirty years, we have been building long-term relationships with our clients by helping them identify and implement solutions to their most complex business issues.",
   "headquarters": "Chicago, USA",
   "founded": 1991,
   "employees": 64,
   "parent_company": null,
-  "offices": ["Chicago", "Atlanta", "Los Angeles"],
-  "regions": ["North America"],
-  "specialties": ["Strategy", "Operations", "Restructuring", "M&A"],
-  "industries": ["Manufacturing", "Distribution", "Business Services", "Automotive", "Food & Beverage", "Industrial Equipment", "Consumer Products"],
+  "offices": [
+    "Chicago",
+    "Atlanta",
+    "Los Angeles"
+  ],
+  "regions": [
+    "North America"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Restructuring",
+    "M&A"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Distribution",
+    "Business Services",
+    "Automotive",
+    "Food & Beverage",
+    "Industrial Equipment",
+    "Consumer Products"
+  ],
   "known_for": "Boutique firm specializing in middle-market manufacturing and distribution with deep operational expertise. Ranked #1 by Vault for firm culture (2020-2023) and known for hands-on implementation work, no up-or-out model, and strong work-life balance for consulting.",
   "hires_ug": true,
   "hires_mba": null,

@@ -1,17 +1,34 @@
 {
   "id": "leavitt-partners",
   "name": "Leavitt Partners",
-  "type": "Boutique",
+  "type": "Healthcare",
   "tagline": "Healthcare policy consulting—navigating value-based care and federal regulations",
   "description": "Leavitt Partners helps clients successfully improve health by advancing value. The firm provides services focused on market and industry influences, value-based care, alternative payment models, federal strategies, public health, digital health, and alliances.",
   "headquarters": "Washington, USA",
   "founded": 2009,
   "employees": 65,
   "parent_company": "Health Management Associates",
-  "offices": ["Washington DC", "Salt Lake City"],
-  "regions": ["North America"],
-  "specialties": ["Healthcare Policy", "Value-Based Care", "Federal Strategy", "Alternative Payment Models", "Public Health", "Digital Health"],
-  "industries": ["Healthcare", "Public Sector", "Life Sciences", "Insurance"],
+  "offices": [
+    "Washington DC",
+    "Salt Lake City"
+  ],
+  "regions": [
+    "North America"
+  ],
+  "specialties": [
+    "Healthcare Policy",
+    "Value-Based Care",
+    "Federal Strategy",
+    "Alternative Payment Models",
+    "Public Health",
+    "Digital Health"
+  ],
+  "industries": [
+    "Healthcare",
+    "Public Sector",
+    "Life Sciences",
+    "Insurance"
+  ],
   "known_for": "Founded by former HHS Secretary and Utah Governor Mike Leavitt, the firm specializes in healthcare policy intelligence and value-based care transformation. Known for deep federal policy connections and helping healthcare stakeholders navigate regulatory complexity.",
   "hires_ug": true,
   "hires_mba": null,

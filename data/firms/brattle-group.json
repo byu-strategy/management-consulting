@@ -1,17 +1,39 @@
 {
   "id": "brattle-group",
   "name": "The Brattle Group",
-  "type": "Boutique",
+  "type": "Economic Consulting",
   "tagline": "Leading economic consulting firm specializing in litigation and regulatory economics",
   "description": "The Brattle Group answers complex economic, finance, and regulatory questions for corporations, law firms, and governments around the world. We are distinguished by the clarity of our insights and the credibility of our experts, which include leading international academics and industry specialists. Brattle has over 500 talented professionals across three continents. For more information, please visit brattle.com.",
   "headquarters": "Cambridge, USA",
   "founded": 1990,
   "employees": 596,
   "parent_company": null,
-  "offices": ["Boston", "Chicago", "New York", "San Francisco", "Washington DC"],
-  "regions": ["North America", "Europe", "Asia Pacific"],
-  "specialties": ["Strategy", "Analytics", "M&A", "Risk", "Due Diligence"],
-  "industries": ["Financial Services", "Energy", "Healthcare", "Technology", "Telecommunications"],
+  "offices": [
+    "Boston",
+    "Chicago",
+    "New York",
+    "San Francisco",
+    "Washington DC"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Strategy",
+    "Analytics",
+    "M&A",
+    "Risk",
+    "Due Diligence"
+  ],
+  "industries": [
+    "Financial Services",
+    "Energy",
+    "Healthcare",
+    "Technology",
+    "Telecommunications"
+  ],
   "known_for": "Deep expertise in economic and financial analysis for litigation and regulatory proceedings. Distinguished by strong academic ties—many principals are leading university professors. Known for rigorous, data-driven approaches to complex economic questions and expert testimony that withstands intense scrutiny in courtrooms and regulatory hearings.",
   "hires_ug": true,
   "hires_mba": true,

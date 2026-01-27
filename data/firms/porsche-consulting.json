@@ -1,16 +1,39 @@
 {
   "id": "porsche-consulting",
   "name": "Porsche Consulting",
-  "type": "Boutique",
+  "type": "Regional/Niche",
   "tagline": "Automotive excellence meets lean operations—'Strategic Vision, Smart Implementation' from Porsche's DNA",
   "headquarters": "Bietigheim-Bissingen, Germany",
   "founded": 1994,
   "employees": 1000,
   "parent_company": "Porsche AG",
-  "offices": ["Atlanta", "Palo Alto"],
-  "regions": ["North America", "Europe", "Asia Pacific", "Latin America"],
-  "specialties": ["Operations", "Strategy", "Transformation", "Implementation", "Operational Excellence", "M&A"],
-  "industries": ["Automotive", "Aerospace", "Industrial", "Consumer", "Energy", "Financial Services", "Life Sciences"],
+  "offices": [
+    "Atlanta",
+    "Palo Alto"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America"
+  ],
+  "specialties": [
+    "Operations",
+    "Strategy",
+    "Transformation",
+    "Implementation",
+    "Operational Excellence",
+    "M&A"
+  ],
+  "industries": [
+    "Automotive",
+    "Aerospace",
+    "Industrial",
+    "Consumer",
+    "Energy",
+    "Financial Services",
+    "Life Sciences"
+  ],
   "known_for": "Born from Porsche's successful turnaround in the 1990s, Porsche Consulting brings automotive operational excellence to clients worldwide. Known for 'Strategic Vision, Smart Implementation'—combining strategic thinking with pragmatic, hands-on execution. Deep expertise in lean manufacturing, supply chain optimization, and end-to-end transformation.",
   "hires_ug": true,
   "hires_mba": true,

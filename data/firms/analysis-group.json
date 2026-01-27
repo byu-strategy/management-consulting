@@ -1,17 +1,46 @@
 {
   "id": "analysis-group",
   "name": "Analysis Group",
-  "type": "Boutique",
+  "type": "Economic Consulting",
   "tagline": "Leading economics consulting firm for litigation and regulatory matters",
   "description": "Analysis Group is one of the largest international economics consulting firms, with more than 1,500 professionals across 15 offices in North America, Europe, and Asia. Since 1981, we have provided expertise in economics, finance, health care analytics, and strategy to top law firms, Fortune Global 500 companies, and government agencies worldwide. Our internal experts, together with our network of affiliated experts from academia, industry, and government, offer our clients exceptional breadth and depth of expertise.",
   "headquarters": "Boston, USA",
   "founded": 1981,
   "employees": 1815,
   "parent_company": null,
-  "offices": ["Boston", "New York", "Washington DC", "Chicago", "Dallas", "Denver", "Los Angeles", "San Francisco", "Menlo Park"],
-  "regions": ["North America", "Europe", "Asia Pacific"],
-  "specialties": ["Economics", "Antitrust & Competition", "Intellectual Property", "Securities & Financial Products", "Health Care Analytics", "Data Science & Statistical Modeling"],
-  "industries": ["Financial Services", "Healthcare", "Technology", "Telecommunications", "Energy", "Life Sciences", "Insurance"],
+  "offices": [
+    "Boston",
+    "New York",
+    "Washington DC",
+    "Chicago",
+    "Dallas",
+    "Denver",
+    "Los Angeles",
+    "San Francisco",
+    "Menlo Park"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Economics",
+    "Antitrust & Competition",
+    "Intellectual Property",
+    "Securities & Financial Products",
+    "Health Care Analytics",
+    "Data Science & Statistical Modeling"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Telecommunications",
+    "Energy",
+    "Life Sciences",
+    "Insurance"
+  ],
   "known_for": "Leading economics consulting firm specializing in complex litigation and regulatory matters, particularly antitrust cases and damages calculations. Known for bridging business and academia with deep economic and statistical expertise. Recognized in the GCR 100 for outstanding economics work.",
   "hires_ug": true,
   "hires_mba": true,

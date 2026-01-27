@@ -1,17 +1,43 @@
 {
   "id": "arthur-d-little",
   "name": "Arthur D. Little",
-  "type": "Boutique",
+  "type": "Boutique Strategy",
   "tagline": "World's first consulting firm—strategy with deep tech and innovation DNA",
   "description": "As people, organizations and societies embrace change at pace, its leaders must anticipate, innovate and transform ever faster. We help our clients overcome today's most pressing challenges and seize tomorrow's most promising opportunities. With a powerful blend of creative thinking and scientific rigor we link people, technology and strategy to find original and pragmatic ways to accelerate performance, innovate through convergence and digital, and make a positive impact on the world.",
   "headquarters": "Brussels, Belgium",
   "founded": 1886,
   "employees": 2418,
   "parent_company": null,
-  "offices": ["Boston", "New York", "Houston", "San Francisco"],
-  "regions": ["North America", "Europe", "Asia Pacific", "Middle East"],
-  "specialties": ["Strategy", "Innovation", "Digital Transformation", "Operations", "Sustainability", "Corporate Finance"],
-  "industries": ["Automotive", "Energy", "Financial Services", "Healthcare", "Telecommunications", "Consumer", "Aerospace", "Chemicals"],
+  "offices": [
+    "Boston",
+    "New York",
+    "Houston",
+    "San Francisco"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Middle East"
+  ],
+  "specialties": [
+    "Strategy",
+    "Innovation",
+    "Digital Transformation",
+    "Operations",
+    "Sustainability",
+    "Corporate Finance"
+  ],
+  "industries": [
+    "Automotive",
+    "Energy",
+    "Financial Services",
+    "Healthcare",
+    "Telecommunications",
+    "Consumer",
+    "Aerospace",
+    "Chemicals"
+  ],
   "known_for": "Founded in 1886, Arthur D. Little is the world's first management consulting firm and maintains a distinctive heritage linking strategy, technology, and innovation. Known for rigorous scientific thinking combined with creative problem-solving, particularly strong in automotive, energy, and telecommunications sectors.",
   "hires_ug": true,
   "hires_mba": true,

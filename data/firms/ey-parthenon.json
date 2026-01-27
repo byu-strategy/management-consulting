@@ -8,10 +8,44 @@
   "founded": 1991,
   "employees": 25000,
   "parent_company": "EY (Ernst & Young)",
-  "offices": ["Atlanta", "Boston", "Chicago", "Houston", "Los Angeles", "New York", "San Francisco"],
-  "regions": ["North America", "Europe", "Asia Pacific", "Latin America", "Middle East", "Africa"],
-  "specialties": ["Strategy", "M&A", "Corporate Finance", "Restructuring", "Private Equity", "Transformation"],
-  "industries": ["Consumer", "Retail", "Energy", "Financial Services", "Healthcare", "Industrial", "Life Sciences", "Private Equity", "Technology", "Media & Entertainment", "Telecommunications"],
+  "offices": [
+    "Atlanta",
+    "Boston",
+    "Chicago",
+    "Houston",
+    "Los Angeles",
+    "New York",
+    "San Francisco"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East",
+    "Africa"
+  ],
+  "specialties": [
+    "Strategy",
+    "M&A",
+    "Corporate Finance",
+    "Restructuring",
+    "Private Equity",
+    "Transformation"
+  ],
+  "industries": [
+    "Consumer",
+    "Retail",
+    "Energy",
+    "Financial Services",
+    "Healthcare",
+    "Industrial",
+    "Life Sciences",
+    "Private Equity",
+    "Technology",
+    "Media & Entertainment",
+    "Telecommunications"
+  ],
   "known_for": "Formerly the independent Parthenon Group founded by ex-Bain consultants, joined EY in 2014 to become its strategy practice. Known for pragmatic, execution-focused strategy work that bridges the 'what' and 'how' questions. Strong private equity practice and reputation for rigorous analytical work. Culture emphasizes hiring 'smart, nice, and driven' people.",
   "hires_ug": true,
   "hires_mba": true,

@@ -1,17 +1,33 @@
 {
   "id": "palm-tree",
   "name": "Palm Tree LLC",
-  "type": "Boutique",
+  "type": "PE/Transaction Advisory",
   "tagline": "Private equity-focused M&A advisor born out of PE",
   "description": "As a single-source partner, Palm Tree integrates financial, operational, analytical, and capital solutions to advise and execute value-creation initiatives that drive transactions, transitions, and transformations. We guide private equity firms through high-stakes processes, engaging with them to highlight opportunities, mitigate risks, and reduce deal friction. Our integrated services work alongside management teams to help them prepare for, navigate, and succeed in strategic events so they can focus on company performance and preserving operational capacity. We were born out of private equity. It gives us the resilience, flexibility, and perspective of owners and operators. Our team comes from private equity, Big-4 accounting, investment banking, and business operations experience.",
   "headquarters": "Los Angeles, USA",
   "founded": 2010,
   "employees": 80,
   "parent_company": null,
-  "offices": ["Los Angeles", "Chicago", "Detroit", "Dallas"],
-  "regions": ["North America"],
-  "specialties": ["M&A", "Transaction Advisory", "Operations", "Finance & Accounting", "Data & Analytics", "Investment Banking"],
-  "industries": ["Private Equity"],
+  "offices": [
+    "Los Angeles",
+    "Chicago",
+    "Detroit",
+    "Dallas"
+  ],
+  "regions": [
+    "North America"
+  ],
+  "specialties": [
+    "M&A",
+    "Transaction Advisory",
+    "Operations",
+    "Finance & Accounting",
+    "Data & Analytics",
+    "Investment Banking"
+  ],
+  "industries": [
+    "Private Equity"
+  ],
   "known_for": "The modern M&A advisor for private equity, Palm Tree is unique as a one-stop-shop specializing in the full PE deal lifecycle. With 600+ engagements across 6 continents totaling $75B+ in transaction value, they bring hands-on expertise from private equity, Big-4, and investment banking backgrounds.",
   "hires_ug": true,
   "hires_mba": true,

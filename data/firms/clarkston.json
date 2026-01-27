@@ -1,17 +1,37 @@
 {
   "id": "clarkston",
   "name": "Clarkston Consulting",
-  "type": "Boutique",
+  "type": "Regional/Niche",
   "tagline": "Life sciences, consumer products, and retail transformation specialist",
   "description": "Clarkston Consulting offers the full spectrum of strategy, operations, implementation, and managed services with a change-focused, data-driven approach for life sciences, consumer products, and retail companies. Leveraging decades of client commitment and industry experience, we deliver solutions that work for your business and people to drive growth, innovation, and transformation.",
   "headquarters": "Durham, USA",
   "founded": 1991,
   "employees": 443,
   "parent_company": null,
-  "offices": ["Durham", "Atlanta", "Chicago", "Detroit", "Bridgewater", "Roanoke"],
-  "regions": ["North America"],
-  "specialties": ["Strategy", "Operations", "Implementation", "Digital", "Analytics", "Transformation"],
-  "industries": ["Life Sciences", "Consumer Products", "Retail"],
+  "offices": [
+    "Durham",
+    "Atlanta",
+    "Chicago",
+    "Detroit",
+    "Bridgewater",
+    "Roanoke"
+  ],
+  "regions": [
+    "North America"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Implementation",
+    "Digital",
+    "Analytics",
+    "Transformation"
+  ],
+  "industries": [
+    "Life Sciences",
+    "Consumer Products",
+    "Retail"
+  ],
   "known_for": "Over 30 years of deep expertise in life sciences, consumer products, and retail industries. Known for data-driven implementation approach and strong employee culture that brands employees as 'stewards' with comprehensive wellness programs.",
   "hires_ug": true,
   "hires_mba": true,

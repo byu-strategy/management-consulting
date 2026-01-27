@@ -1,16 +1,34 @@
 {
   "id": "innosight",
   "name": "Innosight",
-  "type": "Boutique",
+  "type": "Boutique Strategy",
   "tagline": "Clayton Christensen's disruptive innovation firm—now part of Huron",
   "headquarters": "Lexington, USA",
   "founded": 2000,
   "employees": 125,
   "parent_company": "Huron Consulting Group",
-  "offices": ["Boston"],
-  "regions": ["North America", "Europe", "Asia Pacific"],
-  "specialties": ["Strategy", "Innovation", "Transformation", "Growth Strategy", "Disruptive Innovation"],
-  "industries": ["Healthcare", "Technology", "Financial Services", "Consumer", "Energy"],
+  "offices": [
+    "Boston"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Strategy",
+    "Innovation",
+    "Transformation",
+    "Growth Strategy",
+    "Disruptive Innovation"
+  ],
+  "industries": [
+    "Healthcare",
+    "Technology",
+    "Financial Services",
+    "Consumer",
+    "Energy"
+  ],
   "known_for": "Co-founded by Clayton Christensen, pioneer of disruptive innovation theory. Known for Jobs-to-be-Done framework, dual transformation methodology, and working with Fortune 50 companies on innovation strategy and growth transformation.",
   "hires_ug": true,
   "hires_mba": true,

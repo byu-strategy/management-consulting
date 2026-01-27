@@ -1,17 +1,40 @@
 {
   "id": "bridgespan",
   "name": "Bridgespan Group",
-  "type": "Boutique",
+  "type": "Regional/Niche",
   "tagline": "Leading nonprofit strategy consultancy founded by Bain alumni",
   "description": "The Bridgespan Group is a global nonprofit that strives to make the world more equitable and just. Since 2000, we have had the privilege of advising and collaborating with many of the world's most extraordinary social change leaders including philanthropists, nonprofit and NGO leaders, and impact investors. We are passionate about helping social change leaders find solutions to economic and social barriers that perpetuate inequities and prevent individuals, families, and communities from having access to opportunities they need to thrive. We use rigorous research to gain insights that help our clients solve problems and achieve their goals. Our services include strategy consulting and advising, sourcing and diligence, and leadership team support. We take what we learn from this work and build on it with original research, identifying best practices and innovative ideas to share with the social sector.",
   "headquarters": "Boston, USA",
   "founded": 2000,
   "employees": 494,
   "parent_company": null,
-  "offices": ["Boston", "New York", "San Francisco", "Washington DC"],
-  "regions": ["North America", "Asia Pacific", "Africa"],
-  "specialties": ["Strategy", "Philanthropy Advisory", "Impact Investing", "Organizational Effectiveness", "Leadership Development"],
-  "industries": ["Nonprofit", "Social Impact", "Philanthropy", "Education", "Healthcare", "Climate", "Public Health"],
+  "offices": [
+    "Boston",
+    "New York",
+    "San Francisco",
+    "Washington DC"
+  ],
+  "regions": [
+    "North America",
+    "Asia Pacific",
+    "Africa"
+  ],
+  "specialties": [
+    "Strategy",
+    "Philanthropy Advisory",
+    "Impact Investing",
+    "Organizational Effectiveness",
+    "Leadership Development"
+  ],
+  "industries": [
+    "Nonprofit",
+    "Social Impact",
+    "Philanthropy",
+    "Education",
+    "Healthcare",
+    "Climate",
+    "Public Health"
+  ],
   "known_for": "Founded by former Bain & Company leaders to bring management consulting rigor to the social sector. Known for commitment to equity, lower travel demands than traditional consulting, and access to Bain's training programs. Ranked #4 in Vault's Top 50 Consulting Firms for workplace culture.",
   "hires_ug": true,
   "hires_mba": true,

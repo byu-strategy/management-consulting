@@ -1,17 +1,37 @@
 {
   "id": "occ",
   "name": "OC&C Strategy Consultants",
-  "type": "Boutique",
+  "type": "Boutique Strategy",
   "tagline": "Consumer and retail strategy specialists with B Corp values",
   "description": "At OC&C Strategy Consultants we have more than 35 years of experience at unpicking the most complex business challenges with simple, uncommon sense™. We're an international consulting firm, spanning 10 countries, but we've never seen size as an end in itself. Our expertise is focused on a few core specialisms, allowing us to deliver results that get noticed. Our people are agile thinkers, cut from different cloths but united by a relentless curiosity and desire to solve problems. To us, each client challenge is unique, so boilerplate solutions don't cut it. We interrogate a problem until we find its root. Then we develop a powerful way to solve it. We don't duck the difficult answers, we give clients the strategies they need. _ OC&C is a Certified B Corporation™ and is committed to embracing a new standard for the consulting landscape. Learn more about us at occstrategy.com",
   "headquarters": "London, UK",
   "founded": 1987,
   "employees": 1052,
   "parent_company": null,
-  "offices": ["New York", "Boston"],
-  "regions": ["North America", "Europe", "Asia Pacific"],
-  "specialties": ["Strategy", "M&A", "Due Diligence", "Digital", "Analytics"],
-  "industries": ["Consumer", "Retail", "Private Equity", "Technology", "Media & Entertainment", "Leisure"],
+  "offices": [
+    "New York",
+    "Boston"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Strategy",
+    "M&A",
+    "Due Diligence",
+    "Digital",
+    "Analytics"
+  ],
+  "industries": [
+    "Consumer",
+    "Retail",
+    "Private Equity",
+    "Technology",
+    "Media & Entertainment",
+    "Leisure"
+  ],
   "known_for": "Founded by former Booz Allen consultants, OC&C built its reputation on deep consumer goods and retail expertise. Known for rigorous commercial due diligence for private equity and refusing to apply 'generic frameworks'—each client problem gets a bespoke solution. Certified B Corporation as of 2023.",
   "hires_ug": true,
   "hires_mba": true,

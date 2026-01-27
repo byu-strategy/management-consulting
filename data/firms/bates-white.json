@@ -1,17 +1,35 @@
 {
   "id": "bates-white",
   "name": "Bates White",
-  "type": "Boutique",
+  "type": "Economic Consulting",
   "tagline": "PhD-heavy economic consulting for antitrust and complex litigation",
   "description": "Bates White Economic Consulting offers services to law firms, Fortune 500 companies, and government agencies. We specialize in advanced economic, financial, and econometric analysis and excel at complex matters that require sophisticated problem solving and deep empirical analysis. Established in 1999 and privately held, we have a culture where bright minds from diverse cultures solve difficult challenges. We build strong, collaborative relationships with our clients, within our team, and in the community. Our firm is distinguished by the strength of our collective experiences—intellectual and analytical rigor, creativity, responsiveness, and practical know-how. In each matter, we take a hands-on approach to develop a deep understanding of relevant industry, factual, and legal contexts. We are consistently recognized for an ability to support our opinions with sound economic theory and rigorous empirical analyses that withstand intense scrutiny. Our experts are noted for their ability to communicate clearly, succinctly, and persuasively to litigators, judges, juries, and government enforcers. With extensive experience in the application of economics to a wide range of industries and issues, most of our professionals hold PhD or master's level degrees. We complement our in-house expertise through an extensive network of leading academics and industry experts. Many of our senior staff and academic affiliates have significant government agency experience.",
   "headquarters": "Washington, DC",
   "founded": 1999,
   "employees": 439,
   "parent_company": null,
-  "offices": ["Washington DC"],
-  "regions": ["North America"],
-  "specialties": ["Economics", "Antitrust", "Litigation Support", "Econometrics", "Expert Testimony", "Financial Analysis"],
-  "industries": ["Legal Services", "Financial Services", "Healthcare", "Energy", "Technology", "Telecommunications"],
+  "offices": [
+    "Washington DC"
+  ],
+  "regions": [
+    "North America"
+  ],
+  "specialties": [
+    "Economics",
+    "Antitrust",
+    "Litigation Support",
+    "Econometrics",
+    "Expert Testimony",
+    "Financial Analysis"
+  ],
+  "industries": [
+    "Legal Services",
+    "Financial Services",
+    "Healthcare",
+    "Energy",
+    "Technology",
+    "Telecommunications"
+  ],
   "known_for": "Distinguished by deep expertise in econometric modeling and economic analysis for complex litigation and regulatory matters. Over 100 PhDs on staff bring academic rigor to antitrust cases, mass torts, and strategic advisory work. Recognized by Management Consulted as a top boutique firm for three consecutive years in the Economic and Litigation category.",
   "hires_ug": true,
   "hires_mba": false,

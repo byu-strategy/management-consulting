@@ -8,10 +8,44 @@
   "founded": 1914,
   "employees": 3700,
   "parent_company": "PwC",
-  "offices": ["New York", "San Francisco", "Chicago", "Washington DC", "Atlanta", "Los Angeles", "Boston", "Dallas", "Houston", "Cleveland"],
-  "regions": ["North America", "Europe", "Asia Pacific", "Middle East", "Latin America"],
-  "specialties": ["Strategy", "M&A", "Digital", "Operations", "Transformation"],
-  "industries": ["Financial Services", "Healthcare", "Technology", "Consumer", "Retail", "Energy", "Industrial", "Public Sector", "Media & Entertainment", "Telecommunications"],
+  "offices": [
+    "New York",
+    "San Francisco",
+    "Chicago",
+    "Washington DC",
+    "Atlanta",
+    "Los Angeles",
+    "Boston",
+    "Dallas",
+    "Houston",
+    "Cleveland"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Middle East",
+    "Latin America"
+  ],
+  "specialties": [
+    "Strategy",
+    "M&A",
+    "Digital",
+    "Operations",
+    "Transformation"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Consumer",
+    "Retail",
+    "Energy",
+    "Industrial",
+    "Public Sector",
+    "Media & Entertainment",
+    "Telecommunications"
+  ],
   "known_for": "Prestigious strategy heritage from Booz & Company (founded 1914), acquired by PwC in 2014 in the largest consulting acquisition in PwC history. Known for capabilities-driven strategy approach and access to PwC's global network while maintaining strategy consulting focus.",
   "hires_ug": true,
   "hires_mba": true,

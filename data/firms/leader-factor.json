@@ -1,7 +1,7 @@
 {
   "id": "leader-factor",
   "name": "Leader Factor",
-  "type": "Boutique",
+  "type": "Regional/Niche",
   "tagline": "Pioneering psychological safety consulting—builds cultures of inclusion and innovation",
   "description": "A leader is the # 1 factor in determining organizational success. Here at LeaderFactor, we are dedicated to sharing HR and L&D best practices as leaders plan, program, and sequence their development initiatives. Because we believe that real change happens at the behavioral level, this is the place to discover practical frameworks, tools, and insights to build a healthy culture that lasts.",
   "headquarters": "American Fork, USA",
@@ -9,9 +9,23 @@
   "employees": 24,
   "parent_company": null,
   "offices": [],
-  "regions": ["North America"],
-  "specialties": ["Organizational Culture", "Leadership Development", "Change Management", "Human Capital"],
-  "industries": ["Financial Services", "Healthcare", "Technology", "Public Sector", "Energy", "Consumer"],
+  "regions": [
+    "North America"
+  ],
+  "specialties": [
+    "Organizational Culture",
+    "Leadership Development",
+    "Change Management",
+    "Human Capital"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Public Sector",
+    "Energy",
+    "Consumer"
+  ],
   "known_for": "Founded by Dr. Timothy R. Clark (Oxford PhD), LeaderFactor is a global authority on psychological safety and cultural transformation. Known for The 4 Stages of Psychological Safety framework and Core15™ leadership system. Clients include Microsoft, NASA, Stanford, American Express, and over 200 executive teams worldwide.",
   "hires_ug": null,
   "hires_mba": null,

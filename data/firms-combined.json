@@ -2,7 +2,7 @@
 {
   "id": "accenture",
   "name": "Accenture Strategy",
-  "type": "Boutique",
+  "type": "Technology/Digital",
   "tagline": "Global IT/digital consulting giant with dedicated strategy practice—massive scale, deep tech integration",
   "headquarters": "Dublin, Ireland",
   "founded": 1989,
@@ -100,17 +100,40 @@
 {
   "id": "advancy",
   "name": "Advancy",
-  "type": "Boutique",
+  "type": "Boutique Strategy",
   "tagline": "Pure-play strategy boutique focused on chemicals, life sciences, and consumer sectors",
   "description": "Established in 1999, Advancy is a leading international management consultancy firm with offices in Boston, Frankfurt, London, New-York, Paris, São Paulo, Shanghai, Singapore and Sydney, and an additional network of 20 partners around the world. Through our experience on >1,500 projects and dealings with 150 clients we have acquired a wealth of knowledge across a variety of functions and industry sectors, most importantly learning that each business is DIFFERENT. Therefore we work closely with our clients and always provide a tailored approach which has a measurable impact on the bottom line. Our commitment to implementation, senior involvement and challenging the given has provided our clients with exceptional results and is reflected in their continuous loyalty to Advancy. To find out more about us and our experience in your industry please visit: www.advancy.com and see the \"Expertise\" section.",
   "headquarters": "Paris, France",
   "founded": 1999,
   "employees": 283,
   "parent_company": null,
-  "offices": ["Boston", "New York"],
-  "regions": ["North America", "Europe", "Asia Pacific", "Latin America"],
-  "specialties": ["Strategy", "M&A", "Turnaround", "Performance Improvement", "Operations", "Commercial Efficiency"],
-  "industries": ["Chemicals", "Life Sciences", "Healthcare", "Industrials", "Consumer Goods", "Retail", "Luxury"],
+  "offices": [
+    "Boston",
+    "New York"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America"
+  ],
+  "specialties": [
+    "Strategy",
+    "M&A",
+    "Turnaround",
+    "Performance Improvement",
+    "Operations",
+    "Commercial Efficiency"
+  ],
+  "industries": [
+    "Chemicals",
+    "Life Sciences",
+    "Healthcare",
+    "Industrials",
+    "Consumer Goods",
+    "Retail",
+    "Luxury"
+  ],
   "known_for": "Result-driven approach based on quantitative fact-based analyses delivering simple recommendations with impactful action plans. Small, nimble consulting teams with deep sector focus in just three core industries, creating exceptional depth of expertise and strong client relationships.",
   "hires_ug": true,
   "hires_mba": true,
@@ -161,7 +184,7 @@
 {
   "id": "alixpartners",
   "name": "AlixPartners",
-  "type": "Boutique",
+  "type": "Restructuring",
   "tagline": "Crisis management and restructuring experts—when it really matters",
   "description": "For more than forty years, AlixPartners has helped businesses around the world respond quickly and decisively to their most critical challenges – circumstances as diverse as urgent performance improvement, accelerated transformation, complex restructuring and risk mitigation. These are the moments when everything is on the line – a sudden shift in the market, an unexpected performance decline, a time-sensitive deal, a fork-in-the-road decision. But it's not what we do that makes a difference, it's how we do it. Tackling situations when time is of the essence is part of our DNA – so we adopt an action-oriented approach at all times. We work in small, highly qualified teams with specific industry and functional expertise, and we operate at pace, moving quickly from analysis to implementation. We stand shoulder to shoulder with our clients until the job is done, and only measure our success in terms of the results we deliver. Our approach enables us to help our clients confront and overcome truly future-defining challenges. We partner with you to make the right decisions and take the right actions. And we are right by your side. When it really matters.",
   "headquarters": "New York, USA",
@@ -251,17 +274,38 @@
 {
   "id": "altman-solon",
   "name": "Altman Solon",
-  "type": "Boutique",
+  "type": "Boutique Strategy",
   "tagline": "World's largest TMT-exclusive strategy firm—telecom, media, and tech specialists",
   "description": "In 2020, Altman Vilandrie & Company and Solon Management Consulting have cemented a decades-long partnership across the Atlantic to form Altman Solon, the world's largest global strategy consulting firm with an exclusive focus on the TMT sector. Our consultants are united by our passion and intellectual curiosity for the Telecommunications, Media, and Technology (TMT) sectors. These sectors, representing a $5+ trillion global market, are defined by remarkable technological innovations, business model disruptions, rapidly shifting consumer demands, shrinking barriers to entry, and confusing regulatory changes – challenges that Altman Solon is prepared for and eager to address on behalf of our clients. As trusted advisors to major industry players and leading investors, we have helped to identify, develop, and implement many of the era-defining strategies that have shaped the TMT sector over the last twenty years. Altman Solon has an extensive international reach with offices in Amsterdam, Boston, London, Los Angeles, Mexico City, Milan, Munich, New York, Paris, Riyadh, San Francisco, Singapore, Stockholm, Sydney, Warsaw, and Zurich, with successful projects completed across the globe in more than 100 countries.",
   "headquarters": "Boston, USA",
   "founded": 2020,
   "employees": 660,
   "parent_company": null,
-  "offices": ["Boston", "New York", "Los Angeles", "San Francisco"],
-  "regions": ["North America", "Europe", "Asia Pacific", "Latin America", "Middle East"],
-  "specialties": ["Strategy", "M&A", "Operations", "Go-to-Market", "Due Diligence"],
-  "industries": ["Telecommunications", "Media & Entertainment", "Technology"],
+  "offices": [
+    "Boston",
+    "New York",
+    "Los Angeles",
+    "San Francisco"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East"
+  ],
+  "specialties": [
+    "Strategy",
+    "M&A",
+    "Operations",
+    "Go-to-Market",
+    "Due Diligence"
+  ],
+  "industries": [
+    "Telecommunications",
+    "Media & Entertainment",
+    "Technology"
+  ],
   "known_for": "The world's largest strategy consulting firm focused exclusively on TMT sectors. Formed in 2020 from the merger of Altman Vilandrie & Company (founded 2002) and Solon Management Consulting (founded 1996). Known for deep TMT expertise, working with top global telecom, technology, and media companies. Recently named #1 TMT Strategy Consultancy in CAPITAL's 2026/27 ranking.",
   "hires_ug": true,
   "hires_mba": true,
@@ -312,17 +356,31 @@
 {
   "id": "alvarez-marsal-crg",
   "name": "Alvarez & Marsal Consumer and Retail Group",
-  "type": "Boutique",
+  "type": "PE/Transaction Advisory",
   "tagline": "Action-oriented consumer and retail transformation—over 50% of leaders are former industry executives",
   "description": "Formed in 2019, the Consumer and Retail Group at Alvarez & Marsal is dedicated to delivering transformation to our clients. A&M CRG combines the best of our broader firm's bias toward action and practicality with deep consumer and retail industry experience. The result? An unquestionably different approach and measurable impact for our clients. Our team has led and implemented major transformations in both industry and consulting roles. We know what it is like to face the challenges you are up against. When A&M CRG starts working with your team, we get to know the nuances of your business and deploy our creativity and rigor to your unique situation. We implement proven results that meet your needs and goals. Every time.",
   "headquarters": "New York, USA",
   "founded": 2019,
   "employees": 146,
   "parent_company": "Alvarez & Marsal",
-  "offices": ["New York", "Chicago"],
-  "regions": ["North America"],
-  "specialties": ["Strategy", "Operations", "Transformation", "Restructuring", "Implementation"],
-  "industries": ["Consumer", "Retail"],
+  "offices": [
+    "New York",
+    "Chicago"
+  ],
+  "regions": [
+    "North America"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Transformation",
+    "Restructuring",
+    "Implementation"
+  ],
+  "industries": [
+    "Consumer",
+    "Retail"
+  ],
   "known_for": "Founded in 2019 as A&M's first industry-focused consulting vertical, A&M CRG distinguishes itself through an operator mindset—over 50% of senior leaders held executive roles in industry. They reject traditional consulting approaches in favor of hands-on implementation and measurable business transformation, leveraging Alvarez & Marsal's turnaround and restructuring heritage.",
   "hires_ug": true,
   "hires_mba": true,
@@ -373,7 +431,7 @@
 {
   "id": "alvarez-marsal",
   "name": "Alvarez & Marsal",
-  "type": "Boutique",
+  "type": "Restructuring",
   "tagline": "Turnaround and restructuring powerhouse—hands-on operational expertise",
   "description": "Alvarez & Marsal is a leading global professional services firm dedicated to helping organizations tackle their most complex business issues, maximize stakeholder value, and deliver sustainable change. Privately held since its founding in 1983, clients select us for our deep expertise and proven ability to create and deliver practical solutions to their unique problems. Leveraging A&M's restructuring heritage, our fact-driven, action-oriented approach empowers organizations to drive transformation and unlock value at every stage of growth. Our worldwide network extends across six continents, with over 10,000 people comprised of experienced operators, world-class consultants, former regulators and industry authorities. We foster a uniquely collaborative environment that embraces our peoples' diverse perspectives and A&M's entrepreneurial spirit to deliver end-to-end capabilities that span advisory, business performance improvement, and turnaround management.",
   "headquarters": "New York, USA",
@@ -466,17 +524,46 @@
 {
   "id": "analysis-group",
   "name": "Analysis Group",
-  "type": "Boutique",
+  "type": "Economic Consulting",
   "tagline": "Leading economics consulting firm for litigation and regulatory matters",
   "description": "Analysis Group is one of the largest international economics consulting firms, with more than 1,500 professionals across 15 offices in North America, Europe, and Asia. Since 1981, we have provided expertise in economics, finance, health care analytics, and strategy to top law firms, Fortune Global 500 companies, and government agencies worldwide. Our internal experts, together with our network of affiliated experts from academia, industry, and government, offer our clients exceptional breadth and depth of expertise.",
   "headquarters": "Boston, USA",
   "founded": 1981,
   "employees": 1815,
   "parent_company": null,
-  "offices": ["Boston", "New York", "Washington DC", "Chicago", "Dallas", "Denver", "Los Angeles", "San Francisco", "Menlo Park"],
-  "regions": ["North America", "Europe", "Asia Pacific"],
-  "specialties": ["Economics", "Antitrust & Competition", "Intellectual Property", "Securities & Financial Products", "Health Care Analytics", "Data Science & Statistical Modeling"],
-  "industries": ["Financial Services", "Healthcare", "Technology", "Telecommunications", "Energy", "Life Sciences", "Insurance"],
+  "offices": [
+    "Boston",
+    "New York",
+    "Washington DC",
+    "Chicago",
+    "Dallas",
+    "Denver",
+    "Los Angeles",
+    "San Francisco",
+    "Menlo Park"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Economics",
+    "Antitrust & Competition",
+    "Intellectual Property",
+    "Securities & Financial Products",
+    "Health Care Analytics",
+    "Data Science & Statistical Modeling"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Telecommunications",
+    "Energy",
+    "Life Sciences",
+    "Insurance"
+  ],
   "known_for": "Leading economics consulting firm specializing in complex litigation and regulatory matters, particularly antitrust cases and damages calculations. Known for bridging business and academia with deep economic and statistical expertise. Recognized in the GCR 100 for outstanding economics work.",
   "hires_ug": true,
   "hires_mba": true,
@@ -527,17 +614,43 @@
 {
   "id": "arthur-d-little",
   "name": "Arthur D. Little",
-  "type": "Boutique",
+  "type": "Boutique Strategy",
   "tagline": "World's first consulting firm—strategy with deep tech and innovation DNA",
   "description": "As people, organizations and societies embrace change at pace, its leaders must anticipate, innovate and transform ever faster. We help our clients overcome today's most pressing challenges and seize tomorrow's most promising opportunities. With a powerful blend of creative thinking and scientific rigor we link people, technology and strategy to find original and pragmatic ways to accelerate performance, innovate through convergence and digital, and make a positive impact on the world.",
   "headquarters": "Brussels, Belgium",
   "founded": 1886,
   "employees": 2418,
   "parent_company": null,
-  "offices": ["Boston", "New York", "Houston", "San Francisco"],
-  "regions": ["North America", "Europe", "Asia Pacific", "Middle East"],
-  "specialties": ["Strategy", "Innovation", "Digital Transformation", "Operations", "Sustainability", "Corporate Finance"],
-  "industries": ["Automotive", "Energy", "Financial Services", "Healthcare", "Telecommunications", "Consumer", "Aerospace", "Chemicals"],
+  "offices": [
+    "Boston",
+    "New York",
+    "Houston",
+    "San Francisco"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Middle East"
+  ],
+  "specialties": [
+    "Strategy",
+    "Innovation",
+    "Digital Transformation",
+    "Operations",
+    "Sustainability",
+    "Corporate Finance"
+  ],
+  "industries": [
+    "Automotive",
+    "Energy",
+    "Financial Services",
+    "Healthcare",
+    "Telecommunications",
+    "Consumer",
+    "Aerospace",
+    "Chemicals"
+  ],
   "known_for": "Founded in 1886, Arthur D. Little is the world's first management consulting firm and maintains a distinctive heritage linking strategy, technology, and innovation. Known for rigorous scientific thinking combined with creative problem-solving, particularly strong in automotive, energy, and telecommunications sectors.",
   "hires_ug": true,
   "hires_mba": true,
@@ -682,17 +795,35 @@
 {
   "id": "bates-white",
   "name": "Bates White",
-  "type": "Boutique",
+  "type": "Economic Consulting",
   "tagline": "PhD-heavy economic consulting for antitrust and complex litigation",
   "description": "Bates White Economic Consulting offers services to law firms, Fortune 500 companies, and government agencies. We specialize in advanced economic, financial, and econometric analysis and excel at complex matters that require sophisticated problem solving and deep empirical analysis. Established in 1999 and privately held, we have a culture where bright minds from diverse cultures solve difficult challenges. We build strong, collaborative relationships with our clients, within our team, and in the community. Our firm is distinguished by the strength of our collective experiences—intellectual and analytical rigor, creativity, responsiveness, and practical know-how. In each matter, we take a hands-on approach to develop a deep understanding of relevant industry, factual, and legal contexts. We are consistently recognized for an ability to support our opinions with sound economic theory and rigorous empirical analyses that withstand intense scrutiny. Our experts are noted for their ability to communicate clearly, succinctly, and persuasively to litigators, judges, juries, and government enforcers. With extensive experience in the application of economics to a wide range of industries and issues, most of our professionals hold PhD or master's level degrees. We complement our in-house expertise through an extensive network of leading academics and industry experts. Many of our senior staff and academic affiliates have significant government agency experience.",
   "headquarters": "Washington, DC",
   "founded": 1999,
   "employees": 439,
   "parent_company": null,
-  "offices": ["Washington DC"],
-  "regions": ["North America"],
-  "specialties": ["Economics", "Antitrust", "Litigation Support", "Econometrics", "Expert Testimony", "Financial Analysis"],
-  "industries": ["Legal Services", "Financial Services", "Healthcare", "Energy", "Technology", "Telecommunications"],
+  "offices": [
+    "Washington DC"
+  ],
+  "regions": [
+    "North America"
+  ],
+  "specialties": [
+    "Economics",
+    "Antitrust",
+    "Litigation Support",
+    "Econometrics",
+    "Expert Testimony",
+    "Financial Analysis"
+  ],
+  "industries": [
+    "Legal Services",
+    "Financial Services",
+    "Healthcare",
+    "Energy",
+    "Technology",
+    "Telecommunications"
+  ],
   "known_for": "Distinguished by deep expertise in econometric modeling and economic analysis for complex litigation and regulatory matters. Over 100 PhDs on staff bring academic rigor to antitrust cases, mass torts, and strategic advisory work. Recognized by Management Consulted as a top boutique firm for three consecutive years in the Economic and Litigation category.",
   "hires_ug": true,
   "hires_mba": false,
@@ -840,7 +971,7 @@
 {
   "id": "booz-allen",
   "name": "Booz Allen Hamilton",
-  "type": "Boutique",
+  "type": "Government/Defense",
   "tagline": "Government and defense technology powerhouse—mission-critical solutions for federal clients",
   "description": "Whether at the border, up in space, or on the battlefield, we build the advanced technology that makes America stronger, faster, and safer. It's who we are and what we do. It's in our code.",
   "headquarters": "McLean, USA",
@@ -931,17 +1062,39 @@
 {
   "id": "brattle-group",
   "name": "The Brattle Group",
-  "type": "Boutique",
+  "type": "Economic Consulting",
   "tagline": "Leading economic consulting firm specializing in litigation and regulatory economics",
   "description": "The Brattle Group answers complex economic, finance, and regulatory questions for corporations, law firms, and governments around the world. We are distinguished by the clarity of our insights and the credibility of our experts, which include leading international academics and industry specialists. Brattle has over 500 talented professionals across three continents. For more information, please visit brattle.com.",
   "headquarters": "Cambridge, USA",
   "founded": 1990,
   "employees": 596,
   "parent_company": null,
-  "offices": ["Boston", "Chicago", "New York", "San Francisco", "Washington DC"],
-  "regions": ["North America", "Europe", "Asia Pacific"],
-  "specialties": ["Strategy", "Analytics", "M&A", "Risk", "Due Diligence"],
-  "industries": ["Financial Services", "Energy", "Healthcare", "Technology", "Telecommunications"],
+  "offices": [
+    "Boston",
+    "Chicago",
+    "New York",
+    "San Francisco",
+    "Washington DC"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Strategy",
+    "Analytics",
+    "M&A",
+    "Risk",
+    "Due Diligence"
+  ],
+  "industries": [
+    "Financial Services",
+    "Energy",
+    "Healthcare",
+    "Technology",
+    "Telecommunications"
+  ],
   "known_for": "Deep expertise in economic and financial analysis for litigation and regulatory proceedings. Distinguished by strong academic ties—many principals are leading university professors. Known for rigorous, data-driven approaches to complex economic questions and expert testimony that withstands intense scrutiny in courtrooms and regulatory hearings.",
   "hires_ug": true,
   "hires_mba": true,
@@ -992,17 +1145,40 @@
 {
   "id": "bridgespan",
   "name": "Bridgespan Group",
-  "type": "Boutique",
+  "type": "Regional/Niche",
   "tagline": "Leading nonprofit strategy consultancy founded by Bain alumni",
   "description": "The Bridgespan Group is a global nonprofit that strives to make the world more equitable and just. Since 2000, we have had the privilege of advising and collaborating with many of the world's most extraordinary social change leaders including philanthropists, nonprofit and NGO leaders, and impact investors. We are passionate about helping social change leaders find solutions to economic and social barriers that perpetuate inequities and prevent individuals, families, and communities from having access to opportunities they need to thrive. We use rigorous research to gain insights that help our clients solve problems and achieve their goals. Our services include strategy consulting and advising, sourcing and diligence, and leadership team support. We take what we learn from this work and build on it with original research, identifying best practices and innovative ideas to share with the social sector.",
   "headquarters": "Boston, USA",
   "founded": 2000,
   "employees": 494,
   "parent_company": null,
-  "offices": ["Boston", "New York", "San Francisco", "Washington DC"],
-  "regions": ["North America", "Asia Pacific", "Africa"],
-  "specialties": ["Strategy", "Philanthropy Advisory", "Impact Investing", "Organizational Effectiveness", "Leadership Development"],
-  "industries": ["Nonprofit", "Social Impact", "Philanthropy", "Education", "Healthcare", "Climate", "Public Health"],
+  "offices": [
+    "Boston",
+    "New York",
+    "San Francisco",
+    "Washington DC"
+  ],
+  "regions": [
+    "North America",
+    "Asia Pacific",
+    "Africa"
+  ],
+  "specialties": [
+    "Strategy",
+    "Philanthropy Advisory",
+    "Impact Investing",
+    "Organizational Effectiveness",
+    "Leadership Development"
+  ],
+  "industries": [
+    "Nonprofit",
+    "Social Impact",
+    "Philanthropy",
+    "Education",
+    "Healthcare",
+    "Climate",
+    "Public Health"
+  ],
   "known_for": "Founded by former Bain & Company leaders to bring management consulting rigor to the social sector. Known for commitment to equity, lower travel demands than traditional consulting, and access to Bain's training programs. Ranked #4 in Vault's Top 50 Consulting Firms for workplace culture.",
   "hires_ug": true,
   "hires_mba": true,
@@ -1053,7 +1229,7 @@
 {
   "id": "charles-river-associates",
   "name": "Charles River Associates",
-  "type": "Boutique",
+  "type": "Economic Consulting",
   "tagline": "Economic and financial consulting for litigation and regulatory proceedings",
   "description": "Charles River Associates (CRA) is a global consulting firm specializing in litigation, regulatory, financial, and management consulting. We provide economic and financial analysis in litigation and regulatory proceedings and guide businesses through critical strategy and operational issues. Since 1965, clients have engaged CRA for our unique combination of functional expertise and industry knowledge, and for our objective solutions to complex problems. Headquartered in Boston, CRA has offices throughout the world. Learn more about our careers at http://www.crai.com/careers.",
   "headquarters": "Boston, USA",
@@ -1145,7 +1321,7 @@
 {
   "id": "chartis",
   "name": "The Chartis Group",
-  "type": "Boutique",
+  "type": "Healthcare",
   "tagline": "Healthcare transformation specialist—advising 900+ healthcare organizations annually",
   "description": "The challenges facing US healthcare are longstanding and all too familiar. We are Chartis, and we believe in better. We work with over 900 clients annually to develop and activate transformative strategies, operating models, and organizational enterprises that make U.S. healthcare more affordable, accessible, safe, and human. With over 1,000 professionals, we help providers, payers, technology innovators, retail companies, and investors create and embrace solutions that tangibly and materially reshape healthcare for the better. Our family of brands—Chartis, Jarrard, Greeley, and HealthScape Advisors—is 100% focused on healthcare and each has a longstanding commitment to helping transform healthcare in big and small ways. Chartis. Believe in better.",
   "headquarters": "Chicago, USA",
@@ -1227,7 +1403,7 @@
 {
   "id": "cicero-group",
   "name": "Cicero Group",
-  "type": "Boutique",
+  "type": "Regional/Niche",
   "tagline": "Data-driven boutique with Utah roots and strong BYU pipeline",
   "description": "Cicero® is a premier management consulting firm focused on implementing data-driven strategies for a broad mix of private, public, and social sector organizations across the globe. Cicero is headquartered in Salt Lake City, Utah, with additional offices in New York City, and Washington D.C. Cicero uses data and experience to generate insights, create actionable strategies, and drive transformation with an overarching purpose of helping people create and continuously deliver extraordinary results. At Cicero, our people come first. We work hard to foster a culture where employees can thrive both professionally and personally. If you would like to learn more about career opportunities with Cicero, please visit us at www.cicerogroup.com/careers.",
   "headquarters": "Salt Lake City, USA",
@@ -1311,17 +1487,37 @@
 {
   "id": "clarkston",
   "name": "Clarkston Consulting",
-  "type": "Boutique",
+  "type": "Regional/Niche",
   "tagline": "Life sciences, consumer products, and retail transformation specialist",
   "description": "Clarkston Consulting offers the full spectrum of strategy, operations, implementation, and managed services with a change-focused, data-driven approach for life sciences, consumer products, and retail companies. Leveraging decades of client commitment and industry experience, we deliver solutions that work for your business and people to drive growth, innovation, and transformation.",
   "headquarters": "Durham, USA",
   "founded": 1991,
   "employees": 443,
   "parent_company": null,
-  "offices": ["Durham", "Atlanta", "Chicago", "Detroit", "Bridgewater", "Roanoke"],
-  "regions": ["North America"],
-  "specialties": ["Strategy", "Operations", "Implementation", "Digital", "Analytics", "Transformation"],
-  "industries": ["Life Sciences", "Consumer Products", "Retail"],
+  "offices": [
+    "Durham",
+    "Atlanta",
+    "Chicago",
+    "Detroit",
+    "Bridgewater",
+    "Roanoke"
+  ],
+  "regions": [
+    "North America"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Implementation",
+    "Digital",
+    "Analytics",
+    "Transformation"
+  ],
+  "industries": [
+    "Life Sciences",
+    "Consumer Products",
+    "Retail"
+  ],
   "known_for": "Over 30 years of deep expertise in life sciences, consumer products, and retail industries. Known for data-driven implementation approach and strong employee culture that brands employees as 'stewards' with comprehensive wellness programs.",
   "hires_ug": true,
   "hires_mba": true,
@@ -1372,7 +1568,7 @@
 {
   "id": "clearview-healthcare",
   "name": "ClearView Healthcare Partners",
-  "type": "Boutique",
+  "type": "Life Sciences",
   "tagline": "Leading life sciences boutique—over half of consultants hold PhDs",
   "description": "Founded in Boston in 2007, ClearView Healthcare Partners is a diverse, inclusive, and innovative global strategy consulting firm serving the life science sector. The firm combines international industry knowledge and deep scientific expertise across a range of therapeutic areas with an extensive network of external stakeholders to deliver practical and actionable recommendations to our clients' most complex challenges. The firm's projects include cross-functional support at the corporate, franchise, and product levels for pharmaceutical, biotech, medical device, and diagnostics companies worldwide. We take pride in deploying high caliber consulting teams from our Boston, New York, San Francisco, London, Zurich, and Gurgaon offices that can provide the best support available on issues that require strategic capabilities and deep content expertise within life sciences. ClearView was ranked #13 overall and #1 boutique in the 2020 Vault Consulting 50. Specific rankings include Top 5 for Innovation, Formal and Informal Training, and Internal Mobility and Promotion Policies. ClearView was also ranked Top 10 for Firm Leadership, Compensation, and Firm Culture.",
   "headquarters": "Newton, USA",
@@ -1453,7 +1649,7 @@
 {
   "id": "cornerstone-research",
   "name": "Cornerstone Research",
-  "type": "Boutique",
+  "type": "Economic Consulting",
   "tagline": "Elite litigation economics—expert testimony and financial analysis for complex lawsuits",
   "description": "At Cornerstone Research, we attribute our success to a unique combination of resources: a creative and energetic staff, cutting-edge technology and research, and our work with academic and industry experts. Our consultants use innovative problem-solving approaches and achieve unparalleled analytic depth. Working with faculty experts from leading business schools, economics departments, and law schools keeps us at the forefront of academic research, while industry experts share their practical experience and business acumen. Our culture of growth and collegiality provides a dynamic work environment. Our team-based approach to casework emphasizes a combination of collaboration and individual initiative. This approach offers our employees the opportunity to work with and learn from professionals at all levels of the firm as well as from a network of leading academic and industry experts.",
   "headquarters": "San Francisco, USA",
@@ -1539,7 +1735,7 @@
 {
   "id": "credera",
   "name": "Credera",
-  "type": "Boutique",
+  "type": "Technology/Digital",
   "tagline": "Omnicom's MarTech and digital transformation consultancy bridging strategy and execution",
   "description": "Credera empowers the world's leading brands to navigate the complexities of data, technology, and marketing. As the global consultancy embedded within Omnicom's creative and media scale, we bridge marketing ambition and technical execution to accelerate growth and build transformations that last.",
   "headquarters": "Dallas, USA",
@@ -1625,17 +1821,34 @@
 {
   "id": "decibio",
   "name": "DeciBio Consulting",
-  "type": "Boutique",
+  "type": "Life Sciences",
   "tagline": "Precision medicine strategy experts—100% life sciences consulting",
   "description": "DeciBio Consulting is a boutique strategy consulting firm focusing on the life science industry. DeciBio's mission is to provide strategic insights that accelerate innovation in precision medicine. Headquartered in Los Angeles, CA, DeciBio serves clients and customers across the globe, ranging from incubator-stage startups to Fortune 500 life science corporations. DeciBio addresses business solutions that range from market landscape analyses to full commercial strategies, including organic and inorganic growth opportunities (commercial due diligences). DeciBio's work is typically supported by a mix of primary and secondary research leveraging Dexter, its in-house expert network, and DeciBio Analytics' proprietary data intelligence products. DeciBio's Analytics division offers numerous data products to support strategic insights, including in clinical diagnostics (the DxBooks), oncology biomarkers, liquid biopsy, NGS, spatial biology, omics market segmentation (Market Reports), the entire life sciences industry (BioTrack), and more. Internal teams such as the Culture Committee, Women* in Consulting, and Queers in Consulting enrich the employee experience. DeciBio's Social Impact board and the DeciBio Impact Lab work collaboratively across divisions and externally to uproot discrimination and increase access to precision medicine. DeciBio Consulting, LLC recently launched DeciBio Ventures. This venture capital and creation firm invests in and supports ground-breaking companies in the precision medicine space.",
   "headquarters": "Los Angeles, USA",
   "founded": 2013,
   "employees": 62,
   "parent_company": null,
-  "offices": ["Los Angeles"],
-  "regions": ["North America", "Europe"],
-  "specialties": ["Strategy", "Market Research", "Due Diligence", "Pricing", "Analytics"],
-  "industries": ["Life Sciences", "Clinical Diagnostics", "Pharma & Biotech", "Research Tools", "Financial Services"],
+  "offices": [
+    "Los Angeles"
+  ],
+  "regions": [
+    "North America",
+    "Europe"
+  ],
+  "specialties": [
+    "Strategy",
+    "Market Research",
+    "Due Diligence",
+    "Pricing",
+    "Analytics"
+  ],
+  "industries": [
+    "Life Sciences",
+    "Clinical Diagnostics",
+    "Pharma & Biotech",
+    "Research Tools",
+    "Financial Services"
+  ],
   "known_for": "Boutique firm with 100% focus on precision medicine and life sciences. All consultants hold life sciences degrees and 70% of projects involve global research. Known for combining deep scientific understanding with business strategy, plus proprietary data analytics platform (DeciBio Analytics). Recognized for exceptional work-life balance and entrepreneurial culture.",
   "hires_ug": true,
   "hires_mba": true,
@@ -1803,10 +2016,44 @@
   "founded": 1991,
   "employees": 25000,
   "parent_company": "EY (Ernst & Young)",
-  "offices": ["Atlanta", "Boston", "Chicago", "Houston", "Los Angeles", "New York", "San Francisco"],
-  "regions": ["North America", "Europe", "Asia Pacific", "Latin America", "Middle East", "Africa"],
-  "specialties": ["Strategy", "M&A", "Corporate Finance", "Restructuring", "Private Equity", "Transformation"],
-  "industries": ["Consumer", "Retail", "Energy", "Financial Services", "Healthcare", "Industrial", "Life Sciences", "Private Equity", "Technology", "Media & Entertainment", "Telecommunications"],
+  "offices": [
+    "Atlanta",
+    "Boston",
+    "Chicago",
+    "Houston",
+    "Los Angeles",
+    "New York",
+    "San Francisco"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East",
+    "Africa"
+  ],
+  "specialties": [
+    "Strategy",
+    "M&A",
+    "Corporate Finance",
+    "Restructuring",
+    "Private Equity",
+    "Transformation"
+  ],
+  "industries": [
+    "Consumer",
+    "Retail",
+    "Energy",
+    "Financial Services",
+    "Healthcare",
+    "Industrial",
+    "Life Sciences",
+    "Private Equity",
+    "Technology",
+    "Media & Entertainment",
+    "Telecommunications"
+  ],
   "known_for": "Formerly the independent Parthenon Group founded by ex-Bain consultants, joined EY in 2014 to become its strategy practice. Known for pragmatic, execution-focused strategy work that bridges the 'what' and 'how' questions. Strong private equity practice and reputation for rigorous analytical work. Culture emphasizes hiring 'smart, nice, and driven' people.",
   "hires_ug": true,
   "hires_mba": true,
@@ -1857,7 +2104,7 @@
 {
   "id": "fti-consulting",
   "name": "FTI Consulting",
-  "type": "Boutique",
+  "type": "Restructuring",
   "tagline": "Crisis and transformation experts spanning restructuring to forensics",
   "description": "FTI Consulting is the leading global expert firm for organizations facing crisis and transformation, with more than 7,900 employees located in 32 countries and territories. Our professionals work closely with clients to anticipate, illuminate and overcome complex business challenges and make the most of opportunities.",
   "headquarters": "Washington DC, USA",
@@ -1949,7 +2196,7 @@
 {
   "id": "guidehouse",
   "name": "Guidehouse",
-  "type": "Boutique",
+  "type": "Government/Defense",
   "tagline": "Risk management and regulated industries specialist—born from PwC in 2018",
   "description": "Guidehouse is a global AI-led professional services firm delivering advisory, technology, and managed services to the commercial and government sectors. With an integrated business technology approach, Guidehouse drives efficiency and resilience in the healthcare, financial services, energy, infrastructure, and national security markets. Built to help clients across industries outwit complexity, the firm brings together approximately 18,000 professionals to achieve lasting impact and shape a meaningful future.",
   "headquarters": "McLean, VA, USA",
@@ -2041,7 +2288,7 @@
 {
   "id": "huron",
   "name": "Huron Consulting Group",
-  "type": "Boutique",
+  "type": "Healthcare",
   "tagline": "Industry-focused consulting for healthcare, education, and business transformation",
   "description": "Huron is a global professional services firm that collaborates with clients to put possible into practice by creating sound strategies, optimizing operations, accelerating digital transformation, and empowering businesses and their people to own their future. By embracing diverse perspectives, encouraging new ideas, and challenging the status quo, we create sustainable results for the organizations we serve. Learn more at huronconsultinggroup.com.",
   "headquarters": "Chicago, USA",
@@ -2129,16 +2376,34 @@
 {
   "id": "innosight",
   "name": "Innosight",
-  "type": "Boutique",
+  "type": "Boutique Strategy",
   "tagline": "Clayton Christensen's disruptive innovation firm—now part of Huron",
   "headquarters": "Lexington, USA",
   "founded": 2000,
   "employees": 125,
   "parent_company": "Huron Consulting Group",
-  "offices": ["Boston"],
-  "regions": ["North America", "Europe", "Asia Pacific"],
-  "specialties": ["Strategy", "Innovation", "Transformation", "Growth Strategy", "Disruptive Innovation"],
-  "industries": ["Healthcare", "Technology", "Financial Services", "Consumer", "Energy"],
+  "offices": [
+    "Boston"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Strategy",
+    "Innovation",
+    "Transformation",
+    "Growth Strategy",
+    "Disruptive Innovation"
+  ],
+  "industries": [
+    "Healthcare",
+    "Technology",
+    "Financial Services",
+    "Consumer",
+    "Energy"
+  ],
   "known_for": "Co-founded by Clayton Christensen, pioneer of disruptive innovation theory. Known for Jobs-to-be-Done framework, dual transformation methodology, and working with Fortune 50 companies on innovation strategy and growth transformation.",
   "hires_ug": true,
   "hires_mba": true,
@@ -2189,7 +2454,7 @@
 {
   "id": "kearney",
   "name": "Kearney",
-  "type": "Boutique",
+  "type": "Boutique Strategy",
   "tagline": "Operations and procurement powerhouse with McKinsey heritage",
   "description": "As one of the original firms, we've never lost sight of the fact that consulting is a people business. A global partnership in more than 40 countries, our people make us who we are. We're individuals with different passions and strengths who take as much joy in the work we do as from those we work with. Our strategic operations heritage means we've always known that a plan is only as good as the outcome it inspires. In practice, our teams bring the perspective, understanding, and hands-on know-how to build the future as you see it. Working together we'll see big ideas through to working realities, helping you move from keeping up to breaking through. By your side, we deliver—value, results, impact.",
   "headquarters": "Chicago, USA",
@@ -2285,17 +2550,36 @@
 {
   "id": "keystone-group",
   "name": "The Keystone Group",
-  "type": "Boutique",
+  "type": "Regional/Niche",
   "tagline": "Results-driven mid-market specialists in manufacturing and distribution turnarounds",
   "description": "The Keystone Group is a results-oriented management consulting firm. Our small, experienced teams work with middle-market manufacturing, distribution, and business services clients to develop and execute strategic growth, improve operations, restructure finances, and integrate acquisitions. Our mission is to make a substantive difference in the companies we work with and the lives of the people that work for them. For over thirty years, we have been building long-term relationships with our clients by helping them identify and implement solutions to their most complex business issues.",
   "headquarters": "Chicago, USA",
   "founded": 1991,
   "employees": 64,
   "parent_company": null,
-  "offices": ["Chicago", "Atlanta", "Los Angeles"],
-  "regions": ["North America"],
-  "specialties": ["Strategy", "Operations", "Restructuring", "M&A"],
-  "industries": ["Manufacturing", "Distribution", "Business Services", "Automotive", "Food & Beverage", "Industrial Equipment", "Consumer Products"],
+  "offices": [
+    "Chicago",
+    "Atlanta",
+    "Los Angeles"
+  ],
+  "regions": [
+    "North America"
+  ],
+  "specialties": [
+    "Strategy",
+    "Operations",
+    "Restructuring",
+    "M&A"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Distribution",
+    "Business Services",
+    "Automotive",
+    "Food & Beverage",
+    "Industrial Equipment",
+    "Consumer Products"
+  ],
   "known_for": "Boutique firm specializing in middle-market manufacturing and distribution with deep operational expertise. Ranked #1 by Vault for firm culture (2020-2023) and known for hands-on implementation work, no up-or-out model, and strong work-life balance for consulting.",
   "hires_ug": true,
   "hires_mba": null,
@@ -2342,7 +2626,7 @@
 {
   "id": "korn-ferry",
   "name": "Korn Ferry",
-  "type": "Boutique",
+  "type": "HR/Talent",
   "tagline": "Global organizational consulting firm merging talent strategy with executive search",
   "description": "Korn Ferry is a global consulting firm that powers performance. We unlock the potential in your people and unleash transformation across your business—synchronizing strategy, operations, and talent to accelerate performance, fuel growth, and inspire a legacy of change. That's why the world's most forward-thinking companies across every major industry turn to us—for a shared commitment to lasting impact and the bold ambition to Be More Than.",
   "headquarters": "Los Angeles, USA",
@@ -2641,7 +2925,7 @@
 {
   "id": "leader-factor",
   "name": "Leader Factor",
-  "type": "Boutique",
+  "type": "Regional/Niche",
   "tagline": "Pioneering psychological safety consulting—builds cultures of inclusion and innovation",
   "description": "A leader is the # 1 factor in determining organizational success. Here at LeaderFactor, we are dedicated to sharing HR and L&D best practices as leaders plan, program, and sequence their development initiatives. Because we believe that real change happens at the behavioral level, this is the place to discover practical frameworks, tools, and insights to build a healthy culture that lasts.",
   "headquarters": "American Fork, USA",
@@ -2649,9 +2933,23 @@
   "employees": 24,
   "parent_company": null,
   "offices": [],
-  "regions": ["North America"],
-  "specialties": ["Organizational Culture", "Leadership Development", "Change Management", "Human Capital"],
-  "industries": ["Financial Services", "Healthcare", "Technology", "Public Sector", "Energy", "Consumer"],
+  "regions": [
+    "North America"
+  ],
+  "specialties": [
+    "Organizational Culture",
+    "Leadership Development",
+    "Change Management",
+    "Human Capital"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Public Sector",
+    "Energy",
+    "Consumer"
+  ],
   "known_for": "Founded by Dr. Timothy R. Clark (Oxford PhD), LeaderFactor is a global authority on psychological safety and cultural transformation. Known for The 4 Stages of Psychological Safety framework and Core15™ leadership system. Clients include Microsoft, NASA, Stanford, American Express, and over 200 executive teams worldwide.",
   "hires_ug": null,
   "hires_mba": null,
@@ -2694,17 +2992,34 @@
 {
   "id": "leavitt-partners",
   "name": "Leavitt Partners",
-  "type": "Boutique",
+  "type": "Healthcare",
   "tagline": "Healthcare policy consulting—navigating value-based care and federal regulations",
   "description": "Leavitt Partners helps clients successfully improve health by advancing value. The firm provides services focused on market and industry influences, value-based care, alternative payment models, federal strategies, public health, digital health, and alliances.",
   "headquarters": "Washington, USA",
   "founded": 2009,
   "employees": 65,
   "parent_company": "Health Management Associates",
-  "offices": ["Washington DC", "Salt Lake City"],
-  "regions": ["North America"],
-  "specialties": ["Healthcare Policy", "Value-Based Care", "Federal Strategy", "Alternative Payment Models", "Public Health", "Digital Health"],
-  "industries": ["Healthcare", "Public Sector", "Life Sciences", "Insurance"],
+  "offices": [
+    "Washington DC",
+    "Salt Lake City"
+  ],
+  "regions": [
+    "North America"
+  ],
+  "specialties": [
+    "Healthcare Policy",
+    "Value-Based Care",
+    "Federal Strategy",
+    "Alternative Payment Models",
+    "Public Health",
+    "Digital Health"
+  ],
+  "industries": [
+    "Healthcare",
+    "Public Sector",
+    "Life Sciences",
+    "Insurance"
+  ],
   "known_for": "Founded by former HHS Secretary and Utah Governor Mike Leavitt, the firm specializes in healthcare policy intelligence and value-based care transformation. Known for deep federal policy connections and helping healthcare stakeholders navigate regulatory complexity.",
   "hires_ug": true,
   "hires_mba": null,
@@ -2755,7 +3070,7 @@
 {
   "id": "lek",
   "name": "L.E.K. Consulting",
-  "type": "Boutique",
+  "type": "Boutique Strategy",
   "tagline": "Pure-play strategy boutique known as 'The Growth Guys'",
   "description": "L.E.K. Consulting is a global management consulting firm that uses deep industry expertise and rigorous analysis to help business leaders achieve practical results with real impact. We are uncompromising in our approach to helping clients consistently make better decisions, deliver improved business performance and create greater shareholder returns. The firm advises and supports global companies that are leaders in their industries — including the largest private and public sector organizations, private equity firms and emerging entrepreneurial businesses. Founded in 1983, L.E.K. employs more than 2,300 professionals across the Americas, Asia-Pacific and Europe. We have deep expertise and a proven track record in a broad range of industries: • Business Services • Consumer Products • Education • Energy & Environment • Financial Services • Healthcare Services • Industrials • Life Sciences & Pharma • Media & Entertainment • MedTech • Private Equity • Retail • Technology • Travel & Transport",
   "headquarters": "London, United Kingdom",
@@ -2955,17 +3270,57 @@
 {
   "id": "mercer",
   "name": "Mercer",
-  "type": "Boutique",
+  "type": "HR/Talent",
   "tagline": "Global HR and benefits advisory—advising on talent, health, retirement, and investments",
   "description": "At Mercer, A Marsh business, we're helping our clients realize their investment objectives, shape the future of work, and enhance health and retirement outcomes for their people. As a business of Marsh, for 80 years, we've been helping our clients, colleagues and communities build the confidence to thrive, creating healthier and more sustainable futures. Together with Marsh Risk, Guy Carpenter, and Oliver Wyman, we help organizations build resilience and competitive advantages from every angle. With annual revenue over $24 billion and more than 90,000 colleagues in 130 countries, Marsh helps build the confidence to thrive through the power of perspective.",
   "headquarters": "New York, USA",
   "founded": 1945,
   "employees": 22125,
   "parent_company": "Marsh McLennan",
-  "offices": ["New York", "Chicago", "Boston", "Washington DC", "Atlanta", "Dallas", "Houston", "Los Angeles", "San Francisco", "Philadelphia", "Minneapolis", "Phoenix", "Charlotte", "Miami", "Denver", "Portland"],
-  "regions": ["North America", "Europe", "Asia Pacific", "Latin America", "Middle East", "Africa"],
-  "specialties": ["Human Capital", "Health & Benefits", "Retirement", "Investments", "Talent Strategy", "Compensation & Rewards"],
-  "industries": ["Financial Services", "Healthcare", "Technology", "Consumer", "Energy", "Industrial", "Public Sector", "Private Equity"],
+  "offices": [
+    "New York",
+    "Chicago",
+    "Boston",
+    "Washington DC",
+    "Atlanta",
+    "Dallas",
+    "Houston",
+    "Los Angeles",
+    "San Francisco",
+    "Philadelphia",
+    "Minneapolis",
+    "Phoenix",
+    "Charlotte",
+    "Miami",
+    "Denver",
+    "Portland"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East",
+    "Africa"
+  ],
+  "specialties": [
+    "Human Capital",
+    "Health & Benefits",
+    "Retirement",
+    "Investments",
+    "Talent Strategy",
+    "Compensation & Rewards"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Consumer",
+    "Energy",
+    "Industrial",
+    "Public Sector",
+    "Private Equity"
+  ],
   "known_for": "One of the world's largest HR consulting firms with deep expertise in workforce strategy, retirement planning, and employee benefits. Known for quantitative rigor in compensation benchmarking and actuarial analysis, collaborative culture, and better work-life balance than traditional strategy consulting.",
   "hires_ug": true,
   "hires_mba": true,
@@ -3016,7 +3371,7 @@
 {
   "id": "nera",
   "name": "NERA Economic Consulting",
-  "type": "Boutique",
+  "type": "Economic Consulting",
   "tagline": "Economic experts since 1961—litigation support and regulatory guidance",
   "description": "Since 1961, NERA has provided unparalleled guidance on the most important market, legal, and regulatory questions of the day. Our work has shaped industries and policy around the world. Our field-leading experts and deep experience allows us to provide rigorous analysis, reliable expert testimony, and data-powered policy recommendations for the world's leading law firms and corporations as well as regulators and governments. Our experience, integrity, and economic ingenuity mean you can depend on us in the face of your biggest economic and financial challenges.",
   "headquarters": "New York, USA",
@@ -3107,7 +3462,7 @@
 {
   "id": "north-highland",
   "name": "North Highland",
-  "type": "Boutique",
+  "type": "Regional/Niche",
   "tagline": "Change and transformation consultancy with local staffing and strong work-life balance",
   "description": "North Highland helps businesses move from strategy to reality, taking a pragmatic and practical approach to build solutions that work and create impact that lasts. As the world's leading change and transformation consultancy, our award-winning services – powered by a combination of talent and technology – turn client visions into real, measurable value.",
   "headquarters": "Atlanta, USA",
@@ -3195,17 +3550,37 @@
 {
   "id": "occ",
   "name": "OC&C Strategy Consultants",
-  "type": "Boutique",
+  "type": "Boutique Strategy",
   "tagline": "Consumer and retail strategy specialists with B Corp values",
   "description": "At OC&C Strategy Consultants we have more than 35 years of experience at unpicking the most complex business challenges with simple, uncommon sense™. We're an international consulting firm, spanning 10 countries, but we've never seen size as an end in itself. Our expertise is focused on a few core specialisms, allowing us to deliver results that get noticed. Our people are agile thinkers, cut from different cloths but united by a relentless curiosity and desire to solve problems. To us, each client challenge is unique, so boilerplate solutions don't cut it. We interrogate a problem until we find its root. Then we develop a powerful way to solve it. We don't duck the difficult answers, we give clients the strategies they need. _ OC&C is a Certified B Corporation™ and is committed to embracing a new standard for the consulting landscape. Learn more about us at occstrategy.com",
   "headquarters": "London, UK",
   "founded": 1987,
   "employees": 1052,
   "parent_company": null,
-  "offices": ["New York", "Boston"],
-  "regions": ["North America", "Europe", "Asia Pacific"],
-  "specialties": ["Strategy", "M&A", "Due Diligence", "Digital", "Analytics"],
-  "industries": ["Consumer", "Retail", "Private Equity", "Technology", "Media & Entertainment", "Leisure"],
+  "offices": [
+    "New York",
+    "Boston"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Strategy",
+    "M&A",
+    "Due Diligence",
+    "Digital",
+    "Analytics"
+  ],
+  "industries": [
+    "Consumer",
+    "Retail",
+    "Private Equity",
+    "Technology",
+    "Media & Entertainment",
+    "Leisure"
+  ],
   "known_for": "Founded by former Booz Allen consultants, OC&C built its reputation on deep consumer goods and retail expertise. Known for rigorous commercial due diligence for private equity and refusing to apply 'generic frameworks'—each client problem gets a bespoke solution. Certified B Corporation as of 2023.",
   "hires_ug": true,
   "hires_mba": true,
@@ -3256,7 +3631,7 @@
 {
   "id": "oliver-wyman",
   "name": "Oliver Wyman",
-  "type": "Boutique",
+  "type": "Boutique Strategy",
   "tagline": "Financial services specialist—deep risk and actuarial expertise within Marsh McLennan",
   "description": "We guide clients through high-stakes decisions and transformative moments so they can adapt, grow, and thrive. Our edge? The power of perspective — driven by deep industry insight, specialized expertise, and a spirit of true collaboration.",
   "headquarters": "New York, USA",
@@ -3352,17 +3727,33 @@
 {
   "id": "palm-tree",
   "name": "Palm Tree LLC",
-  "type": "Boutique",
+  "type": "PE/Transaction Advisory",
   "tagline": "Private equity-focused M&A advisor born out of PE",
   "description": "As a single-source partner, Palm Tree integrates financial, operational, analytical, and capital solutions to advise and execute value-creation initiatives that drive transactions, transitions, and transformations. We guide private equity firms through high-stakes processes, engaging with them to highlight opportunities, mitigate risks, and reduce deal friction. Our integrated services work alongside management teams to help them prepare for, navigate, and succeed in strategic events so they can focus on company performance and preserving operational capacity. We were born out of private equity. It gives us the resilience, flexibility, and perspective of owners and operators. Our team comes from private equity, Big-4 accounting, investment banking, and business operations experience.",
   "headquarters": "Los Angeles, USA",
   "founded": 2010,
   "employees": 80,
   "parent_company": null,
-  "offices": ["Los Angeles", "Chicago", "Detroit", "Dallas"],
-  "regions": ["North America"],
-  "specialties": ["M&A", "Transaction Advisory", "Operations", "Finance & Accounting", "Data & Analytics", "Investment Banking"],
-  "industries": ["Private Equity"],
+  "offices": [
+    "Los Angeles",
+    "Chicago",
+    "Detroit",
+    "Dallas"
+  ],
+  "regions": [
+    "North America"
+  ],
+  "specialties": [
+    "M&A",
+    "Transaction Advisory",
+    "Operations",
+    "Finance & Accounting",
+    "Data & Analytics",
+    "Investment Banking"
+  ],
+  "industries": [
+    "Private Equity"
+  ],
   "known_for": "The modern M&A advisor for private equity, Palm Tree is unique as a one-stop-shop specializing in the full PE deal lifecycle. With 600+ engagements across 6 continents totaling $75B+ in transaction value, they bring hands-on expertise from private equity, Big-4, and investment banking backgrounds.",
   "hires_ug": true,
   "hires_mba": true,
@@ -3413,7 +3804,7 @@
 {
   "id": "point-b",
   "name": "Point B",
-  "type": "Boutique",
+  "type": "Technology/Digital",
   "tagline": "Employee-owned firm balancing impact with work-life quality",
   "description": "Trusted by the world's leading organizations, Point B is a consulting company that drives impact at the intersection of expertise, industry insight, and transformative technology. This collaborative approach enables you to solve your most important challenges by bringing together the right mix of talent and technology to deliver greater value and impact. With over 850 associates in the US and 3,000+ consultants around the world through our partnership with Nextcontinent, we work where you do to deliver the change you seek.",
   "headquarters": "Seattle, USA",
@@ -3506,16 +3897,39 @@
 {
   "id": "porsche-consulting",
   "name": "Porsche Consulting",
-  "type": "Boutique",
+  "type": "Regional/Niche",
   "tagline": "Automotive excellence meets lean operations—'Strategic Vision, Smart Implementation' from Porsche's DNA",
   "headquarters": "Bietigheim-Bissingen, Germany",
   "founded": 1994,
   "employees": 1000,
   "parent_company": "Porsche AG",
-  "offices": ["Atlanta", "Palo Alto"],
-  "regions": ["North America", "Europe", "Asia Pacific", "Latin America"],
-  "specialties": ["Operations", "Strategy", "Transformation", "Implementation", "Operational Excellence", "M&A"],
-  "industries": ["Automotive", "Aerospace", "Industrial", "Consumer", "Energy", "Financial Services", "Life Sciences"],
+  "offices": [
+    "Atlanta",
+    "Palo Alto"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America"
+  ],
+  "specialties": [
+    "Operations",
+    "Strategy",
+    "Transformation",
+    "Implementation",
+    "Operational Excellence",
+    "M&A"
+  ],
+  "industries": [
+    "Automotive",
+    "Aerospace",
+    "Industrial",
+    "Consumer",
+    "Energy",
+    "Financial Services",
+    "Life Sciences"
+  ],
   "known_for": "Born from Porsche's successful turnaround in the 1990s, Porsche Consulting brings automotive operational excellence to clients worldwide. Known for 'Strategic Vision, Smart Implementation'—combining strategic thinking with pragmatic, hands-on execution. Deep expertise in lean manufacturing, supply chain optimization, and end-to-end transformation.",
   "hires_ug": true,
   "hires_mba": true,
@@ -3566,17 +3980,37 @@
 {
   "id": "putnam",
   "name": "Putnam (Inizio Advisory)",
-  "type": "Boutique",
+  "type": "Life Sciences",
   "tagline": "Life sciences strategy boutique bridging science and business decisions",
   "description": "We are now Inizio Ignite, the global advisory partner for health and life sciences, encompassing connected expertise across Research Partnership, Putnam, Vynamic, and STEM. Our Putnam strategy consulting team bridges science and strategy to enable confident decision-making and build value for pharma. We partner with leading health and life science companies serving brand & commercial leaders, Medical Affairs, access & pricing, and R&D. Our expertise spans offerings including therapeutic area strategy, data & AI strategy, go-to-market strategy, commercialization & growth, value, pricing & access (VPA) strategy, and evidence generation. Proudly part of Inizio – the market-leading commercialization partner for health and life sciences. From early-stage development to loss of exclusivity, we simplify complexity, unlock value, and make collaboration seamless at every pivotal moment – supporting confident, insight-driven decisions that move innovation forward.",
   "headquarters": "Boston, USA",
   "founded": 1988,
   "employees": 416,
   "parent_company": "Inizio Advisory",
-  "offices": ["Boston", "New York", "San Francisco"],
-  "regions": ["North America", "Europe", "Asia Pacific"],
-  "specialties": ["Strategy", "Commercialization", "Pricing & Market Access", "Evidence Generation", "Data & AI Strategy"],
-  "industries": ["Life Sciences", "Pharmaceuticals", "Biotechnology", "Medical Devices", "Diagnostics"],
+  "offices": [
+    "Boston",
+    "New York",
+    "San Francisco"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "specialties": [
+    "Strategy",
+    "Commercialization",
+    "Pricing & Market Access",
+    "Evidence Generation",
+    "Data & AI Strategy"
+  ],
+  "industries": [
+    "Life Sciences",
+    "Pharmaceuticals",
+    "Biotechnology",
+    "Medical Devices",
+    "Diagnostics"
+  ],
   "known_for": "Founded by ex-Bain consultants in 1988, Putnam is a leading life sciences strategy boutique serving all top 20 global biopharma companies. Known for deep scientific expertise, minimal travel requirements (under 25%), and strong work-life balance compared to traditional consulting firms.",
   "hires_ug": true,
   "hires_mba": true,
@@ -3738,10 +4172,44 @@
   "founded": 1914,
   "employees": 3700,
   "parent_company": "PwC",
-  "offices": ["New York", "San Francisco", "Chicago", "Washington DC", "Atlanta", "Los Angeles", "Boston", "Dallas", "Houston", "Cleveland"],
-  "regions": ["North America", "Europe", "Asia Pacific", "Middle East", "Latin America"],
-  "specialties": ["Strategy", "M&A", "Digital", "Operations", "Transformation"],
-  "industries": ["Financial Services", "Healthcare", "Technology", "Consumer", "Retail", "Energy", "Industrial", "Public Sector", "Media & Entertainment", "Telecommunications"],
+  "offices": [
+    "New York",
+    "San Francisco",
+    "Chicago",
+    "Washington DC",
+    "Atlanta",
+    "Los Angeles",
+    "Boston",
+    "Dallas",
+    "Houston",
+    "Cleveland"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Middle East",
+    "Latin America"
+  ],
+  "specialties": [
+    "Strategy",
+    "M&A",
+    "Digital",
+    "Operations",
+    "Transformation"
+  ],
+  "industries": [
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Consumer",
+    "Retail",
+    "Energy",
+    "Industrial",
+    "Public Sector",
+    "Media & Entertainment",
+    "Telecommunications"
+  ],
   "known_for": "Prestigious strategy heritage from Booz & Company (founded 1914), acquired by PwC in 2014 in the largest consulting acquisition in PwC history. Known for capabilities-driven strategy approach and access to PwC's global network while maintaining strategy consulting focus.",
   "hires_ug": true,
   "hires_mba": true,
@@ -3792,7 +4260,7 @@
 {
   "id": "roland-berger",
   "name": "Roland Berger",
-  "type": "Boutique",
+  "type": "Boutique Strategy",
   "tagline": "Europe's leading independent strategy consultancy with global reach",
   "description": "Roland Berger is a global leader in strategy consulting, renowned for its focus on transformation, innovation, and sustainability. Founded in 1967 and headquartered in Munich, we shape the future of businesses and industries globally. Whether it's digitalization, globalization, or sustainability, we see challenges as opportunities to drive impact. With innovative solutions, deep industry expertise, and agile international teams, we deliver measurable results and lasting change. Our goal is clear: accelerate transformation, build resilient business models, and contribute to a CO2-neutral future – bold, collaborative, and impactful.",
   "headquarters": "Munich, Germany",
@@ -3880,7 +4348,7 @@
 {
   "id": "simon-kucher",
   "name": "Simon-Kucher & Partners",
-  "type": "Boutique",
+  "type": "Boutique Strategy",
   "tagline": "World's leading pricing and commercial growth specialist",
   "description": "Simon-Kucher is a global consultancy with more than 2,000 employees in 30+ countries. Our sole focus is on unlocking better growth that drives measurable revenue and profit for our clients. We achieve this by optimizing every lever of their commercial strategy – product, price, innovation, marketing, and sales – based on deep insights into what customers want and value. With nearly 40 years of experience in monetization topics of all kinds, we are regarded as the world's leading pricing and growth specialist. (Legal notice: https://www.simon-kucher.com/en/legal-notice) -- Terms of use: Simon-Kucher's official LinkedIn page is run by Simon-Kucher & Partners Strategy & Marketing Consultants (SK). This is a public forum and we welcome your comments, thoughts and insights. However, all posts are regularly monitored and SK will remove, hide and/or delete any that are found to be abusive or deemed inappropriate for this page for whatever reason, including content that is deemed none compliant with LinkedIn's User Agreement (https://www.linkedin.com/legal/user-agreement). This includes the banning and reporting of users who are deemed to be non compliant with the above expectations of Simon-Kucher. All comments, visuals, links to other digital pages and other type of material posted by followers on this site (\"User Content\") do not necessarily reflect the opinions or values of SK, its employees, partners or affiliates. SK does not represent or warrant the accuracy of any statement or product claims made here, is not responsible for any User Content on this site and does not endorse any opinions expressed on this page.",
   "headquarters": "Bonn, Germany",
@@ -3966,7 +4434,7 @@
 {
   "id": "slalom",
   "name": "Slalom",
-  "type": "Boutique",
+  "type": "Technology/Digital",
   "tagline": "Tech-enabled consulting with no unwanted travel—local delivery model and strong work-life balance",
   "headquarters": "Seattle, USA",
   "founded": 2001,
@@ -4069,17 +4537,37 @@
 {
   "id": "stax",
   "name": "Stax (Grant Thornton)",
-  "type": "Boutique",
+  "type": "PE/Transaction Advisory",
   "tagline": "PE-focused strategy firm specializing in commercial due diligence and value creation",
   "description": "Grant Thornton Stax is a global strategy consulting firm specializing in commercial due diligence, value creation, and exit planning for private equity firms, PE-backed companies, hedge funds, and investment banks across a broad range of industries including software/technology, industrials, business services, healthcare, consumer, and the events ecosystem. The firm partners with clients to provide data-driven, actionable insights designed to drive growth, enhance profits, increase value, and make better investment decisions. Stax is a wholly-owned subsidiary of Grant Thornton Advisors LLC. Grant Thornton International Limited (GTIL) and the member firms, including Grant Thornton LLP and Grant Thornton Advisors LLC, are not a worldwide partnership. Services are delivered by the member firms. GTIL and its member firms are not agents of, and do not obligate, one another and are not liable for one another's acts or omissions.",
   "headquarters": "Boston, USA",
   "founded": 1994,
   "employees": 372,
   "parent_company": "Grant Thornton",
-  "offices": ["Boston", "New York", "Chicago"],
-  "regions": ["North America", "Europe"],
-  "specialties": ["Strategy", "Commercial Due Diligence", "M&A", "Value Creation", "Exit Planning"],
-  "industries": ["Private Equity", "Technology", "Industrial", "Business Services", "Healthcare", "Consumer"],
+  "offices": [
+    "Boston",
+    "New York",
+    "Chicago"
+  ],
+  "regions": [
+    "North America",
+    "Europe"
+  ],
+  "specialties": [
+    "Strategy",
+    "Commercial Due Diligence",
+    "M&A",
+    "Value Creation",
+    "Exit Planning"
+  ],
+  "industries": [
+    "Private Equity",
+    "Technology",
+    "Industrial",
+    "Business Services",
+    "Healthcare",
+    "Consumer"
+  ],
   "known_for": "Leading PE-focused strategy firm with deep commercial due diligence expertise and limited-travel model. Ranked #1 for work-life balance in EMEA (Vault 2025). Acquired by Grant Thornton in 2025, serving nearly 70% of the PE International 300.",
   "hires_ug": true,
   "hires_mba": true,
@@ -4130,7 +4618,7 @@
 {
   "id": "west-monroe",
   "name": "West Monroe",
-  "type": "Boutique",
+  "type": "Technology/Digital",
   "tagline": "Business and technology consulting with employee ownership culture",
   "description": "West Monroe is a global business and technology consulting firm passionate about creating value for our clients. We co-create solutions that accelerate results now and prepare industries to tackle what's next. We're excited by the possibilities that technology creates. We work with our clients to deliver on the possible, building on their goals, generating fresh insights and creating inspiring outcomes. We excel at the intersection of industry, strategy, people and technology—always driving rapid impact. Our all-in approach comes from our unique employee ownership structure. Our clients' success is our success. From the beginning, our growth has come from putting people at the center. Fortune and USA Today consistently celebrate West Monroe as a top workplace, and we're recognized as a leading consultancy by Forbes and Forrester. Share our passion at westmonroe.com.",
   "headquarters": "Chicago, USA",
@@ -4222,7 +4710,7 @@
 {
   "id": "zs-associates",
   "name": "ZS Associates",
-  "type": "Boutique",
+  "type": "Life Sciences",
   "tagline": "Life sciences powerhouse combining data science and consulting expertise",
   "description": "ZS is a management consulting and technology firm that partners with companies to improve life and how we live it. We transform ideas into impact by bringing together data, science, technology and human ingenuity to deliver better outcomes for all. Founded in 1983, ZS has more than 13,000 employees in over 35 offices worldwide. To learn more, visit www.zs.com/ At ZS, our mission is to inspire each other to bring our unique perspective and experience to work each day. When you join our firm, you have access to a wealth of community groups to support you, energize you and inspire you to bring your authentic self to work each day.",
   "headquarters": "Evanston, USA",
