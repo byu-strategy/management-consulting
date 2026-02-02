@@ -25,12 +25,12 @@ Each **"Peer"** session = complete **both roles** with a partner (you interview 
 | 3 | 5 | Th Jan 22 | [Root Cause Analysis](05-think-clearly.qmd#os-1-1) | Quiz 2; Goals Chat due Sat | – |
 | 4 | 6 | T Jan 27 | [Define the Problem](05-think-clearly.qmd#os-1-2) | P1: Intelligence Brief assigned | – |
 | 4 | 7 | Th Jan 29 | [Frame the Decision](05-think-clearly.qmd#os-1-3) | Quiz 3 | Peer 1 (by Sat) |
-| 5 | 8 | T Feb 3 | [Hypothesize](05-think-clearly.qmd#os-1-4) & [WWHTBT](05-think-clearly.qmd#os-1-5) | – | – |
+| 5 | 8 | T Feb 3 | [Hypothesize](05-think-clearly.qmd#os-1-4) & [WWHTBT](05-think-clearly.qmd#os-1-5) — **Guest: Ryan Madsen (ZS)** | – | – |
 | 5 | 9 | Th Feb 5 | [MECE](05-think-clearly.qmd#os-1-6) & [Prioritization](05-think-clearly.qmd#os-1-7) | Quiz 4; Resume v1 due | TA 1 (by Sat) |
 | 6 | 10 | T Feb 10 | [Outside-In Fact Base](06-get-right-answer.qmd#os-2-2) & [Assumptions](06-get-right-answer.qmd#os-2-3) | – | – |
 | 6 | 11 | Th Feb 12 | [Quick Math & Estimation](06-get-right-answer.qmd#os-2-4) | Quiz 5; Mid-Semester Feedback due Sat | Peer 2 (by Sat) |
 | 7 | 12 | Th Feb 19 | P1: Intelligence Brief Presentations | Resume v2 due; **P1 due Sat**; P2 assigned | Peer 3 (by Sat) |
-| 8 | 13 | T Feb 24 | [Design Analyses](06-get-right-answer.qmd#os-2-1) & [Modeling](06-get-right-answer.qmd#os-2-5) | – | – |
+| 8 | 13 | T Feb 24 | [Design Analyses](06-get-right-answer.qmd#os-2-1) & [Modeling](06-get-right-answer.qmd#os-2-5) — **Guest: Jeff Robinson (BCG)** | – | – |
 | 8 | 14 | Th Feb 26 | [Synthesize: Data to Insight](06-get-right-answer.qmd#os-2-6) | Quiz 6 | Peer 4 (by Sat) |
 | 9 | 15 | T Mar 3 | [Create a Workplan](07-move-work-forward.qmd#os-3-1) | – | – |
 | 9 | 16 | Th Mar 5 | [Own Your Workstream](07-move-work-forward.qmd#os-3-2) & [Sequence](07-move-work-forward.qmd#os-3-3) | Quiz 7 | TA 2 (by Sat) |
@@ -40,7 +40,7 @@ Each **"Peer"** session = complete **both roles** with a partner (you interview 
 | 11 | 20 | Th Mar 19 | P2: Point of View Presentations | **P2 due Sat**; Capstone assigned | Peer 6 (by Sat) |
 | 12 | 21 | T Mar 24 | [Executive Brevity](08-create-impact.qmd#os-4-2) | – | – |
 | 12 | 22 | Th Mar 26 | [Confident Delivery](08-create-impact.qmd#os-4-2) | – | – |
-| 13 | 23 | T Mar 31 | [Trust Equation](06-get-right-answer.qmd#os-2-2) & [Build Trust](08-create-impact.qmd#os-4-4) | – | – |
+| 13 | 23 | T Mar 31 | [Trust Equation](06-get-right-answer.qmd#os-2-2) & [Build Trust](08-create-impact.qmd#os-4-4) — **Guest: Tyler Rowberry (L.E.K.)** | – | – |
 | 13 | 24 | Th Apr 2 | [Tailor & Handle Pushback](08-create-impact.qmd#os-4-3) | Quiz 9 | Peer 7 (by Sat) |
 | 14 | 25 | T Apr 7 | [Seek Feedback](08-create-impact.qmd#os-4-8) & [Coordinate as Team](08-create-impact.qmd#os-4-7) | – | – |
 | 14 | 26 | Th Apr 9 | Capstone Presentations | – | TA 3 (by Sat) |
