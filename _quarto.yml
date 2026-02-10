@@ -30,10 +30,6 @@ book:
         - 06-get-right-answer.qmd
         - 07-move-work-forward.qmd
         - 08-create-impact.qmd
-    - part: "Course Goals"
-      chapters:
-        - 09-land-an-offer.qmd
-        - 10-do-client-work.qmd
     - part: "Resources"
       chapters:
         - 95-antigravity-reference.qmd
