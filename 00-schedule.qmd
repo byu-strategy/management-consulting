@@ -32,7 +32,7 @@ Each **"Peer"** session = complete **both roles** with a partner (you interview 
 | 7 | 12 | Th Feb 19 | P1: Intelligence Brief Presentations | Resume v2 due; **P1 due Sat**; P2 assigned | Peer 3 (by Sat) |
 | 8 | 13 | T Feb 24 | [Design Analyses](06-get-right-answer.qmd#os-2-1) & [Modeling](06-get-right-answer.qmd#os-2-5) — **Guest: Jeff Robinson (BCG)** | – | – |
 | 8 | 14 | Th Feb 26 | [Synthesize: Data to Insight](06-get-right-answer.qmd#os-2-6) | Quiz 6 | Peer 4 (by Sat) |
-| 9 | 15 | T Mar 3 | [Create a Workplan](07-move-work-forward.qmd#os-3-1) | – | – |
+| 9 | 15 | T Mar 3 | [Create a Workplan](07-move-work-forward.qmd#os-3-1) — **Guest: [Luis Astorga](https://www.linkedin.com/in/astorgaluis/) (Deloitte)** | – | – |
 | 9 | 16 | Th Mar 5 | [Own Your Workstream](07-move-work-forward.qmd#os-3-2) & [Sequence](07-move-work-forward.qmd#os-3-3) | Quiz 7 | TA 2 (by Sat) |
 | 10 | 17 | T Mar 10 | [Reprioritize](07-move-work-forward.qmd#os-3-4) & [Anticipate Risks](07-move-work-forward.qmd#os-3-5) | – | – |
 | 10 | 18 | Th Mar 12 | [Manage Up](07-move-work-forward.qmd#os-3-6) & [Move Without Certainty](07-move-work-forward.qmd#os-3-7) | Quiz 8 | Peer 5 (by Sat) |
