@@ -28,8 +28,8 @@ Each **"Peer"** session = complete **both roles** with a partner (you interview 
 | 5 | 8 | T Feb 3 | [Hypothesize](05-think-clearly.qmd#os-1-4) & [WWHTBT](05-think-clearly.qmd#os-1-5) — **Guest: [Ryan Madsen](https://www.linkedin.com/in/ryankmadsen/) (ZS)** | – | – |
 | 5 | 9 | Th Feb 5 | [MECE](05-think-clearly.qmd#os-1-6) & [Prioritization](05-think-clearly.qmd#os-1-7) | Quiz 4; Resume v1 due | TA 1 (by Sat) |
 | 6 | 10 | T Feb 10 | [Outside-In Fact Base](06-get-right-answer.qmd#os-2-2) & [Assumptions](06-get-right-answer.qmd#os-2-3) | – | – |
-| 6 | 11 | Th Feb 12 | [Quick Math & Estimation](06-get-right-answer.qmd#os-2-4) — **Guest: [Matt Simmons](https://www.linkedin.com/in/matthew-william-simmons/) (McKinsey)** | Quiz 5; Mid-Semester Feedback due Sat | Peer 2 (by Sat) |
-| 7 | 12 | Th Feb 19 | P1: Intelligence Brief Presentations | Resume v2 due; **P1 due Sat**; P2 assigned | Peer 3 (by Sat) |
+| 6 | 11 | Th Feb 12 | [Quick Math & Estimation](06-get-right-answer.qmd#os-2-4) — **Guest: [Matt Simmons](https://www.linkedin.com/in/matthew-william-simmons/) (McKinsey)** | Quiz 5 | Peer 2 (by Sat) |
+| 7 | 12 | Th Feb 19 | P1: Intelligence Brief Presentations | Resume v2 due; **P1 due Sat**; P2 assigned; Mid-Semester Feedback due Sat | Peer 3 (by Sat) |
 | 8 | 13 | T Feb 24 | [Design Analyses](06-get-right-answer.qmd#os-2-1) & [Modeling](06-get-right-answer.qmd#os-2-5) — **Guest: [Jeff Robinson](https://www.linkedin.com/in/jeff-robinson-818563/) (BCG)** | – | – |
 | 8 | 14 | Th Feb 26 | [Synthesize: Data to Insight](06-get-right-answer.qmd#os-2-6) | Quiz 6 | Peer 4 (by Sat) |
 | 9 | 15 | T Mar 3 | [Create a Workplan](07-move-work-forward.qmd#os-3-1) — **Guest: [Luis Astorga](https://www.linkedin.com/in/astorgaluis/) (Deloitte)** | – | – |
