@@ -165,12 +165,12 @@ Before building complex models, do quick math to establish reasonable ranges.
 5. **Do the math**: Keep it simple, round numbers
 6. **Sanity check**: Does the answer make sense?
 
-**Example: Coffee Cups in Manhattan**
+**Example: Smoothie Cups in Manhattan**
 
 - Population of Manhattan: ~1.6M
-- % who drink coffee: ~60% = ~1M coffee drinkers
-- Cups per day: ~2 = ~2M cups/day
-- Add commuters/tourists: +50% = ~3M cups/day
+- % who drink smoothies: ~20% = ~320K smoothie drinkers
+- Cups per day: ~1 = ~320K cups/day
+- Add commuters/tourists: +50% = ~480K cups/day
 
 ::: {#activity-quick-math-recruiting .callout-tip collapse="true"}
 ## Recruiting Activity: Market Sizing Under Pressure
@@ -445,6 +445,6 @@ You often iterate: synthesis reveals gaps that require more analysis. But you al
 
 ## Practice This Week
 
-1. **Market sizing**: Estimate the annual revenue of coffee shops within 1 mile of BYU campus
+1. **Market sizing**: Estimate the annual revenue of smoothie shops within 1 mile of BYU campus
 2. **Outside-in research**: Build a fact base on one of your target companies using only public sources
 3. **Synthesis**: Take 3 facts you found and write a "so what" statement
