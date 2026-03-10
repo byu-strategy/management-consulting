@@ -35,8 +35,8 @@ Each **"Peer"** session = complete **both roles** with a partner (you interview 
 | 9 | 15 | T Mar 3 | [Create a Workplan](07-move-work-forward.qmd#os-3-1) — **Guest: [Luis Astorga](https://www.linkedin.com/in/astorgaluis/) (Deloitte)** | – | – |
 | 9 | 16 | Th Mar 5 | [Own Your Workstream](07-move-work-forward.qmd#os-3-2) & [Sequence](07-move-work-forward.qmd#os-3-3) | Quiz 7 | TA 2 (by Sat) |
 | 10 | 17 | T Mar 10 | [Reprioritize](07-move-work-forward.qmd#os-3-4) & [Anticipate Risks](07-move-work-forward.qmd#os-3-5) | – | – |
-| 10 | 18 | Th Mar 12 | [Manage Up](07-move-work-forward.qmd#os-3-6) & [Move Without Certainty](07-move-work-forward.qmd#os-3-7) — **Guest: [Bill Wade](https://www.linkedin.com/in/bill-wade-990207/) (Bain)** | Quiz 8 | Peer 5 (by Sat) |
-| 11 | 19 | T Mar 17 | [Craft a Storyline](08-create-impact.qmd#os-4-1) (SCQA & Pyramid) | – | – |
+| 10 | 18 | Th Mar 12 | [Manage Up](07-move-work-forward.qmd#os-3-6) & [Move Without Certainty](07-move-work-forward.qmd#os-3-7) — **Guest: [Bill Wade](https://www.linkedin.com/in/bill-wade-990207/) (Bain)** | – | Peer 5 (by Sat) |
+| 11 | 19 | T Mar 17 | [Craft a Storyline](08-create-impact.qmd#os-4-1) (SCQA & Pyramid) | Quiz 8 | – |
 | 11 | 20 | Th Mar 19 | P2: Point of View Presentations | **P2 due Sat**; Capstone assigned | Peer 6 (by Sat) |
 | 12 | 21 | T Mar 24 | [Executive Brevity](08-create-impact.qmd#os-4-2) | – | – |
 | 12 | 22 | Th Mar 26 | [Confident Delivery](08-create-impact.qmd#os-4-2) | – | – |

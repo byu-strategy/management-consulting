@@ -10,6 +10,15 @@ The fourth imperative is where consulting becomes real. Your analysis only creat
 
 ### 4.1 Craft a Storyline **(6)** 🔺 {#os-4-1}
 
+::: {.callout-important}
+## Quiz 8 Readings
+
+Read these two articles before class on **Tuesday, March 17**:
+
+1. [BCG's Approach to Great Slides — Practical Guide from a Former Consultant](https://slideworks.io/resources/bcg-approach-to-great-slides-practical-guide-from-former-consultant#what-are-the-components-of-a-great-presentation) — What makes a consulting slide effective: structure, action titles, and visual logic.
+2. [The McKinsey Problem-Solving Process](https://slideworks.io/resources/mckinsey-problem-solving-process) — How McKinsey structures problem-solving from problem definition through communication.
+:::
+
 *Build a narrative arc from situation to recommendation*
 
 Don't just present findings. Tell a story that leads logically to your recommendation.
