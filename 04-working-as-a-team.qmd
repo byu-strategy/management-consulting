@@ -25,11 +25,10 @@ Your pod serves three purposes:
 
 | Activity | Frequency |
 |:---------|:----------|
-| Goals Worksheet + Chat | Week 2 |
-| TA Practice Interviews | 3x per semester (Weeks 4, 8, 13) |
-| TA Mentoring Sessions | 3x per semester (Weeks 5, 9-10, 14) |
+| Goals Worksheet + Chat | Early semester |
+| TA Mentoring Sessions | 3x per semester |
 | Practice interviews with peers | 7 sessions (ongoing) |
-| Resume review | Weeks 5-7 |
+| Resume review | Before and after TA feedback |
 
 ## Team Norms
 
@@ -138,7 +137,7 @@ Teams encounter conflict. How you handle it matters.
 
 ## Capstone Team Formation
 
-In Week 12-13, you'll form capstone sub-teams of 3-4. Consider:
+Later in the semester, you'll form capstone sub-teams of 3-4. Consider:
 
 - **Complementary skills**: Mix of strengths
 - **Compatible styles**: Can you work together under pressure?

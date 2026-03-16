@@ -17,7 +17,7 @@ format:
 | **Class Time** | Tuesday/Thursday 12:30 – 1:45 PM |
 | **Location** | W240 |
 | **Office Hours** | By Appointment |
-| **LMS** | LearningSuite |
+| **LMS** | Canvas |
 
 ## Course Overview
 
@@ -49,7 +49,7 @@ By the end of this course, you will develop proficiency in eight core areas:
 
 ### AI at the Core
 
-AI is not a separate topic. It's how you'll apply every skill in this course. From Week 2, you'll learn to use AI tools (Claude Code, VS Code/Cursor/Antigravity) to accelerate your research, analysis, and communication. Every project expects AI-assisted work.
+AI is not a separate topic. It's how you'll apply every skill in this course. From the start of the course, you'll learn to use AI tools (Claude Code, VS Code/Cursor/Antigravity) to accelerate your research, analysis, and communication. Every project expects AI-assisted work.
 
 ## Learning Outcomes
 
@@ -61,33 +61,21 @@ AI is not a separate topic. It's how you'll apply every skill in this course. Fr
 | 4 | Demonstrate Christlike professionalism through humility, judgment, and trustworthiness in team and client interactions | Spiritually Strengthening; Character Building |
 | 5 | Prepare for consulting interviews and internships by articulating a clear value proposition through resumes, networking, and behavioral interviews | Lifelong Learning and Service; Spiritually Strengthening |
 
-## Schedule
-
-**Semester:** January 7 – April 15, 2026 (15 weeks)
-
-See the [full schedule](00-schedule.qmd) for weekly topics, reading quizzes, and assignment due dates.
-
 ## Client Work Projects
 
-Projects are progressive, and each builds on the last:
+Projects are progressive — each builds on the last. You choose a public company and develop increasingly sophisticated deliverables:
 
-| Project | Due | Scope | Team | Deliverable |
-|---------|-----|-------|------|-------------|
-| **1: Company Diagnostic** | Week 8 | Quick outside-in analysis | Individual | 1-page analysis |
-| **2: Competitive Benchmark** | Week 10 | Industry comparison | Individual | 3 slides |
-| **3: Value-Add Hypothesis** | Week 12 | Opportunity identification | Pairs | 5 slides |
-| **Capstone** | Week 13-14 | Deep-dive proposal + presentation | Teams of 3 | 15-20 slides |
+| Project | Scope | Team | Deliverable |
+|---------|-------|------|-------------|
+| **[P1: Intelligence Brief](00-assessments.qmd#intelligence-brief)** | Outside-in analysis surfacing a key tension | Individual | 4-6 slides |
+| **[P2: Point of View](00-assessments.qmd#point-of-view)** | Take a position on what the company should do | Individual | 5-8 slides |
+| **[Capstone: Conversation Deck](00-assessments.qmd#conversation-deck)** | Polished deck + real outreach to the company | Individual | 6-10 slides + outreach |
 
-You choose your target company. All projects expect AI-assisted research and analysis.
+All projects expect AI-assisted research and analysis. See [Assessments](00-assessments.qmd) for full descriptions, rubrics, and requirements.
 
 ## Grading
 
-| Category | Weight | Components |
-|----------|--------|------------|
-| **Applied Projects** | 50% | P1 (10%), P2 (10%), P3 (10%), Capstone (20%) |
-| **Interview Prep** | 30% | Resume & Networking (10%), Practice Interview Log (20%) |
-| **Reading Quizzes** | 10% | 10 quizzes × 5 points each |
-| **Participation** | 10% | TA pod engagement, workshops, peer feedback |
+Grades are based on four categories: Reading Quizzes, Resume & Networking, Practice Interviews, and Client Work (P1, P2, Capstone). See Canvas for the authoritative grade breakdown and due dates.
 
 ### Grading Scale
 
@@ -121,19 +109,19 @@ Late work accepted up to 9 days late with a 10% penalty per day:
 
 ### Practice Interviews
 
-Practice interviews combine behavioral and case components, mirroring the actual MBB interview format. Complete **8 practice interviews** throughout the semester:
+Practice interviews combine behavioral and case components, mirroring the actual MBB interview format. Complete **10 practice interviews** as the interviewee throughout the semester:
 
 | Source | Sessions | Notes |
 |--------|----------|-------|
-| Pod peers | 5 | Practice with each pod member once |
-| TA | 3 | TA Mentoring Sessions (Weeks 5, 9-10, 14) |
-| **Total** | **8** | |
+| Pod peers | 7 | Practice with pod members |
+| TA | 3 | TA coaching sessions |
+| **Total** | **10** | |
 
-Each practice interview includes behavioral questions (~20 min) followed by a case (~35 min), with feedback afterward. Interviewers complete a feedback form after each session to track your growth across 6 dimensions.
+You'll also serve as interviewer for 7 peer interviews. Each session includes behavioral questions (~15-20 min) followed by a case (~25-30 min), with feedback afterward. See [Practice Interviews](00-assessments.qmd#practice-interviews) for the full format, scoring rubrics, and feedback framework.
 
 ### Behavioral Stories
 
-Build a bank of 5+ polished stories using the PARADE framework for common behavioral questions. You'll practice delivering these stories live during your 8 practice interviews.
+Build a bank of 3-5 polished stories using the STAR framework for common behavioral questions. You'll practice delivering these stories live during your practice interviews.
 
 ### Networking Tracker
 
@@ -149,11 +137,10 @@ You'll be assigned to a **pod** of 6 students with a dedicated TA who mentors yo
 
 | TA Touchpoint | Timing |
 |---------------|--------|
-| Goals Worksheet + Chat | Week 2 |
-| TA Mentoring Session 1 | Weeks 4-5 |
-| Resume reviews | Weeks 5-7 |
-| TA Mentoring Session 2 | Weeks 9-10 |
-| TA Mentoring Session 3 | Week 14 |
+| Goals Chat | Early semester |
+| TA Session 1 | Baseline assessment |
+| TA Session 2 | Progress check |
+| TA Session 3 | Final evaluation |
 
 Your TA is your primary resource for feedback, coaching, and support. The same TA conducts all 3 mentoring sessions so they can track your growth over the semester.
 
@@ -167,7 +154,7 @@ Scott holds a Master's degree in Management Science & Engineering from Stanford 
 
 ## Required Materials
 
-- **LMS:** LearningSuite (used for turning in assignments and viewing grades only. See this course website for schedule and all other information)
+- **LMS:** Canvas (used for turning in assignments, viewing grades, and the weekly schedule. See this course website for readings, assessment descriptions, and career reference material)
 - **Laptop:** Mac or Windows with ability to run VS Code or Cursor
 - **AI Access:** Paid or free versions of one or more of Claude Code, Gemini, Codex, Github Copilot CLI, Cursor, Antigravity
 

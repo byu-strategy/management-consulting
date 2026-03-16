@@ -7,3 +7,6 @@
 
 **/*.quarto_ipynb
 _site/
+resources/slideworks/
+.env.local
+.env

@@ -74,7 +74,7 @@ Each practice interview follows the MBB format:
 | Feedback | 5-10 min |
 | **Total** | **~60 min** |
 
-See the [Practice Interview Log](00-assessments.qmd#practice-interview-log) for the feedback form and rubric.
+See the [Practice Interviews](00-assessments.qmd#practice-interviews) section for the feedback form and rubric.
 
 #### Before the Session
 
@@ -142,9 +142,9 @@ Use these cases from [Management Consulted](https://managementconsulted.com/marr
 
 **Suggested progression:**
 
-- **TA Session 1** (Weeks 4-5): Beginner cases
-- **TA Session 2** (Weeks 9-10): Intermediate cases
-- **TA Session 3** (Week 14): Advanced cases
+- **TA Session 1**: Beginner cases
+- **TA Session 2**: Intermediate cases
+- **TA Session 3**: Advanced cases
 
 | # | Case Name | Type | Difficulty | Notes |
 |---|-----------|------|------------|-------|
@@ -164,6 +164,38 @@ Access case details and solutions via [Management Consulted](https://managementc
 
 ## Company Research
 
+### BYU Library Resources {#library-resources}
+
+These databases are available through the [BYU Library](https://lib.byu.edu/) — log in with your BYU credentials for full access. Some databases (LSEG Workspace, Capital IQ, PitchBook) require separate registration with your BYU email. For help, contact subject librarian [Jessica Tuwun](mailto:jessica_tuwun@byu.edu).
+
+::: {.callout-warning}
+Library database licenses are for **academic use only**. Don't distribute full reports to third parties. Do reference and cite sources appropriately.
+:::
+
+**Company Information**
+
+| Database | What You Get |
+|----------|-------------|
+| [Capital IQ](https://lib.byu.edu/databases/capital-iq/) | Analyst reports, detailed financials (exportable as CSV), guidance, earnings call transcripts |
+| [LSEG Workspace](https://lib.byu.edu/databases/lseg-workspace/) | Detailed stock reports with peer companies, business summaries, and investment indicators (earnings, valuation, risk, momentum) |
+| [MarketLine](https://lib.byu.edu/databases/marketline/) | SWOT analysis reports (exportable as Word/PDF) — search by ticker or company name |
+
+**Industry Research**
+
+| Database | What You Get |
+|----------|-------------|
+| [IBISWorld](https://lib.byu.edu/databases/ibisworld/) | Analyst reports on thousands of US industries — products, markets, competitive forces, key players, call prep questions. Search by keyword or NAICS code |
+| [Passport (Euromonitor)](https://lib.byu.edu/databases/passport/) | International economies, industries, and markets — includes PESTLE analysis |
+| [Frost & Sullivan](https://lib.byu.edu/databases/frost-sullivan/) | Consumer behavior, global technology developments, growth opportunities — focused on science and technology industries |
+| [Mintel](https://lib.byu.edu/databases/mintel/) | Consumer markets, trends, psychographics, and data about consumer lifestyles and attitudes |
+
+**News & Current Events**
+
+| Database | What You Get |
+|----------|-------------|
+| [Factiva](https://lib.byu.edu/databases/factiva/) | Search current events by company or topic — covers WSJ, Washington Post, Forbes, Barron's, and more |
+| [New York Times](https://lib.byu.edu/databases/new-york-times/) | Full access — set up SSO with your BYU email |
+
 ### Financial Data
 
 - [SEC EDGAR](https://www.sec.gov/edgar) – 10-Ks, 10-Qs, proxy statements
@@ -172,7 +204,6 @@ Access case details and solutions via [Management Consulted](https://managementc
 
 ### Industry Research
 
-- [IBISWorld](https://www.ibisworld.com/) – Industry reports (BYU Library access)
 - [Statista](https://www.statista.com/) – Statistics and market data
 - [McKinsey Insights](https://www.mckinsey.com/featured-insights) – Industry perspectives
 

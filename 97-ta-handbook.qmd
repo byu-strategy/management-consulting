@@ -39,10 +39,10 @@ Each pod serves three functions:
 
 | Touchpoint | Timing | Purpose |
 |:-----------|:-------|:--------|
-| Goals Worksheet + Chat | Week 2 | Establish recruiting goals and development focus |
-| TA Mentoring Session 1 | Weeks 4-5 | Baseline practice interview, identify focus areas |
-| TA Mentoring Session 2 | Weeks 9-10 | Progress check practice interview, calibrated feedback |
-| TA Mentoring Session 3 | Week 14 | Final practice interview evaluation with full context |
+| Goals Worksheet + Chat | Early semester | Establish recruiting goals and development focus |
+| TA Mentoring Session 1 | After goals chat | Baseline practice interview, identify focus areas |
+| TA Mentoring Session 2 | Mid-semester | Progress check practice interview, calibrated feedback |
+| TA Mentoring Session 3 | End of semester | Final practice interview evaluation with full context |
 
 **Note:** TA Mentoring Sessions replace the previous 4 feedback sessions. Each session is a full practice interview (behavioral + case) that allows you to track student growth over time.
 
@@ -86,7 +86,7 @@ Reference the Goals Worksheet in each TA Mentoring Session:
 
 - **Session 1**: "You said quantitative rigor was weak—let's focus on that in today's case"
 - **Session 2**: "Your self-assessment said Structure was a 2. Looking at your feedback data, you're now averaging 3.2. Great progress."
-- **Session 3**: "Did you achieve what you defined as success in Week 2?"
+- **Session 3**: "Did you achieve what you defined as success in your goals chat?"
 
 ### TA Mentoring Sessions
 
@@ -107,9 +107,9 @@ Each session combines behavioral and case components, mirroring the actual MBB i
 
 | Session | Timing | Focus |
 |---------|--------|-------|
-| **Session 1** | Weeks 4-5 | Baseline assessment—identify strengths and focus areas |
-| **Session 2** | Weeks 9-10 | Progress check—compare to baseline, calibrate feedback |
-| **Session 3** | Week 14 | Final evaluation—assess growth, prepare for real interviews |
+| **Session 1** | After goals chat | Baseline assessment—identify strengths and focus areas |
+| **Session 2** | Mid-semester | Progress check—compare to baseline, calibrate feedback |
+| **Session 3** | End of semester | Final evaluation—assess growth, prepare for real interviews |
 
 **Key Guidelines:**
 
@@ -206,9 +206,9 @@ Students complete three progressive consulting deliverables that build on each o
 
 | Deliverable | Due | Scope | Team | Deliverable |
 |:------------|:----|:------|:-----|:------------|
-| **P1: Company & Competitive Analysis** | Week 8 | Outside-in diagnostic + competitive benchmark | Individual | Deck (25 pts) + Pod Presentation (35 pts) |
-| **P2: Value-Add Hypothesis** | Week 12 | Opportunity identification | Pairs | Deck (25 pts) + Pod Presentation (35 pts) |
-| **Capstone Proposal** | Week 14 | Full strategic proposal | Teams of 3 | Deck (25 pts) + Pod Presentation (35 pts) |
+| **[P1: Intelligence Brief](00-assessments.qmd#intelligence-brief)** | See Canvas | Outside-in analysis surfacing a key tension | Individual | Present (25 pts) + Feedback (15 pts) |
+| **[P2: Point of View](00-assessments.qmd#point-of-view)** | See Canvas | Take a position on what the company should do | Individual | Present (25 pts) + Feedback (15 pts) |
+| **[Capstone: Conversation Deck](00-assessments.qmd#conversation-deck)** | See Canvas | Polished deck + real outreach | Individual | Deck (60 pts) + Feedback (20 pts) + Outreach (20 pts) |
 
 ### Pod Presentations
 
@@ -307,7 +307,7 @@ Near the end of the semester, students submit a two-part summer plan.
 ## Resources
 
 - [Practice Interview Guidance](00-assessments.qmd#practice-interviews): Frameworks, checklists, rubrics, case library
-- [Case Library](00-assessments.qmd#case-library): 10 cases organized by difficulty
-- Grading rubrics: Available in Learning Suite
+- [Case Interviews](00-assessments.qmd#case-interviews): Scoring rubrics and interview guidance
+- Grading rubrics: Available in Canvas
 - Framework templates: Course website [Resources section](98-resources.qmd)
 - Escalation: Contact Professor Murff for students who appear to be struggling significantly

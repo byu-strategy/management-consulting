@@ -71,8 +71,8 @@ A consulting-ready resume and active networking are essential for landing interv
 
 Submit two versions of your resume throughout the semester:
 
-- **Resume v1 (Week 5)**: Initial consulting-formatted resume
-- **Resume v2 (Week 7)**: Revised resume incorporating TA feedback
+- **Resume v1**: Initial consulting-formatted resume
+- **Resume v2**: Revised resume incorporating TA feedback
 
 Your resume should:
 
@@ -99,8 +99,8 @@ Maintain a networking tracker documenting your outreach throughout the semester:
 
 | Component | Points |
 |-----------|--------|
-| Resume v1 (Week 5) | 15 |
-| Resume v2 client-ready (Week 7) | 20 |
+| Resume v1 | 15 |
+| Resume v2 client-ready | 20 |
 | 5 networking conversations (5 points each) | 25 |
 | **Total** | **60** |
 
@@ -132,7 +132,7 @@ Complete 10 practice interviews as the **interviewee**:
 | Source | Sessions | Notes |
 |--------|----------|-------|
 | Pod peers | 7 | Practice with pod members |
-| TA | 3 | TA Sessions (Weeks 4-5, 9-10, 14) |
+| TA | 3 | TA coaching sessions |
 | **Total** | **10** | |
 
 You will also complete 7 additional practice interviews as the **interviewer**.
@@ -141,15 +141,15 @@ You will also complete 7 additional practice interviews as the **interviewer**.
 
 Your TA meets with you four times during the semester:
 
-- **Goals Chat (Week 2)**: Set recruiting goals and development focus using the Goals Worksheet
-- **Session 1 (Weeks 4-5)**: Baseline interview assessment against those goals
-- **Session 2 (Weeks 9-10)**: Progress check toward goals
-- **Session 3 (Week 14)**: Final evaluation with full semester context
+- **Goals Chat**: Set recruiting goals and development focus using the Goals Worksheet
+- **Session 1**: Baseline interview assessment against those goals
+- **Session 2**: Progress check toward goals
+- **Session 3**: Final evaluation with full semester context
 
 ::: {.callout-tip}
 ## Get Your Goals Worksheet
 
-[Make a copy of the Goals Worksheet](https://docs.google.com/document/d/1zq1ih9ZAdjf4K1pisiM6y0NJBAJnn_LezIN6xrWDiIs/copy) to create your own version. Complete it before your Week 2 chat with your TA.
+[Make a copy of the Goals Worksheet](https://docs.google.com/document/d/1zq1ih9ZAdjf4K1pisiM6y0NJBAJnn_LezIN6xrWDiIs/copy) to create your own version. Complete it before your first chat with your TA.
 :::
 
 **Interview Feedback**
@@ -171,7 +171,7 @@ Each student creates their own copy of the feedback form. This ensures your inte
 
 | Component | Points |
 |-----------|--------|
-| Goals Chat (Week 2) | 10 |
+| Goals Chat | 10 |
 | 3 TA Interviews and Coaching sessions (20 points each) | 60 |
 | 7 peer interviews as interviewee (10 points each) | 70 |
 | 7 peer interviews as interviewer (10 points each) | 70 |
@@ -607,8 +607,6 @@ Put yourself in the shoes of someone at the presenter's target company — a str
 
 **Points**: 40 (8% of grade)
 
-**Due**: Week 9
-
 **Team**: Individual
 
 **Deliverable**: 4-6 slide deck
@@ -660,8 +658,6 @@ Rubric ratings are collected for developmental feedback but do not determine you
 ### P2: Point of View {#point-of-view}
 
 **Points**: 40 (8% of grade)
-
-**Due**: Week 11
 
 **Team**: Individual
 
@@ -715,8 +711,6 @@ Rubric ratings are collected for developmental feedback but do not determine you
 ### Capstone: Conversation Deck {#conversation-deck}
 
 **Points**: 100 (20% of grade)
-
-**Due**: Week 14
 
 **Team**: Individual
 
@@ -776,7 +770,7 @@ You're not graded on whether they respond since that's not in your control. You'
 
 ### Mid-Semester Feedback Survey
 
-Complete the anonymous mid-semester feedback survey to earn **5 extra credit points** added to your final grade. The survey is anonymous, so to receive credit, submit a screenshot of the confirmation page to LearningSuite.
+Complete the anonymous mid-semester feedback survey to earn **5 extra credit points** added to your final grade. The survey is anonymous, so to receive credit, submit a screenshot of the confirmation page to Canvas.
 
 [Take the Mid-Semester Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLScu_1bXCUhL3n8GtQO1jokKyGr7yZDag5WNnnKwrWvFm2HM6Q/viewform?usp=header)
 

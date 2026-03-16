@@ -29,23 +29,144 @@ The site is only rendered via GitHub actions and never rendered locally, only pr
 
 ## Chapter Organization
 
-  | Part                 | File                         | Chapter Title             |
-  |----------------------|------------------------------|---------------------------|
-  | Course Info          | index.qmd                    | Syllabus                  |
-  |                      | 00-schedule.qmd              | Schedule                  |
-  |                      | 00-assessments.qmd           | Assessments               |
-  | Foundation           | 01-what-is-consulting.qmd    | What is Consulting?       |
-  |                      | 02-consultants-os.qmd        | The Consultant's OS       |
-  |                      | 03-leveraging-ai.qmd         | Leveraging AI             |
-  |                      | 04-working-as-a-team.qmd     | Working as a Team         |
-  | The Four Imperatives | 05-think-clearly.qmd         | Think Clearly             |
-  |                      | 06-get-right-answer.qmd      | Get to the Right Answer   |
-  |                      | 07-move-work-forward.qmd     | Move Work Forward         |
-  |                      | 08-create-impact.qmd         | Create Impact with People |
-  | Course Goals         | 09-land-an-offer.qmd         | Land an Offer             |
-  |                      | 10-your-first-engagement.qmd | Your First Engagement     |
-  | Resources            | 98-resources.qmd             | Resources                 |
-  |                      | 99-references.qmd            | References                |
+  | Part                 | File                         | Chapter Title             | Published? |
+  |----------------------|------------------------------|---------------------------|:----------:|
+  | Course Info          | index.qmd                    | Syllabus                  | Yes        |
+  |                      | 00-schedule.qmd              | *(Canvas sync source)*    | **No**     |
+  |                      | 00-assessments.qmd           | Assessments               | Yes        |
+  | Foundation           | 01-what-is-consulting.qmd    | What is Consulting?       | Yes        |
+  |                      | 02-consultants-os.qmd        | The Consultant's OS       | Yes        |
+  |                      | 03-leveraging-ai.qmd         | Leveraging AI             | Yes        |
+  |                      | 04-working-as-a-team.qmd     | Working as a Team         | Yes        |
+  | The Four Imperatives | 05-think-clearly.qmd         | Think Clearly             | Yes        |
+  |                      | 06-get-right-answer.qmd      | Get to the Right Answer   | Yes        |
+  |                      | 07-move-work-forward.qmd     | Move Work Forward         | Yes        |
+  |                      | 08-create-impact.qmd         | Create Impact with People | Yes        |
+  | Resources            | 95-antigravity-reference.qmd | Antigravity Reference     | Yes        |
+  |                      | 96-firms-guide.qmd           | Firms Guide               | Yes        |
+  |                      | 97-ta-handbook.qmd           | TA Handbook               | Yes        |
+  |                      | 98-resources.qmd             | Resources                 | Yes        |
+  |                      | 99-references.qmd            | References                | Yes        |
+
+## Course Architecture: Website + LMS
+
+This course uses a **two-system architecture** with strict separation of concerns. The dividing line is **WHAT vs. WHEN** — the website describes what students learn and do, Canvas tells them when and where.
+
+### The Separation Principle
+
+The core question when placing content: **"Will a student need this after the semester ends?"**
+
+- **Yes** → website (they'll have lost Canvas access but still need interview prep, frameworks, project guides)
+- **No** → Canvas only (dates, submissions, weekly instructions, announcements)
+
+A second test: **"Does this change semester to semester?"**
+
+- **The STAR framework doesn't change** → website
+- **"Due Saturday Feb 21"** changes every semester → Canvas only
+
+### The Website (Quarto book — public, durable)
+
+The website is the **textbook and career reference**. It contains timeless, referenceable content that serves multiple audiences long after the course ends.
+
+**What belongs on the website:**
+- Chapter readings (frameworks, tools, the Consultant's OS)
+- Assessment DESCRIPTIONS — what the deliverable is, how to do it well, rubrics, scoring criteria
+- Interview prep guides (STAR framework, case rubrics, behavioral questions, feedback delivery)
+- Project requirements (what slides to include, what to research, how feedback works)
+- Course overview / marketing pitch (what students learn, who teaches it)
+- Firm profiles, resource lists, reference material
+
+**What does NOT belong on the website:**
+- Due dates, week references ("Due: Week 9"), or submission deadlines
+- Submission logistics ("Submit via Canvas" / "Upload a PDF")
+- Schedule with specific dates and session numbers
+- Weekly sequencing or "what to do this week" guidance
+- Grading percentages (these live authoritatively in Canvas gradebook; the website should not duplicate them or risk divergence)
+
+**Audiences served:**
+| Audience | What they want | Example |
+|----------|---------------|---------|
+| Enrolled students | "How does MECE work?" or "What goes in P1?" | Deep-link from Canvas to a specific section |
+| Alumni (post-course) | "How do I structure a case interview again?" | Browse interview prep, rubrics, frameworks |
+| Prospective students | "What does this course teach?" | Browse chapters, see the OS framework |
+| Employers / recruiters | "What can BYU consulting students do?" | The OS as a capability portfolio |
+| Other professors | "How is this course structured?" | Course design and pedagogy inspiration |
+
+### The LMS (Canvas — private, temporal)
+
+Canvas is the **planner and cockpit**. Students open Canvas first for "what do I do this week?" and click through to the website for "how do I do it well?"
+
+**What belongs in Canvas:**
+- Weekly modules with session headers, reading links, and due items
+- Assignments with points, due dates, and submission — each linking to the website for full description
+- Grade categories with authoritative weights
+- Announcements, calendar events, and operational communication
+- The schedule (expressed as module structure, not a separate page)
+
+**The student experience:**
+```
+Student opens Canvas (the "remote control")
+  → Sees "Week 5" module → knows exactly what to read and what's due
+  → Clicks a reading link → lands on the Quarto site chapter section
+  → Clicks an assignment → sees link to full description on website + submits here
+  → Never has to figure out which system has what
+```
+
+**The alumni experience:**
+```
+Former student preparing for interviews (no Canvas access)
+  → Goes to course website → finds behavioral rubrics, STAR framework, case scoring
+  → Revisits project descriptions to prep for a real consulting deliverable
+  → All reference material is still available
+```
+
+### Content Placement Examples
+
+| Content | Website | Canvas | Why |
+|---------|:-------:|:------:|-----|
+| "P1 is a 4-6 slide deck analyzing a public company" | Yes | Link to it | Durable deliverable description |
+| "P1 is due Saturday Feb 21 at 11:59 PM" | No | Yes | Changes every semester |
+| STAR framework and behavioral scoring rubric | Yes | Link to it | Career-long reference material |
+| "Complete Practice Interview: Peer 3 by Saturday" | No | Yes | Weekly operational instruction |
+| Case interview tips for interviewers/interviewees | Yes | Link to it | Durable skill content |
+| "Quiz 4 covers chapters 5.1–5.7" | No | Yes | Temporal scope instruction |
+| Presentation feedback rubric (Informed/Compelling/Credible) | Yes | Link to it | Reusable assessment framework |
+| Grade category weights (10%, 12%, 42%, 36%) | No | Yes | Authoritative in gradebook only |
+
+### File Roles
+
+| File | Published on website? | Role |
+|------|:---------------------:|------|
+| `index.qmd` | Yes | Course marketing page — what you'll learn, who teaches it, the OS overview. No specific dates or grade weights |
+| `00-schedule.qmd` | **No** | Source of truth for `sync_canvas.py` — lives in repo, feeds Canvas, not published |
+| `00-assessments.qmd` | Yes | Assessment reference — deliverable descriptions, rubrics, frameworks. **No due dates or week references** |
+| `01-*.qmd` through `08-*.qmd` | Yes | Chapter readings — the textbook content |
+| `95-*.qmd` through `99-*.qmd` | Yes | Resources, references, appendices |
+
+### Sync Workflow
+
+`00-schedule.qmd` is the **single source of truth** for course structure and timing. It lives in the repo but is not published on the website.
+
+```bash
+# Push course structure to Canvas (modules + assignments + gradebook)
+python3 scripts/sync_canvas.py
+
+# Generate Learning Suite imports (if needed)
+python3 scripts/generate_imscc.py    # modules with reading links
+python3 scripts/generate_moodle.py   # assignment shells with gradebook
+```
+
+The Canvas sync script is **idempotent** — it clears and rebuilds. Run it manually after schedule changes; do not auto-sync (a typo could push broken content to students mid-semester).
+
+### Avoiding Divergence
+
+The most dangerous failure mode is **the same fact stated in two places with different values** (e.g., grading weights on the website that don't match Canvas). Rules to prevent this:
+
+1. **Dates and weights have exactly one authoritative source** — Canvas (via `sync_canvas.py`)
+2. **Assessment descriptions have exactly one authoritative source** — the website (`00-assessments.qmd`)
+3. **Canvas assignments link to the website** for full descriptions; they never duplicate the content
+4. **`index.qmd` does not repeat grading details** — it describes the course at a marketing level and directs enrolled students to Canvas for operational details
+5. **If you must state a fact in both places, automate it** — generate it from one source (the schedule QMD or assessment data in the sync scripts)
 
 ## Content Guidelines
 
