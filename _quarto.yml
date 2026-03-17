@@ -16,6 +16,7 @@ book:
     - part: "Course Info"
       chapters:
         - index.qmd
+        - 00-schedule.qmd
         - 00-assessments.qmd
     - part: "Foundation"
       chapters:
