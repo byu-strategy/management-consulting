@@ -95,6 +95,12 @@ Maintain a networking tracker documenting your outreach throughout the semester:
 - Track: Name, company, date, key insights, follow-up actions
 - Include a mix of informational interviews, smoothie chats, and firm events
 
+::: {.callout-tip}
+## Get Your Networking Tracker
+
+[Make a copy of the Networking Tracker](https://docs.google.com/spreadsheets/d/1rs3uMtqkH4ELcYcT6PLtcckopRjlUd9PrJXJ2ugFfmI/copy) to create your own version. Read the first tab for guidance on networking purpose, reminders, and etiquette.
+:::
+
 **Grading Rubric**
 
 | Component | Points |
@@ -541,13 +547,19 @@ All pod members and your TA complete a feedback form for each presenter. The sam
 |---------|------------------|--------|
 | P1 | Developmental feedback only | 25 present + 15 feedback |
 | P2 | Developmental feedback only | 25 present + 15 feedback |
-| Capstone | Averaged → deck grade | 60 deck + 20 feedback + 20 outreach |
+| Capstone | Averaged → presentation score (50%) | 50 presentation + 50 deck quality |
 
-**Feedback points** require submitting forms for *all* pod members. Missing any form = 0 feedback points for that round.
+**Feedback points** (P1 and P2) require submitting forms for *all* pod members. Missing any form = 0 feedback points for that round.
+
+::: {.callout-tip}
+## Presentation Feedback Form
+
+[Submit Presentation Feedback](https://docs.google.com/forms/d/e/1FAIpQLSccVuQm1vhbx2-6-AC6vDEKqXnkLnaVVIY3RAzCN7JWk6oWMw/viewform) — Complete this form for each pod member after their presentation. The same form is used for P1, P2, and Capstone.
+:::
 
 ### Feedback Form {#presentation-rubric}
 
-This form is used for all three projects. For P1 and P2, ratings provide developmental feedback. For Capstone, ratings are averaged to determine your deck grade (60 pts).
+This form is used for all three projects. For P1 and P2, ratings provide developmental feedback. For Capstone, ratings are averaged to determine your presentation score (50 pts — half of the deck grade). The other half comes from the [Deck Quality Rubric](#deck-quality-rubric), scored by the TA and professor.
 
 ::: {.callout-tip}
 ## Role-Play as the Target Company
@@ -592,14 +604,82 @@ Put yourself in the shoes of someone at the presenter's target company — a str
 > If you were at this company, would you take this meeting?
 > ○ Yes — I'd make time  ○ Probably — if my calendar allowed  ○ Unlikely — I'd need a stronger hook  ○ No — I'd pass
 
-**Capstone Scoring**: Average all raters' scores, then convert to 60-point scale:
+**Capstone Presentation Scoring**: Average all raters' scores (peers + TA), then convert to 50-point scale:
 
 | Dimension | Weight | Max | 4 | 3 | 2 | 1 |
 |-----------|--------|-----|---|---|---|---|
-| Informed | 40% | 24 | 24 | 18 | 12 | 6 |
-| Compelling | 40% | 24 | 24 | 18 | 12 | 6 |
-| Credible | 20% | 12 | 12 | 9 | 6 | 3 |
-| **Total** | 100% | **60** | 60 | 45 | 30 | 15 |
+| Informed | 40% | 20 | 20 | 15 | 10 | 5 |
+| Compelling | 40% | 20 | 20 | 15 | 10 | 5 |
+| Credible | 20% | 10 | 10 | 7.5 | 5 | 2.5 |
+| **Total** | 100% | **50** | 50 | 37.5 | 25 | 12.5 |
+
+---
+
+### Deck Quality Rubric {#deck-quality-rubric}
+
+Scored by the TA and professor. This rubric evaluates the deck as a standalone artifact — would a busy executive actually read this and take action?
+
+Each dimension is scored on a 7-point scale:
+
+| Rating | Anchor |
+|--------|--------|
+| 7 | A |
+| 6 | A- |
+| 5 | B+ |
+| 4 | B |
+| 3 | B- |
+| 2 | C |
+| 1 | D |
+
+**Storyline & Structure (40%)** — *Does the deck tell a logical, answer-first story?*
+
+| Rating | Description |
+|--------|-------------|
+| 7 (A) | Reading only the action titles tells the complete story. Clear SCQA arc from opening through insight to ask. Every slide earns its place — nothing to cut, nothing missing. |
+| 6 (A-) | Strong narrative arc with action titles throughout. One slide could be tighter or better sequenced, but the story holds. |
+| 5 (B+) | Clear point of view and logical flow. A couple of titles are labels rather than conclusions ("Market Overview" instead of "Market is shifting toward X"). |
+| 4 (B) | The argument is there but you have to work to follow it. Some slides feel like they're in the wrong order, or the connection between insight and ask is unclear. |
+| 3 (B-) | Follows the required slide structure but the narrative doesn't build. Reads more like a checklist (company overview → data → opportunity → ask) than a story. |
+| 2 (C) | Disjointed — slides make individual points but don't connect into an argument. No clear "so what" driving the deck. |
+| 1 (D) | Missing major structural components or reads as a data dump with no narrative thread. |
+
+**Analytical Depth (40%)** — *Does the evidence earn the "so what"?*
+
+| Rating | Description |
+|--------|-------------|
+| 7 (A) | Non-obvious insight backed by specific, sourced data. Quantified impact is credible and well-bounded. Someone at the company would learn something they didn't already know. |
+| 6 (A-) | Strong insight with solid evidence. Quantification is reasonable; one assumption could be better justified or sourced. |
+| 5 (B+) | Good analysis with a clear point of view. Evidence supports the argument but relies on one or two unsupported leaps or round-number estimates. |
+| 4 (B) | Adequate analysis — the opportunity is plausible but the evidence is thin in places. "So what" is stated but not fully earned by the data. |
+| 3 (B-) | Surface-level research. Uses easily available facts (company Wikipedia, recent headlines) without digging into financials, competitive dynamics, or trends. |
+| 2 (C) | Generic observations that could apply to any company in the industry. Little or no quantification. |
+| 1 (D) | No real analysis — assertions without evidence, or irrelevant data that doesn't connect to the opportunity. |
+
+**Slide Craft (20%)** — *Would a busy exec actually read this?*
+
+| Rating | Description |
+|--------|-------------|
+| 7 (A) | Polished and professional. One message per slide, clean charts, tight text, consistent formatting. Passes the squint test — key messages are clear from a distance. |
+| 6 (A-) | Clean and readable throughout. One slide is slightly dense or one chart could be clearer, but overall professional. |
+| 5 (B+) | Good visual quality. A couple of slides have too much text or a chart that takes effort to parse. Formatting is mostly consistent. |
+| 4 (B) | Readable but unpolished. Mix of strong and weak slides — some clean, others text-heavy or visually cluttered. |
+| 3 (B-) | Rough overall. Multiple text-heavy slides, inconsistent fonts or formatting, charts without clear takeaways. |
+| 2 (C) | Hard to follow visually. Walls of text, cluttered layouts, or design that distracts from the content. |
+| 1 (D) | Minimal effort on presentation — misaligned elements, unformatted, or incomplete slides. |
+
+**Deck Quality Scoring**: Each dimension is scored 1–7. The weighted average is converted to 50 points:
+
+> **Deck Quality Score** = (Storyline × 0.4 + Analysis × 0.4 + Craft × 0.2) × 50 ÷ 7
+
+| Weighted Avg | Letter | Points (out of 50) |
+|---|---|---|
+| 7.0 | A | 50 |
+| 6.0 | A- | 43 |
+| 5.0 | B+ | 36 |
+| 4.0 | B | 29 |
+| 3.0 | B- | 21 |
+| 2.0 | C | 14 |
+| 1.0 | D | 7 |
 
 ---
 
@@ -747,16 +827,16 @@ Send your deck to at least one person at your target company. This could be:
 **What to Submit**
 
 1. Your final deck (PDF)
-2. Screenshot or copy of your outreach message
+2. *(Optional, for extra credit)* Screenshot or link showing your outreach message (LinkedIn, email, etc.)
 
 **Grading**
 
-| Component | Points |
-|-----------|--------|
-| Deck quality (via [Feedback Form Rubric](#presentation-rubric), averaged) | 60 |
-| Submit feedback for all pod members | 20 |
-| Outreach completed | 20 |
-| **Total** | **100** |
+| Component | Who Scores | Points |
+|-----------|-----------|--------|
+| Presentation quality ([Feedback Form Rubric](#presentation-rubric), averaged) | Peers + TA | 50 |
+| Deck quality ([Deck Quality Rubric](#deck-quality-rubric)) | TA + Professor | 50 |
+| **Total** | | **100** |
+| Outreach completed | Extra credit | +5 |
 
 ::: {.callout-note}
 ## The Goal Is the Conversation, Not the Response
