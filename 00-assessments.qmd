@@ -635,41 +635,47 @@ Each dimension is scored on a 7-point scale:
 
 | Rating | Description |
 |--------|-------------|
-| 7 (A) | Reading only the action titles tells the complete story. Clear SCQA arc from opening through insight to ask. Every slide earns its place — nothing to cut, nothing missing. |
-| 6 (A-) | Strong narrative arc with action titles throughout. One slide could be tighter or better sequenced, but the story holds. |
-| 5 (B+) | Clear point of view and logical flow. A couple of titles are labels rather than conclusions ("Market Overview" instead of "Market is shifting toward X"). |
-| 4 (B) | The argument is there but you have to work to follow it. Some slides feel like they're in the wrong order, or the connection between insight and ask is unclear. |
-| 3 (B-) | Follows the required slide structure but the narrative doesn't build. Reads more like a checklist (company overview → data → opportunity → ask) than a story. |
-| 2 (C) | Disjointed — slides make individual points but don't connect into an argument. No clear "so what" driving the deck. |
+| 7 (A) | Reading only the action titles tells the complete story. Clear arc from insight through opportunity to ask. Every slide earns its place. Reads as a professional document — no assignment artifacts, includes your name and contact information. |
+| 6 (A-) | Strong narrative arc with action titles throughout. One slide could be tighter or better sequenced, but the story holds. No assignment artifacts (no "P1/P2" references, no assignment headers). |
+| 5 (B+) | Clear point of view and logical flow. A couple of titles are labels rather than conclusions ("Market Overview" instead of "Market is shifting toward X"). May contain minor assignment artifacts. |
+| 4 (B) | The argument is there but you have to work to follow it. Some slides feel out of order, or the connection between insight and ask is unclear. Title slide still says "P2: Point of View" or similar. |
+| 3 (B-) | Follows the required slide structure but the narrative doesn't build. Reads more like a checklist (company overview → data → opportunity → ask) than a story. Assignment structure is visible — section headers match the template rather than the story. |
+| 2 (C) | Disjointed — slides make individual points but don't connect into an argument. No clear "so what" driving the deck. May feel like two separate assignments stapled together. |
 | 1 (D) | Missing major structural components or reads as a data dump with no narrative thread. |
 
 **Analytical Depth (40%)** — *Does the evidence earn the "so what"?*
 
+::: {.callout-important}
+## Source Quality Gate
+
+Any slide that cites a number must include a traceable source — a named report, filing, earnings call, survey, or database. "Web research," "various sources," "analyst estimates" (without naming the analyst), and "proprietary analysis" (without showing assumptions) are not traceable sources. Unverifiable sourcing on key claims caps the Analytical Depth score at 5 (B+), regardless of how strong the insight is.
+:::
+
 | Rating | Description |
 |--------|-------------|
-| 7 (A) | Non-obvious insight backed by specific, sourced data. Quantified impact is credible and well-bounded. Someone at the company would learn something they didn't already know. |
-| 6 (A-) | Strong insight with solid evidence. Quantification is reasonable; one assumption could be better justified or sourced. |
-| 5 (B+) | Good analysis with a clear point of view. Evidence supports the argument but relies on one or two unsupported leaps or round-number estimates. |
-| 4 (B) | Adequate analysis — the opportunity is plausible but the evidence is thin in places. "So what" is stated but not fully earned by the data. |
-| 3 (B-) | Surface-level research. Uses easily available facts (company Wikipedia, recent headlines) without digging into financials, competitive dynamics, or trends. |
-| 2 (C) | Generic observations that could apply to any company in the industry. Little or no quantification. |
+| 7 (A) | Non-obvious insight backed by specific, sourced data. Quantified impact is credible and well-bounded. Sources are traceable — named reports, filings, or earnings calls with dates. Someone at the company would learn something they didn't already know. |
+| 6 (A-) | Strong insight with solid evidence. Quantification is reasonable; one assumption could be better justified. Sources are traceable on all key claims. |
+| 5 (B+) | Good analysis with a clear point of view. Evidence supports the argument but relies on one or two unsupported leaps or round-number estimates. Some sources may be vague or unverifiable. |
+| 4 (B) | Adequate analysis — the opportunity is plausible but evidence is thin in places. "So what" is stated but not fully earned by the data. Numbers may be internally inconsistent across slides. |
+| 3 (B-) | Surface-level research. Uses easily available facts (company Wikipedia, recent headlines) without digging into financials, competitive dynamics, or trends. Sources listed in appendix but not on slides. |
+| 2 (C) | Generic observations that could apply to any company in the industry. Little or no quantification. Data labeled "*illustrative" without supporting analysis. |
 | 1 (D) | No real analysis — assertions without evidence, or irrelevant data that doesn't connect to the opportunity. |
 
-**Slide Craft (20%)** — *Would a busy exec actually read this?*
+**Slide Design (20%)** — *Would a busy exec actually read this?*
 
 | Rating | Description |
 |--------|-------------|
-| 7 (A) | Polished and professional. One message per slide, clean charts, tight text, consistent formatting. Passes the squint test — key messages are clear from a distance. |
-| 6 (A-) | Clean and readable throughout. One slide is slightly dense or one chart could be clearer, but overall professional. |
+| 7 (A) | Polished and professional. One message per slide, clean charts, tight text, consistent formatting. Passes the squint test — key messages are clear from a distance. Consistent visual logic (color, layout) throughout. |
+| 6 (A-) | Clean and readable throughout. One slide is slightly dense or one chart could be clearer, but overall professional. Formatting is consistent. |
 | 5 (B+) | Good visual quality. A couple of slides have too much text or a chart that takes effort to parse. Formatting is mostly consistent. |
-| 4 (B) | Readable but unpolished. Mix of strong and weak slides — some clean, others text-heavy or visually cluttered. |
+| 4 (B) | Readable but unpolished. Mix of strong and weak slides — some clean, others text-heavy or visually cluttered. May have redundant content (e.g., "Key Takeaways" sidebar that restates what's already on the slide). |
 | 3 (B-) | Rough overall. Multiple text-heavy slides, inconsistent fonts or formatting, charts without clear takeaways. |
-| 2 (C) | Hard to follow visually. Walls of text, cluttered layouts, or design that distracts from the content. |
+| 2 (C) | Hard to follow visually. Walls of text, cluttered layouts, or design that distracts from the content. Raw spreadsheet screenshots in place of formatted tables. |
 | 1 (D) | Minimal effort on presentation — misaligned elements, unformatted, or incomplete slides. |
 
 **Deck Quality Scoring**: Each dimension is scored 1–7. The weighted average is converted to 50 points:
 
-> **Deck Quality Score** = (Storyline × 0.4 + Analysis × 0.4 + Craft × 0.2) × 50 ÷ 7
+> **Deck Quality Score** = (Storyline × 0.4 + Analysis × 0.4 + Design × 0.2) × 50 ÷ 7
 
 | Weighted Avg | Letter | Points (out of 50) |
 |---|---|---|
