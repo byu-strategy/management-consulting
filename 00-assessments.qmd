@@ -800,17 +800,23 @@ Rubric ratings are collected for developmental feedback but do not determine you
 
 **Team**: Individual
 
-**Deliverable**: 6-10 slide main deck + appendix + outreach 
+**Deliverable**: 6-10 slide main deck + appendix
 
 **Overview**
 
-This is the real thing. You'll polish your P1 and P2 into a tight deck you'd actually send to someone at your target company—and then send it. The Capstone is about fleshing out your research and analysis and making your work client-ready and putting yourself out there.
+This is the real thing. You'll synthesize your P1 and P2 into a tight deck you'd actually send to someone at your target company — and then send it. The Capstone is about fleshing out your research and analysis, making your work client-ready, and putting yourself out there.
+
+::: {.callout-important}
+## Client-Ready Means Standalone
+
+Your Capstone should read as a standalone professional document. The recipient has no context for "P1," "P2," or "STRAT 325" — integrate your earlier work without referencing the class assignments. Include your name and contact information (LinkedIn, email). If someone at the company opened this attachment, they should know who sent it and how to respond.
+:::
 
 **Requirements**
 
-**The Deck (6-10 slides + appendix)** (appendix, header, and transistion slides not counted)
+**The Deck (6-10 slides + appendix)** (appendix, header, and transition slides not counted)
 
-Synthesize P1 + P2 into a single, polished conversation deck:
+Your deck must cover the following content areas. These describe what each section covers, not what your slide titles should say — your titles should state conclusions, not section labels (e.g., "Market is shifting toward X" rather than "Market Overview").
 
 1. **Opening** (1 slide): Who you are, why you're reaching out, what you're offering
 2. **What I Noticed** (2-4 slides): Your outside-in insight (refined from P1)
@@ -818,9 +824,21 @@ Synthesize P1 + P2 into a single, polished conversation deck:
 4. **What's at Stake** (1-2 slides): Quantified impact
 5. **The Ask** (1 slide): "I'd love 20 minutes to discuss [specific questions]. Would you be open to a conversation?"
 
-**Appendix**: Put supporting detail—data tables, methodology notes, additional analysis—in an appendix. Keep the main deck tight and narrative-driven. A busy exec will skim the main slides; the appendix shows you've done the work if they want to dig deeper.
+**Appendix**: Put supporting detail — data tables, methodology notes, additional analysis — in an appendix. Keep the main deck tight and narrative-driven. A busy exec will skim the main slides; the appendix shows you've done the work if they want to dig deeper.
 
 This deck should be tight enough to attach to a LinkedIn message or cold email. Every slide in the main deck earns its place.
+
+::: {.callout-tip}
+## Reference Decks
+
+Study how top consulting firms structure client-facing slide decks. These examples from McKinsey and BCG demonstrate action titles, sourced data, clear visual logic, and professional formatting:
+
+- [BCG — Loose Dogs in Dallas: Strategic Recommendations](resources/reference-decks/bcg-loose-dogs-dallas.pdf) — A real BCG engagement delivered to Dallas City Council. Clean structure: Context → Key Findings → Recommendations → Next Steps. Strong action titles, sourced data on every slide, effective use of original research (BCG conducted their own dog census). The closest analog to what your Capstone should look like.
+- [McKinsey — Overcoming the European Tech IPO Challenge](resources/reference-decks/mckinsey-european-tech-ipo.pdf) — Sharp executive summary with numbered claims, each proved by subsequent slides. Every chart sourced to Capital IQ, FactSet, or Crunchbase. Ends with author photos and contact emails.
+- [BCG — Navigating through COVID-19 and Oil Supply-Demand Shock](resources/reference-decks/bcg-covid-oil-petrovietnam.pdf) — A CEO-level pitch deck for PetroVietnam. Opens with the BCG team and relationship history, then builds urgency with macro data before proposing workstreams. Note how the deck earns the right to propose work by demonstrating insight first.
+
+Pay attention to what these decks do *not* include: no assignment headers, no "Key Takeaways" sidebars restating the slide, no unsourced numbers, no "*illustrative" labels without supporting analysis.
+:::
 
 **The Outreach**
 
