@@ -252,8 +252,10 @@ ASSESSMENTS = [
      "Graded 100% on deck quality by the professor using the "
      '<a href="https://byu-strategy.github.io/management-consulting/00-assessments.html#deck-quality-rubric" '
      'target="_blank">Deck Quality Rubric</a> (Storyline, Insight, Evidence, Slide Design).<br><br>'
-     "<b>Capstone Showcase (optional):</b> Wed Apr 22, 11:00 AM\u20132:00 PM, W240 TNRB. "
-     "Top 5\u20138 decks will be invited to present to the class."},
+     "<b>Capstone Showcase:</b> Wed Apr 22, 11:00 AM\u20132:00 PM, W240 TNRB. "
+     "All students are invited and encouraged to attend. "
+     "5\u20138 students with the strongest decks will be selected to present their work. "
+     "Everyone else will see what top-quality decks look like and hear what made them stand out."},
     {"id": "capstone_outreach", "title": "Capstone: Outreach (Extra Credit)", "group": "client_work", "points": 5,
      "due": "2026-04-20", "week": 15, "anchor": "#conversation-deck",
      "canvas_description": "<b>What to submit:</b> Screenshot or link showing your outreach message "
