@@ -159,10 +159,10 @@ ASSESSMENTS = [
      "due": "2026-04-14", "week": 15, "anchor": "#reading-quizzes",
      "canvas_quiz": True, "unlock_at": "2026-04-14T12:30:00-07:00",
      "canvas_description": quiz_description(
-         f'\u2022 <a href="{B}/08-create-impact.html#os-4-8">Seek Feedback</a><br>'
-         f'\u2022 <a href="{B}/08-create-impact.html#os-4-7">Coordinate as Team</a><br>'
-         f'\u2022 <a href="{B}/02-consultants-os.html">The Full OS in Action</a><br>'
-         '\u2022 <a href="https://slideworks.io/resources/the-pyramid-principle-mckinsey-toolbox-with-examples">The Pyramid Principle</a>')},
+         '\u2022 <a href="https://slideworks.io/resources/the-pyramid-principle-mckinsey-toolbox-with-examples">The Pyramid Principle</a><br>'
+         '\u2022 <a href="https://slideworks.io/resources/how-to-write-action-titles-like-mckinsey">How to Write Slide Action Titles</a><br>'
+         '\u2022 <a href="https://slideworks.io/resources/how-to-use-McKinseys-scr-framework-with-examples">How to Use the SCR Framework</a><br>'
+         '\u2022 <a href="https://slideworks.io/resources/how-to-write-executive-summary">How to Write an Effective Executive Summary</a>')},
 
     # ── Resume and Networking (60 pts) ──
     {"id": "resume_v1", "title": "Resume v1", "group": "resume_networking", "points": 15,
@@ -382,24 +382,21 @@ QUIZ_QUESTIONS = {
     ],
     "quiz_10": [
         {"name": "Q1", "type": "multiple_choice_question", "points": 1,
-         "text": "When seeking feedback after a presentation, which approach is MOST "
-                 "likely to generate useful, actionable input?",
+         "text": "Which of the following is an ACTION TITLE rather than a topic label?",
          "answers": [
-             {"text": "How did I do?", "weight": 0},
-             {"text": "Did you like the presentation?", "weight": 0},
-             {"text": "What's one specific thing I could improve in how I structured "
-                      "the recommendation?", "weight": 100},
-             {"text": "Was there anything wrong with it?", "weight": 0},
+             {"text": "Market Overview", "weight": 0},
+             {"text": "Financial Analysis", "weight": 0},
+             {"text": "Costs grew 2x faster than revenue since 2021", "weight": 100},
+             {"text": "Key Findings", "weight": 0},
          ]},
         {"name": "Q2", "type": "multiple_choice_question", "points": 1,
-         "text": "Your capstone team of 4 is presenting. A classmate asks Person A "
-                 "about Person B's analysis. What's the best team coordination response?",
+         "text": "In the SCR framework, which section should account for MOST of the slides "
+                 "in a consulting presentation?",
          "answers": [
-             {"text": "Person A answers as best they can to maintain flow", "weight": 0},
-             {"text": 'Person A says "I\'ll let Person B answer that since they led '
-                      'that analysis" and hands off cleanly', "weight": 100},
-             {"text": 'Person A says "We\'ll get back to you on that"', "weight": 0},
-             {"text": "The team lead answers all questions", "weight": 0},
+             {"text": "Situation", "weight": 0},
+             {"text": "Complication", "weight": 0},
+             {"text": "Resolution", "weight": 100},
+             {"text": "All three should be roughly equal", "weight": 0},
          ]},
         {"name": "Q3", "type": "true_false_question", "points": 1,
          "text": "According to Barbara Minto's Pyramid Principle, you naturally think "
@@ -410,25 +407,23 @@ QUIZ_QUESTIONS = {
              {"text": "False", "weight": 0},
          ]},
         {"name": "Q4", "type": "multiple_choice_question", "points": 1,
-         "text": "Which BEST demonstrates coachability in a consulting context?",
+         "text": "What is the primary purpose of an executive summary slide in a "
+                 "consulting deck?",
          "answers": [
-             {"text": "Explaining why you made the choices you did when receiving "
-                      "critical feedback", "weight": 0},
-             {"text": "Thanking someone for feedback, then showing visible improvement "
-                      "in the next deliverable", "weight": 100},
-             {"text": "Asking for feedback only from people you trust", "weight": 0},
-             {"text": "Immediately agreeing with all feedback without consideration", "weight": 0},
+             {"text": "List the agenda and table of contents for the presentation", "weight": 0},
+             {"text": "Compress the full argument so a reader who sees only this slide "
+                      "understands the recommendation", "weight": 100},
+             {"text": "Introduce the consulting team and their qualifications", "weight": 0},
+             {"text": "Summarize the data sources used in the analysis", "weight": 0},
          ]},
         {"name": "Q5", "type": "multiple_choice_question", "points": 1,
-         "text": "A first-year analyst presents a market sizing and the engagement manager "
-                 'says "Your numbers don\'t pass the smell test." Which imperative should '
-                 "the analyst apply FIRST?",
+         "text": "The 'Golden Rule' of slide writing states that:",
          "answers": [
-             {"text": "Think Clearly \u2014 redefine the problem", "weight": 0},
-             {"text": "Get to the Right Answer \u2014 recheck assumptions and validate "
-                      "the math", "weight": 100},
-             {"text": "Move Work Forward \u2014 push ahead with the current estimate", "weight": 0},
-             {"text": "Create Impact \u2014 reframe how the numbers are presented", "weight": 0},
+             {"text": "Every slide should have at least one chart or visual", "weight": 0},
+             {"text": "Nothing should be in the action title that isn't in the slide body, "
+                      "and nothing in the body should be irrelevant to the title", "weight": 100},
+             {"text": "Slides should never exceed 15 words of text", "weight": 0},
+             {"text": "The most important slide should always come last", "weight": 0},
          ]},
     ],
 }
