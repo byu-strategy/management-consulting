@@ -840,9 +840,9 @@ Study how top consulting firms structure client-facing slide decks. These exampl
 Pay attention to what these decks do *not* include: no assignment headers, no "Key Takeaways" sidebars restating the slide, no unsourced numbers, no "*illustrative" labels without supporting analysis.
 :::
 
-**The Outreach**
+**The Outreach (+5 extra credit)**
 
-Send your deck to at least one person at your target company. This could be:
+For extra credit, send your deck to at least one person at your target company. This could be:
 
 - A LinkedIn message to someone in strategy, corp dev, or a relevant business unit
 - A cold email (if you can find a contact)
