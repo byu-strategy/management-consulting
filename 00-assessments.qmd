@@ -826,7 +826,7 @@ For extra credit, send your deck to at least one person at your target company. 
 
 #### Deck Quality Rubric {#deck-quality-rubric}
 
-Scored by the professor. Five dimensions, each on a 7-point scale, converted to 50 points using the formula below.
+Scored by the professor. Four dimensions, each on a 7-point scale, converted to 50 points. Two quality gates enforce minimum professional standards.
 
 ::: {.callout-tip}
 ## Self-Check Before Submitting
@@ -840,97 +840,89 @@ Run these five tests on your deck before you submit:
 5. **Devil's advocate test.** Would the deck be weaker if you removed this slide? If not, cut it.
 :::
 
-**1. Storyline & Structure (25%)** {#rubric-storyline}
-
-*Does the deck tell a logical, answer-first story?*
-
-| Rating | Description |
-|--------|-------------|
-| 7 | Clear SCR arc (Situation, Complication, Resolution) with the resolution dominating the deck. Situation and complication are tight, giving most space to the opportunity and ask. Every slide advances the argument; removing any one would weaken the deck. Reads as a standalone professional document with no assignment artifacts. Includes your name and contact information. |
-| 6 | Strong narrative arc. The resolution still dominates, but the situation/complication section could be one slide tighter. No assignment artifacts ("P1/P2" references, assignment headers). |
-| 5 | Clear point of view and logical flow. The balance between setup and payoff is slightly off (e.g., too much context, not enough on the opportunity). May contain minor assignment artifacts. |
-| 4 | The argument is there but you have to work to follow it. Some slides feel out of order, or the connection between insight and ask is unclear. Title slide still says "P2: Point of View" or similar. |
-| 3 | Follows the required slide structure but the narrative doesn't build. Reads more like a checklist (company overview, data, opportunity, ask) than a story. Assignment structure is visible, with section headers matching the template rather than the story. Includes slides that don't advance the argument. |
-| 2 | Disjointed. Slides make individual points but don't connect into an argument. No clear "so what" driving the deck. May feel like two separate assignments stapled together. |
-| 1 | Missing major structural components or reads as a data dump with no narrative thread. |
-
-**2. Action Titles (20%)** {#rubric-action-titles}
-
-*Do the slide titles tell the story on their own?*
-
-| Rating | Description |
-|--------|-------------|
-| 7 | Every title is a specific, quantified sentence stating the slide's conclusion ("Costs grew 2x faster than revenue," not "Cost Analysis"). Reading only the titles in sequence tells a coherent, persuasive story. Titles use active voice, fit within two lines (~15 words), and pass the Golden Rule: nothing in the title that isn't proved in the body, nothing in the body that's irrelevant to the title. |
-| 6 | All titles are action titles (conclusions, not labels). The title sequence holds together as a story. One title could be sharper, more specific, or better quantified. Golden Rule holds throughout. |
-| 5 | Most titles are action titles. A couple are topic labels ("Market Overview" instead of "Market is shifting toward X"). Title sequence mostly flows but has a gap. |
-| 4 | Mix of action titles and topic labels. You need the slide bodies to follow the argument. Some titles could belong to any company or any project. |
-| 3 | More labels than conclusions. Titles describe processes or topics ("Our Analysis," "Financial Data") rather than state findings. If you can't write a clear action title, the slide's message isn't clear. |
-| 2 | Titles are generic headers. No "so what" in any title. Titles and slide bodies feel disconnected. |
-| 1 | No meaningful titles, or titles are absent/placeholder text. |
-
-**3. Evidence & Insight (30%)** {#rubric-evidence}
-
-*Does the evidence earn the "so what"?*
-
 ::: {.callout-important}
-## Source Quality Gate
+## Quality Gates
 
-Any slide that cites a number must include a traceable source: a named report, filing, earnings call, survey, or database. "Web research," "various sources," "analyst estimates" (without naming the analyst), and "proprietary analysis" (without showing assumptions) are not traceable sources. Unverifiable sourcing on key claims caps the Evidence & Insight score at 5, regardless of how strong the insight is.
+These are pass/fail checks that cap your score if triggered. Fix these first.
+
+**Source Quality Gate** — Any slide citing a number must include a traceable source in the footnote: a named report, filing, earnings call, survey, or database with dates. "Web research," "various sources," "Statista" (without naming the dataset), "analyst estimates" (without naming the analyst), "AI research," and "proprietary analysis" (without showing assumptions) are not traceable. Your appendix must include a sources page with full citations (report titles, authors, dates, URLs where available). Untraceable sourcing on key analytical claims **caps Evidence at 4**.
+
+**Client-Readiness Gate** — Your deck must read as a standalone professional document. Any of the following **cap Storyline at 4**: assignment artifacts ("P1," "P2," "STRAT 325," template section headers used as slide titles), missing contact information (name, email, LinkedIn) on the title slide, or a missing/weak executive summary that doesn't compress the full argument into one standalone slide.
 :::
 
+##### 1. Storyline (30%) {#rubric-storyline}
+
+*Does the deck tell a coherent, answer-first story from first slide to last?*
+
+This dimension evaluates the full arc: structure, action titles, executive summary, proposed next steps, and deck tightness.
+
 | Rating | Description |
 |--------|-------------|
-| 7 | Non-obvious insight backed by specific, sourced data. Quantified impact is credible and well-bounded. Conclusions are pressure-tested: assumptions are stated, alternatives acknowledged, and the analysis addresses the strongest counterargument. Sources are traceable (named reports, filings, or earnings calls with dates). Someone at the company would learn something they didn't already know. |
-| 6 | Strong insight with solid evidence. Quantification is reasonable; one assumption could be better justified. The "so what" is clear at every level: each slide answers "what does this mean for the decision?" Sources are traceable on all key claims. |
-| 5 | Good analysis with a clear point of view. Evidence supports the argument but relies on one or two unsupported leaps or round-number estimates. Some slides present data without fully drawing out the implication. |
-| 4 | Adequate analysis, but evidence is thin in places. "So what" is stated but not fully earned by the data. Numbers may be internally inconsistent across slides. Format choices feel default (e.g., bullets where a chart would be clearer, or a chart without a clear takeaway). |
-| 3 | Surface-level research. Uses easily available facts (company Wikipedia, recent headlines) without digging into financials, competitive dynamics, or trends. The deck presents observations but doesn't push to insight. Sources listed in appendix but not on slides. |
-| 2 | Generic observations that could apply to any company in the industry. Little or no quantification. Data labeled "illustrative" without supporting analysis. Reads as a research report, not a decision document. |
+| 7 | Clear SCR arc with the resolution dominating the deck. Executive summary compresses the full argument into one standalone slide. Every title is a specific, quantified conclusion; reading only the titles tells the complete story (title-flow test). Proposed next steps flow directly from the analysis, reference specific findings, and imply deliverables. Every slide advances the argument; removing any one would weaken the deck. No assignment artifacts. Includes name and contact information. |
+| 6 | Strong narrative arc with action titles throughout. Exec summary exists and mostly stands alone. Proposed next steps are specific and connected to findings. One title could be sharper, or one slide could be tighter, but the story holds. No assignment artifacts. |
+| 5 | Clear point of view and logical flow. Most titles are action titles; a couple are topic labels ("Market Overview" instead of "Market is shifting toward X"). Exec summary covers the key points but doesn't fully compress the argument. Proposed next steps are reasonable but somewhat generic. |
+| 4 | The argument is there but you have to work to follow it. Mix of action titles and topic labels. Exec summary is weak or missing. Next steps exist but feel formulaic. Some slides feel out of order, or the connection between insight and proposal is unclear. |
+| 3 | Follows the required structure but the narrative doesn't build. Reads more like a checklist than a story. More labels than conclusions. Next steps ask generic questions rather than proposing specific work. Assignment structure may be visible. |
+| 2 | Disjointed. Slides make individual points but don't connect into an argument. Titles are generic headers. No exec summary. No meaningful proposal. May feel like two assignments stapled together. |
+| 1 | Missing major structural components or reads as a data dump with no narrative thread. No action titles. No proposal. |
+
+##### 2. Insight (30%) {#rubric-insight}
+
+*Does the deck push past observation into non-obvious, actionable insight?*
+
+| Rating | Description |
+|--------|-------------|
+| 7 | Non-obvious insight that someone at the company would learn from. Each analytical slide answers "so what does this mean for the decision?" Conclusions are pressure-tested: assumptions stated, alternatives acknowledged, strongest counterargument addressed. Recommendations flow directly from insights. The reader feels smarter after reading the deck. |
+| 6 | Strong insight with a genuine "so what" at every level. The connection between findings and recommendations is clear and well-supported. One analytical leap could be better justified or one assumption better bounded. |
+| 5 | Clear point of view that goes beyond obvious observations. Evidence supports the argument but relies on one or two unsupported leaps or round-number estimates. Some slides present data without fully drawing out the implication. |
+| 4 | Adequate analysis with a stated "so what," but the insight is not fully earned by the data. The core observation may be widely known (recent headlines, standard 10-K summary) without original synthesis on top. |
+| 3 | Surface-level research presented as analysis. Uses easily available facts without digging into drivers, competitive dynamics, or trends. The deck presents observations but doesn't push to insight. |
+| 2 | Generic observations that could apply to any company in the industry. Little interpretation. Data labeled "illustrative" without supporting analysis. Reads as a research report, not a decision document. |
 | 1 | No real analysis. Assertions without evidence, or irrelevant data that doesn't connect to the opportunity. |
 
-**4. The Ask (10%)** {#rubric-ask}
+##### 3. Evidence (25%) {#rubric-evidence}
 
-*Are the proposed next steps worth pursuing?*
+*Is every claim backed by traceable, on-slide sourcing in the right format?*
 
 | Rating | Description |
 |--------|-------------|
-| 7 | The proposed next steps flow directly from the analysis. Each one references a specific finding, describes what you'd actually do, and implies a deliverable. The recipient thinks "this person could actually help me." The ask is proportional to the insight offered: you earned the right to propose work by demonstrating value first. |
-| 6 | Clear, specific next steps connected to the analysis. One could be sharper or more clearly tied to a specific finding in the deck. |
-| 5 | Reasonable next steps, but somewhat generic (could apply to any company in the industry) or not clearly connected to the preceding analysis. |
-| 4 | The ask exists but feels formulaic. Proposed steps are broad ("explore growth opportunities") rather than earned by specific findings. |
-| 3 | Vague or disconnected from the deck's argument. Feels tacked on rather than flowing from the story. |
-| 2 | Perfunctory. One generic item or a request with no specificity. |
-| 1 | Missing or incomprehensible. |
+| 7 | Every numerical claim is sourced on-slide to a named report, filing, or database with dates (e.g., "Source: Apple 10-K FY2025, p. 34"). Format matches content perfectly: charts for trends, tables for comparisons, text for concepts. Assumptions are stated explicitly. Data is internally consistent across all slides. Appendix includes a full sources page with report titles, dates, and URLs. |
+| 6 | All key claims are traceable on-slide with named sources. Format choices are strong. One minor source could be more specific, or one assumption could be better disclosed. Appendix sources page is present but may be incomplete. |
+| 5 | Most claims are sourced on-slide. One or two sources are vague (e.g., "Statista" without naming the dataset, or a news outlet without the article title). Format is mostly appropriate. Data is generally consistent. |
+| 4 | Sources appear on some slides but are inconsistently applied. Some key claims cite vague sources ("industry reports," "company website") or rely on unattributed estimates. Format choices feel default (bullets where a chart would be clearer). Numbers may be internally inconsistent across slides. |
+| 3 | Sources are present but mostly vague or appear only in the appendix rather than on the slides where claims are made. Multiple unsupported numerical claims. |
+| 2 | Few or no on-slide sources. Key claims are unverifiable. Sources like "web research," "Google," or "AI research" are used. No appendix bibliography. |
+| 1 | No sources anywhere. Claims are entirely unsubstantiated. |
 
-**5. Slide Design (15%)** {#rubric-visual}
+##### 4. Slide Design (15%) {#rubric-visual}
 
 *Would a busy exec actually read this?*
 
 | Rating | Description |
 |--------|-------------|
-| 7 | Polished and professional. One message per slide. Passes the squint test: key messages are visually clear from across the room. Consistent formatting throughout: fonts, colors, alignment, and margins. Color is used strategically to highlight key data, not decorate. Clean charts with clear takeaways, sourced in footnotes. Consistent text hierarchy (two font sizes, two points apart). No chart junk, no animations, generous white space. |
+| 7 | Polished and professional. One message per slide. Passes the squint test: key messages are visually clear from across the room. Consistent formatting throughout (fonts, colors, alignment, margins). Color used strategically to highlight key data, not decorate. Clean charts with clear takeaways, sourced in footnotes. Consistent text hierarchy. No chart junk, no animations, generous white space. |
 | 6 | Clean and readable throughout. One slide is slightly dense or one chart could be clearer, but overall professional. Formatting is consistent. Adequate white space. |
 | 5 | Good visual quality. A couple of slides have too much text or a chart that takes effort to parse. Formatting is mostly consistent. |
-| 4 | Readable but unpolished. Mix of strong and weak slides, with some clean and others text-heavy or visually cluttered. May have redundant content (e.g., "Key Takeaways" sidebar that restates what's already on the slide). |
+| 4 | Readable but unpolished. Mix of strong and weak slides, with some clean and others text-heavy or visually cluttered. May have redundant content (e.g., "Key Takeaways" sidebar restating what's already on the slide). |
 | 3 | Rough overall. Multiple text-heavy slides, inconsistent fonts or formatting, charts without clear takeaways. |
 | 2 | Hard to follow visually. Walls of text, cluttered layouts, or design that distracts from the content. Raw spreadsheet screenshots in place of formatted tables. |
 | 1 | Minimal effort on presentation. Misaligned elements, unformatted, or incomplete slides. |
 
-**Deck Quality Scoring**
+##### Deck Quality Scoring {#deck-scoring}
 
 Each dimension is scored 1-7. The weighted average is converted to 50 points:
 
-> **Deck Quality Score** = (Storyline x 0.25 + Titles x 0.20 + Evidence x 0.30 + Ask x 0.10 + Design x 0.15) x 50 / 7
+> **Deck Quality Score** = (Storyline x 0.30 + Insight x 0.30 + Evidence x 0.25 + Design x 0.15) x 50 / 7
 
-| Weighted Avg | Points (out of 50) |
-|---|---|
-| 7.0 | 50 |
-| 6.0 | 43 |
-| 5.0 | 36 |
-| 4.0 | 29 |
-| 3.0 | 21 |
-| 2.0 | 14 |
-| 1.0 | 7 |
+| Weighted Avg | Points | Grade |
+|---|---|---|
+| 7.0 | 50 | A |
+| 6.0 | 43 | A- |
+| 5.0 | 36 | B+ |
+| 4.0 | 29 | B- |
+| 3.0 | 21 | C |
+| 2.0 | 14 | D |
+| 1.0 | 7 | F |
 
 ::: {.callout-note collapse="true"}
 ## Sources
