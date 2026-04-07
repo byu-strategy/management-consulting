@@ -756,32 +756,6 @@ Before submitting, run the five self-check tests in the [Deck Quality Rubric](#d
 This deck should be tight enough to attach to a LinkedIn message or cold email.
 
 ::: {.callout-tip collapse="true"}
-## Example: Good vs. Bad "Proposed Next Steps"
-
-Imagine a deck analyzing Chipotle's peak-hour throughput problem, arguing that 12+ minute wait times are costing an estimated $400M in lost revenue annually.
-
-**Bad (informational interview questions):**
-
-> 1. What's Chipotle's growth strategy?
-> 2. How do you think about digital transformation?
-> 3. What are the biggest challenges facing the company?
-
-These require zero research. They could be asked by anyone who spent five minutes on Google.
-
-**Good (proposed work that earns the conversation):**
-
-> Three areas where a deeper analysis could add value:
->
-> 1. **Peak-hour revenue leakage audit.** Map POS walkaway data against staffing levels and order volume to quantify the actual revenue gap (our outside-in estimate is ~$400M; internal data would sharpen this).
-> 2. **Express format feasibility.** Model buildout costs, throughput capacity, and cannibalization risk for a smaller-footprint digital-first location in 2-3 target markets.
-> 3. **Digital assembly line pilot.** Scope a 4-week test of dedicated digital-order assembly at 3 high-volume urban locations to measure throughput impact.
->
-> I'd welcome 20 minutes to discuss whether these are the right areas to dig into.
-
-Each proposed step references a specific finding, describes what you'd actually do, and implies a deliverable. The recipient thinks "this person has done their homework and could help me," not "this person wants my time."
-:::
-
-::: {.callout-tip collapse="true"}
 ## Reference Decks
 
 Study how top consulting firms structure client-facing slide decks. These examples from McKinsey and BCG demonstrate action titles, sourced data, clear visual logic, and professional formatting:
@@ -944,7 +918,7 @@ This rubric synthesizes best practices from the following articles by former MBB
 ::: {.callout-note}
 ## The Goal Is the Conversation, Not the Response
 
-You're not graded on whether they respond (that's not in your control). You're graded on the quality of your work and the courage to put it in front of a real professional. Some of you will get responses. Some won't. Both outcomes teach you something.
+You're not graded on whether they respond (that's not in your control). You're graded on the quality of your work and the courage to put it in front of a real professional. Send your deck to earn the +5 extra credit. Some of you will get responses. Some won't. Both outcomes teach you something.
 :::
 
 ---
