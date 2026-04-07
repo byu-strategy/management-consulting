@@ -799,7 +799,7 @@ All students are invited and encouraged to attend. After grading, 5-8 students w
 
 #### Deck Quality Rubric {#deck-quality-rubric}
 
-Scored by the professor. Four dimensions, each on a 7-point scale, converted to 100 points. Two quality gates enforce minimum professional standards.
+Four dimensions, each on a 7-point scale, converted to 100 points. Two quality gates enforce minimum professional standards.
 
 ::: {.callout-tip}
 ## Self-Check Before Submitting
