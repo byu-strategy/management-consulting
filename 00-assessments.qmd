@@ -615,68 +615,6 @@ Put yourself in the shoes of someone at the presenter's target company — a str
 
 ---
 
-### Deck Quality Rubric {#deck-quality-rubric}
-
-Scored by the professor. Each dimension is scored on a 7-point scale, then converted to 50 points using the formula below.
-
-**Storyline & Structure (40%)**: *Does the deck tell a logical, answer-first story?*
-
-| Rating | Description |
-|--------|-------------|
-| 7 | Reading only the action titles tells the complete story. Clear arc from insight through opportunity to ask. Reads as a professional document with no assignment artifacts, and includes your name and contact information. |
-| 6 | Strong narrative arc with action titles throughout. One slide could be tighter or better sequenced, but the story holds. No assignment artifacts (no "P1/P2" references, no assignment headers). |
-| 5 | Clear point of view and logical flow. A couple of titles are labels rather than conclusions ("Market Overview" instead of "Market is shifting toward X"). May contain minor assignment artifacts. |
-| 4 | The argument is there but you have to work to follow it. Some slides feel out of order, or the connection between insight and ask is unclear. Title slide still says "P2: Point of View" or similar. |
-| 3 | Follows the required slide structure but the narrative doesn't build. Reads more like a checklist (company overview, data, opportunity, ask) than a story. Assignment structure is visible, with section headers matching the template rather than the story. |
-| 2 | Disjointed. Slides make individual points but don't connect into an argument. No clear "so what" driving the deck. May feel like two separate assignments stapled together. |
-| 1 | Missing major structural components or reads as a data dump with no narrative thread. |
-
-**Analytical Depth (40%)**: *Would someone at this company actually learn something new?*
-
-::: {.callout-important}
-## Source Quality Gate
-
-Any slide that cites a number must include a traceable source: a named report, filing, earnings call, survey, or database. "Web research," "various sources," "analyst estimates" (without naming the analyst), and "proprietary analysis" (without showing assumptions) are not traceable sources. Unverifiable sourcing on key claims caps the Analytical Depth score at 4, regardless of how strong the insight is.
-:::
-
-| Rating | Description |
-|--------|-------------|
-| 7 | Non-obvious insight backed by specific, sourced data. Quantified impact is credible and well-bounded. Sources are traceable (named reports, filings, or earnings calls with dates). Someone at the company would learn something they didn't already know. |
-| 6 | Strong insight with solid evidence. Quantification is reasonable; one assumption could be better justified. Sources are traceable on all key claims. |
-| 5 | Good analysis with a clear point of view. Evidence supports the argument but relies on one or two unsupported leaps or round-number estimates. All key claims have traceable sources. |
-| 4 | Adequate analysis, but evidence is thin in places. Numbers may be internally inconsistent across slides, or key sources are vague or unverifiable ("web research," "analyst estimates," "proprietary modeling"). |
-| 3 | Surface-level research. Uses easily available facts (company Wikipedia, recent headlines) without digging into financials, competitive dynamics, or trends. Sources listed in appendix but not on slides. |
-| 2 | Generic observations that could apply to any company in the industry. Little or no quantification. Data labeled "*illustrative" without supporting analysis. |
-| 1 | No real analysis. Assertions without evidence, or irrelevant data that doesn't connect to the opportunity. |
-
-**Slide Design (20%)**: *Is the deck visually clear and professional?*
-
-| Rating | Description |
-|--------|-------------|
-| 7 | Polished and professional. One message per slide, clean charts, tight text, consistent formatting. Passes the squint test: key messages are clear from a distance. Consistent visual logic (color, layout) throughout. |
-| 6 | Clean and readable throughout. One slide is slightly dense or one chart could be clearer, but overall professional. Formatting is consistent. |
-| 5 | Good visual quality. A couple of slides have too much text or a chart that takes effort to parse. Formatting is mostly consistent. |
-| 4 | Readable but unpolished. Mix of strong and weak slides, with some clean and others text-heavy or visually cluttered. May have redundant content (e.g., "Key Takeaways" sidebar that restates what's already on the slide). |
-| 3 | Rough overall. Multiple text-heavy slides, inconsistent fonts or formatting, charts without clear takeaways. |
-| 2 | Hard to follow visually. Walls of text, cluttered layouts, or design that distracts from the content. Raw spreadsheet screenshots in place of formatted tables. |
-| 1 | Minimal effort on presentation. Misaligned elements, unformatted, or incomplete slides. |
-
-**Deck Quality Scoring**: Each dimension is scored 1–7. The weighted average is converted to 50 points:
-
-> **Deck Quality Score** = (Storyline × 0.4 + Analysis × 0.4 + Design × 0.2) × 50 ÷ 7
-
-| Weighted Avg | Points (out of 50) |
-|---|---|
-| 7.0 | 50 |
-| 6.0 | 43 |
-| 5.0 | 36 |
-| 4.0 | 29 |
-| 3.0 | 21 |
-| 2.0 | 14 |
-| 1.0 | 7 |
-
----
-
 ### Project 1 (P1): Intelligence Brief {#intelligence-brief}
 
 **Points**: 40 (8% of grade)
@@ -792,7 +730,9 @@ Rubric ratings are collected for developmental feedback but do not determine you
 
 **Overview**
 
-This is the real thing. You'll synthesize your P1 and P2 into a tight deck you'd actually send to someone at your target company — and then send it. The Capstone is about fleshing out your research and analysis, making your work client-ready, and putting yourself out there.
+This is an unsolicited proposal deck, the same format consulting firms use to start relationships with prospective clients. The playbook: lead with real insight, demonstrate that you understand their world, and propose specific next steps that would be worth their time. You earn the right to propose work by delivering value first.
+
+You'll synthesize your P1 and P2 into a tight, client-ready deck, then send it to someone at your target company. The goal is a conversation, not a job. You're showing a professional that you can think, that you've done real work, and that talking to you would be worthwhile.
 
 ::: {.callout-important}
 ## Client-Ready Means Standalone
@@ -802,22 +742,55 @@ Your Capstone should read as a standalone professional document. The recipient h
 
 **Requirements**
 
-**The Deck (5-10 slides + appendix)** (title slide, appendix, and transition slides not counted)
+**The Deck (6-10 slides + appendix)** (title slide, appendix, and transition slides not counted)
 
-Your deck must cover the following content areas. These describe what each section covers, not what your slide titles should say. Your titles should state conclusions, not section labels (e.g., "Market is shifting toward X" rather than "Market Overview").
+Your deck follows the SCR arc (Situation, Complication, Resolution) adapted for cold outreach. The sections below describe what each part covers, not what your slide titles should say. Your titles should state conclusions, not section labels (e.g., "Market is shifting toward X" rather than "Market Overview"). Every slide that cites a number must include a traceable source in the footnote (named report, filing, or database). See the [Source Quality Gate](#rubric-evidence) in the rubric.
+
+Before submitting, run the five self-check tests in the [Deck Quality Rubric](#deck-quality-rubric).
 
 **Title slide** (not counted): Company name, your name, email, LinkedIn, and date. Keep it clean.
 
-1. **What I Noticed** (2-4 slides): Your outside-in insight (refined from P1). What is happening at this company that they should be paying attention to?
-2. **The Opportunity** (1-3 slides): Your point of view (refined from P2). What should they do about it, and why now?
-3. **What's at Stake** (1-2 slides): Quantified impact. What happens if they act vs. don't act?
-4. **Proposed Discussion** (1 slide): Two or three specific questions you'd want to explore together and what you'd hope to learn. This is your pitch for a 20-minute conversation, so make the questions specific enough that the reader thinks "I'd actually want to talk about that."
+1. **Executive Summary** (1 slide): Compress your entire argument into one slide. If the recipient reads only this slide and nothing else, they should understand what you found, why it matters, and what you're proposing. Write this slide last, after the rest of the deck is built. Use the Pyramid Principle: lead with your conclusion, then support it with 3-4 key points.
 
-**Appendix**: Supporting detail (data tables, methodology notes, additional analysis). Keep the main deck tight and narrative-driven. A busy exec will skim the main slides; the appendix shows you've done the work if they want to dig deeper.
+2. **What I Noticed** (1-3 slides) — *Situation + Complication.* Your outside-in insight (refined from P1). What is happening at this company that they should be paying attention to? Keep the setup tight. The recipient already knows their own company; your job is to show them something they haven't seen or haven't connected yet. This section earns attention, but the resolution is where you earn the conversation.
+
+3. **The Opportunity** (2-4 slides) — *Resolution.* Your point of view (refined from P2). What should they do about it, and why now? This section should dominate the deck. It's where you demonstrate that you can move past observation into actionable insight. Include quantified impact: what happens if they act vs. don't act? Back every claim with sourced data.
+
+4. **Proposed Next Steps** (1 slide) — *The Ask.* Based on your analysis, what would you propose doing next? Identify 2-3 specific analyses, workstreams, or initiatives that would take your outside-in perspective deeper. Each one should connect directly to a finding in your deck and describe what you'd actually do, not just what you'd ask about. Close with a single line requesting a 20-minute conversation.
+
+    The test: does this slide make the recipient think "this person could actually help me," or does it make them think "this person wants to pick my brain"? You're proposing work, not requesting an informational interview.
+
+**Appendix**: Supporting detail (data tables, methodology notes, additional analysis, source bibliography). Keep the main deck tight and narrative-driven. A busy exec will skim the main slides; the appendix shows you've done the work if they want to dig deeper.
 
 This deck should be tight enough to attach to a LinkedIn message or cold email.
 
-::: {.callout-tip}
+::: {.callout-tip collapse="true"}
+## Example: Good vs. Bad "Proposed Next Steps"
+
+Imagine a deck analyzing Chipotle's peak-hour throughput problem, arguing that 12+ minute wait times are costing an estimated $400M in lost revenue annually.
+
+**Bad (informational interview questions):**
+
+> 1. What's Chipotle's growth strategy?
+> 2. How do you think about digital transformation?
+> 3. What are the biggest challenges facing the company?
+
+These require zero research. They could be asked by anyone who spent five minutes on Google.
+
+**Good (proposed work that earns the conversation):**
+
+> Three areas where a deeper analysis could add value:
+>
+> 1. **Peak-hour revenue leakage audit.** Map POS walkaway data against staffing levels and order volume to quantify the actual revenue gap (our outside-in estimate is ~$400M; internal data would sharpen this).
+> 2. **Express format feasibility.** Model buildout costs, throughput capacity, and cannibalization risk for a smaller-footprint digital-first location in 2-3 target markets.
+> 3. **Digital assembly line pilot.** Scope a 4-week test of dedicated digital-order assembly at 3 high-volume urban locations to measure throughput impact.
+>
+> I'd welcome 20 minutes to discuss whether these are the right areas to dig into.
+
+Each proposed step references a specific finding, describes what you'd actually do, and implies a deliverable. The recipient thinks "this person has done their homework and could help me," not "this person wants my time."
+:::
+
+::: {.callout-tip collapse="true"}
 ## Reference Decks
 
 Study how top consulting firms structure client-facing slide decks. These examples from McKinsey and BCG demonstrate action titles, sourced data, clear visual logic, and professional formatting:
@@ -826,7 +799,7 @@ Study how top consulting firms structure client-facing slide decks. These exampl
 - [McKinsey: Overcoming the European Tech IPO Challenge](resources/reference-decks/mckinsey-european-tech-ipo.pdf). Sharp executive summary with numbered claims, each proved by subsequent slides. Every chart sourced to Capital IQ, FactSet, or Crunchbase. Note: the original deck included author photos and contact emails on the closing slide. Your deck should include your name, email, and LinkedIn on the title slide so the recipient knows who sent it.
 - [BCG: Navigating through COVID-19 and Oil Supply-Demand Shock](resources/reference-decks/bcg-covid-oil-petrovietnam.pdf). A CEO-level pitch deck for PetroVietnam. Opens with the BCG team and relationship history, then builds urgency with macro data before proposing workstreams. Note how the deck earns the right to propose work by demonstrating insight first.
 
-Pay attention to what these decks do *not* include: no assignment headers, no "Key Takeaways" sidebars restating the slide, no unsourced numbers, no "*illustrative" labels without supporting analysis.
+Pay attention to what these decks do *not* include: no assignment headers, no "Key Takeaways" sidebars restating the slide, no unsourced numbers, no "illustrative" labels without supporting analysis.
 :::
 
 **The Outreach (+5 extra credit)**
@@ -850,6 +823,132 @@ For extra credit, send your deck to at least one person at your target company. 
 | Deck quality ([Deck Quality Rubric](#deck-quality-rubric)) | Professor | 50 |
 | **Total** | | **100** |
 | Outreach completed | Extra credit | +5 |
+
+#### Deck Quality Rubric {#deck-quality-rubric}
+
+Scored by the professor. Five dimensions, each on a 7-point scale, converted to 50 points using the formula below.
+
+::: {.callout-tip}
+## Self-Check Before Submitting
+
+Run these five tests on your deck before you submit:
+
+1. **Title-flow test.** List all your action titles in order. Do they tell a coherent, persuasive story without the slide bodies?
+2. **Golden Rule.** For each slide: does the body prove the title and nothing else? Is there anything in the title that isn't supported below, or anything below that doesn't serve the title?
+3. **"So what" test.** Can every slide answer "so what does this mean for the decision?" If it only states a fact, push to the implication.
+4. **Squint test.** Squint at each slide. Is the main message still visually clear?
+5. **Devil's advocate test.** Would the deck be weaker if you removed this slide? If not, cut it.
+:::
+
+**1. Storyline & Structure (25%)** {#rubric-storyline}
+
+*Does the deck tell a logical, answer-first story?*
+
+| Rating | Description |
+|--------|-------------|
+| 7 | Clear SCR arc (Situation, Complication, Resolution) with the resolution dominating the deck. Situation and complication are tight, giving most space to the opportunity and ask. Every slide advances the argument; removing any one would weaken the deck. Reads as a standalone professional document with no assignment artifacts. Includes your name and contact information. |
+| 6 | Strong narrative arc. The resolution still dominates, but the situation/complication section could be one slide tighter. No assignment artifacts ("P1/P2" references, assignment headers). |
+| 5 | Clear point of view and logical flow. The balance between setup and payoff is slightly off (e.g., too much context, not enough on the opportunity). May contain minor assignment artifacts. |
+| 4 | The argument is there but you have to work to follow it. Some slides feel out of order, or the connection between insight and ask is unclear. Title slide still says "P2: Point of View" or similar. |
+| 3 | Follows the required slide structure but the narrative doesn't build. Reads more like a checklist (company overview, data, opportunity, ask) than a story. Assignment structure is visible, with section headers matching the template rather than the story. Includes slides that don't advance the argument. |
+| 2 | Disjointed. Slides make individual points but don't connect into an argument. No clear "so what" driving the deck. May feel like two separate assignments stapled together. |
+| 1 | Missing major structural components or reads as a data dump with no narrative thread. |
+
+**2. Action Titles (20%)** {#rubric-action-titles}
+
+*Do the slide titles tell the story on their own?*
+
+| Rating | Description |
+|--------|-------------|
+| 7 | Every title is a specific, quantified sentence stating the slide's conclusion ("Costs grew 2x faster than revenue," not "Cost Analysis"). Reading only the titles in sequence tells a coherent, persuasive story. Titles use active voice, fit within two lines (~15 words), and pass the Golden Rule: nothing in the title that isn't proved in the body, nothing in the body that's irrelevant to the title. |
+| 6 | All titles are action titles (conclusions, not labels). The title sequence holds together as a story. One title could be sharper, more specific, or better quantified. Golden Rule holds throughout. |
+| 5 | Most titles are action titles. A couple are topic labels ("Market Overview" instead of "Market is shifting toward X"). Title sequence mostly flows but has a gap. |
+| 4 | Mix of action titles and topic labels. You need the slide bodies to follow the argument. Some titles could belong to any company or any project. |
+| 3 | More labels than conclusions. Titles describe processes or topics ("Our Analysis," "Financial Data") rather than state findings. If you can't write a clear action title, the slide's message isn't clear. |
+| 2 | Titles are generic headers. No "so what" in any title. Titles and slide bodies feel disconnected. |
+| 1 | No meaningful titles, or titles are absent/placeholder text. |
+
+**3. Evidence & Insight (30%)** {#rubric-evidence}
+
+*Does the evidence earn the "so what"?*
+
+::: {.callout-important}
+## Source Quality Gate
+
+Any slide that cites a number must include a traceable source: a named report, filing, earnings call, survey, or database. "Web research," "various sources," "analyst estimates" (without naming the analyst), and "proprietary analysis" (without showing assumptions) are not traceable sources. Unverifiable sourcing on key claims caps the Evidence & Insight score at 5, regardless of how strong the insight is.
+:::
+
+| Rating | Description |
+|--------|-------------|
+| 7 | Non-obvious insight backed by specific, sourced data. Quantified impact is credible and well-bounded. Conclusions are pressure-tested: assumptions are stated, alternatives acknowledged, and the analysis addresses the strongest counterargument. Sources are traceable (named reports, filings, or earnings calls with dates). Someone at the company would learn something they didn't already know. |
+| 6 | Strong insight with solid evidence. Quantification is reasonable; one assumption could be better justified. The "so what" is clear at every level: each slide answers "what does this mean for the decision?" Sources are traceable on all key claims. |
+| 5 | Good analysis with a clear point of view. Evidence supports the argument but relies on one or two unsupported leaps or round-number estimates. Some slides present data without fully drawing out the implication. |
+| 4 | Adequate analysis, but evidence is thin in places. "So what" is stated but not fully earned by the data. Numbers may be internally inconsistent across slides. Format choices feel default (e.g., bullets where a chart would be clearer, or a chart without a clear takeaway). |
+| 3 | Surface-level research. Uses easily available facts (company Wikipedia, recent headlines) without digging into financials, competitive dynamics, or trends. The deck presents observations but doesn't push to insight. Sources listed in appendix but not on slides. |
+| 2 | Generic observations that could apply to any company in the industry. Little or no quantification. Data labeled "illustrative" without supporting analysis. Reads as a research report, not a decision document. |
+| 1 | No real analysis. Assertions without evidence, or irrelevant data that doesn't connect to the opportunity. |
+
+**4. The Ask (10%)** {#rubric-ask}
+
+*Are the proposed next steps worth pursuing?*
+
+| Rating | Description |
+|--------|-------------|
+| 7 | The proposed next steps flow directly from the analysis. Each one references a specific finding, describes what you'd actually do, and implies a deliverable. The recipient thinks "this person could actually help me." The ask is proportional to the insight offered: you earned the right to propose work by demonstrating value first. |
+| 6 | Clear, specific next steps connected to the analysis. One could be sharper or more clearly tied to a specific finding in the deck. |
+| 5 | Reasonable next steps, but somewhat generic (could apply to any company in the industry) or not clearly connected to the preceding analysis. |
+| 4 | The ask exists but feels formulaic. Proposed steps are broad ("explore growth opportunities") rather than earned by specific findings. |
+| 3 | Vague or disconnected from the deck's argument. Feels tacked on rather than flowing from the story. |
+| 2 | Perfunctory. One generic item or a request with no specificity. |
+| 1 | Missing or incomprehensible. |
+
+**5. Visual Craft (15%)** {#rubric-visual}
+
+*Would a busy exec actually read this?*
+
+| Rating | Description |
+|--------|-------------|
+| 7 | Polished and professional. One message per slide. Passes the squint test: key messages are visually clear from across the room. Consistent formatting throughout: fonts, colors, alignment, and margins. Color is used strategically to highlight key data, not decorate. Clean charts with clear takeaways, sourced in footnotes. Consistent text hierarchy (two font sizes, two points apart). No chart junk, no animations, generous white space. |
+| 6 | Clean and readable throughout. One slide is slightly dense or one chart could be clearer, but overall professional. Formatting is consistent. Adequate white space. |
+| 5 | Good visual quality. A couple of slides have too much text or a chart that takes effort to parse. Formatting is mostly consistent. |
+| 4 | Readable but unpolished. Mix of strong and weak slides, with some clean and others text-heavy or visually cluttered. May have redundant content (e.g., "Key Takeaways" sidebar that restates what's already on the slide). |
+| 3 | Rough overall. Multiple text-heavy slides, inconsistent fonts or formatting, charts without clear takeaways. |
+| 2 | Hard to follow visually. Walls of text, cluttered layouts, or design that distracts from the content. Raw spreadsheet screenshots in place of formatted tables. |
+| 1 | Minimal effort on presentation. Misaligned elements, unformatted, or incomplete slides. |
+
+**Deck Quality Scoring**
+
+Each dimension is scored 1-7. The weighted average is converted to 50 points:
+
+> **Deck Quality Score** = (Storyline x 0.25 + Titles x 0.20 + Evidence x 0.30 + Ask x 0.10 + Visual x 0.15) x 50 / 7
+
+| Weighted Avg | Points (out of 50) |
+|---|---|
+| 7.0 | 50 |
+| 6.0 | 43 |
+| 5.0 | 36 |
+| 4.0 | 29 |
+| 3.0 | 21 |
+| 2.0 | 14 |
+| 1.0 | 7 |
+
+::: {.callout-note collapse="true"}
+## Sources
+
+This rubric synthesizes best practices from the following articles by former MBB consultants:
+
+- Kampmann, A. H. "BCG's Approach to Great Slides." *Slideworks*, Feb 2025. Golden Rule, devil's advocate test, squint test, slide-writing dimensions.
+- Kampmann, A. H. "Getting to the 'So What.'" *Slideworks*, Jan 2025. Three levels of "so what," pressure-testing conclusions, bias checks.
+- Kampmann, A. H. & Stigzelius, M. "How to Write Slide Action Titles." *Slideworks*, Sep 2023. Action titles as forcing function, <15 words, SCQA framework.
+- Kampmann, A. H. & Stigzelius, M. "How to Write an Effective Executive Summary." *Slideworks*, Aug 2023. SCQA structure, solution-focused summaries, Pyramid Principle.
+- Kampmann, A. H. "How to Write Recommendation Slides." *Slideworks*, May 2024. MECE grouping, active language, earned asks.
+- Stigzelius, M. "The Pyramid Principle." *Slideworks*, Aug 2023. Answer-first structure, top-down communication.
+- Stigzelius, M. "How Management Consultants Make Presentations." *Slideworks*, Mar 2023. Five-section structure, slide anatomy, formatting standards.
+- Stigzelius, M. "How to Write Key Takeaway Slides." *Slideworks*, Sep 2024. Summary slides, Pyramid Principle connection.
+- Vardrup, K. & Stigzelius, M. "How to Use the SCR Framework." *Slideworks*, Sep 2023. Situation-Complication-Resolution arc, resolution dominance.
+- Vardrup, K. & Kampmann, A. H. "How to Write a Next Steps Slide." *Slideworks*, Nov 2024. Ask specificity, action-oriented language.
+- Vardrup, K. "Accelerate Your PowerPoint Deck Creation." *Slideworks*, May 2023. Audience calibration, paper-first drafting.
+:::
 
 ::: {.callout-note}
 ## The Goal Is the Conversation, Not the Response
