@@ -160,7 +160,7 @@ ASSESSMENTS = [
      "canvas_quiz": True, "unlock_at": "2026-04-14T12:30:00-07:00",
      "canvas_description": quiz_description(
          '\u2022 <a href="https://slideworks.io/resources/how-to-write-action-titles-like-mckinsey">How to Write Slide Action Titles</a><br>'
-         '\u2022 <a href="https://slideworks.io/resources/how-to-use-McKinseys-scr-framework-with-examples">How to Use the SCR Framework</a><br>'
+         '\u2022 <a href="https://slideworks.io/resources/getting-to-so-what-guide-to-creating-actionable-business-insights">Getting to the "So What"</a><br>'
          '\u2022 <a href="https://slideworks.io/resources/how-to-write-executive-summary">How to Write an Effective Executive Summary</a><br>'
          '\u2022 <a href="https://slideworks.io/resources/how-mckinsey-consultants-make-presentations">How Management Consultants Make Presentations</a>')},
 
@@ -390,13 +390,15 @@ QUIZ_QUESTIONS = {
              {"text": "Key Findings", "weight": 0},
          ]},
         {"name": "Q2", "type": "multiple_choice_question", "points": 1,
-         "text": "In the SCR framework, which section should account for MOST of the slides "
-                 "in a consulting presentation?",
+         "text": "According to the 'Getting to the So What' article, what distinguishes "
+                 "a meaningful insight from a basic observation?",
          "answers": [
-             {"text": "Situation", "weight": 0},
-             {"text": "Complication", "weight": 0},
-             {"text": "Resolution", "weight": 100},
-             {"text": "All three should be roughly equal", "weight": 0},
+             {"text": "An insight uses more data points than an observation", "weight": 0},
+             {"text": "An insight identifies root causes and drives actionable "
+                      "recommendations, not just reports what happened", "weight": 100},
+             {"text": "An insight must be quantified, while an observation can be qualitative", "weight": 0},
+             {"text": "An insight is always surprising, while an observation confirms "
+                      "what people already know", "weight": 0},
          ]},
         {"name": "Q3", "type": "multiple_choice_question", "points": 1,
          "text": "According to the Slideworks article on consulting presentations, "
