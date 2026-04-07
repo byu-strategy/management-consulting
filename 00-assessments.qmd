@@ -902,7 +902,7 @@ Any slide that cites a number must include a traceable source: a named report, f
 | 2 | Perfunctory. One generic item or a request with no specificity. |
 | 1 | Missing or incomprehensible. |
 
-**5. Visual Craft (15%)** {#rubric-visual}
+**5. Slide Design (15%)** {#rubric-visual}
 
 *Would a busy exec actually read this?*
 
@@ -920,7 +920,7 @@ Any slide that cites a number must include a traceable source: a named report, f
 
 Each dimension is scored 1-7. The weighted average is converted to 50 points:
 
-> **Deck Quality Score** = (Storyline x 0.25 + Titles x 0.20 + Evidence x 0.30 + Ask x 0.10 + Visual x 0.15) x 50 / 7
+> **Deck Quality Score** = (Storyline x 0.25 + Titles x 0.20 + Evidence x 0.30 + Ask x 0.10 + Design x 0.15) x 50 / 7
 
 | Weighted Avg | Points (out of 50) |
 |---|---|
