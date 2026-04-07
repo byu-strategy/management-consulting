@@ -938,12 +938,6 @@ This rubric synthesizes best practices from the following articles by former MBB
 - Vardrup, K. "Accelerate Your PowerPoint Deck Creation." *Slideworks*, May 2023. Audience calibration, paper-first drafting.
 :::
 
-::: {.callout-note}
-## The Goal Is the Conversation, Not the Response
-
-You're not graded on whether they respond. You're graded on the quality of your deck. Send it to earn the +5 extra credit.
-:::
-
 ---
 
 ## Feedback Surveys
