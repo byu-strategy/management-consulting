@@ -636,20 +636,20 @@ Scored by the professor. Each dimension is scored on a 7-point scale, then conve
 ::: {.callout-important}
 ## Source Quality Gate
 
-Any slide that cites a number must include a traceable source: a named report, filing, earnings call, survey, or database. "Web research," "various sources," "analyst estimates" (without naming the analyst), and "proprietary analysis" (without showing assumptions) are not traceable sources. Unverifiable sourcing on key claims caps the Analytical Depth score at 5, regardless of how strong the insight is.
+Any slide that cites a number must include a traceable source: a named report, filing, earnings call, survey, or database. "Web research," "various sources," "analyst estimates" (without naming the analyst), and "proprietary analysis" (without showing assumptions) are not traceable sources. Unverifiable sourcing on key claims caps the Analytical Depth score at 4, regardless of how strong the insight is.
 :::
 
 | Rating | Description |
 |--------|-------------|
 | 7 | Non-obvious insight backed by specific, sourced data. Quantified impact is credible and well-bounded. Sources are traceable (named reports, filings, or earnings calls with dates). Someone at the company would learn something they didn't already know. |
 | 6 | Strong insight with solid evidence. Quantification is reasonable; one assumption could be better justified. Sources are traceable on all key claims. |
-| 5 | Good analysis with a clear point of view. Evidence supports the argument but relies on one or two unsupported leaps or round-number estimates. Some sources may be vague or unverifiable. |
-| 4 | Adequate analysis, but the opportunity is plausible with evidence that is thin in places. "So what" is stated but not fully earned by the data. Numbers may be internally inconsistent across slides. |
+| 5 | Good analysis with a clear point of view. Evidence supports the argument but relies on one or two unsupported leaps or round-number estimates. All key claims have traceable sources. |
+| 4 | Adequate analysis, but evidence is thin in places. Numbers may be internally inconsistent across slides, or key sources are vague or unverifiable ("web research," "analyst estimates," "proprietary modeling"). |
 | 3 | Surface-level research. Uses easily available facts (company Wikipedia, recent headlines) without digging into financials, competitive dynamics, or trends. Sources listed in appendix but not on slides. |
 | 2 | Generic observations that could apply to any company in the industry. Little or no quantification. Data labeled "*illustrative" without supporting analysis. |
 | 1 | No real analysis. Assertions without evidence, or irrelevant data that doesn't connect to the opportunity. |
 
-**Slide Design (20%)**: *Would a busy exec actually read this?*
+**Slide Design (20%)**: *Is the deck visually clear and professional?*
 
 | Rating | Description |
 |--------|-------------|
