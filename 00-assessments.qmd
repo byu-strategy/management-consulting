@@ -635,7 +635,7 @@ Each dimension is scored on a 7-point scale:
 
 | Rating | Description |
 |--------|-------------|
-| 7 | Reading only the action titles tells the complete story. Clear arc from insight through opportunity to ask. Every slide earns its place. Reads as a professional document with no assignment artifacts, and includes your name and contact information. |
+| 7 | Reading only the action titles tells the complete story. Clear arc from insight through opportunity to ask. Reads as a professional document with no assignment artifacts, and includes your name and contact information. |
 | 6 | Strong narrative arc with action titles throughout. One slide could be tighter or better sequenced, but the story holds. No assignment artifacts (no "P1/P2" references, no assignment headers). |
 | 5 | Clear point of view and logical flow. A couple of titles are labels rather than conclusions ("Market Overview" instead of "Market is shifting toward X"). May contain minor assignment artifacts. |
 | 4 | The argument is there but you have to work to follow it. Some slides feel out of order, or the connection between insight and ask is unclear. Title slide still says "P2: Point of View" or similar. |
@@ -827,7 +827,7 @@ Your deck must cover the following content areas. These describe what each secti
 
 **Appendix**: Supporting detail (data tables, methodology notes, additional analysis). Keep the main deck tight and narrative-driven. A busy exec will skim the main slides; the appendix shows you've done the work if they want to dig deeper.
 
-This deck should be tight enough to attach to a LinkedIn message or cold email. Every slide in the main deck earns its place.
+This deck should be tight enough to attach to a LinkedIn message or cold email.
 
 ::: {.callout-tip}
 ## Reference Decks
