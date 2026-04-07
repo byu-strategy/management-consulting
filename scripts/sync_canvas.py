@@ -226,7 +226,7 @@ ASSESSMENTS = [
      "submission_types": ["online_text_entry", "online_url"],
      "canvas_description": PEER_INTERVIEW_DESCRIPTION},
     {"id": "ta_interview_3", "title": "TA Interview and Mentoring 3", "group": "practice_interviews", "points": 20,
-     "due": "2026-04-11", "week": 14, "anchor": "#practice-interviews",
+     "due": "2026-04-15", "week": 15, "anchor": "#practice-interviews",
      "submission_types": ["none"],
      "canvas_description": "Your TA will mark this complete after your session.<br><br>"
      "Final practice interview evaluation (~60 min): behavioral question + case."},
