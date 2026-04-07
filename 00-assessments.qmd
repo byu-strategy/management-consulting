@@ -814,17 +814,18 @@ Your Capstone should read as a standalone professional document. The recipient h
 
 **Requirements**
 
-**The Deck (6-10 slides + appendix)** (appendix, header, and transition slides not counted)
+**The Deck (6-10 slides + appendix)** (title slide, appendix, and transition slides not counted)
 
-Your deck must cover the following content areas. These describe what each section covers, not what your slide titles should say — your titles should state conclusions, not section labels (e.g., "Market is shifting toward X" rather than "Market Overview").
+Your deck must cover the following content areas. These describe what each section covers, not what your slide titles should say. Your titles should state conclusions, not section labels (e.g., "Market is shifting toward X" rather than "Market Overview").
 
-1. **Opening** (1 slide): Who you are, why you're reaching out, what you're offering
-2. **What I Noticed** (2-4 slides): Your outside-in insight (refined from P1)
-3. **The Opportunity** (1-3 slides): Your point of view (refined from P2)
-4. **What's at Stake** (1-2 slides): Quantified impact
-5. **The Ask** (1 slide): "I'd love 20 minutes to discuss [specific questions]. Would you be open to a conversation?"
+**Title slide** (not counted): Company name, your name, email, LinkedIn, and date. Keep it clean.
 
-**Appendix**: Put supporting detail — data tables, methodology notes, additional analysis — in an appendix. Keep the main deck tight and narrative-driven. A busy exec will skim the main slides; the appendix shows you've done the work if they want to dig deeper.
+1. **What I Noticed** (2-4 slides): Your outside-in insight (refined from P1). What is happening at this company that they should be paying attention to?
+2. **The Opportunity** (1-3 slides): Your point of view (refined from P2). What should they do about it, and why now?
+3. **What's at Stake** (1-2 slides): Quantified impact. What happens if they act vs. don't act?
+4. **Proposed Discussion** (1 slide): Two or three specific questions you'd want to explore together, and what you'd hope to learn. This is your pitch for a 20-minute conversation, so make the questions specific enough that the reader thinks "I'd actually want to talk about that."
+
+**Appendix**: Supporting detail (data tables, methodology notes, additional analysis). Keep the main deck tight and narrative-driven. A busy exec will skim the main slides; the appendix shows you've done the work if they want to dig deeper.
 
 This deck should be tight enough to attach to a LinkedIn message or cold email. Every slide in the main deck earns its place.
 
