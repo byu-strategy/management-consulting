@@ -617,19 +617,7 @@ Put yourself in the shoes of someone at the presenter's target company — a str
 
 ### Deck Quality Rubric {#deck-quality-rubric}
 
-Scored by the professor. This rubric evaluates the deck as a standalone artifact. Would a busy executive actually read this and take action?
-
-Each dimension is scored on a 7-point scale:
-
-| Rating | Points |
-|--------|--------|
-| 7 | 50 |
-| 6 | 43 |
-| 5 | 36 |
-| 4 | 29 |
-| 3 | 21 |
-| 2 | 14 |
-| 1 | 7 |
+Scored by the professor. Each dimension is scored on a 7-point scale, then converted to 50 points using the formula below.
 
 **Storyline & Structure (40%)**: *Does the deck tell a logical, answer-first story?*
 
@@ -809,12 +797,12 @@ This is the real thing. You'll synthesize your P1 and P2 into a tight deck you'd
 ::: {.callout-important}
 ## Client-Ready Means Standalone
 
-Your Capstone should read as a standalone professional document. The recipient has no context for "P1," "P2," or "STRAT 325" — integrate your earlier work without referencing the class assignments. Include your name and contact information (LinkedIn, email). If someone at the company opened this attachment, they should know who sent it and how to respond.
+Your Capstone should read as a standalone professional document. The recipient has no context for "P1," "P2," or "STRAT 325," so integrate your earlier work without referencing the class assignments. Include your name and contact information (LinkedIn, email). If someone at the company opened this attachment, they should know who sent it and how to respond.
 :::
 
 **Requirements**
 
-**The Deck (6-10 slides + appendix)** (title slide, appendix, and transition slides not counted)
+**The Deck (5-10 slides + appendix)** (title slide, appendix, and transition slides not counted)
 
 Your deck must cover the following content areas. These describe what each section covers, not what your slide titles should say. Your titles should state conclusions, not section labels (e.g., "Market is shifting toward X" rather than "Market Overview").
 
@@ -823,7 +811,7 @@ Your deck must cover the following content areas. These describe what each secti
 1. **What I Noticed** (2-4 slides): Your outside-in insight (refined from P1). What is happening at this company that they should be paying attention to?
 2. **The Opportunity** (1-3 slides): Your point of view (refined from P2). What should they do about it, and why now?
 3. **What's at Stake** (1-2 slides): Quantified impact. What happens if they act vs. don't act?
-4. **Proposed Discussion** (1 slide): Two or three specific questions you'd want to explore together, and what you'd hope to learn. This is your pitch for a 20-minute conversation, so make the questions specific enough that the reader thinks "I'd actually want to talk about that."
+4. **Proposed Discussion** (1 slide): Two or three specific questions you'd want to explore together and what you'd hope to learn. This is your pitch for a 20-minute conversation, so make the questions specific enough that the reader thinks "I'd actually want to talk about that."
 
 **Appendix**: Supporting detail (data tables, methodology notes, additional analysis). Keep the main deck tight and narrative-driven. A busy exec will skim the main slides; the appendix shows you've done the work if they want to dig deeper.
 
@@ -866,7 +854,7 @@ For extra credit, send your deck to at least one person at your target company. 
 ::: {.callout-note}
 ## The Goal Is the Conversation, Not the Response
 
-You're not graded on whether they respond since that's not in your control. You're graded on the quality of your work and the courage to put it in front of a real professional. Some of you will get responses. Some won't. Both outcomes teach you something.
+You're not graded on whether they respond (that's not in your control). You're graded on the quality of your work and the courage to put it in front of a real professional. Some of you will get responses. Some won't. Both outcomes teach you something.
 :::
 
 ---
