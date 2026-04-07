@@ -728,7 +728,7 @@ You'll synthesize your P1 and P2 into a tight, client-ready deck, then send it t
 ::: {.callout-important}
 ## Client-Ready Means Standalone
 
-Your Capstone should read as a standalone professional document. The recipient has no context for "P1," "P2," or "STRAT 325," so integrate your earlier work without referencing the class assignments. Include your name and contact information (LinkedIn, email). If someone at the company opened this attachment, they should know who sent it and how to respond.
+Your Capstone should read as a standalone professional document. The recipient has no context for "P1," "P2," or "STRAT 325," so integrate your earlier work without referencing the class assignments. Include your name and email on the title slide. If someone at the company opened this attachment, they should know who sent it and how to respond.
 :::
 
 **Requirements**
@@ -739,7 +739,7 @@ Your deck follows the SCR arc (Situation, Complication, Resolution) adapted for 
 
 Before submitting, run the five self-check tests in the [Deck Quality Rubric](#deck-quality-rubric).
 
-**Title slide** (not counted): Company name, your name, email, LinkedIn, and date. Keep it clean.
+**Title slide** (not counted): Company name, your name, email, and date. Keep it clean.
 
 1. **Executive Summary** (1 slide): Compress your entire argument into one slide. If the recipient reads only this slide and nothing else, they should understand what you found, why it matters, and what you're proposing. Write this slide last, after the rest of the deck is built. Use the Pyramid Principle: lead with your conclusion, then support it with 3-4 key points.
 
@@ -816,7 +816,7 @@ For extra credit, send your deck to at least one person at your target company. 
 **Due:** Monday, April 20 at 11:59 PM. Submit your final deck as a PDF to Canvas.
 
 ::: {.callout-tip}
-## Capstone Showcase (Optional)
+## Capstone Showcase
 
 **Wednesday, April 22, 11:00 AM - 2:00 PM, W240 TNRB**
 
