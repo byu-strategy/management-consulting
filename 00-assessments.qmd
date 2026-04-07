@@ -867,6 +867,29 @@ This dimension evaluates the full arc: structure, action titles, executive summa
 | 2 | Few or no on-slide sources. Key claims are unverifiable. Sources like "web research," "Google," or "AI research" are used. No appendix bibliography. |
 | 1 | No sources anywhere. Claims are entirely unsubstantiated. |
 
+::: {.callout-tip collapse="true"}
+## Sourcing Guide: What Goes Where
+
+**On-slide source lines** (bottom of each slide with data claims):
+
+> Source: Chipotle 10-K (FY2025), p. 22
+>
+> Source: IBISWorld, "Fast Food Restaurants in the US," Dec 2025
+>
+> Source: Q3 2025 Earnings Call Transcript, CFO Brian Niccol remarks
+>
+> Source: Bureau of Labor Statistics, Quarterly Census of Employment and Wages (2024)
+
+**Appendix sources page** (one slide listing all sources with enough detail to find them):
+
+> - Chipotle Mexican Grill, Inc. "Annual Report (Form 10-K), Fiscal Year 2025." SEC EDGAR. https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1058090
+> - IBISWorld. "Fast Food Restaurants in the US: Market Size, Industry Analysis, Trends and Forecasts." December 2025. Accessed via BYU Library.
+> - Chipotle Mexican Grill. "Q3 2025 Earnings Call Transcript." October 29, 2025. Via Seeking Alpha.
+> - Bureau of Labor Statistics. "Quarterly Census of Employment and Wages: Private, NAICS 722513." 2024. https://data.bls.gov/cew/
+
+The on-slide line tells the reader *where the number came from*. The appendix entry gives them enough to *go find it themselves*.
+:::
+
 ##### 4. Slide Design (15%) {#rubric-visual}
 
 *Would a busy exec actually read this?*
