@@ -547,19 +547,19 @@ All pod members and your TA complete a feedback form for each presenter. The sam
 |---------|------------------|--------|
 | P1 | Developmental feedback only | 25 present + 15 feedback |
 | P2 | Developmental feedback only | 25 present + 15 feedback |
-| Capstone | Averaged → presentation score (50%) | 50 presentation + 50 deck quality |
+| Capstone | Graded on deck quality only | 100 ([Deck Quality Rubric](#deck-quality-rubric)) |
 
 **Feedback points** (P1 and P2) require submitting forms for *all* pod members. Missing any form = 0 feedback points for that round.
 
 ::: {.callout-tip}
 ## Presentation Feedback Form
 
-[Submit Presentation Feedback](https://docs.google.com/forms/d/e/1FAIpQLSccVuQm1vhbx2-6-AC6vDEKqXnkLnaVVIY3RAzCN7JWk6oWMw/viewform) — Complete this form for each pod member after their presentation. The same form is used for P1, P2, and Capstone.
+[Submit Presentation Feedback](https://docs.google.com/forms/d/e/1FAIpQLSccVuQm1vhbx2-6-AC6vDEKqXnkLnaVVIY3RAzCN7JWk6oWMw/viewform) — Complete this form for each pod member after their presentation. The same form is used for P1 and P2.
 :::
 
 ### Feedback Form {#presentation-rubric}
 
-This form is used for all three projects. For P1 and P2, ratings provide developmental feedback. For Capstone, ratings are averaged to determine your presentation score (50 pts — half of the deck grade). The other half comes from the [Deck Quality Rubric](#deck-quality-rubric), scored by the professor.
+This form is used for P1 and P2. Ratings provide developmental feedback but do not determine your grade on those assignments. The Capstone is graded entirely on deck quality using the [Deck Quality Rubric](#deck-quality-rubric), scored by the professor.
 
 ::: {.callout-tip}
 ## Role-Play as the Target Company
@@ -603,15 +603,6 @@ Put yourself in the shoes of someone at the presenter's target company — a str
 
 > If you were at this company, would you take this meeting?
 > ○ Yes — I'd make time  ○ Probably — if my calendar allowed  ○ Unlikely — I'd need a stronger hook  ○ No — I'd pass
-
-**Capstone Presentation Scoring**: Average all raters' scores (peers + TA), then convert to 50-point scale:
-
-| Dimension | Weight | Max | 4 | 3 | 2 | 1 |
-|-----------|--------|-----|---|---|---|---|
-| Informed | 40% | 20 | 20 | 15 | 10 | 5 |
-| Compelling | 40% | 20 | 20 | 15 | 10 | 5 |
-| Credible | 20% | 10 | 10 | 7.5 | 5 | 2.5 |
-| **Total** | 100% | **50** | 50 | 37.5 | 25 | 12.5 |
 
 ---
 
@@ -819,14 +810,12 @@ For extra credit, send your deck to at least one person at your target company. 
 
 | Component | Who Scores | Points |
 |-----------|-----------|--------|
-| Presentation quality ([Feedback Form Rubric](#presentation-rubric), averaged) | Peers + TA | 50 |
-| Deck quality ([Deck Quality Rubric](#deck-quality-rubric)) | Professor | 50 |
-| **Total** | | **100** |
+| Deck quality ([Deck Quality Rubric](#deck-quality-rubric)) | Professor | 100 |
 | Outreach completed | Extra credit | +5 |
 
 #### Deck Quality Rubric {#deck-quality-rubric}
 
-Scored by the professor. Four dimensions, each on a 7-point scale, converted to 50 points. Two quality gates enforce minimum professional standards.
+Scored by the professor. Four dimensions, each on a 7-point scale, converted to 100 points. Two quality gates enforce minimum professional standards.
 
 ::: {.callout-tip}
 ## Self-Check Before Submitting
@@ -847,7 +836,7 @@ These are pass/fail checks that cap your score if triggered. Fix these first.
 
 **Source Quality Gate** — Any slide citing a number must include a traceable source in the footnote: a named report, filing, earnings call, survey, or database with dates. "Web research," "various sources," "Statista" (without naming the dataset), "analyst estimates" (without naming the analyst), "AI research," and "proprietary analysis" (without showing assumptions) are not traceable. Your appendix must include a sources page with full citations (report titles, authors, dates, URLs where available). Untraceable sourcing on key analytical claims **caps Evidence at 4**.
 
-**Client-Readiness Gate** — Your deck must read as a standalone professional document. Any of the following **cap Storyline at 4**: assignment artifacts ("P1," "P2," "STRAT 325," template section headers used as slide titles), missing contact information (name, email, LinkedIn) on the title slide, or a missing/weak executive summary that doesn't compress the full argument into one standalone slide.
+**Client-Readiness Gate** — Your deck must read as a standalone professional document. Any of the following **cap Storyline at 4**: assignment artifacts ("P1," "P2," "STRAT 325," template section headers used as slide titles), missing contact information (name and email) on the title slide, or a missing/weak executive summary that doesn't compress the full argument into one standalone slide.
 :::
 
 ##### 1. Storyline (30%) {#rubric-storyline}
@@ -858,7 +847,7 @@ This dimension evaluates the full arc: structure, action titles, executive summa
 
 | Rating | Description |
 |--------|-------------|
-| 7 | Clear SCR arc with the resolution dominating the deck. Executive summary compresses the full argument into one standalone slide. Every title is a specific, quantified conclusion; reading only the titles tells the complete story (title-flow test). Proposed next steps flow directly from the analysis, reference specific findings, and imply deliverables. Every slide advances the argument; removing any one would weaken the deck. No assignment artifacts. Includes name and contact information. |
+| 7 | Clear SCR arc with the resolution dominating the deck. Executive summary compresses the full argument into one standalone slide. Every title is a specific conclusion stating the slide's "so what" (quantified where the content warrants it); reading only the titles tells the complete story (title-flow test). Proposed next steps flow directly from the analysis, reference specific findings, and imply deliverables. Every slide advances the argument; removing any one would weaken the deck. No assignment artifacts. Includes name and contact information. |
 | 6 | Strong narrative arc with action titles throughout. Exec summary exists and mostly stands alone. Proposed next steps are specific and connected to findings. One title could be sharper, or one slide could be tighter, but the story holds. No assignment artifacts. |
 | 5 | Clear point of view and logical flow. Most titles are action titles; a couple are topic labels ("Market Overview" instead of "Market is shifting toward X"). Exec summary covers the key points but doesn't fully compress the argument. Proposed next steps are reasonable but somewhat generic. |
 | 4 | The argument is there but you have to work to follow it. Mix of action titles and topic labels. Exec summary is weak or missing. Next steps exist but feel formulaic. Some slides feel out of order, or the connection between insight and proposal is unclear. |
@@ -910,19 +899,19 @@ This dimension evaluates the full arc: structure, action titles, executive summa
 
 ##### Deck Quality Scoring {#deck-scoring}
 
-Each dimension is scored 1-7. The weighted average is converted to 50 points:
+Each dimension is scored 1-7. The weighted average is converted to 100 points:
 
-> **Deck Quality Score** = (Storyline x 0.30 + Insight x 0.30 + Evidence x 0.25 + Design x 0.15) x 50 / 7
+> **Deck Quality Score** = (Storyline x 0.30 + Insight x 0.30 + Evidence x 0.25 + Design x 0.15) x 100 / 7
 
-| Weighted Avg | Points | Grade |
-|---|---|---|
-| 7.0 | 50 | A |
-| 6.0 | 43 | A- |
-| 5.0 | 36 | B+ |
-| 4.0 | 29 | B- |
-| 3.0 | 21 | C |
-| 2.0 | 14 | D |
-| 1.0 | 7 | F |
+| Weighted Avg | Points (out of 100) |
+|---|---|
+| 7.0 | 100 |
+| 6.0 | 86 |
+| 5.0 | 71 |
+| 4.0 | 57 |
+| 3.0 | 43 |
+| 2.0 | 29 |
+| 1.0 | 14 |
 
 ::: {.callout-note collapse="true"}
 ## Sources

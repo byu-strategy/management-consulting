@@ -28,9 +28,11 @@ You are grading a student's slide deck for STRAT 325 (Intro to Management Consul
 5. **Score each dimension 1-7** using the rubric descriptions exactly as written. Reference specific slides by number in your justifications.
 
 6. **Calculate the final score** using the formula:
-   > Deck Quality Score = (Storyline x 0.30 + Insight x 0.30 + Evidence x 0.25 + Design x 0.15) x 50 / 7
+   > Deck Quality Score = (Storyline x 0.30 + Insight x 0.30 + Evidence x 0.25 + Design x 0.15) x 100 / 7
 
 7. **Output the structured result** in the exact format shown below.
+
+8. **Save the assessment to a file.** Write the full output to `grades/[student-name-or-company].md` (e.g., `grades/sato-adobe.md`). Use lowercase, hyphens for spaces. If the `grades/` directory doesn't exist, create it. This file is the student's feedback document.
 
 ## The Four Dimensions
 
@@ -74,7 +76,7 @@ The gate triggers when **key claims** use bad sources. A single passing mention 
 
 ### McKinsey: European Tech IPO (reference scores)
 
-- **Storyline: 7.** Clear SCR arc. Exec summary compresses five numbered claims, each proved by subsequent slides. Section numbering (1-5) creates clear narrative progression. Resolution dominates. Every title is a specific, quantified conclusion. No proposal slide (thought leadership piece), but the deck's resolution section is effectively the recommendation.
+- **Storyline: 7.** Clear SCR arc. Exec summary compresses five numbered claims, each proved by subsequent slides. Section numbering (1-5) creates clear narrative progression. Resolution dominates. Every title is a specific conclusion (quantified where content warrants). No proposal slide (thought leadership piece), but the deck's resolution section is effectively the recommendation.
 - **Insight: 7.** Non-obvious analysis. Decomposes the IPO gap into volume vs. valuation drivers. Challenges the perception that EU IPOs underperform by showing outlier-driven averages. Quantifies economic loss at 439 USD bn and contextualizes as ~26% of DAX40 market cap.
 - **Evidence: 7.** Every chart sourced to Capital IQ, FactSet, Crunchbase, Preqin, IMF, or World Bank. Specific numbers throughout. One minor "Web research" citation on a non-critical slide.
 - **Slide Design: 7.** Consistent two-color palette. Clean charts. Generous white space. Navigation tabs maintain orientation. Passes squint test on every slide.
@@ -153,7 +155,7 @@ Always output results in this exact format:
 | Design | X | 0.15 | X.XX |
 | **Weighted Avg** | | | **X.XX** |
 
-**Deck Quality Score: XX.X / 50**
+**Deck Quality Score: XX.X / 100**
 
 ## Key Feedback (for student)
 
