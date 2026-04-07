@@ -813,6 +813,16 @@ For extra credit, send your deck to at least one person at your target company. 
 | Deck quality ([Deck Quality Rubric](#deck-quality-rubric)) | Professor | 100 |
 | Outreach completed | Extra credit | +5 |
 
+**Due:** Monday, April 20 at 11:59 PM. Submit your final deck as a PDF to Canvas.
+
+::: {.callout-tip}
+## Capstone Showcase (Optional)
+
+**Wednesday, April 22, 11:00 AM - 2:00 PM, W240 TNRB**
+
+After grading, 5-8 students with the strongest decks will be invited to present their work to the full class during the finals slot. If you're selected, you'll walk through your deck and take questions. Attendance is optional but encouraged for everyone: you'll see what the best work in the class looks like and hear what made it stand out.
+:::
+
 #### Deck Quality Rubric {#deck-quality-rubric}
 
 Scored by the professor. Four dimensions, each on a 7-point scale, converted to 100 points. Two quality gates enforce minimum professional standards.

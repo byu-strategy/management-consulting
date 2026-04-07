@@ -157,7 +157,7 @@ Always output results in this exact format:
 
 **Deck Quality Score: XX.X / 100**
 
-## Key Feedback (for student)
+## Key Feedback
 
 **Strongest dimension:** [which and why, 1 sentence]
 
