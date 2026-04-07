@@ -159,10 +159,10 @@ ASSESSMENTS = [
      "due": "2026-04-14", "week": 15, "anchor": "#reading-quizzes",
      "canvas_quiz": True, "unlock_at": "2026-04-14T12:30:00-07:00",
      "canvas_description": quiz_description(
-         '\u2022 <a href="https://slideworks.io/resources/the-pyramid-principle-mckinsey-toolbox-with-examples">The Pyramid Principle</a><br>'
          '\u2022 <a href="https://slideworks.io/resources/how-to-write-action-titles-like-mckinsey">How to Write Slide Action Titles</a><br>'
          '\u2022 <a href="https://slideworks.io/resources/how-to-use-McKinseys-scr-framework-with-examples">How to Use the SCR Framework</a><br>'
-         '\u2022 <a href="https://slideworks.io/resources/how-to-write-executive-summary">How to Write an Effective Executive Summary</a>')},
+         '\u2022 <a href="https://slideworks.io/resources/how-to-write-executive-summary">How to Write an Effective Executive Summary</a><br>'
+         '\u2022 <a href="https://slideworks.io/resources/how-mckinsey-consultants-make-presentations">How Management Consultants Make Presentations</a>')},
 
     # ── Resume and Networking (60 pts) ──
     {"id": "resume_v1", "title": "Resume v1", "group": "resume_networking", "points": 15,
@@ -398,13 +398,14 @@ QUIZ_QUESTIONS = {
              {"text": "Resolution", "weight": 100},
              {"text": "All three should be roughly equal", "weight": 0},
          ]},
-        {"name": "Q3", "type": "true_false_question", "points": 1,
-         "text": "According to Barbara Minto's Pyramid Principle, you naturally think "
-                 "from the bottom up (details first) but should present from the top down "
-                 "(conclusion first).",
+        {"name": "Q3", "type": "multiple_choice_question", "points": 1,
+         "text": "According to the Slideworks article on consulting presentations, "
+                 "what are the five sections of a complete consulting presentation?",
          "answers": [
-             {"text": "True", "weight": 100},
-             {"text": "False", "weight": 0},
+             {"text": "Introduction, Literature Review, Methodology, Findings, Conclusion", "weight": 0},
+             {"text": "Frontpage, Executive Summary, Body of Slides, Recommendation/Next Steps, Appendix", "weight": 100},
+             {"text": "Cover, Agenda, Analysis, Summary, Q&A", "weight": 0},
+             {"text": "Title, Problem Statement, Data, Charts, Recommendation", "weight": 0},
          ]},
         {"name": "Q4", "type": "multiple_choice_question", "points": 1,
          "text": "What is the primary purpose of an executive summary slide in a "
@@ -417,13 +418,14 @@ QUIZ_QUESTIONS = {
              {"text": "Summarize the data sources used in the analysis", "weight": 0},
          ]},
         {"name": "Q5", "type": "multiple_choice_question", "points": 1,
-         "text": "The 'Golden Rule' of slide writing states that:",
+         "text": "If you are struggling to write a clear action title for a slide, "
+                 "what does that most likely indicate?",
          "answers": [
-             {"text": "Every slide should have at least one chart or visual", "weight": 0},
-             {"text": "Nothing should be in the action title that isn't in the slide body, "
-                      "and nothing in the body should be irrelevant to the title", "weight": 100},
-             {"text": "Slides should never exceed 15 words of text", "weight": 0},
-             {"text": "The most important slide should always come last", "weight": 0},
+             {"text": "The slide needs a better chart or visual", "weight": 0},
+             {"text": "The slide's core message isn't clear, or the slide is trying "
+                      "to make too many points", "weight": 100},
+             {"text": "You should use a topic label instead and explain the point verbally", "weight": 0},
+             {"text": "The slide should be moved to the appendix", "weight": 0},
          ]},
     ],
 }
