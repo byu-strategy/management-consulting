@@ -631,7 +631,7 @@ Scored by the professor. Each dimension is scored on a 7-point scale, then conve
 | 2 | Disjointed. Slides make individual points but don't connect into an argument. No clear "so what" driving the deck. May feel like two separate assignments stapled together. |
 | 1 | Missing major structural components or reads as a data dump with no narrative thread. |
 
-**Analytical Depth (40%)**: *Does the evidence earn the "so what"?*
+**Analytical Depth (40%)**: *Would someone at this company actually learn something new?*
 
 ::: {.callout-important}
 ## Source Quality Gate
