@@ -1,0 +1,2234 @@
+{
+  "duration": 32.39155650138855,
+  "job_id": "eb26f2b9-c804-446b-9bc7-8f83aadab6b2",
+  "result": {
+    "chunks": [
+      {
+        "blocks": [
+          {
+            "bbox": {
+              "height": 0.16522811344019728,
+              "left": 0.1451388888888889,
+              "page": 1,
+              "top": 0.3403205918618989,
+              "width": 0.7125,
+              "original_page": 1
+            },
+            "content": "On-Device AI Can Reinforce Apple\u2019s\nHardware and Services Growth",
+            "type": "Title",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9741889744997024
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.1282367447595561,
+              "left": 0.0763888888888889,
+              "page": 1,
+              "top": 0.5709001233045623,
+              "width": 0.22777777777777777,
+              "original_page": 1
+            },
+            "content": "Ben Hughes\nBen23hughes@gmail.com\nApril 2026",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9298641711473464
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.45338543422713085,
+              "left": 0.3201613744099935,
+              "page": 1,
+              "top": 0.5409825486113787,
+              "width": 0.49248426225450304,
+              "original_page": 1
+            },
+            "content": "On-Device AI Can Reinforce Apple's Hardware and Services Growth",
+            "type": "Figure",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.3354267537593842
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.03917268172145331,
+              "left": 0.9597651163736979,
+              "page": 2,
+              "top": 0.020242324151769374,
+              "width": 0.017568545871310765,
+              "original_page": 2
+            },
+            "content": "",
+            "type": "Figure",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.28412193059921265
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.11467324290998766,
+              "left": 0.06388888888888888,
+              "page": 2,
+              "top": 0.07274969173859433,
+              "width": 0.8833333333333333,
+              "original_page": 2
+            },
+            "content": "Apple can turn on-device AI into faster upgrades, higher Services ARPU, and stronger ecosystem lock-in if it moves now",
+            "type": "Title",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9470624685287475
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.11344019728729964,
+              "left": 0.08263888888888889,
+              "page": 2,
+              "top": 0.36621454993834773,
+              "width": 0.8409722222222222,
+              "original_page": 2
+            },
+            "content": "Apple already has the installed base, silicon, and privacy position to win a differentiated AI model, but it must turn those assets into visibly better user value before cloud-first rivals define the category. The best path is to make on- device AI a driver of hardware upgrades, higher-value Services, and developer lock-in.",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9813183099031448
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.027127003699136867,
+              "left": 0.08125,
+              "page": 2,
+              "top": 0.6054254007398274,
+              "width": 0.07777777777777778,
+              "original_page": 2
+            },
+            "content": "WHY NOW",
+            "type": "Section Header",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9482494771480561
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.14549938347718866,
+              "left": 0.08125,
+              "page": 2,
+              "top": 0.657213316892725,
+              "width": 0.2520833333333333,
+              "original_page": 2
+            },
+            "content": "AI assistants have reached mass\nadoption and are raising the\nbaseline for usefulness, speed, and\nintegration.",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9830796450376511
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.027127003699136867,
+              "left": 0.3819444444444444,
+              "page": 2,
+              "top": 0.6054254007398274,
+              "width": 0.19791666666666666,
+              "original_page": 2
+            },
+            "content": "WHAT APPLE SHOULD DO",
+            "type": "Section Header",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9559695661067963
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.14549938347718866,
+              "left": 0.3819444444444444,
+              "page": 2,
+              "top": 0.657213316892725,
+              "width": 0.24305555555555555,
+              "original_page": 2
+            },
+            "content": "Use on-device AI plus Private\nCloud Compute to tie AI value to\nnewer devices, premium Services,\nand third-party apps.",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9822095155715942
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.027127003699136867,
+              "left": 0.6819444444444445,
+              "page": 2,
+              "top": 0.6054254007398274,
+              "width": 0.13194444444444445,
+              "original_page": 2
+            },
+            "content": "WHY IT MATTERS",
+            "type": "Section Header",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9521968871355057
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.14549938347718866,
+              "left": 0.6819444444444445,
+              "page": 2,
+              "top": 0.657213316892725,
+              "width": 0.24861111111111112,
+              "original_page": 2
+            },
+            "content": "Even modest lift in upgrades and\nServices monetization would be\nmeaningful against Apple\u2019s existing\nrevenue base.",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9839281171560288
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02219482120838471,
+              "left": 0.06388888888888888,
+              "page": 2,
+              "top": 0.9124537607891492,
+              "width": 0.84375,
+              "original_page": 2
+            },
+            "content": "Sources: Apple FY2025 Form 10-K; Apple fiscal Q1 2026 earnings release; TechCrunch, Feb. 27 2026; TechCrunch, Feb. 4 2026; Microsoft Annual Report 2025",
+            "type": "Footer",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9292607873678207
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.0393395406250301,
+              "left": 0.9598235236273871,
+              "page": 3,
+              "top": 0.01999767082393096,
+              "width": 0.01735441419813368,
+              "original_page": 3
+            },
+            "content": "",
+            "type": "Figure",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.34971758127212527
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.11467324290998766,
+              "left": 0.06111111111111111,
+              "page": 3,
+              "top": 0.06288532675709001,
+              "width": 0.8958333333333334,
+              "original_page": 3
+            },
+            "content": "Apple\u2019s AI challenge is converting distribution into differentiated user value before rivals close the gap",
+            "type": "Title",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8694400161504745
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.030826140567200986,
+              "left": 0.21458333333333332,
+              "page": 3,
+              "top": 0.27003699136868065,
+              "width": 0.1798611111111111,
+              "original_page": 3
+            },
+            "content": "AI Platform User Counts",
+            "type": "Section Header",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9230178147554398
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.4454337989063945,
+              "left": 0.07605582343207465,
+              "page": 3,
+              "top": 0.31070508851076023,
+              "width": 0.4607444339328342,
+              "original_page": 3
+            },
+            "content": "| AI Platform | Reported users (M) |\n| ----------- | ------------------ |\n| ChatGPT     | 880                |\n| Gemini app  | 740                |\n| Copilot     | 120                |",
+            "type": "Figure",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9833769589662552
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.05055487053020962,
+              "left": 0.06111111111111111,
+              "page": 3,
+              "top": 0.7842170160295932,
+              "width": 0.45902777777777776,
+              "original_page": 3
+            },
+            "content": "Note: WAU and MAU are not directly comparable; shown as directional evidence of mass adoption.",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8801969766616822
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.0345252774352651,
+              "left": 0.5923611111111111,
+              "page": 3,
+              "top": 0.23551171393341552,
+              "width": 0.12152777777777778,
+              "original_page": 3
+            },
+            "content": "What I noticed:",
+            "type": "Section Header",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9370098948478699
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.07028360049321825,
+              "left": 0.5958333333333333,
+              "page": 3,
+              "top": 0.3156596794081381,
+              "width": 0.33819444444444446,
+              "original_page": 3
+            },
+            "content": "Apple does not lack reach; it risks losing relevance if AI value is defined elsewhere.",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9650876581668854
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.10110974106041924,
+              "left": 0.60625,
+              "page": 3,
+              "top": 0.4093711467324291,
+              "width": 0.30972222222222223,
+              "original_page": 3
+            },
+            "content": "\u2022 Apple already reaches more than 2.5B active devices and shipped 240.6M iPhones in FY2025.",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9815754860639572
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.10357583230579531,
+              "left": 0.60625,
+              "page": 3,
+              "top": 0.531442663378545,
+              "width": 0.33819444444444446,
+              "original_page": 3
+            },
+            "content": "\u2022 The strategic issue is whether Apple Intelligence becomes a reason to upgrade, stay, and spend more.",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9820748060941696
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.10234278668310727,
+              "left": 0.60625,
+              "page": 3,
+              "top": 0.655980271270037,
+              "width": 0.3368055555555556,
+              "original_page": 3
+            },
+            "content": "\u2022 If rivals define the AI baseline first, Apple\u2019s installed base becomes less defensible than it looks.",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9802520245313644
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.06041923551171394,
+              "left": 0.6131944444444445,
+              "page": 3,
+              "top": 0.8224414303329223,
+              "width": 0.30625,
+              "original_page": 3
+            },
+            "content": "Distribution is already won; differentiated AI\nvalue is not.",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9687920719385147
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.0468557336621455,
+              "left": 0.03611111111111111,
+              "page": 3,
+              "top": 0.9297163995067818,
+              "width": 0.8423611111111111,
+              "original_page": 3
+            },
+            "content": "Sources: Apple fiscal Q1 2026 earnings release; Omdia smartphone market release, Jan. 2026; TechCrunch, Feb. 27 2026; TechCrunch, Feb. 4 2026; Microsoft Annual Report 2025",
+            "type": "Footer",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9593018531799317
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.11467324290998766,
+              "left": 0.06111111111111111,
+              "page": 4,
+              "top": 0.05795314426633785,
+              "width": 0.8819444444444444,
+              "original_page": 4
+            },
+            "content": "Apple\u2019s growth model is unusually exposed to AI because iPhone upgrades and Services drive the value of the ecosystem",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8283303022384643
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.029593094944512947,
+              "left": 0.15347222222222223,
+              "page": 4,
+              "top": 0.31319358816276205,
+              "width": 0.2763888888888889,
+              "original_page": 4
+            },
+            "content": "Apple\u2019s iPhone and Service revenues",
+            "type": "Section Header",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9132300108671189
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.0345252774352651,
+              "left": 0.5805555555555556,
+              "page": 4,
+              "top": 0.33415536374845867,
+              "width": 0.14027777777777778,
+              "original_page": 4
+            },
+            "content": "Why this matters:",
+            "type": "Section Header",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9503583759069443
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.4425180155310766,
+              "left": 0.06257599724663629,
+              "page": 4,
+              "top": 0.3477682732183454,
+              "width": 0.4612188975016276,
+              "original_page": 4
+            },
+            "content": "| Year  | iPhone net sales ($B) | Services net sales ($B) |\n|---|---|---|\n| FY2023 | 196 | 83 |\n| FY2024 | 198 | 101 |\n| FY2025 | 206 | 115 |",
+            "type": "Figure",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.957713502382531
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.07274969173859433,
+              "left": 0.5902777777777778,
+              "page": 4,
+              "top": 0.4192355117139334,
+              "width": 0.19166666666666668,
+              "original_page": 4
+            },
+            "content": "50.4%\niPhone share of FY2025 revenue",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.97369225025177
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.07151664611590629,
+              "left": 0.5902777777777778,
+              "page": 4,
+              "top": 0.5573366214549939,
+              "width": 0.15625,
+              "original_page": 4
+            },
+            "content": "$109.2B\nFY2025 Services net sales",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9720242083072662
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.07151664611590629,
+              "left": 0.5902777777777778,
+              "page": 4,
+              "top": 0.6954377311960542,
+              "width": 0.17847222222222223,
+              "original_page": 4
+            },
+            "content": "75.4%\nFY2025 Services gross margin",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9709209233522416
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02096177558569667,
+              "left": 0.04791666666666667,
+              "page": 4,
+              "top": 0.9420468557336621,
+              "width": 0.4131944444444444,
+              "original_page": 4
+            },
+            "content": "Sources: Apple FY2025 Form 10-K; Apple FY2023-FY2025 financial data pack",
+            "type": "Footer",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9472409963607789
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.0393155894061934,
+              "left": 0.9597325642903646,
+              "page": 5,
+              "top": 0.02006139649415869,
+              "width": 0.01762483384874132,
+              "original_page": 5
+            },
+            "content": "",
+            "type": "Figure",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4764619588851929
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.11467324290998766,
+              "left": 0.06111111111111111,
+              "page": 5,
+              "top": 0.06781750924784218,
+              "width": 0.90625,
+              "original_page": 5
+            },
+            "content": "Apple should make on-device AI the center of a three-part growth strategy: hardware pull, Services lift, and developer lock-in",
+            "type": "Title",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9523341149091721
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.01726263871763255,
+              "left": 0.06458333333333334,
+              "page": 5,
+              "top": 0.31072749691738594,
+              "width": 0.12013888888888889,
+              "original_page": 5
+            },
+            "content": "HARDWARE PULL",
+            "type": "Section Header",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9318046391010284
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.01972872996300863,
+              "left": 0.3680555555555556,
+              "page": 5,
+              "top": 0.3082614056720099,
+              "width": 0.10138888888888889,
+              "original_page": 5
+            },
+            "content": "SERVICES LIFT",
+            "type": "Section Header",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9358071029186249
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.018495684340320593,
+              "left": 0.6715277777777777,
+              "page": 5,
+              "top": 0.3094944512946979,
+              "width": 0.1423611111111111,
+              "original_page": 5
+            },
+            "content": "DEVELOPER LOCK-IN",
+            "type": "Section Header",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9392491787672043
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.1997533908754624,
+              "left": 0.06458333333333334,
+              "page": 5,
+              "top": 0.3588162762022195,
+              "width": 0.22777777777777777,
+              "original_page": 5
+            },
+            "content": "Tie Apple\u2019s best AI\nexperiences to A18 and M-\nseries devices so AI\nbecomes a reason to\nupgrade.",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9839973509311676
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.0998766954377312,
+              "left": 0.06458333333333334,
+              "page": 5,
+              "top": 0.593094944512947,
+              "width": 0.24097222222222223,
+              "original_page": 5
+            },
+            "content": "Make chip-level eligibility part of the\nproduct strategy, not a rollout\nconstraint.",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9797763764858246
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.15906288532675708,
+              "left": 0.36736111111111114,
+              "page": 5,
+              "top": 0.3588162762022195,
+              "width": 0.21388888888888888,
+              "original_page": 5
+            },
+            "content": "Monetize AI inside high-\nmargin Services bundles\nwhere Apple already has\npricing power.",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9817440181970596
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.0998766954377312,
+              "left": 0.36736111111111114,
+              "page": 5,
+              "top": 0.5511713933415536,
+              "width": 0.2520833333333333,
+              "original_page": 5
+            },
+            "content": "Focus first on features that deepen\nusage and increase ARPU, not broad\nfree access.",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9812648832798004
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.1997533908754624,
+              "left": 0.6708333333333333,
+              "page": 5,
+              "top": 0.3588162762022195,
+              "width": 0.225,
+              "original_page": 5
+            },
+            "content": "Scale Apple\u2019s Foundation\nModels framework where\nthird-party apps can make\nthe ecosystem more\nvaluable.",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9844037652015686
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.13686806411837238,
+              "left": 0.6708333333333333,
+              "page": 5,
+              "top": 0.593094944512947,
+              "width": 0.2298611111111111,
+              "original_page": 5
+            },
+            "content": "The strongest moat is not only\nApple\u2019s assistant, but what\ndevelopers build on top of Apple\u2019s\nexisting model layer.",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9848675191402435
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.07028360049321825,
+              "left": 0.07152777777777777,
+              "page": 5,
+              "top": 0.8372379778051788,
+              "width": 0.8048611111111111,
+              "original_page": 5
+            },
+            "content": "Apple should use AI to strengthen the economics of the ecosystem it already owns, not chase a generic cloud assistant race.",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9708285212516785
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02096177558569667,
+              "left": 0.03888888888888889,
+              "page": 5,
+              "top": 0.9642416769420469,
+              "width": 0.9118055555555555,
+              "original_page": 5
+            },
+            "content": "Sources: Apple Security Private Cloud Compute documentation; Apple ML Research foundation model pages; Apple Newsroom, Sept. 15 2025; Project2 Apple AI benchmark",
+            "type": "Footer",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9231984734535217
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.11467324290998766,
+              "left": 0.06111111111111111,
+              "page": 6,
+              "top": 0.06781750924784218,
+              "width": 0.9020833333333333,
+              "original_page": 6
+            },
+            "content": "Apple\u2019s best AI position is privacy-first on-device intelligence backed by Private Cloud Compute, not a head-on cloud assistant",
+            "type": "Title",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9145435929298401
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.027127003699136867,
+              "left": 0.08055555555555556,
+              "page": 6,
+              "top": 0.4007398273736128,
+              "width": 0.13402777777777777,
+              "original_page": 6
+            },
+            "content": "On-device Al",
+            "type": "Section Header",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8410682559013367
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.025893958076448828,
+              "left": 0.07916666666666666,
+              "page": 6,
+              "top": 0.4475955610357583,
+              "width": 0.1986111111111111,
+              "original_page": 6
+            },
+            "content": "fast, private, always available",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9328453928232193
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02219482120838471,
+              "left": 0.06805555555555555,
+              "page": 6,
+              "top": 0.5548705302096177,
+              "width": 0.10694444444444444,
+              "original_page": 6
+            },
+            "content": "iPhone, iPad, Mac",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9079643696546554
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.055487053020961775,
+              "left": 0.2513888888888889,
+              "page": 6,
+              "top": 0.5326757090012331,
+              "width": 0.015277777777777777,
+              "original_page": 6
+            },
+            "content": "\u2193",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 1.0
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02342786683107275,
+              "left": 0.2972222222222222,
+              "page": 6,
+              "top": 0.5524044389642416,
+              "width": 0.2152777777777778,
+              "original_page": 6
+            },
+            "content": "lower latency, stronger trust, better fit",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9354347586631775
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.036991368680641186,
+              "left": 0.08055555555555556,
+              "page": 6,
+              "top": 0.6485819975339088,
+              "width": 0.24513888888888888,
+              "original_page": 6
+            },
+            "content": "Private Cloud Compute",
+            "type": "Section Header",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9315466046333313
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.032059186189889025,
+              "left": 0.0798611111111111,
+              "page": 6,
+              "top": 0.6966707768187423,
+              "width": 0.2534722222222222,
+              "original_page": 6
+            },
+            "content": "larger-model reasoning when needed",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9337088763713837
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.06781750924784218,
+              "left": 0.5819444444444445,
+              "page": 6,
+              "top": 0.34895191122071517,
+              "width": 0.3277777777777778,
+              "original_page": 6
+            },
+            "content": "\u2022 Apple has hardware, OS, and privacy control that cloud-first rivals do not.",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9708955854177475
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.07028360049321825,
+              "left": 0.5819444444444445,
+              "page": 6,
+              "top": 0.45129469790382243,
+              "width": 0.34375,
+              "original_page": 6
+            },
+            "content": "\u2022 Private Cloud Compute lets Apple expand capability without abandoning its privacy claim.",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9730852246284485
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.0690505548705302,
+              "left": 0.5819444444444445,
+              "page": 6,
+              "top": 0.5548705302096177,
+              "width": 0.33402777777777776,
+              "original_page": 6
+            },
+            "content": "\u2022 This approach fits Apple\u2019s brand better than competing head-on on frontier model scale alone.",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.97096206843853
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.08754623921085081,
+              "left": 0.5847222222222223,
+              "page": 6,
+              "top": 0.7385943279901356,
+              "width": 0.06875,
+              "original_page": 6
+            },
+            "content": "Apple\nprivacy +\nintegration",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.961090037226677
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.08754623921085081,
+              "left": 0.7104166666666667,
+              "page": 6,
+              "top": 0.7385943279901356,
+              "width": 0.07083333333333333,
+              "original_page": 6
+            },
+            "content": "Google\ncloud +\ndistribution",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9620912730693817
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.08754623921085081,
+              "left": 0.8263888888888888,
+              "page": 6,
+              "top": 0.7385943279901356,
+              "width": 0.11388888888888889,
+              "original_page": 6
+            },
+            "content": "OpenAI/Microsoft\nmodel pace +\necosystem",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9667395055294037
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02219482120838471,
+              "left": 0.059722222222222225,
+              "page": 6,
+              "top": 0.9247842170160296,
+              "width": 0.8354166666666667,
+              "original_page": 6
+            },
+            "content": "Sources: Apple Security blog and PCC documentation; Apple ML Research foundation model pages; Apple M4 chip announcement; TechCrunch A18 coverage",
+            "type": "Footer",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8722553163766861
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.039273103274193706,
+              "left": 0.9598036872016059,
+              "page": 7,
+              "top": 0.019919507159551767,
+              "width": 0.017338985866970486,
+              "original_page": 7
+            },
+            "content": "",
+            "type": "Figure",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.3912341356277466
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.10850801479654747,
+              "left": 0.06111111111111111,
+              "page": 7,
+              "top": 0.05672009864364982,
+              "width": 0.8791666666666667,
+              "original_page": 7
+            },
+            "content": "Even modest AI-driven lift would be meaningful against Apple\u2019s revenue base, but the competitive window is limited",
+            "type": "Title",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8726943522691727
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.5626462284939504,
+              "left": 0.06267279518975152,
+              "page": 7,
+              "top": 0.28563166193838624,
+              "width": 0.47590998543633356,
+              "original_page": 7
+            },
+            "content": "| FY     | Products gross margin % | Services gross margin % |\n| :----- | :---------------------- | :---------------------- |\n| FY2023 | 36                      | 72                      |\n| FY2024 | 37                      | 75                      |\n| FY2025 | 37                      | 77                      |",
+            "type": "Figure",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9060149848461151
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.06781750924784218,
+              "left": 0.5993055555555555,
+              "page": 7,
+              "top": 0.27373612823674476,
+              "width": 0.1625,
+              "original_page": 7
+            },
+            "content": "~$10B\nUPGRADE ACCELERATION",
+            "type": "Section Header",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9122569262981415
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.05672009864364982,
+              "left": 0.6,
+              "page": 7,
+              "top": 0.3600493218249075,
+              "width": 0.3159722222222222,
+              "original_page": 7
+            },
+            "content": "A 5% lift in upgrades implies roughly 12M additional units at about $870 ASP.",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9511413335800171
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.07274969173859433,
+              "left": 0.6,
+              "page": 7,
+              "top": 0.4808877928483354,
+              "width": 0.17847222222222223,
+              "original_page": 7
+            },
+            "content": "~$11B\nSERVICES ARPU EXPANSION",
+            "type": "Section Header",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9168005287647247
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.05672009864364982,
+              "left": 0.6,
+              "page": 7,
+              "top": 0.5684340320591862,
+              "width": 0.33819444444444446,
+              "original_page": 7
+            },
+            "content": "A 10% increase in revenue per active device would add roughly $11B.",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9586517453193665
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.07274969173859433,
+              "left": 0.6,
+              "page": 7,
+              "top": 0.6905055487053021,
+              "width": 0.14305555555555555,
+              "original_page": 7
+            },
+            "content": "18-24 mo.\nCOMPETITIVE WINDOW",
+            "type": "Section Header",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8659540355205536
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.05672009864364982,
+              "left": 0.6,
+              "page": 7,
+              "top": 0.7780517879161529,
+              "width": 0.2875,
+              "original_page": 7
+            },
+            "content": "Apple likely has a limited period before Android ecosystems narrow the on-device AI gap.",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9578371345996857
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02096177558569667,
+              "left": 0.04722222222222222,
+              "page": 7,
+              "top": 0.9420468557336621,
+              "width": 0.8680555555555556,
+              "original_page": 7
+            },
+            "content": "Sources: Apple FY2025 Form 10-K; Apple fiscal Q1 2026 earnings release; Apple FY2023-FY2025 financial data pack; Omdia smartphone market release, Jan. 2026",
+            "type": "Footer",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9498330980539322
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.03885812912269526,
+              "left": 0.9602341545952691,
+              "page": 8,
+              "top": 0.02050562998516492,
+              "width": 0.0167205810546875,
+              "original_page": 8
+            },
+            "content": "",
+            "type": "Figure",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.317487496137619
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.10974106041923551,
+              "left": 0.06111111111111111,
+              "page": 8,
+              "top": 0.05672009864364982,
+              "width": 0.8194444444444444,
+              "original_page": 8
+            },
+            "content": "Three initiatives could validate and scale Apple\u2019s AI -driven upgrade and Services growth opportunity",
+            "type": "Title",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8565471529960632
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.11149574590229076,
+              "left": 0.16001218159993488,
+              "page": 8,
+              "top": 0.26380547877451643,
+              "width": 0.06769142150878907,
+              "original_page": 8
+            },
+            "content": "",
+            "type": "Figure",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6152581661939621
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.029593094944512947,
+              "left": 0.12986111111111112,
+              "page": 8,
+              "top": 0.43033292231812575,
+              "width": 0.12291666666666666,
+              "original_page": 8
+            },
+            "content": "Phase 1 - Analysis",
+            "type": "Section Header",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9363572299480438
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.11737216709574406,
+              "left": 0.46739493476019967,
+              "page": 8,
+              "top": 0.2584783739873131,
+              "width": 0.06600943671332465,
+              "original_page": 8
+            },
+            "content": "TTI",
+            "type": "Figure",
+            "chart_data": null,
+            "confidence": "low",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8218412607908249
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.029593094944512947,
+              "left": 0.4111111111111111,
+              "page": 8,
+              "top": 0.4352651048088779,
+              "width": 0.17083333333333334,
+              "original_page": 8
+            },
+            "content": "Phase 2 - Product testing",
+            "type": "Section Header",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9368167221546173
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.11336027208885635,
+              "left": 0.7787643432617187,
+              "page": 8,
+              "top": 0.25808102458384713,
+              "width": 0.059584723578559026,
+              "original_page": 8
+            },
+            "content": "",
+            "type": "Figure",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6122973084449769
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.029593094944512947,
+              "left": 0.7104166666666667,
+              "page": 8,
+              "top": 0.4352651048088779,
+              "width": 0.18958333333333333,
+              "original_page": 8
+            },
+            "content": "Phase 3 - Ecosystem scaling",
+            "type": "Section Header",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9384321510791779
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.08877928483353884,
+              "left": 0.06180555555555556,
+              "page": 8,
+              "top": 0.5437731196054254,
+              "width": 0.2326388888888889,
+              "original_page": 8
+            },
+            "content": "\u2022 Analyzeupgrade behavior by device\ngeneration to estimate whether AI\ncapabilities increase upgrade likelihood",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9633786648511886
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.08877928483353884,
+              "left": 0.06180555555555556,
+              "page": 8,
+              "top": 0.6374845869297164,
+              "width": 0.22847222222222222,
+              "original_page": 8
+            },
+            "content": "\u2022 Segment users by AI usage intensity (casual vs. power users) to identify the highest-value upgrade cohorts",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9652652561664581
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.08877928483353884,
+              "left": 0.06180555555555556,
+              "page": 8,
+              "top": 0.7299630086313194,
+              "width": 0.23680555555555555,
+              "original_page": 8
+            },
+            "content": "\u2022 Modelincremental revenue potential\nfrom upgrade acceleration and higher\nServices attachment",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9706423610448838
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.08877928483353884,
+              "left": 0.36875,
+              "page": 8,
+              "top": 0.5474722564734895,
+              "width": 0.24444444444444444,
+              "original_page": 8
+            },
+            "content": "\t\u2022 Pilotpremium AI features within Apple One or iCloud bundles to measure willingness to pay",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9539990961551666
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.15166461159062886,
+              "left": 0.36875,
+              "page": 8,
+              "top": 0.6411837237977805,
+              "width": 0.2548611111111111,
+              "original_page": 8
+            },
+            "content": "\t\u2022TestAI-enabled workflows across iPhone, iPad, and Mac to determine which experiences most increase engagement \u2022 Evaluate how AI features affect Services ARPU, retention, and cross-device usage",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9056242525577545
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.08631319358816276,
+              "left": 0.6715277777777777,
+              "page": 8,
+              "top": 0.5561035758323057,
+              "width": 0.24166666666666667,
+              "original_page": 8
+            },
+            "content": "\t\t\u2022Expand Foundation Models framework\nadoption by prioritizing high-impact\ndeveloper use cases",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9489755541086197
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.059186189889025895,
+              "left": 0.6708333333333333,
+              "page": 8,
+              "top": 0.6473489519112207,
+              "width": 0.2520833333333333,
+              "original_page": 8
+            },
+            "content": "\t\t\u2022Launchdeveloper incentives and tooling\nto accelerate third-party AI integration",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9593900710344314
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.08877928483353884,
+              "left": 0.6708333333333333,
+              "page": 8,
+              "top": 0.7102342786683107,
+              "width": 0.26319444444444445,
+              "original_page": 8
+            },
+            "content": "\t\t\u2022Track how AI-enabled apps drive\necosystem lock-in and incremental Services\nrevenue",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.962066400051117
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.025893958076448828,
+              "left": 0.05694444444444444,
+              "page": 8,
+              "top": 0.9420468557336621,
+              "width": 0.6909722222222222,
+              "original_page": 8
+            },
+            "content": "I would welcome the opportunity to discuss these findings and potential next steps in a brief 20-minute conversation.",
+            "type": "Footer",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.7977945655584335
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 1.0,
+              "left": 0.0,
+              "page": 9,
+              "top": 0.0,
+              "width": 1.0,
+              "original_page": 9
+            },
+            "content": "Thank you",
+            "type": "Figure",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.6165719240903854
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.038516516162199685,
+              "left": 0.9599917941623264,
+              "page": 10,
+              "top": 0.021006453639922984,
+              "width": 0.017111290825737847,
+              "original_page": 10
+            },
+            "content": "",
+            "type": "Figure",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.4503298312425614
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.0530209617755857,
+              "left": 0.059722222222222225,
+              "page": 10,
+              "top": 0.05672009864364982,
+              "width": 0.2791666666666667,
+              "original_page": 10
+            },
+            "content": "Appendix: Sources",
+            "type": "Title",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8865772873163223
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.027127003699136867,
+              "left": 0.06111111111111111,
+              "page": 10,
+              "top": 0.32922318125770655,
+              "width": 0.4201388888888889,
+              "original_page": 10
+            },
+            "content": "\u2022 Apple Inc. Annual Report (Form 10-K), Fiscal Year 2025.",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.94710473716259
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.027127003699136867,
+              "left": 0.06111111111111111,
+              "page": 10,
+              "top": 0.37361282367447596,
+              "width": 0.46805555555555556,
+              "original_page": 10
+            },
+            "content": "\u2022 Apple Inc. Fiscal Q1 2026 Earnings Release, January 29, 2026.",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9468946725130081
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.027127003699136867,
+              "left": 0.06111111111111111,
+              "page": 10,
+              "top": 0.41800246609124536,
+              "width": 0.6861111111111111,
+              "original_page": 10
+            },
+            "content": "\u2022 Apple Newsroom. \u201cNew Apple Intelligence Features Are Available Today.\u201d September 15, 2025.",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9485095590353012
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.027127003699136867,
+              "left": 0.06111111111111111,
+              "page": 10,
+              "top": 0.4623921085080148,
+              "width": 0.4847222222222222,
+              "original_page": 10
+            },
+            "content": "\u2022 Apple Security. \u201cPrivate Cloud Compute\u201d blog and documentation.",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9447063893079758
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.05425400739827373,
+              "left": 0.06111111111111111,
+              "page": 10,
+              "top": 0.5080147965474723,
+              "width": 0.8694444444444445,
+              "original_page": 10
+            },
+            "content": "\u2022 Apple Machine Learning Research. \u201cApple Intelligence Foundation Language Models\u201d and \u201cApple Foundation Models Tech Report 2025.\u201d",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9671656012535095
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.025893958076448828,
+              "left": 0.06111111111111111,
+              "page": 10,
+              "top": 0.5807644882860666,
+              "width": 0.4305555555555556,
+              "original_page": 10
+            },
+            "content": "\u2022 Omdia. Global smartphone market release, January 2026.",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9477889776229859
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.025893958076448828,
+              "left": 0.06111111111111111,
+              "page": 10,
+              "top": 0.625154130702836,
+              "width": 0.7006944444444444,
+              "original_page": 10
+            },
+            "content": "\u2022 TechCrunch. \u201cGoogle\u2019s Gemini app has surpassed 750M monthly active users.\u201d February 4, 2026.",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9504379153251648
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.025893958076448828,
+              "left": 0.06111111111111111,
+              "page": 10,
+              "top": 0.6695437731196054,
+              "width": 0.5784722222222223,
+              "original_page": 10
+            },
+            "content": "\u2022 TechCrunch. \u201cChatGPT reaches 900M weekly active users.\u201d February 27, 2026.",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9489342600107193
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.025893958076448828,
+              "left": 0.06111111111111111,
+              "page": 10,
+              "top": 0.7139334155363748,
+              "width": 0.24375,
+              "original_page": 10
+            },
+            "content": "\u2022 Microsoft Annual Report 2025.",
+            "type": "List Item",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9443318217992782
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.1220715166461159,
+              "left": 0.06111111111111111,
+              "page": 11,
+              "top": 0.06781750924784218,
+              "width": 0.8986111111111111,
+              "original_page": 11
+            },
+            "content": "Apple is growing in its largest regions, but Greater China is moving in the opposite direction",
+            "type": "Title",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.830371943116188
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.5443150418019325,
+              "left": 0.07486790551079645,
+              "page": 11,
+              "top": 0.2796906495946844,
+              "width": 0.5742290708753798,
+              "original_page": 11
+            },
+            "content": "| Region        | FY2023 | FY2024 | FY2025 |\n|---------------|--------|--------|--------|\n| Americas      | 160    | 165    | 180    |\n| Europe        | 95     | 100    | 110    |\n| Greater China | 75     | 68     | 65     |",
+            "type": "Figure",
+            "chart_data": null,
+            "confidence": "low",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.8966659158468246
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.14549938347718866,
+              "left": 0.7520833333333333,
+              "page": 11,
+              "top": 0.45745992601726265,
+              "width": 0.19027777777777777,
+              "original_page": 11
+            },
+            "content": "China weakness raises the\nvalue of stronger upgrade\nand retention drivers\nelsewhere.",
+            "type": "Text",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9799928724765777
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02219482120838471,
+              "left": 0.06111111111111111,
+              "page": 11,
+              "top": 0.9124537607891492,
+              "width": 0.17847222222222223,
+              "original_page": 11
+            },
+            "content": "Source: Apple FY2025 Form 10-K",
+            "type": "Footer",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9256827533245087
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.03903251393949647,
+              "left": 0.9595848083496094,
+              "page": 12,
+              "top": 0.02044226179581535,
+              "width": 0.01769197252061632,
+              "original_page": 12
+            },
+            "content": "",
+            "type": "Figure",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.27031666934490206
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.1220715166461159,
+              "left": 0.06111111111111111,
+              "page": 12,
+              "top": 0.06781750924784218,
+              "width": 0.8881944444444444,
+              "original_page": 12
+            },
+            "content": "Appendix: Apple\u2019s strongest AI advantages remain privacy and ecosystem integration, not model iteration speed",
+            "type": "Title",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9548794150352478
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.5869297163995068,
+              "left": 0.06041666666666667,
+              "page": 12,
+              "top": 0.25770653514180025,
+              "width": 0.7006944444444444,
+              "original_page": 12
+            },
+            "content": "| Dimension          | Apple                       | Google          | OpenAI/Microsoft      |\n|-|-|-|-|\n| Distribution       | Very strong                 | Very strong     | Strong                |\n| Model pace         | Hybrid                      | Fast            | Fast                  |\n| Privacy / trust    | Differentiated              | Mixed           | Mixed                 |\n| Developer leverage | Foundation Models +<br />OS | Android + cloud | Azure + API ecosystem |",
+            "type": "Table",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9638957619667053
+            },
+            "image_url": null
+          },
+          {
+            "bbox": {
+              "height": 0.02219482120838471,
+              "left": 0.06111111111111111,
+              "page": 12,
+              "top": 0.9124537607891492,
+              "width": 0.48541666666666666,
+              "original_page": 12
+            },
+            "content": "Sources: Project2 Apple AI Competitive Benchmark; Apple Security and ML Research pages",
+            "type": "Footer",
+            "chart_data": null,
+            "confidence": "high",
+            "extra": null,
+            "granular_confidence": {
+              "extract_confidence": null,
+              "parse_confidence": 0.9310805857181549
+            },
+            "image_url": null
+          }
+        ],
+        "content": "# On-Device AI Can Reinforce Apple\u2019s\nHardware and Services Growth\n\nBen Hughes\nBen23hughes@gmail.com\nApril 2026\n\nOn-Device AI Can Reinforce Apple's Hardware and Services Growth\n\n\n\n# Apple can turn on-device AI into faster upgrades, higher Services ARPU, and stronger ecosystem lock-in if it moves now\n\nApple already has the installed base, silicon, and privacy position to win a differentiated AI model, but it must turn those assets into visibly better user value before cloud-first rivals define the category. The best path is to make on- device AI a driver of hardware upgrades, higher-value Services, and developer lock-in.\n\n## WHY NOW\n\nAI assistants have reached mass\nadoption and are raising the\nbaseline for usefulness, speed, and\nintegration.\n\n## WHAT APPLE SHOULD DO\n\nUse on-device AI plus Private\nCloud Compute to tie AI value to\nnewer devices, premium Services,\nand third-party apps.\n\n## WHY IT MATTERS\n\nEven modest lift in upgrades and\nServices monetization would be\nmeaningful against Apple\u2019s existing\nrevenue base.\n\nSources: Apple FY2025 Form 10-K; Apple fiscal Q1 2026 earnings release; TechCrunch, Feb. 27 2026; TechCrunch, Feb. 4 2026; Microsoft Annual Report 2025\n\n\n\n# Apple\u2019s AI challenge is converting distribution into differentiated user value before rivals close the gap\n\n## AI Platform User Counts\n\n| AI Platform | Reported users (M) |\n| ----------- | ------------------ |\n| ChatGPT     | 880                |\n| Gemini app  | 740                |\n| Copilot     | 120                |\n\nNote: WAU and MAU are not directly comparable; shown as directional evidence of mass adoption.\n\n## What I noticed:\n\nApple does not lack reach; it risks losing relevance if AI value is defined elsewhere.\n\n\u2022 Apple already reaches more than 2.5B active devices and shipped 240.6M iPhones in FY2025.\n\n\u2022 The strategic issue is whether Apple Intelligence becomes a reason to upgrade, stay, and spend more.\n\n\u2022 If rivals define the AI baseline first, Apple\u2019s installed base becomes less defensible than it looks.\n\nDistribution is already won; differentiated AI\nvalue is not.\n\nSources: Apple fiscal Q1 2026 earnings release; Omdia smartphone market release, Jan. 2026; TechCrunch, Feb. 27 2026; TechCrunch, Feb. 4 2026; Microsoft Annual Report 2025\n\nApple\u2019s growth model is unusually exposed to AI because iPhone upgrades and Services drive the value of the ecosystem\n\n## Apple\u2019s iPhone and Service revenues\n\n## Why this matters:\n\n| Year  | iPhone net sales ($B) | Services net sales ($B) |\n|---|---|---|\n| FY2023 | 196 | 83 |\n| FY2024 | 198 | 101 |\n| FY2025 | 206 | 115 |\n\n50.4%\niPhone share of FY2025 revenue\n\n$109.2B\nFY2025 Services net sales\n\n75.4%\nFY2025 Services gross margin\n\nSources: Apple FY2025 Form 10-K; Apple FY2023-FY2025 financial data pack\n\n\n\n# Apple should make on-device AI the center of a three-part growth strategy: hardware pull, Services lift, and developer lock-in\n\n## HARDWARE PULL\n\n## SERVICES LIFT\n\n## DEVELOPER LOCK-IN\n\nTie Apple\u2019s best AI\nexperiences to A18 and M-\nseries devices so AI\nbecomes a reason to\nupgrade.\n\nMake chip-level eligibility part of the\nproduct strategy, not a rollout\nconstraint.\n\nMonetize AI inside high-\nmargin Services bundles\nwhere Apple already has\npricing power.\n\nFocus first on features that deepen\nusage and increase ARPU, not broad\nfree access.\n\nScale Apple\u2019s Foundation\nModels framework where\nthird-party apps can make\nthe ecosystem more\nvaluable.\n\nThe strongest moat is not only\nApple\u2019s assistant, but what\ndevelopers build on top of Apple\u2019s\nexisting model layer.\n\nApple should use AI to strengthen the economics of the ecosystem it already owns, not chase a generic cloud assistant race.\n\nSources: Apple Security Private Cloud Compute documentation; Apple ML Research foundation model pages; Apple Newsroom, Sept. 15 2025; Project2 Apple AI benchmark\n\n# Apple\u2019s best AI position is privacy-first on-device intelligence backed by Private Cloud Compute, not a head-on cloud assistant\n\n## On-device Al\n\nfast, private, always available\n\niPhone, iPad, Mac\n\n\u2193\n\nlower latency, stronger trust, better fit\n\n## Private Cloud Compute\n\nlarger-model reasoning when needed\n\n\u2022 Apple has hardware, OS, and privacy control that cloud-first rivals do not.\n\n\u2022 Private Cloud Compute lets Apple expand capability without abandoning its privacy claim.\n\n\u2022 This approach fits Apple\u2019s brand better than competing head-on on frontier model scale alone.\n\nApple\nprivacy +\nintegration\n\nGoogle\ncloud +\ndistribution\n\nOpenAI/Microsoft\nmodel pace +\necosystem\n\nSources: Apple Security blog and PCC documentation; Apple ML Research foundation model pages; Apple M4 chip announcement; TechCrunch A18 coverage\n\n\n\n# Even modest AI-driven lift would be meaningful against Apple\u2019s revenue base, but the competitive window is limited\n\n| FY     | Products gross margin % | Services gross margin % |\n| :----- | :---------------------- | :---------------------- |\n| FY2023 | 36                      | 72                      |\n| FY2024 | 37                      | 75                      |\n| FY2025 | 37                      | 77                      |\n\n## ~$10B\nUPGRADE ACCELERATION\n\nA 5% lift in upgrades implies roughly 12M additional units at about $870 ASP.\n\n## ~$11B\nSERVICES ARPU EXPANSION\n\nA 10% increase in revenue per active device would add roughly $11B.\n\n## 18-24 mo.\nCOMPETITIVE WINDOW\n\nApple likely has a limited period before Android ecosystems narrow the on-device AI gap.\n\nSources: Apple FY2025 Form 10-K; Apple fiscal Q1 2026 earnings release; Apple FY2023-FY2025 financial data pack; Omdia smartphone market release, Jan. 2026\n\n\n\n# Three initiatives could validate and scale Apple\u2019s AI -driven upgrade and Services growth opportunity\n\n\n\n## Phase 1 - Analysis\n\nTTI\n\n## Phase 2 - Product testing\n\n\n\n## Phase 3 - Ecosystem scaling\n\n\u2022 Analyzeupgrade behavior by device\ngeneration to estimate whether AI\ncapabilities increase upgrade likelihood\n\n\u2022 Segment users by AI usage intensity (casual vs. power users) to identify the highest-value upgrade cohorts\n\n\u2022 Modelincremental revenue potential\nfrom upgrade acceleration and higher\nServices attachment\n\n\t\u2022 Pilotpremium AI features within Apple One or iCloud bundles to measure willingness to pay\n\n\t\u2022TestAI-enabled workflows across iPhone, iPad, and Mac to determine which experiences most increase engagement \u2022 Evaluate how AI features affect Services ARPU, retention, and cross-device usage\n\n\t\t\u2022Expand Foundation Models framework\nadoption by prioritizing high-impact\ndeveloper use cases\n\n\t\t\u2022Launchdeveloper incentives and tooling\nto accelerate third-party AI integration\n\n\t\t\u2022Track how AI-enabled apps drive\necosystem lock-in and incremental Services\nrevenue\n\nI would welcome the opportunity to discuss these findings and potential next steps in a brief 20-minute conversation.\n\nThank you\n\n\n\n# Appendix: Sources\n\n\u2022 Apple Inc. Annual Report (Form 10-K), Fiscal Year 2025.\n\n\u2022 Apple Inc. Fiscal Q1 2026 Earnings Release, January 29, 2026.\n\n\u2022 Apple Newsroom. \u201cNew Apple Intelligence Features Are Available Today.\u201d September 15, 2025.\n\n\u2022 Apple Security. \u201cPrivate Cloud Compute\u201d blog and documentation.\n\n\u2022 Apple Machine Learning Research. \u201cApple Intelligence Foundation Language Models\u201d and \u201cApple Foundation Models Tech Report 2025.\u201d\n\n\u2022 Omdia. Global smartphone market release, January 2026.\n\n\u2022 TechCrunch. \u201cGoogle\u2019s Gemini app has surpassed 750M monthly active users.\u201d February 4, 2026.\n\n\u2022 TechCrunch. \u201cChatGPT reaches 900M weekly active users.\u201d February 27, 2026.\n\n\u2022 Microsoft Annual Report 2025.\n\n# Apple is growing in its largest regions, but Greater China is moving in the opposite direction\n\n| Region        | FY2023 | FY2024 | FY2025 |\n|---------------|--------|--------|--------|\n| Americas      | 160    | 165    | 180    |\n| Europe        | 95     | 100    | 110    |\n| Greater China | 75     | 68     | 65     |\n\nChina weakness raises the\nvalue of stronger upgrade\nand retention drivers\nelsewhere.\n\nSource: Apple FY2025 Form 10-K\n\n\n\n# Appendix: Apple\u2019s strongest AI advantages remain privacy and ecosystem integration, not model iteration speed\n\n| Dimension          | Apple                       | Google          | OpenAI/Microsoft      |\n|-|-|-|-|\n| Distribution       | Very strong                 | Very strong     | Strong                |\n| Model pace         | Hybrid                      | Fast            | Fast                  |\n| Privacy / trust    | Differentiated              | Mixed           | Mixed                 |\n| Developer leverage | Foundation Models +<br />OS | Android + cloud | Azure + API ecosystem |\n\nSources: Project2 Apple AI Competitive Benchmark; Apple Security and ML Research pages",
+        "embed": "# On-Device AI Can Reinforce Apple\u2019s\nHardware and Services Growth\n\nBen Hughes\nBen23hughes@gmail.com\nApril 2026\n\nOn-Device AI Can Reinforce Apple's Hardware and Services Growth\n\n\n\n# Apple can turn on-device AI into faster upgrades, higher Services ARPU, and stronger ecosystem lock-in if it moves now\n\nApple already has the installed base, silicon, and privacy position to win a differentiated AI model, but it must turn those assets into visibly better user value before cloud-first rivals define the category. The best path is to make on- device AI a driver of hardware upgrades, higher-value Services, and developer lock-in.\n\n## WHY NOW\n\nAI assistants have reached mass\nadoption and are raising the\nbaseline for usefulness, speed, and\nintegration.\n\n## WHAT APPLE SHOULD DO\n\nUse on-device AI plus Private\nCloud Compute to tie AI value to\nnewer devices, premium Services,\nand third-party apps.\n\n## WHY IT MATTERS\n\nEven modest lift in upgrades and\nServices monetization would be\nmeaningful against Apple\u2019s existing\nrevenue base.\n\nSources: Apple FY2025 Form 10-K; Apple fiscal Q1 2026 earnings release; TechCrunch, Feb. 27 2026; TechCrunch, Feb. 4 2026; Microsoft Annual Report 2025\n\n\n\n# Apple\u2019s AI challenge is converting distribution into differentiated user value before rivals close the gap\n\n## AI Platform User Counts\n\n| AI Platform | Reported users (M) |\n| ----------- | ------------------ |\n| ChatGPT     | 880                |\n| Gemini app  | 740                |\n| Copilot     | 120                |\n\nNote: WAU and MAU are not directly comparable; shown as directional evidence of mass adoption.\n\n## What I noticed:\n\nApple does not lack reach; it risks losing relevance if AI value is defined elsewhere.\n\n\u2022 Apple already reaches more than 2.5B active devices and shipped 240.6M iPhones in FY2025.\n\n\u2022 The strategic issue is whether Apple Intelligence becomes a reason to upgrade, stay, and spend more.\n\n\u2022 If rivals define the AI baseline first, Apple\u2019s installed base becomes less defensible than it looks.\n\nDistribution is already won; differentiated AI\nvalue is not.\n\nSources: Apple fiscal Q1 2026 earnings release; Omdia smartphone market release, Jan. 2026; TechCrunch, Feb. 27 2026; TechCrunch, Feb. 4 2026; Microsoft Annual Report 2025\n\nApple\u2019s growth model is unusually exposed to AI because iPhone upgrades and Services drive the value of the ecosystem\n\n## Apple\u2019s iPhone and Service revenues\n\n## Why this matters:\n\n| Year  | iPhone net sales ($B) | Services net sales ($B) |\n|---|---|---|\n| FY2023 | 196 | 83 |\n| FY2024 | 198 | 101 |\n| FY2025 | 206 | 115 |\n\n50.4%\niPhone share of FY2025 revenue\n\n$109.2B\nFY2025 Services net sales\n\n75.4%\nFY2025 Services gross margin\n\nSources: Apple FY2025 Form 10-K; Apple FY2023-FY2025 financial data pack\n\n\n\n# Apple should make on-device AI the center of a three-part growth strategy: hardware pull, Services lift, and developer lock-in\n\n## HARDWARE PULL\n\n## SERVICES LIFT\n\n## DEVELOPER LOCK-IN\n\nTie Apple\u2019s best AI\nexperiences to A18 and M-\nseries devices so AI\nbecomes a reason to\nupgrade.\n\nMake chip-level eligibility part of the\nproduct strategy, not a rollout\nconstraint.\n\nMonetize AI inside high-\nmargin Services bundles\nwhere Apple already has\npricing power.\n\nFocus first on features that deepen\nusage and increase ARPU, not broad\nfree access.\n\nScale Apple\u2019s Foundation\nModels framework where\nthird-party apps can make\nthe ecosystem more\nvaluable.\n\nThe strongest moat is not only\nApple\u2019s assistant, but what\ndevelopers build on top of Apple\u2019s\nexisting model layer.\n\nApple should use AI to strengthen the economics of the ecosystem it already owns, not chase a generic cloud assistant race.\n\nSources: Apple Security Private Cloud Compute documentation; Apple ML Research foundation model pages; Apple Newsroom, Sept. 15 2025; Project2 Apple AI benchmark\n\n# Apple\u2019s best AI position is privacy-first on-device intelligence backed by Private Cloud Compute, not a head-on cloud assistant\n\n## On-device Al\n\nfast, private, always available\n\niPhone, iPad, Mac\n\n\u2193\n\nlower latency, stronger trust, better fit\n\n## Private Cloud Compute\n\nlarger-model reasoning when needed\n\n\u2022 Apple has hardware, OS, and privacy control that cloud-first rivals do not.\n\n\u2022 Private Cloud Compute lets Apple expand capability without abandoning its privacy claim.\n\n\u2022 This approach fits Apple\u2019s brand better than competing head-on on frontier model scale alone.\n\nApple\nprivacy +\nintegration\n\nGoogle\ncloud +\ndistribution\n\nOpenAI/Microsoft\nmodel pace +\necosystem\n\nSources: Apple Security blog and PCC documentation; Apple ML Research foundation model pages; Apple M4 chip announcement; TechCrunch A18 coverage\n\n\n\n# Even modest AI-driven lift would be meaningful against Apple\u2019s revenue base, but the competitive window is limited\n\n| FY     | Products gross margin % | Services gross margin % |\n| :----- | :---------------------- | :---------------------- |\n| FY2023 | 36                      | 72                      |\n| FY2024 | 37                      | 75                      |\n| FY2025 | 37                      | 77                      |\n\n## ~$10B\nUPGRADE ACCELERATION\n\nA 5% lift in upgrades implies roughly 12M additional units at about $870 ASP.\n\n## ~$11B\nSERVICES ARPU EXPANSION\n\nA 10% increase in revenue per active device would add roughly $11B.\n\n## 18-24 mo.\nCOMPETITIVE WINDOW\n\nApple likely has a limited period before Android ecosystems narrow the on-device AI gap.\n\nSources: Apple FY2025 Form 10-K; Apple fiscal Q1 2026 earnings release; Apple FY2023-FY2025 financial data pack; Omdia smartphone market release, Jan. 2026\n\n\n\n# Three initiatives could validate and scale Apple\u2019s AI -driven upgrade and Services growth opportunity\n\n\n\n## Phase 1 - Analysis\n\nTTI\n\n## Phase 2 - Product testing\n\n\n\n## Phase 3 - Ecosystem scaling\n\n\u2022 Analyzeupgrade behavior by device\ngeneration to estimate whether AI\ncapabilities increase upgrade likelihood\n\n\u2022 Segment users by AI usage intensity (casual vs. power users) to identify the highest-value upgrade cohorts\n\n\u2022 Modelincremental revenue potential\nfrom upgrade acceleration and higher\nServices attachment\n\n\t\u2022 Pilotpremium AI features within Apple One or iCloud bundles to measure willingness to pay\n\n\t\u2022TestAI-enabled workflows across iPhone, iPad, and Mac to determine which experiences most increase engagement \u2022 Evaluate how AI features affect Services ARPU, retention, and cross-device usage\n\n\t\t\u2022Expand Foundation Models framework\nadoption by prioritizing high-impact\ndeveloper use cases\n\n\t\t\u2022Launchdeveloper incentives and tooling\nto accelerate third-party AI integration\n\n\t\t\u2022Track how AI-enabled apps drive\necosystem lock-in and incremental Services\nrevenue\n\nI would welcome the opportunity to discuss these findings and potential next steps in a brief 20-minute conversation.\n\nThank you\n\n\n\n# Appendix: Sources\n\n\u2022 Apple Inc. Annual Report (Form 10-K), Fiscal Year 2025.\n\n\u2022 Apple Inc. Fiscal Q1 2026 Earnings Release, January 29, 2026.\n\n\u2022 Apple Newsroom. \u201cNew Apple Intelligence Features Are Available Today.\u201d September 15, 2025.\n\n\u2022 Apple Security. \u201cPrivate Cloud Compute\u201d blog and documentation.\n\n\u2022 Apple Machine Learning Research. \u201cApple Intelligence Foundation Language Models\u201d and \u201cApple Foundation Models Tech Report 2025.\u201d\n\n\u2022 Omdia. Global smartphone market release, January 2026.\n\n\u2022 TechCrunch. \u201cGoogle\u2019s Gemini app has surpassed 750M monthly active users.\u201d February 4, 2026.\n\n\u2022 TechCrunch. \u201cChatGPT reaches 900M weekly active users.\u201d February 27, 2026.\n\n\u2022 Microsoft Annual Report 2025.\n\n# Apple is growing in its largest regions, but Greater China is moving in the opposite direction\n\n| Region        | FY2023 | FY2024 | FY2025 |\n|---------------|--------|--------|--------|\n| Americas      | 160    | 165    | 180    |\n| Europe        | 95     | 100    | 110    |\n| Greater China | 75     | 68     | 65     |\n\nChina weakness raises the\nvalue of stronger upgrade\nand retention drivers\nelsewhere.\n\nSource: Apple FY2025 Form 10-K\n\n\n\n# Appendix: Apple\u2019s strongest AI advantages remain privacy and ecosystem integration, not model iteration speed\n\n| Dimension          | Apple                       | Google          | OpenAI/Microsoft      |\n|-|-|-|-|\n| Distribution       | Very strong                 | Very strong     | Strong                |\n| Model pace         | Hybrid                      | Fast            | Fast                  |\n| Privacy / trust    | Differentiated              | Mixed           | Mixed                 |\n| Developer leverage | Foundation Models +<br />OS | Android + cloud | Azure + API ecosystem |\n\nSources: Project2 Apple AI Competitive Benchmark; Apple Security and ML Research pages",
+        "enriched": null,
+        "enrichment_success": false
+      }
+    ],
+    "type": "full",
+    "custom": null,
+    "ocr": null
+  },
+  "usage": {
+    "num_pages": 12,
+    "credit_breakdown": {
+      "page": 12.0,
+      "complex": 6.0
+    },
+    "credits": 18.0,
+    "page_billing_breakdown": {
+      "1": [
+        "complex",
+        "page"
+      ],
+      "2": [
+        "page"
+      ],
+      "3": [
+        "complex",
+        "page"
+      ],
+      "4": [
+        "complex",
+        "page"
+      ],
+      "5": [
+        "page"
+      ],
+      "6": [
+        "page"
+      ],
+      "7": [
+        "complex",
+        "page"
+      ],
+      "8": [
+        "page"
+      ],
+      "9": [
+        "complex",
+        "page"
+      ],
+      "10": [
+        "page"
+      ],
+      "11": [
+        "complex",
+        "page"
+      ],
+      "12": [
+        "page"
+      ]
+    }
+  },
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/5a49d78c-303a-43f4-bc4e-eec7d5af3ae1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2UOK6OVBOUYL7WYA%2F20260429%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260429T033123Z&X-Amz-Expires=43200&X-Amz-SignedHeaders=host&X-Amz-Signature=d1e57ddc377023c4255f354166379a35adb38fcf54957158571ef7e0562bf34f",
+  "studio_link": "https://studio.reducto.ai/job/eb26f2b9-c804-446b-9bc7-8f83aadab6b2",
+  "parse_mode": null
+}

@@ -1,0 +1,830 @@
+---
+title: "Welcome to AI PM Bootcamp"
+subtitle: "January 30, 2026 "
+author: "Scott Murff"
+title-slide-attributes:
+  data-background-color: "#002E5D"
+  data-background-image: "linear-gradient(160deg, #002E5D 0%, #1a4a7a 50%, #3A7CA5 100%)"
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    chalkboard: true
+    preview-links: auto
+    logo: images/strat-logo.png
+    footer: ""
+    smaller: true
+    scrollable: true
+    transition: fade
+    width: 1200
+    height: 700
+    include-in-header:
+      text: |
+        <style>
+        #title-slide {
+          text-align: center !important;
+          padding-top: 20px !important;
+        }
+        #title-slide::before {
+          display: none;
+        }
+        #title-slide .title {
+          font-size: 2.2em;
+          font-weight: 700;
+          color: #ffffff !important;
+          letter-spacing: -0.03em;
+          border-bottom: none;
+          padding-bottom: 0;
+          margin-bottom: 0.2em;
+        }
+        #title-slide .subtitle {
+          font-size: 1.1em;
+          font-weight: 400;
+          color: #ffffff !important;
+          opacity: 0.9;
+          margin-top: 0.3em;
+        }
+        #title-slide .subtitle::after {
+          display: none;
+        }
+        #title-slide .author {
+          font-size: 1.05em;
+          font-weight: 400;
+          color: #ffffff !important;
+          opacity: 1;
+          margin-top: 1.5em;
+        }
+        /* BYU logo — default styling */
+        .slide-logo {
+          opacity: 0.7 !important;
+          transition: filter 0.3s ease;
+        }
+        .slide-logo.logo-light {
+          filter: brightness(0) invert(1) !important;
+        }
+        </style>
+        <script>
+        document.addEventListener('DOMContentLoaded', function() {
+          // FamilySearch logo on title slide
+          var titleSlide = document.getElementById('title-slide');
+          if (titleSlide) {
+            var logo = document.createElement('img');
+            logo.src = 'images/familysearch-logo-white.svg';
+            logo.style.cssText = 'height: 70px; margin-top: 30px; display: block; margin-left: auto; margin-right: auto; box-shadow: none; border-radius: 0;';
+            titleSlide.appendChild(logo);
+          }
+
+          // Toggle BYU logo color based on slide background
+          var deck = Reveal;
+          function updateLogo() {
+            var sl = deck.getCurrentSlide();
+            var logoEl = document.querySelector('.slide-logo');
+            if (!logoEl || !sl) return;
+            var bg = sl.getAttribute('data-background-color') || '';
+            if (bg.toLowerCase() === '#002e5d') {
+              logoEl.classList.add('logo-light');
+            } else {
+              logoEl.classList.remove('logo-light');
+            }
+          }
+          deck.on('slidechanged', updateLogo);
+          deck.on('ready', updateLogo);
+        });
+        </script>
+execute:
+  echo: false
+  warning: false
+---
+
+```{python}
+#| label: setup
+#| include: false
+
+import matplotlib.pyplot as plt
+import matplotlib.ticker as mticker
+import numpy as np
+
+# ── Brand palette ──────────────────────────────────────
+NAVY    = "#002E5D"
+STEEL   = "#7A8D9C"
+LIGHT   = "#D1D8DE"
+ACCENT  = "#3A7CA5"
+BG      = "#FAFBFC"
+WHITE   = "#FFFFFF"
+MUTED   = "#B0BEC5"
+
+def brand_style(fig, ax):
+    """Apply consistent McKinsey-style formatting."""
+    fig.patch.set_facecolor(BG)
+    ax.set_facecolor(BG)
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.spines['left'].set_visible(False)
+    ax.spines['bottom'].set_color(LIGHT)
+    ax.tick_params(colors=STEEL, labelsize=13)
+    ax.yaxis.set_tick_params(length=0)
+    ax.xaxis.set_tick_params(length=0)
+    return fig, ax
+```
+
+## Your Instructor Today {background-color="#002E5D" background-image="linear-gradient(160deg, #002E5D 0%, #1a4a7a 50%, #3A7CA5 100%)"}
+
+```{=html}
+<style>
+.reveal section[data-background-color="#002E5D"] h2 {
+  color: #ffffff !important;
+  border-bottom-color: rgba(255,255,255,0.2) !important;
+}
+</style>
+<div style="display: flex; align-items: center; gap: 50px; padding: 0 40px; margin-top: 20px; font-family: 'IBM Plex Sans', sans-serif;">
+
+  <!-- Photo + name -->
+  <div style="flex: 0 0 auto; text-align: center;">
+    <img src="images/Scott Murff-small-square.png" width="190" style="border-radius: 50%; border: 4px solid rgba(255,255,255,0.25); box-shadow: 0 6px 24px rgba(0,0,0,0.3); display: block;">
+    <div style="margin-top: 14px; font-size: 22px; font-weight: 600; color: #ffffff;">Scott Murff</div>
+    <div style="font-size: 15px; font-weight: 300; color: rgba(255,255,255,0.7); margin-top: 4px;">Associate Teaching Professor</div>
+    <div style="font-size: 15px; font-weight: 300; color: rgba(255,255,255,0.7);">BYU Marriott School of Business</div>
+  </div>
+
+  <!-- Bio bullets -->
+  <div style="flex: 1;">
+
+    <div style="font-size: 24px; font-weight: 300; color: #ffffff; line-height: 1.45; margin-bottom: 16px;">
+      Strategy professor program director at the BYU Marriott School of Business, teaching courses in management consulting, product management, and AI.
+    </div>
+
+    <div style="font-size: 20px; font-weight: 300; color: rgba(255,255,255,0.85); margin-bottom: 12px;">
+      15+ years at the intersection of business, data science, and product management:
+    </div>
+
+    <ul style="margin: 0 0 0 20px; padding: 0; list-style: disc;">
+      <li style="font-size: 20px; font-weight: 300; color: rgba(255,255,255,0.8); margin-bottom: 8px; line-height: 1.45;">
+         <strong style="font-weight: 600; color: #fff;">7 years at McKinsey</strong> — consultant to principal product manager working with Fortune 500 clients
+      </li>
+      <li style="font-size: 20px; font-weight: 300; color: rgba(255,255,255,0.8); margin-bottom: 8px; line-height: 1.45;">
+        <strong style="font-weight: 600; color: #fff;">6 years at Zions Bancorporation</strong> - Built financial statement forecasting engine
+      <li style="font-size: 20px; font-weight: 300; color: rgba(255,255,255,0.8); margin-bottom: 8px; line-height: 1.45;">
+        <strong style="font-weight: 600; color: #fff;">3 years at US Treasury Department</strong> - Research and data science in the banking industry
+      </li>
+    </ul>
+
+    <div style="margin-top: 16px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.15); font-size: 17px; font-weight: 400; color: rgba(255,255,255,0.5);">
+      MS Management Science &amp; Engineering, Stanford · BA Economics, BYU
+    </div>
+  </div>
+
+</div>
+```
+
+## You do a lot strategy work and communication
+
+Here's where you spend your time.
+
+```{python}
+#| label: fig-time-spent
+#| fig-width: 10
+#| fig-height: 5.2
+
+categories = [
+    "Technical",
+    "Launch",
+    "Analytics",
+    "Execution",
+    "Research",
+    "Communication",
+    "Strategy",
+]
+values = [6, 13, 19, 25, 38, 75, 75]
+
+fig, ax = plt.subplots(figsize=(10, 5.2))
+brand_style(fig, ax)
+
+colors = [NAVY if v >= 60 else STEEL if v >= 30 else LIGHT for v in values]
+bars = ax.barh(categories, values, color=colors, height=0.6, edgecolor="none")
+
+for bar, val in zip(bars, values):
+    ax.text(
+        bar.get_width() + 1, bar.get_y() + bar.get_height() / 2,
+        f"{val}%",
+        va="center", ha="left",
+        fontsize=13, fontweight="600",
+        color=NAVY if val >= 60 else STEEL,
+    )
+
+ax.set_xlim(0, 100)
+ax.set_xlabel("")
+ax.set_xticks([])
+ax.set_title(
+    '% who spend "a lot" or "most of my time"',
+    fontsize=12, color=STEEL, loc="left", pad=12, fontstyle="italic",
+)
+plt.tight_layout()
+plt.show()
+```
+
+::: notes
+"Heavy" = answered "A lot" or "Most of my time." The drop-off after research is steep. Only 3 of 16 spend heavy time on analytics, and just 1 on technical work.
+:::
+
+## You'd like AI to help with existing work plus techincal work you usually don't have time for
+
+```{python}
+#| label: fig-excitement
+#| fig-width: 10
+#| fig-height: 5.5
+
+topics = [
+    "Deploy to production",
+    "Debug existing code",
+    "APIs & integrations",
+    "Automate workflows",
+    "Build internal tools",
+    "Quick prototypes",
+    "PRDs, specs & stories",
+    "Data analysis & reports",
+]
+votes = [6, 19, 31, 44, 63, 69, 75, 81]
+
+fig, ax = plt.subplots(figsize=(10, 5.5))
+brand_style(fig, ax)
+
+colors = [NAVY if v >= 60 else STEEL if v >= 30 else LIGHT for v in votes]
+bars = ax.barh(topics, votes, color=colors, height=0.6, edgecolor="none")
+
+for bar, val in zip(bars, votes):
+    ax.text(
+        bar.get_width() + 1, bar.get_y() + bar.get_height() / 2,
+        f"{val}%",
+        va="center", ha="left",
+        fontsize=14, fontweight="700" if val >= 60 else "400",
+        color=NAVY if val >= 60 else STEEL,
+    )
+
+ax.set_xlim(0, 105)
+ax.set_xticks([])
+ax.set_title(
+    "% who selected this  (pick your top 2–3)",
+    fontsize=12, color=STEEL, loc="left", pad=12, fontstyle="italic",
+)
+
+# Tier bracket
+ax.axhline(y=3.5, color=LIGHT, linewidth=1, linestyle="--")
+ax.text(97, 5.5, "TOP TIER\n60%+", fontsize=10, color=NAVY,
+        ha="center", va="center", fontweight="600",
+        bbox=dict(boxstyle="round,pad=0.4", facecolor=BG, edgecolor=NAVY, linewidth=1.5))
+
+plt.tight_layout()
+plt.show()
+```
+
+::: notes
+Mangum wrote in a separate data analytics request because the survey didn't let him select enough. Data interest is even higher than the numbers show.
+:::
+
+## Did I get that right?
+
+[What's missing from this picture?]{style="font-size: 1.4em; display: block; margin-top: 1.5em; margin-bottom: 1em;"}
+
+[What else should I know about how you spend your time — or what you're hoping to get out of today?]{style="font-size: 1.4em; color: #7A8D9C; display: block;"}
+
+
+## Quick check: where you're starting from {.smaller}
+
+:::: {.columns}
+::: {.column width="50%"}
+
+```{python}
+#| label: fig-experience
+#| fig-width: 5.5
+#| fig-height: 3.8
+
+levels = ["MCP servers", "Subagents", "Slash commands", "Basic usage", "Haven't used it"]
+pcts = [19, 13, 13, 56, 31]
+
+fig, ax = plt.subplots(figsize=(5.5, 3.8))
+brand_style(fig, ax)
+
+colors = [NAVY if c >= 30 else STEEL for c in pcts]
+bars = ax.barh(levels, pcts, color=colors, height=0.55, edgecolor="none")
+
+for bar, val in zip(bars, pcts):
+    ax.text(bar.get_width() + 1, bar.get_y() + bar.get_height()/2,
+            f"{val}%", va="center", fontsize=12,
+            fontweight="600" if val >= 30 else "400",
+            color=NAVY if val >= 30 else STEEL)
+
+ax.set_xlim(0, 75)
+ax.set_xticks([])
+ax.set_title("Claude Code experience", fontsize=12, color=STEEL,
+             loc="left", pad=10, fontstyle="italic")
+plt.tight_layout()
+plt.show()
+```
+
+:::
+::: {.column width="50%"}
+
+```{python}
+#| label: fig-tools
+#| fig-width: 5.5
+#| fig-height: 3.8
+
+tools = ["None of these", "Git", "VS Code", "Terminal"]
+pcts = [25, 25, 31, 69]
+
+fig, ax = plt.subplots(figsize=(5.5, 3.8))
+brand_style(fig, ax)
+
+colors = [NAVY if c >= 60 else STEEL if c >= 30 else LIGHT for c in pcts]
+bars = ax.barh(tools, pcts, color=colors, height=0.55, edgecolor="none")
+
+for bar, val in zip(bars, pcts):
+    ax.text(bar.get_width() + 1, bar.get_y() + bar.get_height()/2,
+            f"{val}%", va="center", fontsize=12,
+            fontweight="600" if val >= 60 else "400",
+            color=NAVY if val >= 60 else STEEL)
+
+ax.set_xlim(0, 90)
+ax.set_xticks([])
+ax.set_title("Tools you're comfortable with", fontsize=12, color=STEEL,
+             loc="left", pad=10, fontstyle="italic")
+plt.tight_layout()
+plt.show()
+```
+
+:::
+::::
+
+::: {.highlight-box}
+**If all this is new, sit next to someone who has more experience than you.**
+:::
+
+::: notes
+14 of 16 said they have VS Code and Claude Code installed. 2 still need setup help — we'll handle that at the start.
+:::
+
+## Today's plan {.smaller}
+
+| Block | Focus | 
+|---|---|
+| **Morning** | Setup + Claude Code fundamentals | 
+| | PRD and spec writing with AI | 
+| **Lunch** | 30 minutes - 12:00-12:30 | |
+| **Afternoon** | Data analysis and reporting | 
+| | Build a prototype or internal tool | *
+| **Wrap-up** | Resources and next steps | 
+
+
+
+## Why this matters now {.smaller}
+
+:::: {.columns}
+::: {.column width="50%"}
+
+::: tweet-center
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">
+"If a picture is worth 1000 words, a prototype is worth 1000 meetings." —saying at <a href="https://twitter.com/ideo?ref_src=twsrc%5Etfw">@ideo</a>
+</p>
+— John Maeda (@johnmaeda) <a href="https://twitter.com/johnmaeda/status/518556402902925313?ref_src=twsrc%5Etfw">October 5, 2014</a>
+</blockquote>
+:::
+
+:::
+::: {.column width="50%"}
+
+::: tweet-center
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">
+We are adding a coding section to all of our Product Managers interviews at <a href="https://twitter.com/Shopify?ref_src=twsrc%5Etfw">@Shopify</a>.<br><br> We'll start with APM interviews. We expect candidates to build a prototype of the product they suggested in the case interview.<br><br> There is no excuse for PMs not building prototypes.
+</p>
+— Kaz Nejatian (@CanadaKaz) <a href="https://twitter.com/CanadaKaz/status/1955629733460562404?ref_src=twsrc%5Etfw"> August 13, 2025 </a>
+</blockquote>
+:::
+
+:::
+::::
+
+```{=html}
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
+::: notes
+IDEO quote sets the principle. Shopify tweet shows it's becoming a hiring expectation. The industry is moving.
+:::
+
+## The PM role is shifting {.smaller}
+
+:::: {.columns}
+::: {.column width="50%"}
+
+::: tweet-center
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">
+The fight over what a product manager does is going to among the first major AI organizational design problems faced by companies.<br><br>It is a job right at the center of what AI can do with first pass coding, marketing, design, ideation, etc. Who will own which pieces up for grabs. <a href="https://t.co/XkJQYOu9N9">https://t.co/XkJQYOu9N9</a>
+</p>
+— Ethan Mollick (@emollick) <a href="https://twitter.com/emollick/status/1984682445946421505?ref_src=twsrc%5Etfw">November 1, 2025</a>
+</blockquote>
+:::
+
+:::
+::: {.column width="50%"}
+
+::: tweet-center
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">
+Builder's high is back...
+</p>
+— Madhu Guru (@realmadhuguru) <a href="https://twitter.com/realmadhuguru/status/1955451011323314641">August 13, 2025</a>
+</blockquote>
+:::
+
+:::
+::::
+
+```{=html}
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
+::: notes
+Mollick frames the organizational question. Madhu captures the energy. The opportunity is real and it's now.
+:::
+
+## The opportunity
+
+::: {style="text-align: center; margin-top: 0.5em;"}
+![](images/full-stack-from-to.png){height="420px" style="box-shadow: none; border-radius: 0;"}
+:::
+
+::: notes
+AI is collapsing the product trio into one role. PMs who can build, analyze, and design — not just strategize — will have outsized impact.
+:::
+
+## Programming in English is here {.smaller}
+
+:::: {.columns}
+::: {.column width="45%"}
+
+::: tweet-center
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">As always, a very thoughtful and well reasoned take. I read till the end.<br><br>I think the Claude Code team itself might be an  indicator of where things are headed. We have directional answers for some (not all) of the prompts:<br><br>1. We hire mostly generalists. We have a mix of senior…</p>&mdash; Boris Cherny (@bcherny) <a href="https://twitter.com/bcherny/status/2015979257038831967?ref_src=twsrc%5Etfw">January 27, 2026</a></blockquote>
+:::
+
+```{=html}
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
+:::
+::: {.column width="55%"}
+
+::: {style="font-size: 0.72em;"}
+
+::: {.highlight-box}
+"Given the latest lift in LLM coding capability, like many others I rapidly went from about 80% manual+autocomplete coding and 20% agents in November to **80% agent coding and 20% edits+touchups** in December. i.e. I really am mostly **programming in English** now, a bit sheepishly telling the LLM what code to write... in words. It hurts the ego a bit but the power to operate over software in large 'code actions' is just too net useful, especially once you adapt to it, configure it, learn to use it, and wrap your head around what it can and cannot do."
+
+— **Andrej Karpathy**, Jan. 2026
+:::
+
+::: {.highlight-box}
+"Pretty much **100% of our code is written by Claude Code**. I shipped 22 PRs yesterday and 27 the day before, each one 100% written by Claude. ... I think most of the industry will see similar stats in the coming months. **We will then start seeing similar stats for non-coding computer work also.**"
+
+— **Boris Cherny**, Anthropic, Jan. 2026
+:::
+
+:::
+
+:::
+::::
+
+::: notes
+Karpathy: programming in English, biggest workflow change in 2 decades. Boris: 100% AI-written code, and it's coming for non-coding work too — which is exactly what these PMs do.
+:::
+
+## Why agents like Claude Code are a different thing entirely {.smaller}
+
+```{=html}
+<style>
+  .pyramid-card {
+    display: flex; align-items: center; gap: 18px;
+    padding: 14px 20px; border-radius: 10px;
+    position: absolute; left: 0; right: 0;
+    background: linear-gradient(135deg, #f6f8fa 0%, #edf1f5 100%);
+    border: 1px solid #dce3ea;
+    font-family: "IBM Plex Sans", system-ui, sans-serif;
+    transition: transform 0.2s ease;
+  }
+  .pyramid-card:hover { transform: translateX(3px); }
+  .pyramid-badge {
+    flex: 0 0 auto;
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 78px; height: 32px;
+    font-weight: 700; font-size: 13px;
+    letter-spacing: 1.2px; text-transform: uppercase;
+    border-radius: 6px;
+    font-family: "IBM Plex Sans", system-ui, sans-serif;
+  }
+  .pyramid-desc {
+    font-size: 19px; color: #2C3E50; line-height: 1.4;
+    font-family: "IBM Plex Sans", system-ui, sans-serif; font-weight: 300;
+  }
+  .pyramid-desc strong { font-weight: 600; color: #002E5D; }
+  .pyramid-desc em { font-style: italic; color: #002E5D; }
+  .pyramid-example {
+    display: block; margin-top: 3px;
+    font-size: 15px; color: #7A8D9C; font-weight: 400;
+  }
+  .pyramid-example code {
+    background: #e8edf2; padding: 1px 6px; border-radius: 3px;
+    font-size: 14px; color: #002E5D; font-weight: 500;
+  }
+</style>
+
+<div style="display: flex; gap: 20px; align-items: stretch; margin-top: 0.2em; height: 480px;">
+
+  <!-- ════════ LEFT: Pyramid ════════ -->
+  <div style="flex: 0 0 480px; position: relative;">
+    <svg viewBox="0 0 540 470" width="480" height="470" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="pyrL0" x1="0.3" y1="0" x2="0.7" y2="1">
+          <stop offset="0%" stop-color="#e8edf2"/>
+          <stop offset="100%" stop-color="#c8d3dc"/>
+        </linearGradient>
+        <linearGradient id="pyrL1" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#92a8b8"/>
+          <stop offset="100%" stop-color="#6d8a9e"/>
+        </linearGradient>
+        <linearGradient id="pyrL2" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#4a8fb5"/>
+          <stop offset="100%" stop-color="#2a6a90"/>
+        </linearGradient>
+        <linearGradient id="pyrL3" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#0e3f6a"/>
+          <stop offset="100%" stop-color="#001a36"/>
+        </linearGradient>
+        <filter id="pyrShadow" x="-5%" y="-3%" width="110%" height="108%">
+          <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#0a2e4d" flood-opacity="0.15"/>
+        </filter>
+      </defs>
+
+      <!-- Pyramid layers — centered at x=210 -->
+      <g filter="url(#pyrShadow)">
+        <!-- Layer 0: LLM (tip) -->
+        <polygon points="210,15 265,110 155,110" fill="url(#pyrL0)"/>
+        <!-- Layer 1: System Access -->
+        <polygon points="155,110 265,110 320,215 100,215" fill="url(#pyrL1)"/>
+        <!-- Layer 2: Code Execution -->
+        <polygon points="100,215 320,215 375,320 45,320" fill="url(#pyrL2)"/>
+        <!-- Layer 3: Tools & Artifacts -->
+        <polygon points="45,320 375,320 430,415 0,415" fill="url(#pyrL3)"/>
+      </g>
+
+      <!-- Layer text labels -->
+      <text x="210" y="68" text-anchor="middle" font-size="20" fill="#002E5D" font-weight="700" font-family="'IBM Plex Sans', sans-serif" letter-spacing="0.5">LLM</text>
+      <text x="210" y="88" text-anchor="middle" font-size="12.5" fill="#7A8D9C" font-family="'IBM Plex Sans', sans-serif" font-weight="400">text in, text out</text>
+
+      <text x="210" y="158" text-anchor="middle" font-size="16" fill="#fff" font-weight="600" font-family="'IBM Plex Sans', sans-serif">System Access</text>
+      <text x="210" y="178" text-anchor="middle" font-size="12.5" fill="#fff" opacity="0.85" font-family="'IBM Plex Sans', sans-serif">bash · files · terminal</text>
+
+      <text x="210" y="264" text-anchor="middle" font-size="16" fill="#fff" font-weight="600" font-family="'IBM Plex Sans', sans-serif">Code Execution</text>
+      <text x="210" y="284" text-anchor="middle" font-size="12.5" fill="#fff" opacity="0.85" font-family="'IBM Plex Sans', sans-serif">write · run · debug · iterate</text>
+
+      <text x="210" y="365" text-anchor="middle" font-size="16" fill="#fff" font-weight="600" font-family="'IBM Plex Sans', sans-serif">Tools &amp; Artifacts</text>
+      <text x="210" y="385" text-anchor="middle" font-size="12.5" fill="#fff" opacity="0.8" font-family="'IBM Plex Sans', sans-serif">docs · apps · APIs · deploy</text>
+
+      <!-- ── Bracket: Web chatbots ── -->
+      <path d="M270,28 L282,28 L282,103 L270,103" fill="none" stroke="#b8c6d0" stroke-width="1.3"/>
+      <line x1="282" y1="65" x2="286" y2="65" stroke="#b8c6d0" stroke-width="1.3"/>
+      <text x="292" y="61" font-size="12.5" fill="#7A8D9C" font-family="'IBM Plex Sans', sans-serif" font-weight="400">Web</text>
+      <text x="292" y="75" font-size="12.5" fill="#7A8D9C" font-family="'IBM Plex Sans', sans-serif" font-weight="400">chatbots</text>
+
+      <!-- ── Bracket: Claude Code — anchored to bottom-right corner (430,415) ── -->
+      <path d="M440,28 L452,28 L452,415 L440,415" fill="none" stroke="#002E5D" stroke-width="1.8"/>
+      <line x1="452" y1="222" x2="458" y2="222" stroke="#002E5D" stroke-width="1.8"/>
+      <text x="464" y="214" font-size="13" fill="#002E5D" font-weight="700" font-family="'IBM Plex Sans', sans-serif" letter-spacing="0.6">CLAUDE</text>
+      <text x="464" y="232" font-size="13" fill="#002E5D" font-weight="700" font-family="'IBM Plex Sans', sans-serif" letter-spacing="0.6">CODE</text>
+
+    </svg>
+  </div>
+
+  <!-- ════════ RIGHT: Descriptions ════════ -->
+  <div style="flex: 1; position: relative; height: 480px;">
+
+    <!-- Layer 0: LLM -->
+    <div class="pyramid-card" style="top: 28px;">
+      <div class="pyramid-badge" style="background: linear-gradient(135deg, #e2e8ee, #ced8e0); color: #002E5D;">LLM</div>
+      <div class="pyramid-desc">
+        Text in, text out. Powerful, but can only <em>talk</em>.
+        <span class="pyramid-example">"Write me a PRD" → get text back</span>
+      </div>
+    </div>
+
+    <!-- Layer 1: System Access -->
+    <div class="pyramid-card" style="top: 130px; border-color: #c8d3dc;">
+      <div class="pyramid-badge" style="background: linear-gradient(135deg, #8da0b0, #6d8a9e); color: #fff;">SYSTEM</div>
+      <div class="pyramid-desc">
+        Reads &amp; writes files, runs commands on <strong>your machine</strong>.
+        <span class="pyramid-example">Navigate repos, install packages, manage git</span>
+      </div>
+    </div>
+
+    <!-- Layer 2: Code Execution -->
+    <div class="pyramid-card" style="top: 235px; border-color: #b0cad8;">
+      <div class="pyramid-badge" style="background: linear-gradient(135deg, #4a90b8, #2a6a90); color: #fff;">CODE</div>
+      <div class="pyramid-desc">
+        Writes code <em>and runs it</em> — tries, fails, fixes, retries.
+        <span class="pyramid-example">Analyze a CSV, build a chart, debug an error</span>
+      </div>
+    </div>
+
+    <!-- Layer 3: Tools & Artifacts -->
+    <div class="pyramid-card" style="top: 335px; border-color: #94b3ca;">
+      <div class="pyramid-badge" style="background: linear-gradient(135deg, #0e3f6a, #001e3d); color: #fff;">TOOLS</div>
+      <div class="pyramid-desc">
+        Creates real deliverables &amp; connects to services.
+        <span class="pyramid-example"><code>.docx</code> <code>.pptx</code> <code>.xlsx</code> · full apps · deploy to prod</span>
+      </div>
+    </div>
+
+  </div>
+</div>
+```
+
+::: notes
+The iceberg analogy: most people only interact with the tip (the LLM via a chat interface). Agents like Claude Code operate across all four layers. The deep layers are where the "unlock" capabilities live — data analysis, prototyping, artifact creation. This is what makes PMs into builders.
+:::
+
+## Why most people haven't unlocked this yet {.smaller}
+
+```{=html}
+<style>
+  .funnel-step {
+    font-family: "IBM Plex Sans", system-ui, sans-serif;
+    color: #fff;
+    font-weight: 600;
+    font-size: 15px;
+    text-align: center;
+    padding: 9px 0;
+    border-radius: 6px;
+  }
+  .funnel-error {
+    font-family: "IBM Plex Sans", monospace;
+    font-size: 13px;
+    color: #c0392b;
+    background: #fdf0ef;
+    border: 1px solid #e8c4c0;
+    border-radius: 4px;
+    padding: 3px 10px;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .funnel-label {
+    font-family: "IBM Plex Sans", system-ui, sans-serif;
+    font-size: 13px;
+    color: #7A8D9C;
+    font-weight: 400;
+  }
+</style>
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 0.3em;">
+
+  <!-- LEFT: Funnel (capped at 620px, centered bars) -->
+  <div style="flex: 0 0 620px; display: flex; flex-direction: column; align-items: center; gap: 4px; padding-top: 4px; position: relative;">
+
+    <div class="funnel-step" style="width: 100%; background: linear-gradient(135deg, #e2e8ee, #c8d3dc); color: #002E5D;">Open a web chatbot</div>
+
+    <div class="funnel-step" style="width: 87%; background: linear-gradient(135deg, #b8c8d4, #9ab0c0); color: #fff;">Download VS Code</div>
+
+    <div style="display: flex; align-items: center; width: 100%; justify-content: center; gap: 10px;">
+      <div class="funnel-step" style="width: 74%; background: linear-gradient(135deg, #92a8b8, #7a96a8); color: #fff;">Open a terminal</div>
+      <span class="funnel-error" style="white-space: nowrap; position: absolute; right: 0;">😐 "...what do I type?"</span>
+    </div>
+
+    <div style="display: flex; align-items: center; width: 100%; justify-content: center; gap: 10px;">
+      <div class="funnel-step" style="width: 62%; background: linear-gradient(135deg, #6d8a9e, #5a7a90); color: #fff;">Install Homebrew</div>
+      <span class="funnel-error" style="white-space: nowrap; position: absolute; right: 0;">⚠️ xcode-select: error</span>
+    </div>
+
+    <div style="display: flex; align-items: center; width: 100%; justify-content: center; gap: 10px;">
+      <div class="funnel-step" style="width: 50%; background: linear-gradient(135deg, #4a8fb5, #3a7ca5); color: #fff;">Install Node.js</div>
+      <span class="funnel-error" style="white-space: nowrap; position: absolute; right: 0;">⚠️ nvm: command not found</span>
+    </div>
+
+    <div style="display: flex; align-items: center; width: 100%; justify-content: center; gap: 10px;">
+      <div class="funnel-step" style="width: 40%; background: linear-gradient(135deg, #2a6a90, #1a5a80); color: #fff;">Install Python</div>
+      <span class="funnel-error" style="white-space: nowrap; position: absolute; right: 0;">⚠️ No module named pip</span>
+    </div>
+
+    <div style="display: flex; align-items: center; width: 100%; justify-content: center; gap: 10px;">
+      <div class="funnel-step" style="width: 30%; background: linear-gradient(135deg, #0e3f6a, #083050); color: #fff;">Add to PATH</div>
+      <span class="funnel-error" style="white-space: nowrap; position: absolute; right: 0;">⚠️ command not found</span>
+    </div>
+
+    <div class="funnel-step" style="width: 22%; background: linear-gradient(135deg, #002E5D, #001a36); color: #fff; padding: 11px 0; margin-top: 2px;">Claude Code ⚡</div>
+
+  </div>
+
+  <!-- RIGHT: Framing text -->
+  <div style="flex: 1; padding-top: 10px; font-family: 'IBM Plex Sans', sans-serif;">
+
+    <div style="font-size: 16px; font-weight: 300; color: #2C3E50; line-height: 1.55; margin-bottom: 18px;">
+      <strong style="color: #002E5D;">Cryptic errors</strong> are the main blocker.
+    </div>
+
+    <div style="background: #f4f6f8; border-left: 4px solid #002E5D; padding: 14px 18px; border-radius: 0 8px 8px 0; margin-top: 20px;">
+      <div style="font-size: 17px; font-weight: 600; color: #002E5D; margin-bottom: 5px;">
+        That's what today is for.
+      </div>
+      <div style="font-size: 14px; font-weight: 300; color: #7A8D9C; line-height: 1.5;">
+        Push through the valley of discouragement
+      </div>
+    </div>
+
+  </div>
+
+</div>
+```
+
+::: notes
+This is the real barrier. It's not intelligence, it's not willingness — it's that the dev toolchain is hostile to newcomers. Every step can produce a cryptic error. Most people hit one and stop. That's why we start today with setup and push through it as a group.
+:::
+
+
+
+## {background-color="#002E5D" background-image="linear-gradient(160deg, #002E5D 0%, #1a4a7a 50%, #3A7CA5 100%)"}
+
+```{=html}
+<div style="display: flex; align-items: center; gap: 40px; padding: 0 40px; margin-top: 20px; font-family: 'IBM Plex Sans', sans-serif;">
+
+  <div style="flex: 0 0 auto; text-align: center;">
+    <img src="images/mckay.jpeg" width="180" style="border-radius: 50%; border: 3px solid rgba(255,255,255,0.3); box-shadow: 0 4px 20px rgba(0,0,0,0.3); display: block;">
+  </div>
+
+  <div style="flex: 1;">
+    <div style="font-size: 18px; font-weight: 400; color: rgba(255,255,255,0.85); margin-bottom: 16px;">
+      In 1966, President David O. McKay prophesied scientific discoveries that "stagger the imagination."
+    </div>
+
+    <div style="font-size: 20px; font-weight: 300; color: #ffffff; line-height: 1.6; font-style: italic; margin-bottom: 14px;">
+      "Discoveries latent with such potent power, either for the blessing or the destruction of human beings as to make men's responsibility in controlling them the most gigantic ever placed in human hands. ... This age is fraught with limitless perils, as well as untold possibilities."
+    </div>
+
+    <div style="font-size: 15px; font-weight: 400; color: rgba(255,255,255,0.7); margin-bottom: 12px;">
+      —David O. McKay, Conference Report, Oct. 1966
+    </div>
+
+    <div style="font-size: 13px; font-weight: 300; color: rgba(255,255,255,0.5);">
+      As quoted by David A. Bednar, <a href="https://www.churchofjesuschrist.org/study/broadcasts/worldwide-devotional-for-young-adults/2024/11/13bednar?lang=eng" style="color: rgba(255,255,255,0.5);">"Things as They Really Are 2.0," Nov. 2024</a>
+    </div>
+  </div>
+
+</div>
+```
+
+## What you'll build today {.smaller}
+
+:::: {.columns}
+::: {.column width="50%"}
+
+### Exercise 1: Get set up
+
+Install VS Code and Claude Code, run your first prompt, and get comfortable with the terminal. By the end, everyone will have a working environment.
+
+<br>
+
+### Exercise 2: Write a PRD with AI
+
+Use Claude Code to draft a product requirements document from a brief. You'll see how AI amplifies the spec writing you already do — faster first drafts, sharper acceptance criteria, structured output.
+
+:::
+::: {.column width="50%"}
+
+### Exercise 3: Analyze data with AI
+
+Load a real dataset into Claude Code and ask it questions. Build charts, find patterns, and generate a summary report — no SQL or Python experience needed.
+
+<br>
+
+### Exercise 4: Build a prototype
+
+Take an idea from concept to working prototype using Claude Code. You'll have a live, interactive app running on your laptop by the end of the session.
+
+:::
+::::
+
+::: notes
+Exercises 1–2 are morning. Exercises 3–4 are afternoon. Each builds on the previous. Exercise 1 is amplify (what they already do). Exercises 3–4 are unlock (new capabilities).
+:::
+
+
+## {background-color="#002E5D" background-image="linear-gradient(160deg, #002E5D 0%, #1a4a7a 50%, #3A7CA5 100%)"}
+
+::: {style="text-align: center; padding: 30px 80px;"}
+
+[You have permission to create the future.]{style="font-size: 1.8em; font-weight: 700; color: #ffffff; letter-spacing: -0.02em; line-height: 1.3; display: block; margin-bottom: 1.2em;"}
+
+![](images/kimball.jpeg){width="140px" style="border-radius: 50%; border: 3px solid rgba(255,255,255,0.3); box-shadow: 0 4px 20px rgba(0,0,0,0.3); margin-bottom: 0.8em;"}
+
+[Prominently displayed on President Kimball's desk was a slogan which read simply,]{style="font-size: 0.95em; font-weight: 300; color: rgba(255,255,255,0.7); display: block; margin-bottom: 0.5em;"}
+
+["DO IT."]{style="font-size: 2.5em; font-weight: 700; color: #ffffff; letter-spacing: 0.05em; display: block;"}
+
+:::

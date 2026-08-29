@@ -1,12 +1,32 @@
+# Quarto
+/.quarto/
+_site/
+**/*.quarto_ipynb
+
+# R
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 
-/.quarto/
-
-**/*.quarto_ipynb
-_site/
-resources/slideworks/
-.env.local
+# Environment / secrets
 .env
+.env.local
+
+# macOS
+.DS_Store
+
+# Dependencies
+node_modules/
+
+# Browser automation (Canvas sync testing)
+scripts/.chrome_profile/
+
+# Vendored / local resources
+resources/slideworks/
+
+# Scratch files (not course content)
+*.pptx
+*.csv
+*.mbz
+*.zip

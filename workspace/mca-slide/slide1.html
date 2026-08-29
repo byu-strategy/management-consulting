@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #ffffff; }
+body {
+  width: 720pt; height: 405pt; margin: 0; padding: 0;
+  background: #ffffff; font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Top bar */
+.top-bar {
+  background: #002E5D;
+  height: 5pt;
+  width: 100%;
+}
+
+/* Title */
+.title-area {
+  margin: 14pt 36pt 0 36pt;
+}
+.title-area h1 {
+  font-size: 22pt;
+  color: #002E5D;
+  margin: 0;
+}
+.title-area p {
+  font-size: 10pt;
+  color: #888888;
+  margin: 3pt 0 0 0;
+}
+
+/* Main content: two columns with funnel center */
+.main {
+  display: flex;
+  flex-direction: row;
+  margin: 10pt 20pt 0 20pt;
+  flex: 1;
+}
+
+/* Left column - MCA details */
+.left-col {
+  width: 195pt;
+  padding: 8pt 10pt 0 16pt;
+}
+.left-col h2 {
+  font-size: 13pt;
+  color: #002E5D;
+  margin: 0 0 6pt 0;
+}
+.left-col p {
+  font-size: 9pt;
+  color: #444444;
+  margin: 3pt 0;
+}
+
+/* Center - funnel image */
+.center-col {
+  width: 250pt;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 6pt;
+}
+
+/* Right column - STRAT 325 details */
+.right-col {
+  width: 195pt;
+  padding: 8pt 16pt 0 10pt;
+}
+.right-col h2 {
+  font-size: 13pt;
+  color: #002E5D;
+  margin: 0 0 6pt 0;
+}
+.right-col p {
+  font-size: 9pt;
+  color: #444444;
+  margin: 3pt 0;
+}
+
+/* Accent elements */
+.accent-line {
+  width: 30pt;
+  height: 2.5pt;
+  background: #C4A44A;
+  margin: 6pt 0 8pt 0;
+}
+
+/* Bottom TA bar */
+.bottom-bar {
+  margin: 0 36pt 14pt 36pt;
+}
+.ta-bar {
+  background: #002E5D;
+  border-radius: 4pt;
+  padding: 8pt 16pt;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.ta-bar-text {
+  flex: 1;
+}
+.ta-bar-text p {
+  font-size: 9pt;
+  color: #ffffff;
+  margin: 0;
+}
+.ta-bar-badge {
+  background: #C4A44A;
+  border-radius: 3pt;
+  padding: 4pt 10pt;
+  margin-left: 10pt;
+}
+.ta-bar-badge p {
+  font-size: 8pt;
+  color: #ffffff;
+  margin: 0;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+<div class="top-bar"></div>
+
+<div class="title-area">
+  <h1>MCA + STRAT 325: The Consulting Pipeline</h1>
+  <p>How the Management Consulting Association feeds into the classroom</p>
+</div>
+
+<div class="main">
+  <!-- LEFT: MCA details -->
+  <div class="left-col">
+    <h2>MCA  (Fall)</h2>
+    <div class="accent-line"></div>
+    <p><b>Top of funnel</b></p>
+    <p>Recruiting students across campus: freshmen, sophomores, juniors</p>
+    <p>Intro to consulting, networking events, case workshops</p>
+    <p>2 paid co-presidents + unpaid VPs run the club</p>
+    <p>60-100 active members attending regularly</p>
+  </div>
+
+  <!-- CENTER: Funnel image -->
+  <div class="center-col">
+    <img src="funnel.png" style="width: 240pt; height: 300pt; margin-top: 0pt;" />
+  </div>
+
+  <!-- RIGHT: STRAT 325 details -->
+  <div class="right-col">
+    <h2>STRAT 325  (Winter)</h2>
+    <div class="accent-line"></div>
+    <p><b>Serious candidates</b></p>
+    <p>Students with a real shot at consulting: MBB and beyond</p>
+    <p>3-credit class, meets 2x per week</p>
+    <p>Focused interview prep + live consulting projects</p>
+    <p>The Consultant's OS framework</p>
+  </div>
+</div>
+
+<!-- BOTTOM: TA Bridge -->
+<div class="bottom-bar">
+  <div class="ta-bar">
+    <div class="ta-bar-text">
+      <p><b>The Bridge:</b>  All MCA presidency members become STRAT 325 TAs - hired by the professor or BCC as student coaches for casing, resume prep, and interviews.</p>
+    </div>
+    <div class="ta-bar-badge">
+      <p><b>MCA President</b></p>
+      <p><b>becomes TA / Coach</b></p>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

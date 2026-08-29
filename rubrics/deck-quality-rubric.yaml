@@ -1,0 +1,234 @@
+# Deck Quality Rubric — Capstone (STRAT 325)
+# Consumed by scripts/score_deck.py
+# Pattern-firing logic lives in Python (one function per pattern ID).
+# This YAML is configuration only: weights, labels, gate caps, dimension/tier tags.
+
+rubric_id: deck-quality-capstone
+rubric_version: "1.0"
+atoms_version: "v3"
+schema_version_supported: "1.1"
+
+# -----------------------------------------------------------------------------
+# Dimensions
+# -----------------------------------------------------------------------------
+
+dimensions:
+  storyline:
+    label: "Storyline"
+    weight: 0.30
+    short_desc: "SCR arc, action titles, exec summary, proposed next steps, deck tightness, client-readiness"
+  insight:
+    label: "Insight"
+    weight: 0.30
+    short_desc: "Non-obvious so-what, pressure-testing, pushing past observation to actionable recommendation"
+  evidence:
+    label: "Evidence"
+    weight: 0.25
+    short_desc: "On-slide sourcing, data quality, format choices, assumptions, appendix bibliography"
+  design:
+    label: "Slide Design"
+    weight: 0.15
+    short_desc: "Squint test, consistency, white space, visual variety, chart quality, professional formatting"
+
+# -----------------------------------------------------------------------------
+# Gates (hard caps applied after tier-anchor scoring and hurdles)
+# -----------------------------------------------------------------------------
+
+gates:
+  G01:
+    name: "Assignment artifact in title"
+    dimension: storyline
+    cap: 4
+  G02:
+    name: "Missing contact info on title slide"
+    dimension: storyline
+    cap: 4
+  G03:
+    name: "Missing or weak executive summary"
+    dimension: storyline
+    cap: 4
+  G04:
+    name: "Untraceable sources on key claims"
+    dimension: evidence
+    cap: 4
+  G05:
+    name: "AI-scaffolding saturation"
+    dimension: storyline
+    cap: 4
+    also_drops: insight
+    # Fires when 3+ of the following patterns fire:
+    trigger_patterns: [S-C01, S-C02, S-C03, S-C04, S-C05, S-C06, S-C07, S-C07a, S-C07b, S-C07c, S-C07d, S-C07e]
+    trigger_threshold: 3
+
+# -----------------------------------------------------------------------------
+# Patterns
+# Each pattern's firing logic is a Python function in score_deck.py named pattern_<id_lower>.
+# student_name is shown to students; internal id is hidden.
+# -----------------------------------------------------------------------------
+
+patterns:
+  # ---- Storyline — Tier 3 (client-embarrassing)
+  S-B01: {dimension: storyline, tier: 3, student_name: "Title contradicts its own chart"}
+  S-B02: {dimension: storyline, tier: 3, student_name: "Title contains an internal contradiction"}
+
+  # ---- Storyline — Tier 2 (visible professional flaw)
+  S-C01: {dimension: storyline, tier: 2, student_name: "Topic-label title on a body slide"}
+  S-C02: {dimension: storyline, tier: 2, student_name: "Imperative-verb step label on cards"}
+  S-C03: {dimension: storyline, tier: 2, student_name: "Empty container-label kicker"}
+  S-C04: {dimension: storyline, tier: 2, student_name: "Uses 'move' as a noun for a recommendation"}
+  S-C05: {dimension: storyline, tier: 2, student_name: "Antithesis construction (not X, it's Y)"}
+  S-C06: {dimension: storyline, tier: 2, student_name: "AI-explainer parenthetical in a title"}
+  S-C07: {dimension: storyline, tier: 2, student_name: "Empty follow-on sentence after a quant claim"}
+  S-C07a: {dimension: storyline, tier: 2, student_name: "Self-referential scaffolding (refers to other slides)"}
+  S-C07b: {dimension: storyline, tier: 2, student_name: "Formulaic parallel recommendation slides"}
+  S-C07c: {dimension: storyline, tier: 2, student_name: "Next steps reverse-map to deck's own findings"}
+  S-C07d: {dimension: storyline, tier: 2, student_name: "Uniform title length across slides"}
+  S-C07e: {dimension: storyline, tier: 2, student_name: "Uniform parallel-bullet length across cards"}
+  S-C08: {dimension: storyline, tier: 2, student_name: "Slide doesn't advance the argument (cuttable)"}
+  S-C09: {dimension: storyline, tier: 2, student_name: "Redundant takeaway callout"}
+  S-C10: {dimension: storyline, tier: 2, student_name: "Generic next-steps"}
+  S-C12: {dimension: storyline, tier: 2, student_name: "Title-flow breaks"}
+  S-C13: {dimension: storyline, tier: 2, student_name: "Visual unification fails (too many unlinked blocks)"}
+  S-C14: {dimension: storyline, tier: 2, student_name: "Letterbox bleed (page-size mis-export)"}
+  S-C15: {dimension: storyline, tier: 2, student_name: "Body contains material not serving the title"}
+
+  # ---- Insight — Tier 2
+  I-C01: {dimension: insight, tier: 2, student_name: "So-what missing on analytical slide"}
+  I-C02: {dimension: insight, tier: 2, student_name: "Strongest counterargument unaddressed"}
+  I-C03: {dimension: insight, tier: 2, student_name: "Vague quantifier without a number"}
+  I-C04: {dimension: insight, tier: 2, student_name: "Surface-level analysis presented as insight"}
+
+  # ---- Evidence — Tier 3
+  E-B01: {dimension: evidence, tier: 3, student_name: "Chart math does not tie"}
+  E-B02: {dimension: evidence, tier: 3, student_name: "Chart title's claim does not match chart data"}
+  E-B03: {dimension: evidence, tier: 3, student_name: "Cross-slide numerical inconsistency"}
+  E-B04: {dimension: evidence, tier: 3, student_name: "Magnitude implausible"}
+  E-B06: {dimension: evidence, tier: 3, student_name: "Source is internal and unverifiable for a headline number"}
+
+  # ---- Evidence — Tier 2
+  E-C02: {dimension: evidence, tier: 2, student_name: "Missing assumption / derivation for an estimate"}
+  E-C03: {dimension: evidence, tier: 2, student_name: "Vague source"}
+  E-C04: {dimension: evidence, tier: 2, student_name: "On-slide source missing for a quantitative claim"}
+
+  # ---- Evidence — Tier 1
+  E-D02: {dimension: evidence, tier: 1, student_name: "Single vague source amid otherwise named sources"}
+  E-D03: {dimension: evidence, tier: 1, student_name: "Source-line format varies across slides"}
+
+  # ---- Design — Tier 3
+  D-B01: {dimension: design, tier: 3, student_name: "Edge clipping / text overflow"}
+  D-B02: {dimension: design, tier: 3, student_name: "Placeholder text left in"}
+
+  # ---- Design — Tier 2
+  D-C01: {dimension: design, tier: 2, student_name: "Uniform high density across the deck"}
+  D-C02: {dimension: design, tier: 2, student_name: "Low visual variety"}
+  D-C03: {dimension: design, tier: 2, student_name: "Focal-point fail on multiple slides"}
+  D-C04: {dimension: design, tier: 2, student_name: "Inconsistent semantic color"}
+  D-C05: {dimension: design, tier: 2, student_name: "Text-heavy body slide"}
+  D-C05a: {dimension: design, tier: 2, student_name: "Deck-average word density high"}
+
+  # ---- Design — Tier 1
+  D-D04: {dimension: design, tier: 1, student_name: "Inconsistent title casing"}
+  D-D05: {dimension: design, tier: 1, student_name: "Inconsistent bullet punctuation"}
+  D-D06: {dimension: design, tier: 1, student_name: "Inconsistent number formatting"}
+  D-D07: {dimension: design, tier: 1, student_name: "Page number inconsistent across slides"}
+  D-D09: {dimension: design, tier: 1, student_name: "Chart missing title or takeaway caption"}
+  D-D10: {dimension: design, tier: 1, student_name: "Axis labels or units missing"}
+  D-D11: {dimension: design, tier: 1, student_name: "Legend missing or unclear on multi-series chart"}
+
+# -----------------------------------------------------------------------------
+# Hurdles — must be met to reach the indicated level. If the descriptor match
+# gives level 7 but a level-7 hurdle fails, drop to 6. If level 6 and a
+# level-6 hurdle fails, drop to 5. Never promote above the descriptor match.
+#
+# Hurdle conditions are evaluated by Python helpers in score_deck.py.
+# -----------------------------------------------------------------------------
+
+hurdles:
+  storyline:
+    level_7:
+      requires_all:
+        - title_flow_coherent
+        - recommendation_is_specific_action
+        - recommendation_is_execution_not_substitute
+        - exec_summary_complete
+    level_6:
+      requires_all:
+        - most_titles_are_conclusions
+        - exec_summary_compresses_argument
+        - next_steps_have_named_deliverables
+
+  insight:
+    # Option C (internal-only proxies; EXT dropped).
+    level_7:
+      requires_all:
+        - thesis_is_specific
+        - recommendation_specificity_is_specific_action
+        - recommendation_is_execution_not_substitute
+        - pressure_test_not_unaddressed
+        - pressure_test_assumptions_explicit
+        - pushes_past_observation_to_interpretation
+        - core_slides_claim_specific_ratio_gte_0_80
+        - core_slides_generic_applicability_specific_ratio_gte_0_70
+    level_6:
+      requires_all:
+        - recommendation_is_specific_or_directional
+        - pushes_past_observation_to_interpretation
+        - pressure_test_not_unaddressed
+        - core_slides_claim_specific_ratio_gte_0_60
+      requires_any:
+        - pressure_test_assumptions_explicit
+        - no_internal_contradictions
+
+  evidence:
+    level_7:
+      requires_all:
+        - source_type_count_gte_2
+        - most_charts_have_takeaway_caption
+        - most_numeric_claims_show_derivation
+    level_6:
+      requires_all:
+        - source_type_count_gte_2
+        - majority_charts_have_takeaway_caption
+        - key_estimates_show_derivation
+
+  design:
+    level_7:
+      requires_all:
+        - at_least_two_single_visual_core_slides
+        - charts_have_professional_craft
+        - density_visibly_varies
+    level_6:
+      requires_all:
+        - at_least_half_core_slides_carry_visual_device
+        - chart_craft_consistent
+        - deck_has_density_variation
+
+# -----------------------------------------------------------------------------
+# Tier anchors — initial provisional dimension score from finding counts.
+# Hurdles and gates are applied afterwards.
+# Rule:
+#   if T3 == 0 and T2 <= 1:  provisional = 7 (will be confirmed or dropped by hurdles)
+#   if T3 == 0 and T2 in 2..3: provisional = 5
+#   if T3 == 0 and T2 in 4..5: provisional = 4
+#   if T3 == 1:                provisional = 4
+#   if T3 == 0 and T2 >= 6:    provisional = 3
+#   if T3 >= 2:                provisional = 3
+#   if T3 >= 4:                provisional = 2
+# -----------------------------------------------------------------------------
+
+tier_anchors:
+  - {t3_exact: 0, t2_max: 1, provisional: 7}
+  - {t3_exact: 0, t2_min: 2, t2_max: 3, provisional: 5}
+  - {t3_exact: 0, t2_min: 4, t2_max: 5, provisional: 4}
+  - {t3_exact: 1, provisional: 4}
+  - {t3_exact: 0, t2_min: 6, provisional: 3}
+  - {t3_min: 2, t3_max: 3, provisional: 3}
+  - {t3_min: 4, provisional: 2}
+
+# -----------------------------------------------------------------------------
+# Final score formula
+# -----------------------------------------------------------------------------
+
+scoring:
+  formula: "(storyline * 0.30 + insight * 0.30 + evidence * 0.25 + design * 0.15) * 100 / 7"
+  round: nearest_integer

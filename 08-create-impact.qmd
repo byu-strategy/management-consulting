@@ -164,6 +164,14 @@ Write a 3-sentence version of my storyline:
 
 ### 4.2 Communicate with Executive Brevity **(7)** 🔺 {#os-4-2}
 
+::: {.callout-important}
+## Quiz 9 Readings
+
+Read this article before class:
+
+1. [Getting to the "So What" — A Guide to Creating Actionable Business Insights](https://slideworks.io/resources/getting-to-so-what-guide-to-creating-actionable-business-insights) — How to move beyond observations to actionable recommendations using the "Five Whys" technique.
+:::
+
 *Lead with the answer, support with evidence*
 
 Executives are busy. Communicate with clarity and concision.
@@ -692,6 +700,14 @@ Sometimes you have to tell people things they don't want to hear.
 - "I understand you've invested heavily in this product line (Yes). The data shows it's not recovering, so we recommend sunsetting it (No). This frees resources to invest in your highest-growth segments (Yes)."
 
 ### 4.7 Coordinate as a Team {#os-4-7}
+
+::: {.callout-important}
+## Quiz 10 Readings
+
+Read this article before class:
+
+1. [The Pyramid Principle — Consulting Toolbox (with Examples)](https://slideworks.io/resources/the-pyramid-principle-mckinsey-toolbox-with-examples) — Barbara Minto's framework for structuring communication: lead with the answer, support with grouped arguments.
+:::
 
 *Present with consistent messaging and smooth handoffs*
 

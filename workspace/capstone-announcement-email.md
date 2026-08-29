@@ -2,9 +2,9 @@
 
 Hi everyone,
 
-A few updates to the final stretch that I think you'll like, plus a full rundown of everything left to do.
+A few updates to the final stretch that I think you'll like, plus a full rundown of everything left to do and turn in.
 
-**No Capstone pod presentations.** I've decided the deck itself is the better measure of your final deliverable. Instead of presenting in pods again this Thursday, your TAs will be available for **individual mentoring sessions** during class time (Avery is out of town Thursday but I am available to meet with you. Email me to set up a time.). Please coordinate a slot to meet with your TA if you would like.
+**No Capstone pod presentations.** I've decided the deck itself is the better measure of your final deliverable. Instead of presenting in pods again this Thursday, your TAs will be available for **individual mentoring sessions** during class time (Avery and Tatum are out of town Thursday but I am available to meet with you. Email me to set up a time.). Please coordinate a slot to meet with your TA if you would like.
 
 **TA rooms (Thursday, April 9, 12:30 PM):**
 
@@ -20,20 +20,20 @@ A few updates to the final stretch that I think you'll like, plus a full rundown
 
 **Grading: 100% deck quality.** Your Capstone is now graded entirely on the deck using a four-dimension rubric: Storyline (30%), Insight (30%), Evidence (25%), and Slide Design (15%). You'll receive detailed feedback on each dimension. The full rubric is published on the [Assessments page](https://byu-strategy.github.io/management-consulting/00-assessments.html#deck-quality-rubric). Read it carefully before you submit.
 
-**Capstone Showcase: Wednesday, April 22, 11:00 AM - 12:15 PM, W240 TNRB.** I'll invite 5-8 students with the strongest decks to present their work during our finals slot. All of you are invited and encouraged to attend. It's a great chance to see what the best work in the class looks like.
+**Capstone Showcase: Wednesday, April 22, 11:00 AM - 12:15 PM, W240 TNRB.** I'll invite 5-8 students with the strongest decks to present their work during our finals slot. All of you are invited and encouraged to attend. It's a great chance to see what the best work in the class looks like. Lunch will be served.
 
 **Everything due in the final two weeks:**
 
-| What | When |
-|------|------|
-| [TA Interview and Mentoring 3](https://byu.instructure.com/courses/34877/assignments) | By Saturday, April 11 |
-| [All Practice Interviews complete](https://byu-strategy.github.io/management-consulting/00-assessments.html#practice-interviews) | By Saturday, April 11 |
-| [Quiz 10](https://byu.instructure.com/courses/34877/quizzes) (in class) | Tuesday, April 14 |
-| [Networking Tracker](https://byu.instructure.com/courses/34877/assignments) | Tuesday, April 14 |
-| [Student Ratings](https://byu.instructure.com/courses/34877/assignments) (submit screenshot for +5 bonus) | Tuesday, April 14 |
-| **[Capstone: Conversation Deck](https://byu-strategy.github.io/management-consulting/00-assessments.html#conversation-deck)** (PDF to Canvas) | **Monday, April 20 at 11:59 PM** |
-| [Capstone: Outreach](https://byu-strategy.github.io/management-consulting/00-assessments.html#conversation-deck) (extra credit, +5) | Monday, April 20 |
-| Capstone Showcase (W240 TNRB, all invited) | Wednesday, April 22, 11:00 AM - 12:15 PM |
+| What | When | How to Turn It In |
+|------|------|-------------------|
+| [TA Interview and Mentoring 3](https://byu.instructure.com/courses/34877/assignments) | By Wed, April 15 | Meet with your TA. They enter the score. |
+| [All Practice Interviews complete](https://byu-strategy.github.io/management-consulting/00-assessments.html#practice-interviews) | By Wed, April 15 | Submit your feedback google sheet on Canvas OR directly with your TA. TAs will then enter the score. **Make sure you've added a second tab to your Google Sheet confirming the list of names of people you have been the Interviewer for.**|
+| [Quiz 10](https://byu.instructure.com/courses/34877/quizzes) (in class) | Tuesday, April 14 | Take it on Canvas during class. |
+| [Networking Tracker](https://byu.instructure.com/courses/34877/assignments) | Tuesday, April 14 | Upload a link to your tracker to Canvas and your TA will enter the score. |
+| [Student Ratings](https://byu.instructure.com/courses/34877/assignments) (+5 bonus) | Tuesday, April 14 | Complete the official survey, then upload a screenshot to Canvas. |
+| **[Capstone: Conversation Deck](https://byu-strategy.github.io/management-consulting/00-assessments.html#conversation-deck)** | **Monday, April 20 at 11:59 PM** | **Upload your deck as a PDF to Canvas.** |
+| [Capstone: Outreach](https://byu-strategy.github.io/management-consulting/00-assessments.html#conversation-deck) (+5 extra credit) | Monday, April 20 | Upload a screenshot of your outreach message to Canvas. |
+| Capstone Showcase (W240 TNRB, all invited) | Wednesday, April 22, 11:00 AM - 12:15 PM | Just show up. Lunch served. |
 
 **Quiz 10 readings.** Four short Slideworks articles (~25-30 minutes of reading total) that will directly help your Capstone. Quiz 10 will be administered on the last day of class, Tuesday, April 14.
 

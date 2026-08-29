@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Marriott School Common Core Analysis</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, sans-serif;
+    background: #0a0e1a;
+    color: #e2e8f0;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* Animated gradient background */
+  body::before {
+    content: '';
+    position: fixed;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(ellipse at 20% 50%, rgba(29, 78, 216, 0.08) 0%, transparent 50%),
+                radial-gradient(ellipse at 80% 20%, rgba(124, 58, 237, 0.06) 0%, transparent 50%),
+                radial-gradient(ellipse at 50% 80%, rgba(6, 182, 212, 0.05) 0%, transparent 50%);
+    z-index: -1;
+    animation: drift 20s ease-in-out infinite;
+  }
+
+  @keyframes drift {
+    0%, 100% { transform: translate(0, 0) rotate(0deg); }
+    33% { transform: translate(2%, -1%) rotate(1deg); }
+    66% { transform: translate(-1%, 1%) rotate(-0.5deg); }
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+  }
+
+  /* Header */
+  header {
+    text-align: center;
+    margin-bottom: 4rem;
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 0.35rem 1rem;
+    background: rgba(99, 102, 241, 0.15);
+    border: 1px solid rgba(99, 102, 241, 0.3);
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #818cf8;
+    margin-bottom: 1.25rem;
+  }
+
+  h1 {
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 900;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
+    background: linear-gradient(135deg, #f8fafc 0%, #94a3b8 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 0.75rem;
+  }
+
+  .subtitle {
+    font-size: 1.1rem;
+    color: #64748b;
+    font-weight: 400;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  /* Stats row */
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.25rem;
+    margin-bottom: 3.5rem;
+  }
+
+  .stat-card {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 16px;
+    padding: 1.75rem;
+    text-align: center;
+    backdrop-filter: blur(10px);
+    transition: transform 0.3s ease, border-color 0.3s ease;
+  }
+
+  .stat-card:hover {
+    transform: translateY(-2px);
+    border-color: rgba(99, 102, 241, 0.3);
+  }
+
+  .stat-number {
+    font-size: 2.75rem;
+    font-weight: 800;
+    letter-spacing: -0.04em;
+    line-height: 1;
+    margin-bottom: 0.4rem;
+  }
+
+  .stat-number.blue { color: #60a5fa; }
+  .stat-number.purple { color: #a78bfa; }
+  .stat-number.cyan { color: #22d3ee; }
+  .stat-number.amber { color: #fbbf24; }
+
+  .stat-label {
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: #64748b;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  /* Section titles */
+  .section-title {
+    font-size: 1.35rem;
+    font-weight: 700;
+    margin-bottom: 1.25rem;
+    color: #f1f5f9;
+    letter-spacing: -0.01em;
+  }
+
+  /* The matrix table */
+  .table-wrapper {
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 20px;
+    padding: 2rem;
+    margin-bottom: 3rem;
+    overflow-x: auto;
+    backdrop-filter: blur(10px);
+  }
+
+  table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-size: 0.85rem;
+  }
+
+  thead th {
+    padding: 0.75rem 1rem;
+    text-align: center;
+    font-weight: 700;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #94a3b8;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  thead th:first-child {
+    text-align: left;
+    min-width: 180px;
+  }
+
+  tbody tr {
+    transition: background 0.15s ease;
+  }
+
+  tbody tr:hover {
+    background: rgba(99, 102, 241, 0.04);
+  }
+
+  tbody td {
+    padding: 0.7rem 1rem;
+    text-align: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+    white-space: nowrap;
+  }
+
+  tbody td:first-child {
+    text-align: left;
+    font-weight: 500;
+    color: #e2e8f0;
+  }
+
+  /* Cell indicators */
+  .dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #22c55e;
+    box-shadow: 0 0 8px rgba(34, 197, 94, 0.3);
+  }
+
+  .exempt {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    border-radius: 6px;
+    background: rgba(239, 68, 68, 0.15);
+    color: #f87171;
+    font-size: 0.7rem;
+    font-weight: 700;
+  }
+
+  .alt {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    border-radius: 6px;
+    background: rgba(251, 191, 36, 0.15);
+    color: #fbbf24;
+    font-size: 0.85rem;
+    font-weight: 700;
+  }
+
+  .unknown {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    border-radius: 6px;
+    background: rgba(148, 163, 184, 0.1);
+    color: #94a3b8;
+    font-size: 0.75rem;
+    font-weight: 600;
+  }
+
+  /* Hours bar chart */
+  .hours-section {
+    margin-bottom: 3rem;
+  }
+
+  .bar-chart {
+    display: flex;
+    flex-direction: column;
+    gap: 0.85rem;
+  }
+
+  .bar-row {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .bar-label {
+    width: 60px;
+    font-weight: 600;
+    font-size: 0.85rem;
+    color: #cbd5e1;
+    text-align: right;
+    flex-shrink: 0;
+  }
+
+  .bar-track {
+    flex: 1;
+    height: 36px;
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .bar-fill {
+    height: 100%;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    padding-left: 0.85rem;
+    font-weight: 700;
+    font-size: 0.8rem;
+    color: white;
+    transition: width 1.5s cubic-bezier(0.16, 1, 0.3, 1);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .bar-fill::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.08) 50%, transparent 100%);
+    animation: shimmer 3s ease-in-out infinite;
+  }
+
+  @keyframes shimmer {
+    0%, 100% { transform: translateX(-100%); }
+    50% { transform: translateX(100%); }
+  }
+
+  .bar-41 { background: linear-gradient(90deg, #3b82f6, #6366f1); width: 100%; }
+  .bar-38 { background: linear-gradient(90deg, #6366f1, #8b5cf6); width: 92.7%; }
+  .bar-37 { background: linear-gradient(90deg, #8b5cf6, #a78bfa); width: 90.2%; }
+  .bar-34 { background: linear-gradient(90deg, #06b6d4, #22d3ee); width: 82.9%; }
+  .bar-31 { background: linear-gradient(90deg, #f59e0b, #fbbf24); width: 75.6%; }
+
+  .bar-value {
+    position: relative;
+    z-index: 1;
+  }
+
+  .bar-asterisk {
+    font-size: 0.65rem;
+    opacity: 0.7;
+    margin-left: 2px;
+  }
+
+  /* Legend */
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    padding: 1.5rem 2rem;
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 14px;
+    margin-bottom: 3rem;
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.8rem;
+    color: #94a3b8;
+  }
+
+  /* Insights */
+  .insights {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.25rem;
+    margin-bottom: 2rem;
+  }
+
+  .insight-card {
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 16px;
+    padding: 1.5rem;
+    backdrop-filter: blur(10px);
+    transition: border-color 0.3s ease;
+  }
+
+  .insight-card:hover {
+    border-color: rgba(99, 102, 241, 0.25);
+  }
+
+  .insight-icon {
+    font-size: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .insight-title {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #e2e8f0;
+    margin-bottom: 0.4rem;
+  }
+
+  .insight-text {
+    font-size: 0.82rem;
+    color: #64748b;
+    line-height: 1.6;
+  }
+
+  /* Footer */
+  footer {
+    text-align: center;
+    padding: 2rem 0 1rem;
+    color: #334155;
+    font-size: 0.75rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.04);
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+  <header>
+    <div class="badge">BYU Marriott School of Business</div>
+    <h1>Common Core Analysis</h1>
+    <p class="subtitle">How "common" is the common core across 9 Marriott School majors?</p>
+  </header>
+
+  <!-- Stats -->
+  <div class="stats">
+    <div class="stat-card">
+      <div class="stat-number blue">16</div>
+      <div class="stat-label">Core Classes</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number purple">9</div>
+      <div class="stat-label">Majors</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number cyan">7</div>
+      <div class="stat-label">Truly Shared</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number amber">10</div>
+      <div class="stat-label">Credit Hour Spread</div>
+    </div>
+  </div>
+
+  <!-- Legend -->
+  <div class="legend">
+    <div class="legend-item"><span class="dot"></span> Required</div>
+    <div class="legend-item"><span class="exempt">X</span> Exempt</div>
+    <div class="legend-item"><span class="alt">*</span> Alternative</div>
+    <div class="legend-item"><span class="unknown">?</span> Unclear</div>
+  </div>
+
+  <!-- Matrix Table -->
+  <div class="table-wrapper">
+    <div class="section-title">Requirement Matrix</div>
+    <table>
+      <thead>
+        <tr>
+          <th>Course</th>
+          <th>ACC</th><th>ENT</th><th>EXDM</th><th>FIN</th><th>GSCM</th><th>HRM</th><th>IS</th><th>MKTG</th><th>STRAT</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>ACC 200</td>
+          <td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td>
+        </tr>
+        <tr>
+          <td>ECON 110</td>
+          <td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td>
+        </tr>
+        <tr>
+          <td>ACC 241 / ENT 302</td>
+          <td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="exempt">X</span></td><td><span class="dot"></span></td><td><span class="exempt">X</span></td><td><span class="dot"></span></td><td><span class="exempt">X</span></td><td><span class="dot"></span></td><td><span class="dot"></span></td>
+        </tr>
+        <tr>
+          <td>FIN 201</td>
+          <td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td>
+        </tr>
+        <tr>
+          <td>GSCM 201/211</td>
+          <td><span class="exempt">X</span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td>
+        </tr>
+        <tr>
+          <td>HRM 391</td>
+          <td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="alt">*</span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td>
+        </tr>
+        <tr>
+          <td>IS 110</td>
+          <td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td>
+        </tr>
+        <tr>
+          <td>IS 201</td>
+          <td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td>
+        </tr>
+        <tr>
+          <td>Lecture Series</td>
+          <td><span class="unknown">?</span></td><td><span class="dot"></span></td><td><span class="unknown">?</span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="exempt">X</span></td><td><span class="dot"></span></td><td><span class="dot"></span></td>
+        </tr>
+        <tr>
+          <td>M Com 320</td>
+          <td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td>
+        </tr>
+        <tr>
+          <td>MKTG 201</td>
+          <td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td>
+        </tr>
+        <tr>
+          <td>MSB 325</td>
+          <td><span class="alt">*</span></td><td><span class="dot"></span></td><td><span class="exempt">X</span></td><td><span class="unknown">?</span></td><td><span class="alt">*</span></td><td><span class="dot"></span></td><td><span class="alt">*</span></td><td><span class="dot"></span></td><td><span class="alt">*</span></td>
+        </tr>
+        <tr>
+          <td>MSB 390</td>
+          <td><span class="alt">*</span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td>
+        </tr>
+        <tr>
+          <td>STAT 121</td>
+          <td><span class="exempt">X</span></td><td><span class="dot"></span></td><td><span class="exempt">X</span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td>
+        </tr>
+        <tr>
+          <td>STRAT 392 / ENT 402</td>
+          <td><span class="dot"></span></td><td><span class="alt">*</span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="dot"></span></td><td><span class="alt">*</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Hours Bar Chart -->
+  <div class="hours-section">
+    <div class="section-title">Credit Hours in the "Common" Core</div>
+    <div class="bar-chart">
+      <div class="bar-row">
+        <div class="bar-label">ACC</div>
+        <div class="bar-track"><div class="bar-fill bar-41"><span class="bar-value">41</span></div></div>
+      </div>
+      <div class="bar-row">
+        <div class="bar-label">GSCM</div>
+        <div class="bar-track"><div class="bar-fill bar-41"><span class="bar-value">41</span></div></div>
+      </div>
+      <div class="bar-row">
+        <div class="bar-label">IS</div>
+        <div class="bar-track"><div class="bar-fill bar-41"><span class="bar-value">41</span></div></div>
+      </div>
+      <div class="bar-row">
+        <div class="bar-label">STRAT</div>
+        <div class="bar-track"><div class="bar-fill bar-41"><span class="bar-value">41</span></div></div>
+      </div>
+      <div class="bar-row">
+        <div class="bar-label">HRM</div>
+        <div class="bar-track"><div class="bar-fill bar-38"><span class="bar-value">38</span></div></div>
+      </div>
+      <div class="bar-row">
+        <div class="bar-label">MKTG</div>
+        <div class="bar-track"><div class="bar-fill bar-37"><span class="bar-value">37</span></div></div>
+      </div>
+      <div class="bar-row">
+        <div class="bar-label">ENT</div>
+        <div class="bar-track"><div class="bar-fill bar-34"><span class="bar-value">34<span class="bar-asterisk">*</span></span></div></div>
+      </div>
+      <div class="bar-row">
+        <div class="bar-label">EXDM</div>
+        <div class="bar-track"><div class="bar-fill bar-31"><span class="bar-value">31<span class="bar-asterisk">*</span></span></div></div>
+      </div>
+      <div class="bar-row">
+        <div class="bar-label">FIN</div>
+        <div class="bar-track"><div class="bar-fill bar-41"><span class="bar-value">41<span class="bar-asterisk">*</span></span></div></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Key Insights -->
+  <div class="section-title">Key Insights</div>
+  <div class="insights">
+    <div class="insight-card">
+      <div class="insight-icon">&#x1f4a1;</div>
+      <div class="insight-title">Not So "Common"</div>
+      <div class="insight-text">Only 7 of 16 listed core classes are truly required by all 9 majors with no exemptions or alternatives.</div>
+    </div>
+    <div class="insight-card">
+      <div class="insight-icon">&#x1f4ca;</div>
+      <div class="insight-title">10-Hour Spread</div>
+      <div class="insight-text">Credit hours range from 31 (EXDM) to 41 (ACC, GSCM, IS, STRAT) &mdash; a 24% gap across majors in the same school.</div>
+    </div>
+    <div class="insight-card">
+      <div class="insight-icon">&#x1f504;</div>
+      <div class="insight-title">MSB 325 Is Fragmented</div>
+      <div class="insight-text">MSB 325 has more exceptions than any other course &mdash; 4 majors substitute alternatives and 1 is fully exempt.</div>
+    </div>
+    <div class="insight-card">
+      <div class="insight-icon">&#x2753;</div>
+      <div class="insight-title">Unresolved Ambiguity</div>
+      <div class="insight-text">Several cells remain unclear ("?"), particularly around the Lecture Series and FIN's MSB 325 requirement.</div>
+    </div>
+  </div>
+
+</div>
+
+<footer>
+  Marriott School Common Core Analysis &middot; Data sourced from program requirements comparison
+</footer>
+
+</body>
+</html>
