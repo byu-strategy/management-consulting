@@ -1,12 +1,14 @@
 ---
-title: "3. Move Work Forward"
+title: "3. Ownership"
 ---
 
-**Guiding Question:** Is the work actually progressing toward a decision?
+**Diamond axis:** [Ownership](02-consultants-os.qmd#consultant-diamond). Does the work move?
 
-The third imperative is about execution. Clear thinking and right answers mean nothing if the work doesn't get done. Consultants are valued for their ability to make progress, especially when conditions are uncertain.
+Ownership is the bottom of the diamond and the other half of the work axis: Judgment asks whether it is the right work, and Ownership asks whether it moves. Clear thinking and right answers mean nothing if the work doesn't get done. Consultants are valued for their ability to make progress, especially when conditions are uncertain.
 
-## Core Actions
+## Workstream Ownership
+
+*Act with high agency by owning a workstream end-to-end; anticipate needs and drive outcomes without waiting to be told*
 
 ### 3.1 Create a Workplan **(4)** 🔺 {#os-3-1}
 
@@ -405,6 +407,10 @@ Review my P2:
 ```
 :::
 
+## Tolerance for Ambiguity
+
+*Navigate uncertainty; make progress without complete information*
+
 ### 3.7 Move Without Certainty {#os-3-7}
 
 *Progress with best-available information*
@@ -501,7 +507,7 @@ Confidence: [High/Medium/Low]."
 
 ## Putting It Together
 
-The Move Work Forward actions flow:
+The Ownership actions flow:
 
 ```
 Workplan → Own → Sequence → Reprioritize → Manage Risk → Update → Progress Without Certainty

@@ -216,7 +216,7 @@ def parse_phases(content):
     in_table = False
     for line in content.split("\n"):
         line = line.strip()
-        if re.match(r"\|\s*Imperative\s*\|", line):
+        if re.match(r"\|\s*(Phase|Imperative)\s*\|", line):
             in_table = True
             continue
         if in_table and re.match(r"\|[-:]+\|", line):

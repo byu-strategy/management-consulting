@@ -97,63 +97,63 @@ ASSESSMENTS = [
      "submission_types": ["none"],
      "canvas_description": quiz_description(
          f'\u2022 <a href="{B}/04-working-as-a-team.html">Teams</a><br>'
-         f'\u2022 <a href="{B}/05-think-clearly.html#os-1-1">Diagnose the Current State</a><br>'
-         f'\u2022 <a href="{B}/05-think-clearly.html#os-1-1">Root Cause Analysis</a>')},
+         f'\u2022 <a href="{B}/05-structured-problem-solving.html#os-1-1">Diagnose the Current State</a><br>'
+         f'\u2022 <a href="{B}/05-structured-problem-solving.html#os-1-1">Root Cause Analysis</a>')},
     {"id": "quiz_03", "title": "Quiz 3", "group": "reading_quizzes", "points": 5,
      "due": "2026-01-29", "week": 4, "anchor": "#reading-quizzes",
      "submission_types": ["none"],
      "canvas_description": quiz_description(
-         f'\u2022 <a href="{B}/05-think-clearly.html#os-1-2">Define the Problem</a><br>'
-         f'\u2022 <a href="{B}/05-think-clearly.html#os-1-3">Frame the Decision</a>')},
+         f'\u2022 <a href="{B}/05-structured-problem-solving.html#os-1-2">Define the Problem</a><br>'
+         f'\u2022 <a href="{B}/05-structured-problem-solving.html#os-1-3">Frame the Decision</a>')},
     {"id": "quiz_04", "title": "Quiz 4", "group": "reading_quizzes", "points": 5,
      "due": "2026-02-05", "week": 5, "anchor": "#reading-quizzes",
      "submission_types": ["none"],
      "canvas_description": quiz_description(
-         f'\u2022 <a href="{B}/05-think-clearly.html#os-1-4">Hypothesize</a><br>'
-         f'\u2022 <a href="{B}/05-think-clearly.html#os-1-5">WWHTBT</a><br>'
-         f'\u2022 <a href="{B}/05-think-clearly.html#os-1-6">MECE</a><br>'
-         f'\u2022 <a href="{B}/05-think-clearly.html#os-1-7">Prioritization</a>')},
+         f'\u2022 <a href="{B}/05-structured-problem-solving.html#os-1-4">Hypothesize</a><br>'
+         f'\u2022 <a href="{B}/05-structured-problem-solving.html#os-1-5">WWHTBT</a><br>'
+         f'\u2022 <a href="{B}/05-structured-problem-solving.html#os-1-6">MECE</a><br>'
+         f'\u2022 <a href="{B}/05-structured-problem-solving.html#os-1-7">Prioritization</a>')},
     {"id": "quiz_05", "title": "Quiz 5", "group": "reading_quizzes", "points": 5,
      "due": "2026-02-12", "week": 6, "anchor": "#reading-quizzes",
      "submission_types": ["none"],
      "canvas_description": quiz_description(
-         f'\u2022 <a href="{B}/06-get-right-answer.html#os-2-2">Outside-In Fact Base</a><br>'
-         f'\u2022 <a href="{B}/06-get-right-answer.html#os-2-3">Assumptions</a><br>'
-         f'\u2022 <a href="{B}/06-get-right-answer.html#os-2-4">Quick Math &amp; Estimation</a>')},
+         f'\u2022 <a href="{B}/06-analytics-modeling.html#os-2-2">Outside-In Fact Base</a><br>'
+         f'\u2022 <a href="{B}/06-analytics-modeling.html#os-2-3">Assumptions</a><br>'
+         f'\u2022 <a href="{B}/06-analytics-modeling.html#os-2-4">Quick Math &amp; Estimation</a>')},
     {"id": "quiz_06", "title": "Quiz 6", "group": "reading_quizzes", "points": 5,
      "due": "2026-02-26", "week": 8, "anchor": "#reading-quizzes",
      "submission_types": ["none"],
      "canvas_description": quiz_description(
-         f'\u2022 <a href="{B}/06-get-right-answer.html#os-2-1">Design Analyses</a><br>'
-         f'\u2022 <a href="{B}/06-get-right-answer.html#os-2-5">Modeling</a><br>'
-         f'\u2022 <a href="{B}/06-get-right-answer.html#os-2-6">Synthesize: Data to Insight</a>')},
+         f'\u2022 <a href="{B}/06-analytics-modeling.html#os-2-1">Design Analyses</a><br>'
+         f'\u2022 <a href="{B}/06-analytics-modeling.html#os-2-5">Modeling</a><br>'
+         f'\u2022 <a href="{B}/08-communication.html#os-4-1">Synthesize: Data to Insight</a>')},
     {"id": "quiz_07", "title": "Quiz 7", "group": "reading_quizzes", "points": 5,
      "due": "2026-03-05", "week": 9, "anchor": "#reading-quizzes",
      "submission_types": ["none"],
      "canvas_description": quiz_description(
-         f'\u2022 <a href="{B}/07-move-work-forward.html#os-3-1">Create a Workplan</a><br>'
-         f'\u2022 <a href="{B}/07-move-work-forward.html#os-3-2">Own Your Workstream</a><br>'
-         f'\u2022 <a href="{B}/07-move-work-forward.html#os-3-3">Sequence</a>')},
+         f'\u2022 <a href="{B}/07-ownership.html#os-3-1">Create a Workplan</a><br>'
+         f'\u2022 <a href="{B}/07-ownership.html#os-3-2">Own Your Workstream</a><br>'
+         f'\u2022 <a href="{B}/07-ownership.html#os-3-3">Sequence</a>')},
     {"id": "quiz_08", "title": "Quiz 8", "group": "reading_quizzes", "points": 5,
      "due": "2026-03-24", "week": 12, "anchor": "#reading-quizzes",
      "canvas_quiz": True,
      "canvas_description": quiz_description(
-         f'\u2022 <a href="{B}/07-move-work-forward.html#os-3-4">Reprioritize</a><br>'
-         f'\u2022 <a href="{B}/07-move-work-forward.html#os-3-5">Anticipate Risks</a><br>'
-         f'\u2022 <a href="{B}/07-move-work-forward.html#os-3-6">Manage Up</a><br>'
-         f'\u2022 <a href="{B}/07-move-work-forward.html#os-3-7">Move Without Certainty</a><br>'
-         f'\u2022 <a href="{B}/08-create-impact.html#os-4-1">Craft a Storyline (SCQA &amp; Pyramid)</a><br>'
+         f'\u2022 <a href="{B}/07-ownership.html#os-3-4">Reprioritize</a><br>'
+         f'\u2022 <a href="{B}/07-ownership.html#os-3-5">Anticipate Risks</a><br>'
+         f'\u2022 <a href="{B}/07-ownership.html#os-3-6">Manage Up</a><br>'
+         f'\u2022 <a href="{B}/07-ownership.html#os-3-7">Move Without Certainty</a><br>'
+         f'\u2022 <a href="{B}/08-communication.html#os-4-2">Craft a Storyline (SCQA &amp; Pyramid)</a><br>'
          '\u2022 <a href="https://slideworks.io/resources/bcg-approach-to-great-slides-practical-guide-from-former-consultant#what-are-the-components-of-a-great-presentation">BCG Slides Guide</a><br>'
          '\u2022 <a href="https://slideworks.io/resources/mckinsey-problem-solving-process">McKinsey Problem-Solving</a>')},
     {"id": "quiz_09", "title": "Quiz 9", "group": "reading_quizzes", "points": 5,
      "due": "2026-04-02", "week": 13, "anchor": "#reading-quizzes",
      "canvas_quiz": True, "unlock_at": "2026-04-02T12:30:00-07:00",
      "canvas_description": quiz_description(
-         f'\u2022 <a href="{B}/08-create-impact.html#os-4-2">Executive Brevity</a><br>'
-         f'\u2022 <a href="{B}/08-create-impact.html#os-4-2">Confident Delivery</a><br>'
-         f'\u2022 <a href="{B}/06-get-right-answer.html#os-2-2">Trust Equation</a><br>'
-         f'\u2022 <a href="{B}/08-create-impact.html#os-4-4">Build Trust</a><br>'
-         f'\u2022 <a href="{B}/08-create-impact.html#os-4-3">Tailor &amp; Handle Pushback</a><br>'
+         f'\u2022 <a href="{B}/08-communication.html#os-4-3">Executive Brevity</a><br>'
+         f'\u2022 <a href="{B}/08-communication.html#os-4-3">Confident Delivery</a><br>'
+         f'\u2022 <a href="{B}/06-analytics-modeling.html#os-2-2">Trust Equation</a><br>'
+         f'\u2022 <a href="{B}/09-collaboration.html#os-5-1">Build Trust</a><br>'
+         f'\u2022 <a href="{B}/08-communication.html#os-4-4">Tailor &amp; Handle Pushback</a><br>'
          '\u2022 <a href="https://slideworks.io/resources/getting-to-so-what-guide-to-creating-actionable-business-insights">Getting to the &ldquo;So What&rdquo;</a>')},
     {"id": "quiz_10", "title": "Quiz 10", "group": "reading_quizzes", "points": 5,
      "due": "2026-04-14", "week": 15, "anchor": "#reading-quizzes",
@@ -832,7 +832,7 @@ def parse_phases(content):
     in_table = False
     for line in content.split("\n"):
         line = line.strip()
-        if re.match(r"\|\s*Imperative\s*\|", line):
+        if re.match(r"\|\s*(Phase|Imperative)\s*\|", line):
             in_table = True
             continue
         if in_table and re.match(r"\|[-:]+\|", line):
@@ -1010,34 +1010,34 @@ def generate_homepage_html(course_id, sessions, assessments_by_week):
     </table>
   </div>
 
-  <!-- The Four Imperatives -->
+  <!-- The Consultant Diamond -->
   <div style="background: #fff; border: 1px solid #e2e6ea; border-radius: 8px; padding: 24px; margin-bottom: 20px;">
-    <h2 style="margin: 0 0 14px 0; font-size: 19px; color: #002E5D;">The Four Imperatives</h2>
+    <h2 style="margin: 0 0 14px 0; font-size: 19px; color: #002E5D;">The Consultant Diamond</h2>
     <table style="width: 100%; border-collapse: separate; border-spacing: 0 10px;">
       <tr>
         <td style="width: 50%; background: #f0f4f8; padding: 14px 16px; border-radius: 6px;
                    border-left: 4px solid #002E5D; vertical-align: top;">
-          <strong style="color: #002E5D;">1. Think Clearly</strong><br>
-          <span style="font-size: 13px; color: #555;">Are we solving the right problem in the right way?</span>
+          <strong style="color: #002E5D;">Judgment</strong><br>
+          <span style="font-size: 13px; color: #555;">Is this the right work, and is the answer right?</span>
         </td>
         <td style="width: 8px;"></td>
         <td style="width: 50%; background: #f0f4f8; padding: 14px 16px; border-radius: 6px;
                    border-left: 4px solid #0062B8; vertical-align: top;">
-          <strong style="color: #002E5D;">2. Get to the Right Answer</strong><br>
-          <span style="font-size: 13px; color: #555;">What do the facts and data actually say?</span>
+          <strong style="color: #002E5D;">Ownership</strong><br>
+          <span style="font-size: 13px; color: #555;">Does the work move?</span>
         </td>
       </tr>
       <tr>
         <td style="width: 50%; background: #f0f4f8; padding: 14px 16px; border-radius: 6px;
                    border-left: 4px solid #4A90D9; vertical-align: top;">
-          <strong style="color: #002E5D;">3. Move Work Forward</strong><br>
-          <span style="font-size: 13px; color: #555;">Is the work actually progressing toward a decision?</span>
+          <strong style="color: #002E5D;">Communication</strong><br>
+          <span style="font-size: 13px; color: #555;">Do people understand it?</span>
         </td>
         <td style="width: 8px;"></td>
         <td style="width: 50%; background: #f0f4f8; padding: 14px 16px; border-radius: 6px;
                    border-left: 4px solid #7FB3E8; vertical-align: top;">
-          <strong style="color: #002E5D;">4. Create Impact with People</strong><br>
-          <span style="font-size: 13px; color: #555;">Do people understand, trust, and act on this work?</span>
+          <strong style="color: #002E5D;">Collaboration</strong><br>
+          <span style="font-size: 13px; color: #555;">Do people trust you, and do they want you on the next one?</span>
         </td>
       </tr>
     </table>

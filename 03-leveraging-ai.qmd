@@ -401,36 +401,36 @@ Summarize the key takeaways in 3-5 bullet points.
 
 ## AI-Assisted Consulting Actions
 
-### Think Clearly with AI
+### Judgment with AI
 
 | Core Action | How AI Helps |
 |:------------|:-------------|
 | Diagnose current state | Synthesize news, filings, analyst reports quickly |
 | Define the problem | Pressure-test your problem statement for clarity |
 | Build MECE structures | Generate and critique issue trees |
-
-### Get to the Right Answer with AI
-
-| Core Action | How AI Helps |
-|:------------|:-------------|
 | Build fact base | Research companies, industries, competitors rapidly |
 | Estimate and bound | Sanity-check assumptions, find benchmarks |
-| Synthesize | Draft "so what" statements, identify patterns |
 
-### Move Work Forward with AI
+### Ownership with AI
 
 | Core Action | How AI Helps |
 |:------------|:-------------|
 | Workplanning | Draft project plans, identify dependencies |
 | Progress without certainty | Explore multiple scenarios quickly |
 
-### Create Impact with AI
+### Communication with AI
 
 | Core Action | How AI Helps |
 |:------------|:-------------|
+| Synthesize | Draft "so what" statements, identify patterns |
 | Craft storylines | Structure Pyramid Principle arguments |
 | Communicate with brevity | Edit for conciseness, strengthen logic |
-| Prepare for stakeholders | Anticipate questions, practice responses |
+
+### Collaboration with AI
+
+| Core Action | How AI Helps |
+|:------------|:-------------|
+| Prewire stakeholders | Anticipate questions, practice responses |
 
 ::: {#activity-ai-workflows-recruiting .callout-tip collapse="true"}
 ## Recruiting Activity: Build Detailed Firm Research Profile

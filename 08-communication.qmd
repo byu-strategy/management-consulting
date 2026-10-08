@@ -1,14 +1,184 @@
 ---
-title: "4. Create Impact with People"
+title: "4. Communication"
 ---
 
-**Guiding Question:** Do people understand, trust, and act on this work?
+**Diamond axis:** [Communication](02-consultants-os.qmd#consultant-diamond). Do people understand it?
 
-The fourth imperative is where consulting becomes real. Your analysis only creates value if people understand it, believe it, and act on it. This is about communication, trust, and influence.
+Communication is the right side of the diamond. Your analysis only creates value if people understand it, and a reviewer judges this axis on the artifact: the update, memo, or deck you hand a reader. It starts the moment the analysis ends, with synthesis.
 
-## Core Actions
+## Clear Communication
 
-### 4.1 Craft a Storyline **(6)** 🔺 {#os-4-1}
+*Synthesize findings into an answer; apply the Pyramid Principle; write action-titled slides; deliver crisp verbal updates; tailor the message to the reader*
+
+### 4.1 Synthesize into Clear Answers **(6)** 🔺 {#os-4-1}
+
+*Climb from data to insight to recommendation*
+
+Analysis isn't done until you've answered the question. "So what?" is the most important question.
+
+| Recruiting Application | Client Work Application |
+|:-----------------------|:------------------------|
+| Case interviews: drive to a clear recommendation with supporting logic | Synthesize research into "so what" insights that directly answer the client's question |
+
+**Synthesis vs. Summary:**
+
+| Summary | Synthesis |
+|:--------|:----------|
+| "We found X, Y, and Z" | "X, Y, and Z mean you should do A" |
+| Lists facts | Draws conclusions |
+| Describes | Recommends |
+
+**The "So What" Ladder:**
+
+1. **Data**: "Revenue declined 15%"
+2. **Insight**: "Revenue declined because we lost share in the premium segment"
+3. **Implication**: "We need to reinvest in premium or accept margin erosion"
+4. **Recommendation**: "Invest $10M in premium product refresh"
+
+Always climb to recommendations.
+
+::: {#activity-synthesize-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: Case—Driving to a Recommendation
+
+*Supports: Practice Interviews (Case)*
+
+Practice the full synthesis arc in a case interview context: moving from data to insight to recommendation.
+
+```bash
+Help me practice synthesis in a case context:
+
+**Case Setup**
+Give me a case scenario with 3-4 data points I need to synthesize into a recommendation.
+
+**My Synthesis**
+[I'll analyze the data and provide my synthesis, then paste it]
+
+**Feedback**
+Once I share my synthesis:
+1. Did I correctly identify the key insight from the data?
+2. Is my "so what" clear and actionable?
+3. Did I make the recommendation decision-focused (not just descriptive)?
+4. What logical gaps exist in my reasoning?
+5. How could I strengthen my synthesis?
+
+**Pressure Test**
+Ask me a follow-up question that challenges my synthesis or pushes for deeper insight.
+```
+:::
+
+::: {#activity-synthesize-client .callout-tip collapse="true"}
+## Client Work Activity: Synthesize Research into Insights
+
+*Supports: P1 Intelligence Brief, P2 Point of View*
+
+Take your fact base and research and synthesize it into actionable insights.
+
+```bash
+Help me synthesize my research on [COMPANY NAME] into key insights:
+
+**My Research Summary**
+[Paste 5-10 key findings from your fact base work]
+
+**Synthesis Framework**
+For each major finding, apply the "So What" Ladder:
+1. **Data**: What's the fact?
+2. **Insight**: What does it mean?
+3. **Implication**: Why does it matter?
+4. **Recommendation**: What should they do about it?
+
+**Pattern Recognition**
+- What themes emerge across multiple findings?
+- What contradictions or tensions exist?
+- What's the most important insight overall?
+
+**Executive Summary**
+Write a 3-sentence synthesis:
+- Sentence 1: The situation (what's happening)
+- Sentence 2: The insight (what it means)
+- Sentence 3: The implication (what to do about it)
+
+**Quality Check**
+- Is my synthesis telling them something they don't already know?
+- Is it actionable (not just interesting)?
+- Is it supported by the evidence?
+```
+:::
+
+::: {#activity-synthesis-workshop-recruiting .callout-tip collapse="true"}
+## Recruiting Activity: Rapid Synthesis Exercises
+
+*Supports: Practice Interviews (Case)*
+
+Practice synthesizing quickly under time pressure—a critical case interview skill.
+
+```bash
+Help me practice rapid synthesis:
+
+**Exercise 1: 60-Second Synthesis**
+Give me 3 data points about a company. I have 60 seconds to synthesize them into a "so what."
+
+**Exercise 2: Contradictory Data**
+Give me 2-3 data points that seem to contradict each other. Help me synthesize them into a coherent insight.
+
+**Exercise 3: Missing Data**
+Give me an incomplete picture. What synthesis can I reach, and what caveats should I include?
+
+**My Responses**
+[I'll work through each exercise]
+
+**Feedback**
+For each exercise:
+- How strong was my synthesis?
+- What did I miss?
+- How could I improve?
+```
+:::
+
+::: {#activity-synthesis-workshop-client .callout-tip collapse="true"}
+## Client Work Activity: P1 Workshop—1-Page Diagnostic
+
+*Supports: P1 Intelligence Brief*
+
+Apply synthesis skills to create your P1 Intelligence Brief deliverable.
+
+```bash
+Help me draft my 1-page Company Diagnostic for [COMPANY NAME]:
+
+**Diagnostic Framework**
+Review my work so far and help me synthesize into P1 format:
+
+1. **Company Overview (2-3 sentences)**
+   - What does the company do?
+   - What's their market position?
+
+2. **Financial Health (key metrics with 3-year trends)**
+   - Revenue trajectory
+   - Profitability trends
+   - Financial strengths/concerns
+
+3. **Strategic Position**
+   - Competitive advantages
+   - Key vulnerabilities
+
+4. **Key Challenges (2-3 strategic issues)**
+   - What problems is the company facing?
+   - Why do they matter?
+
+5. **Initial Hypothesis (one area for consulting value-add)**
+   - Where could consulting help?
+   - What would you investigate?
+
+**Format Check**
+- Does everything fit on one page?
+- Is each section clearly synthesized (not just data dump)?
+- Are my insights actionable?
+
+**Improvement Areas**
+What's weak in my diagnostic and how should I strengthen it?
+```
+:::
+
+### 4.2 Craft a Storyline **(6)** 🔺 {#os-4-2}
 
 ::: {.callout-important}
 ## Quiz 8 Readings
@@ -162,7 +332,7 @@ Write a 3-sentence version of my storyline:
 :::
 
 
-### 4.2 Communicate with Executive Brevity **(7)** 🔺 {#os-4-2}
+### 4.3 Communicate with Executive Brevity **(7)** 🔺 {#os-4-3}
 
 ::: {.callout-important}
 ## Quiz 9 Readings
@@ -376,7 +546,7 @@ Help me create my Capstone presentation structure for [COMPANY NAME]:
 ```
 :::
 
-### 4.3 Tailor to Stakeholders **(7)** 🔺 {#os-4-3}
+### 4.4 Tailor to Stakeholders **(7)** 🔺 {#os-4-4}
 
 *Different audiences need different messages*
 
@@ -491,443 +661,18 @@ Let's practice: Give me one objection at a time and I'll respond using Yes-No-Ye
 ```
 :::
 
-### 4.4 Build Trust {#os-4-4}
-
-*Demonstrate judgment, reliability, and empathy*
-
-Trust is the foundation of influence. Without it, even perfect analysis fails.
-
-| Recruiting Application | Client Work Application |
-|:-----------------------|:------------------------|
-| Fit interviews: demonstrate character, judgment, and cultural fit | Build trust through consistent delivery, honest communication, and genuine care for client success |
-
-**Trust Equation (reminder):**
-
-$$Trust = \frac{Credibility + Reliability + Intimacy}{Self\text{-}Orientation}$$
-
-**Building Trust:**
-
-| Component | How to Build It |
-|:----------|:----------------|
-| **Credibility** | Know your stuff; admit what you don't know |
-| **Reliability** | Do what you say; meet deadlines; follow up |
-| **Intimacy** | Listen; remember personal details; be human |
-| **Low Self-Orientation** | Focus on their success, not your credit |
-
-::: {#activity-build-trust-recruiting .callout-tip collapse="true"}
-## Recruiting Activity: Trust Equation for Networking & Fit Interviews
-
-*Supports: Networking Tracker, Practice Interviews (Fit)*
-
-Use the Trust Equation to prepare for networking conversations and fit interviews.
-
-```bash
-Help me prepare for a networking conversation using the Trust Equation:
-
-**The Trust Equation**: Trust = (Credibility + Reliability + Intimacy) / Self-Orientation
-
-**My Meeting**
-- Person: [NAME]
-- Company: [FIRM]
-- Context: [How we connected, what I'm hoping to discuss]
-
-**Credibility: How can I show I know what I'm talking about?**
-- What research have I done on their firm/role?
-- What relevant experience or knowledge do I have?
-- What thoughtful questions show depth of understanding?
-
-**Reliability: How can I demonstrate follow-through?**
-- How will I prepare thoroughly before the meeting?
-- What specific commitments can I make and keep?
-- How will I follow up professionally after?
-
-**Intimacy: How can I create genuine connection?**
-- What might we have in common?
-- How can I be authentic about my interests and journey?
-- What's a genuine reason I want to talk to this person specifically?
-
-**Self-Orientation: How do I keep it low?**
-- What can I offer them (insight, help, connection)?
-- How do I show genuine curiosity vs. just "asking for things"?
-- What questions focus on learning about them vs. pitching myself?
-
-Help me plan specific talking points that maximize trust.
-```
-
-**Character Dimensions for Fit Interviews**
-
-Consulting firms evaluate:
-- Integrity: Do you do the right thing?
-- Judgment: Do you make good decisions?
-- Humility: Can you admit mistakes?
-- Resilience: How do you handle adversity?
-- Curiosity: Are you genuinely interested in learning?
-
-```bash
-Help me prepare to demonstrate character and judgment in fit interviews:
-
-**Story Mapping**
-For each dimension, identify a story that demonstrates it:
-- Integrity story: [Brief description]
-- Judgment story: [Brief description]
-- Humility story: [Brief description]
-- Resilience story: [Brief description]
-- Curiosity story: [Brief description]
-
-**Cultural Fit Questions**
-Prepare for questions like:
-- "Why consulting?"
-- "Why our firm specifically?"
-- "What do you do outside of work?"
-- "Tell me about a time you failed"
-
-**Practice Responses**
-Let me practice answering fit questions. Give me one at a time and provide feedback on:
-- Did I show authentic character?
-- Did I demonstrate good judgment?
-- Did I come across as someone they'd want on their team?
-```
-
-**Group Settings: Info Sessions & Group Interviews**
-
-In group settings, firms evaluate how you work with others. Apply the Trust Equation while demonstrating collaboration:
-
-```bash
-Help me prepare for a group recruiting event:
-
-**Event Context**
-- Type: [Info session / Group case / Networking event]
-- Format: [What will happen]
-
-**Trust Equation in Groups**
-- Credibility: Contribute substantively, but don't dominate
-- Reliability: Follow through on any commitments made in the room
-- Intimacy: Build genuine connections, not transactional ones
-- Low Self-Orientation: Help the group succeed; build on others' ideas
-
-**Collaboration Signals**
-What behaviors will show I'm a team player?
-- Active listening: [How I'll show engagement]
-- Building on ideas: [Phrases like "Building on what X said..."]
-- Supporting others: [How I'll acknowledge good points]
-- Leading when needed: [How I'll step up appropriately]
-
-**If Attending with Classmates**
-- How can we support each other without looking rehearsed?
-- How do we avoid competing or undermining each other?
-```
-:::
-
-::: {#activity-build-trust-client .callout-tip collapse="true"}
-## Client Work Activity: Stakeholder Trust Mapping
-
-*Supports: Capstone Presentation*
-
-Map stakeholder concerns and develop a plan to build trust.
-
-```bash
-Help me apply the Trust Equation to key stakeholders:
-
-**Trust Equation Reminder**
-Trust = (Credibility + Reliability + Intimacy) / Self-Orientation
-
-**Stakeholder Analysis**
-For each key stakeholder in my project:
-
-**Stakeholder 1: [Name/Role]**
-- Their primary concerns:
-- What they care about most:
-
-Assess my trust components:
-- Credibility: How can I show I know what I'm talking about?
-- Reliability: How can I demonstrate follow-through?
-- Intimacy: How can I connect on a personal level?
-- Self-Orientation: How do I show this is about their success?
-
-**Trust-Building Plan**
-For each stakeholder:
-1. What specific action will increase credibility?
-2. What commitment will I make (and keep) to build reliability?
-3. What genuine connection can I make to build intimacy?
-4. How will I keep self-orientation low?
-
-**Red Flags**
-- Where might my credibility be questioned?
-- Where have I been unreliable?
-- What might make them think I'm self-oriented?
-
-**Improvement Plan**
-What's my #1 priority to build more trust with each stakeholder?
-```
-:::
-
-### 4.5 Prewire Stakeholders {#os-4-5}
-
-*Never surprise decision-makers in a meeting*
-
-Never surprise stakeholders in a meeting. Prewire your recommendations.
-
-| Recruiting Application | Client Work Application |
-|:-----------------------|:------------------------|
-| Before asking for a referral, build the relationship | Before the steering committee, share findings with key stakeholders individually |
-
-**Prewiring Principles:**
-
-1. **Identify key stakeholders**: Who needs to be aligned?
-2. **Meet individually**: Share findings, get reactions
-3. **Incorporate feedback**: Adjust recommendations if needed
-4. **Build support**: Convert skeptics before the room
-5. **No surprises**: Everyone should know what's coming
-
-### 4.6 Navigate Difficult Conversations {#os-4-6}
-
-*Deliver hard messages constructively*
-
-Sometimes you have to tell people things they don't want to hear.
-
-| Recruiting Application | Client Work Application |
-|:-----------------------|:------------------------|
-| Handle difficult fit questions with poise | Deliver tough messages about performance, strategy, or organization |
-
-**Yes-No-Yes Framework:**
-
-1. **Yes**: Affirm their perspective or concern
-2. **No**: Deliver the difficult message directly
-3. **Yes**: Offer a path forward or positive framing
-
-**Example:**
-
-- "I understand you've invested heavily in this product line (Yes). The data shows it's not recovering, so we recommend sunsetting it (No). This frees resources to invest in your highest-growth segments (Yes)."
-
-### 4.7 Coordinate as a Team {#os-4-7}
-
-::: {.callout-important}
-## Quiz 10 Readings
-
-Read this article before class:
-
-1. [The Pyramid Principle — Consulting Toolbox (with Examples)](https://slideworks.io/resources/the-pyramid-principle-mckinsey-toolbox-with-examples) — Barbara Minto's framework for structuring communication: lead with the answer, support with grouped arguments.
-:::
-
-*Present with consistent messaging and smooth handoffs*
-
-In consulting, you rarely present alone. Teams must be aligned.
-
-| Recruiting Application | Client Work Application |
-|:-----------------------|:------------------------|
-| In group interviews or networking events, coordinate with peers | Present as a team with consistent messaging and smooth handoffs |
-
-**Team Presentation Principles:**
-
-1. **Align on the storyline**: Everyone knows the narrative
-2. **Clear handoffs**: Who covers what
-3. **Support each other**: No contradictions or surprises
-4. **One voice**: Consistent framing and recommendations
-
-::: {#activity-coordinate-team-client .callout-tip collapse="true"}
-## Client Work Activity: Capstone Team Coordination
-
-*Supports: Capstone Presentation*
-
-Coordinate with your capstone team to create a unified presentation with smooth handoffs.
-
-```bash
-Help my team coordinate our capstone presentation:
-
-**Team Members**
-- [Name 1]: [Role/Section]
-- [Name 2]: [Role/Section]
-- [Name 3]: [Role/Section]
-
-**Storyline Alignment**
-First, let's align on our overall narrative:
-- What is our main recommendation?
-- What are the 3 key supporting points?
-- What's the "so what" for the client?
-
-Does everyone agree on this framing?
-
-**Section Ownership**
-Who presents what?
-- Opening/Context: [Owner]
-- Analysis Section 1: [Owner]
-- Analysis Section 2: [Owner]
-- Recommendations: [Owner]
-- Q&A Lead: [Owner]
-
-**Handoff Planning**
-For each transition:
-- Transition 1: [Person A] → [Person B]
-  - Last sentence from A:
-  - First sentence from B:
-
-- Transition 2: [Person B] → [Person C]
-  - Last sentence from B:
-  - First sentence from C:
-
-**Consistency Check**
-Review for alignment:
-- Are we using the same terminology?
-- Are our numbers consistent across sections?
-- Do our recommendations match across speakers?
-- Are our action titles telling one coherent story?
-
-**Rehearsal Plan**
-- When will we do a full run-through?
-- Who will give feedback?
-- What's our backup plan if someone loses track?
-
-**Q&A Coordination**
-- Who answers what types of questions?
-- How do we hand off if the wrong person gets a question?
-- What are the 5 hardest questions we might get, and who answers each?
-```
-:::
-
-### 4.8 Seek Feedback {#os-4-8}
-
-*Constantly improve through input from others*
-
-The best consultants constantly improve through feedback.
-
-| Recruiting Application | Client Work Application |
-|:-----------------------|:------------------------|
-| After mock interviews, ask for specific feedback and apply it | After presentations and deliverables, ask what could be better |
-
-**Seeking Feedback:**
-
-1. **Ask specifically**: "What's one thing I could improve?"
-2. **Listen fully**: Don't defend or explain
-3. **Thank them**: Feedback is a gift
-4. **Apply it**: Show improvement next time
-
-**Demonstrating Coachability:**
-
-- Before/after examples show growth
-- Rapid incorporation of feedback
-- Asking for feedback (not waiting for it)
-- Openness to being wrong
-
-::: {#activity-seek-feedback-recruiting .callout-tip collapse="true"}
-## Recruiting Activity: Process Interview Feedback
-
-*Supports: Practice Interviews*
-
-Process feedback from mock interviews and create a structured improvement plan.
-
-```bash
-Help me process feedback and build an improvement plan:
-
-**Feedback Received**
-[Paste or summarize feedback from mock interviews, TA sessions, or practice partners]
-
-**Feedback Analysis**
-Organize feedback into categories:
-
-1. **Case Interview Feedback**
-   - Structuring:
-   - Math:
-   - Synthesis:
-   - Communication:
-
-2. **Behavioral Interview Feedback**
-   - Story content:
-   - Delivery:
-   - Authenticity:
-   - Brevity:
-
-3. **General Feedback**
-   - Confidence:
-   - Presence:
-   - Other:
-
-**Pattern Recognition**
-- What feedback have I heard multiple times?
-- What's my biggest strength?
-- What's my biggest area for improvement?
-
-**Improvement Plan**
-For my top 3 improvement areas:
-
-Area 1: [Issue]
-- Specific actions to improve:
-- How I'll practice:
-- How I'll know I've improved:
-
-Area 2: [Issue]
-- Specific actions to improve:
-- How I'll practice:
-- How I'll know I've improved:
-
-Area 3: [Issue]
-- Specific actions to improve:
-- How I'll practice:
-- How I'll know I've improved:
-
-**Timeline**
-- This week I'll focus on:
-- Next week I'll focus on:
-- Before my real interviews I'll:
-```
-:::
-
-::: {#activity-seek-feedback-client .callout-tip collapse="true"}
-## Client Work Activity: Revise Deliverables Based on Feedback
-
-*Supports: P1, P2, Capstone*
-
-Practice incorporating feedback to improve your deliverables.
-
-```bash
-Help me revise my deliverable based on feedback:
-
-**My Deliverable**
-[Paste or describe your deliverable - slide deck, analysis, memo]
-
-**Feedback Received**
-[Paste or summarize feedback from TA, professor, or peers]
-
-**Feedback Triage**
-Categorize feedback:
-- Must fix (critical issues):
-- Should fix (important improvements):
-- Could fix (nice to have):
-
-**Revision Plan**
-For each "must fix" item:
-- Original: [What it was]
-- Issue: [What was wrong]
-- Revised: [What it should be]
-- Why: [How this improves it]
-
-**Quality Check**
-After revisions:
-- Did I address all critical feedback?
-- Did the revisions improve clarity?
-- Did I maintain consistency?
-- Is it now client-ready?
-
-**Learning for Next Time**
-- What will I do differently on my next deliverable?
-- What feedback do I want to make sure I never get again?
-
-**Feedback Loop**
-Would you review my revisions and confirm they address the original feedback?
-```
-:::
-
 ## Putting It Together
 
-The Create Impact actions flow:
+The Communication actions flow:
 
 ```
-Craft Storyline → Communicate Clearly → Tailor to Stakeholders → Build Trust → Prewire → Handle Hard Conversations → Coordinate → Seek Feedback
+Synthesize → Craft Storyline → Communicate with Brevity → Tailor to Stakeholders
 ```
 
-This is where consulting becomes influence, and where careers are made.
+Each step makes the artifact easier for one specific reader to act on. Whether they trust you enough to act is [Collaboration](09-collaboration.qmd).
 
 ## Practice This Week
 
-1. **PARADE story**: Write one behavioral story using the PARADE framework
+1. **Synthesis**: Take 3 facts you found and write a "so what" statement
 2. **Action titles**: Take 3 slide titles and rewrite them as action titles
-3. **Prewiring exercise**: Plan how you would prewire a controversial recommendation
+3. **PARADE story**: Write one behavioral story using the PARADE framework

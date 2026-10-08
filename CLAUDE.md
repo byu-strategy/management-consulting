@@ -38,10 +38,11 @@ The site is only rendered via GitHub actions and never rendered locally, only pr
   |                      | 02-consultants-os.qmd        | The Consultant's OS       | Yes        |
   |                      | 03-leveraging-ai.qmd         | Leveraging AI             | Yes        |
   |                      | 04-working-as-a-team.qmd     | Working as a Team         | Yes        |
-  | The Four Imperatives | 05-think-clearly.qmd         | Think Clearly             | Yes        |
-  |                      | 06-get-right-answer.qmd      | Get to the Right Answer   | Yes        |
-  |                      | 07-move-work-forward.qmd     | Move Work Forward         | Yes        |
-  |                      | 08-create-impact.qmd         | Create Impact with People | Yes        |
+  | The Consultant Diamond | 05-structured-problem-solving.qmd | 1. Judgment: Structured Problem-Solving | Yes |
+  |                      | 06-analytics-modeling.qmd    | 2. Judgment: Analytics & Modeling | Yes |
+  |                      | 07-ownership.qmd             | 3. Ownership              | Yes        |
+  |                      | 08-communication.qmd         | 4. Communication          | Yes        |
+  |                      | 09-collaboration.qmd         | 5. Collaboration          | Yes        |
   | Resources            | 95-antigravity-reference.qmd | Antigravity Reference     | Yes        |
   |                      | 96-firms-guide.qmd           | Firms Guide               | Yes        |
   |                      | 97-ta-handbook.qmd           | TA Handbook               | Yes        |
@@ -184,19 +185,39 @@ This course is designed to help you learn and apply the Consultant's OS to do tw
 1. **Help you land a consulting internship or job** through networking, resume building, and interview preparation
 2. **Make you an effective consultant right now and prepared to excel on Day 1 by conducting real consutling proposal and pitch decks using outside in analysis just like a real consultant would**
 
-The course organizes consulting skills into **4 Imperatives**, each with a guiding question, core operating actions, and associated toolkit components.
+The course is organized on three layers (restructured 2026-10-08; the Four Imperatives were retired):
+
+1. **The Consultant diamond**: four axes rated by other people. Judgment, Ownership, Communication, Collaboration.
+2. **Toolkit components**: eight named skills, each under exactly one axis.
+3. **Core actions**: numbered behaviors, each under exactly one toolkit component. The number is `chapter.n` and the anchor is `#os-chapter-n`.
+
+Each axis is a chapter (Judgment is two, one per toolkit component). Inside a chapter, each toolkit component is an `##` section and each core action an `###` section. The student-facing map of all three layers is "Core Actions by Axis" in `02-consultants-os.qmd`; keep it, the chapters, and this file in step.
+
+### The Consultant Diamond
+
+Four axes, each rated 1 to 5 by other people (teammates, clients, TAs) against written behavioral anchors. Drawn clockwise from the top: Judgment, Communication, Ownership, Collaboration. The work is on the vertical, the people on the horizontal. Student-facing home: `02-consultants-os.qmd#consultant-diamond`, also shown on the syllabus (`index.qmd`); image `images/consultant-diamond.png` (regenerate with `python3 scripts/consultant_diamond.py`).
+
+| Axis | Question | Judged on | Toolkit components | Chapter file |
+|------|----------|-----------|--------------------|--------------|
+| Judgment | Is this the right work, and is the answer right? | Solves the right problem; says what the facts support | Structured Problem-Solving, Analytics & Modeling | 05, 06 |
+| Ownership | Does the work move? | Whether you drive the work | Workstream Ownership, Tolerance for Ambiguity | 07 |
+| Communication | Do people understand it? | The artifacts written for a reader | Clear Communication | 08 |
+| Collaboration | Do people trust you, and want you on the next one? | How the team and client experience working with you | Client Hands, Teamwork & Collaboration, Coachability | 09 |
+
+Two placements were decided on purpose: Synthesize (4.1) is Communication, not Judgment, because it is tagged Clear Communication and leads straight into the storyline; Tailor to Stakeholders (4.4) is Clear Communication, not Client Hands, because the diamond judges it on the artifact.
 
 **McKinsey 7-Step Problem-Solving Process**
 
-| Step | Name | Description |
-|------|------|-------------|
-| 1 | Define the problem | Write a clear, precise problem statement that specifies what decision must be made, under what constraints, and by when. |
-| 2 | Disaggregate the problem | Break the problem into mutually exclusive, collectively exhaustive (MECE) components so the team can work in parallel and think clearly. |
-| 3 | Prioritize the issues | Focus on the branches that matter most—those with the biggest impact and that are realistically changeable. |
-| 4 | Develop a work plan | Decide what analyses to run, who will do them, how deep to go, and on what timeline (with iteration built in). |
-| 5 | Conduct the analysis | Start with simple heuristics and descriptive statistics, then move to deeper analysis as needed; constantly test assumptions. |
-| 6 | Synthesize the findings | Integrate results into a coherent, insight-driven answer—not just analysis—clearly addressing "What should we do?" |
-| 7 | Communicate and motivate action | Tell a compelling story, acknowledge uncertainty, and drive alignment so the organization actually acts on the recommendation. |
+| Step | Name | Description | Axis |
+|------|------|-------------|------|
+| 0 | Diagnose the current state | Understand what is happening and why before defining the problem. | Judgment |
+| 1 | Define the problem | Write a clear, precise problem statement that specifies what decision must be made, under what constraints, and by when. | Judgment |
+| 2 | Disaggregate the problem | Break the problem into mutually exclusive, collectively exhaustive (MECE) components so the team can work in parallel and think clearly. | Judgment |
+| 3 | Prioritize the issues | Focus on the branches that matter most: those with the biggest impact and that are realistically changeable. | Judgment |
+| 4 | Develop a work plan | Decide what analyses to run, who will do them, how deep to go, and on what timeline (with iteration built in). | Ownership |
+| 5 | Conduct the analysis | Start with simple heuristics and descriptive statistics, then move to deeper analysis as needed; constantly test assumptions. | Judgment |
+| 6 | Synthesize the findings | Integrate results into a coherent, insight-driven answer, clearly addressing "What should we do?" | Communication |
+| 7 | Communicate and motivate action | Tell a compelling story, acknowledge uncertainty, and drive alignment so the organization actually acts on the recommendation. | Communication |
 
 **Core Operating Actions**
 
@@ -206,91 +227,82 @@ The course organizes consulting skills into **4 Imperatives**, each with a guidi
 | 🔺 | Pyramid Principle (top-down, answer-first logic) |
 | ◯ ◯ | MECE / Venn logic (complete, non-overlapping structure) |
 
-### 1. Think Clearly
-**Guiding Question:** Are we solving the right problem in the right way?
+#### Judgment
 
-| Core Action | Toolkit Component |
-|-------------|-------------------|
-| Diagnose the current state to understand what is happening and why **(0)** 🔺 | Structured Problem-Solving |
-| Define the problem (the gap between the current state and the desired state) **(1)** 🔺 | Structured Problem-Solving |
-| Frame the problem: articulate the decision set for closing the gap and commit to success criteria, constraints, trade-offs, and what is in vs. out of scope **(1)** 🔺 | Structured Problem-Solving |
-| State a provisional Day-1 hypothesis about which decision to make 🔺 | Structured Problem-Solving |
-| Articulate explicit "what would have to be true" hypotheses for that decision to succeed **(3)** 🔺 | Structured Problem-Solving |
-| Disaggregate those hypotheses into MECE issues designed to test them efficiently **(2)** ◯ ◯ | Structured Problem-Solving |
-| Prioritize decision-critical issues and hypotheses based on likelihood of changing the decision and magnitude of impact **(3)** ◯ ◯ | Structured Problem-Solving |
-| Explicitly exclude questions and analyses that would not change the decision | Structured Problem-Solving |
+**Structured Problem-Solving** (`05-structured-problem-solving.qmd`)
 
-### 2. Get to the Right Answer
-**Guiding Question:** What do the facts and data actually say?
+| # | Core Action |
+|---|-------------|
+| 1.1 | Diagnose the current state to understand what is happening and why **(0)** 🔺 |
+| 1.2 | Define the problem (the gap between the current state and the desired state) **(1)** 🔺 |
+| 1.3 | Frame the problem: articulate the decision set for closing the gap and commit to success criteria, constraints, trade-offs, and what is in vs. out of scope **(1)** 🔺 |
+| 1.4 | State a provisional Day-1 hypothesis about which decision to make 🔺 |
+| 1.5 | Articulate explicit "what would have to be true" hypotheses for that decision to succeed **(3)** 🔺 |
+| 1.6 | Disaggregate those hypotheses into MECE issues designed to test them efficiently **(2)** ◯ ◯ |
+| 1.7 | Prioritize decision-critical issues and hypotheses based on likelihood of changing the decision and magnitude of impact **(3)** ◯ ◯ |
+| 1.8 | Explicitly exclude questions and analyses that would not change the decision |
 
-| Core Action | Toolkit Component |
-|-------------|-------------------|
-| Design analyses to confirm or falsify priority "must-be-true" hypotheses **(5)** 🔺 | Analytics & Modeling |
-| Build an outside-in fact base using best-available data **(5)** | Analytics & Modeling |
-| State assumptions explicitly and identify appropriate proxies **(5)** ◯ ◯ | Analytics & Modeling |
-| Perform back-of-the-envelope calculations to bound answers **(5)** | Analytics & Modeling |
-| Build models and run sensitivities to understand drivers, uncertainty, and risk **(5)** ◯ ◯ | Analytics & Modeling |
-| Synthesize analytical results into clear answers to the decision **(6)** 🔺 | Clear Communication |
+**Analytics & Modeling** (`06-analytics-modeling.qmd`)
 
-### 3. Move Work Forward
-**Guiding Question:** Is the work actually progressing toward a decision?
+| # | Core Action |
+|---|-------------|
+| 2.1 | Design analyses to confirm or falsify priority "must-be-true" hypotheses **(5)** 🔺 |
+| 2.2 | Build an outside-in fact base using best-available data **(5)** |
+| 2.3 | State assumptions explicitly and identify appropriate proxies **(5)** ◯ ◯ |
+| 2.4 | Perform back-of-the-envelope calculations to bound answers **(5)** |
+| 2.5 | Build models and run sensitivities to understand drivers, uncertainty, and risk **(5)** ◯ ◯ |
 
-| Core Action | Toolkit Component |
-|-------------|-------------------|
-| Translate prioritized hypotheses into a concrete, decision-oriented workplan with milestones **(4)** 🔺 | Workstream Ownership |
-| Own a workstream end-to-end, from decision-relevant question to answer | Workstream Ownership |
-| Sequence work to deliver insight early and reduce decision risk | Workstream Ownership |
-| Reprioritize tasks dynamically as new information changes the decision outlook | Workstream Ownership |
-| Identify risks, dependencies, and bottlenecks before they stall progress | Workstream Ownership |
-| Manage up with concise updates that surface implications for the decision | Workstream Ownership |
-| Advance the work using best-available information, without waiting for certainty | Tolerance for Ambiguity |
+#### Ownership (`07-ownership.qmd`)
 
-### 4. Create Impact with People
-**Guiding Question:** Do people understand, trust, and act on this work?
+**Workstream Ownership**
 
-| Core Action | Toolkit Component |
-|-------------|-------------------|
-| Craft a storyline that links insights to the decision and its implications **(6)** 🔺 | Clear Communication |
-| Communicate recommendations with clear logic, explicit trade-offs, and executive-level brevity **(7)** 🔺 | Clear Communication |
-| Tailor messages to senior audiences and stakeholder concerns **(7)** 🔺 | Client Hands |
-| Build trust by demonstrating judgment, reliability, and empathy | Client Hands |
-| Coordinate effectively across team members to present a unified decision narrative | Teamwork & Collaboration |
-| Actively solicit feedback and adjust thinking and output in response | Coachability |
+| # | Core Action |
+|---|-------------|
+| 3.1 | Translate prioritized hypotheses into a concrete, decision-oriented workplan with milestones **(4)** 🔺 |
+| 3.2 | Own a workstream end-to-end, from decision-relevant question to answer |
+| 3.3 | Sequence work to deliver insight early and reduce decision risk |
+| 3.4 | Reprioritize tasks dynamically as new information changes the decision outlook |
+| 3.5 | Identify risks, dependencies, and bottlenecks before they stall progress |
+| 3.6 | Manage up with concise updates that surface implications for the decision |
 
-### Toolkit Components Summary
+**Tolerance for Ambiguity**
 
-| Component | Primary Imperative |
-|-----------|-------------------|
-| Structured Problem-Solving | Think Clearly |
-| Analytics & Modeling | Get to the Right Answer |
-| Clear Communication | Get to the Right Answer, Create Impact with People |
-| Workstream Ownership | Move Work Forward |
-| Tolerance for Ambiguity | Move Work Forward |
-| Client Hands | Create Impact with People |
-| Teamwork & Collaboration | Create Impact with People |
-| Coachability | Create Impact with People |
+| # | Core Action |
+|---|-------------|
+| 3.7 | Advance the work using best-available information, without waiting for certainty |
 
-### The Consultant Diamond
+#### Communication (`08-communication.qmd`)
 
-Added 2026-10-08. Four axes, each rated 1 to 5 by other people (teammates, clients, TAs) against written behavioral anchors. Drawn clockwise from the top: Judgment, Communication, Ownership, Collaboration. The work is on the vertical, the people on the horizontal. Student-facing home: `02-consultants-os.qmd#consultant-diamond`; image `images/consultant-diamond.png` (regenerate with `python3 scripts/consultant_diamond.py`).
+**Clear Communication**
 
-| Axis | Imperative behind it | Judged on |
-|------|----------------------|-----------|
-| Ownership | Move Work Forward | Whether you drive the work |
-| Communication | Create Impact with People: do people *understand* it | The artifacts written for a reader |
-| Judgment | Think Clearly + Get to the Right Answer | Solves the right problem; says what the facts support |
-| Collaboration | Create Impact with People: do people *trust* you | How the team and client experience working with you |
+| # | Core Action |
+|---|-------------|
+| 4.1 | Synthesize analytical results into clear answers to the decision **(6)** 🔺 |
+| 4.2 | Craft a storyline that links insights to the decision and its implications **(6)** 🔺 |
+| 4.3 | Communicate recommendations with clear logic, explicit trade-offs, and executive-level brevity **(7)** 🔺 |
+| 4.4 | Tailor messages to senior audiences and stakeholder concerns **(7)** 🔺 |
 
-The diamond is a rating instrument built on the Four Imperatives, not a replacement for them or for the toolkit. The eight toolkit components stay as they are (learning outcomes and core actions are tagged to them) and roll up into the axes:
+#### Collaboration (`09-collaboration.qmd`)
 
-| Diamond Axis | Toolkit Components |
-|--------------|--------------------|
-| Judgment | Structured Problem-Solving, Analytics & Modeling |
-| Ownership | Workstream Ownership, Tolerance for Ambiguity |
-| Communication | Clear Communication |
-| Collaboration | Client Hands, Teamwork & Collaboration, Coachability |
+**Client Hands**
 
-Tolerance for Ambiguity is under Ownership because its core action ("Move Without Certainty") is in Move Work Forward. Client Hands is under Collaboration (trust); its "Tailor to Stakeholders" action also reads on Communication.
+| # | Core Action |
+|---|-------------|
+| 5.1 | Build trust by demonstrating judgment, reliability, and empathy |
+| 5.2 | Prewire stakeholders so decision-makers are never surprised in a meeting |
+| 5.3 | Navigate difficult conversations and deliver hard messages constructively |
+
+**Teamwork & Collaboration**
+
+| # | Core Action |
+|---|-------------|
+| 5.4 | Coordinate effectively across team members to present a unified decision narrative |
+
+**Coachability**
+
+| # | Core Action |
+|---|-------------|
+| 5.5 | Actively solicit feedback and adjust thinking and output in response |
 
 The anchors are copied verbatim from the AI Foundry course's canonical source, `~/courses/ai-foundry/ops/developmentship-model.md` (section 3). If they change there, change them here too; do not reword them locally.
 

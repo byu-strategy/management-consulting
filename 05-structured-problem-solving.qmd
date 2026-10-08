@@ -1,12 +1,14 @@
 ---
-title: "1. Think Clearly"
+title: "1. Judgment: Structured Problem-Solving"
 ---
 
-**Guiding Question:** Are we solving the right problem in the right way?
+**Diamond axis:** [Judgment](02-consultants-os.qmd#consultant-diamond). Are you solving the right problem, and does your answer say what the facts support?
 
-The first imperative is about structuring your thinking before you start working. Most failed projects fail here: they solve the wrong problem, or solve the right problem in an unstructured way that leads nowhere.
+Judgment is the top of the diamond, and it has two halves. This chapter covers the first: structuring your thinking before you start working. Most failed projects fail here: they solve the wrong problem, or solve the right problem in an unstructured way that leads nowhere. [Analytics & Modeling](06-analytics-modeling.qmd) covers the second half, answering the problem with evidence.
 
-## Core Actions
+## Structured Problem-Solving
+
+*Decompose ambiguous problems using MECE logic and hypothesis-driven thinking*
 
 ### 1.1 Diagnose the Current State **(0)** 🔺 {#os-1-1}
 
@@ -530,7 +532,7 @@ How does each branch translate into your presentation structure?
 
 ## Putting It Together
 
-The Think Clearly actions flow naturally:
+The Structured Problem-Solving actions flow naturally:
 
 ```
 Diagnose → Define → Frame → Hypothesize → WWHTBT → Disaggregate → Prioritize → Exclude

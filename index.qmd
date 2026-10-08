@@ -23,6 +23,25 @@ format:
 
 Welcome to *Intro to Management Consulting* (STRAT 325). This course teaches you *The Consultant's OS*, a professional operating system that drives success at top-tier consulting firms and beyond.
 
+### The Consultant Diamond
+
+The course is organized around four things the people you work with can see and rate: **Judgment**, **Ownership**, **Communication**, and **Collaboration**. Together they form the [Consultant diamond](02-consultants-os.qmd#consultant-diamond). Teammates, clients, and TAs rate each axis 1 to 5 against written behavioral anchors.
+
+![The Consultant diamond. Clockwise from the top: Judgment, Communication, Ownership, Collaboration. The shape shown is an example.](images/consultant-diamond.png){fig-alt="A diamond-shaped radar chart with four axes rated 1 to 5: Judgment at the top, Communication on the right, Ownership at the bottom, Collaboration on the left." width="60%"}
+
+Under each axis sit the toolkit skills you will build, eight in all. Each has its own section in the chapters.
+
+| Axis | Skill | What It Means |
+|:-----|:------|:--------------|
+| **Judgment** | Structured Problem-Solving | Decompose ambiguous problems using MECE logic and hypothesis-driven thinking |
+| | Analytics & Modeling | Build models in Excel, Python, or other quantitative tools; test hypotheses against data; estimate with confidence |
+| **Ownership** | Workstream Ownership | Act with high agency; own work end-to-end; anticipate needs and drive outcomes without waiting to be told |
+| | Tolerance for Ambiguity | Navigate uncertainty; make progress without complete information |
+| **Communication** | Clear Communication | Synthesize findings into an answer; apply the Pyramid Principle; write action-titled slides; deliver crisp verbal updates |
+| **Collaboration** | Client Hands | Interact professionally with senior stakeholders; build trust through credibility |
+| | Teamwork & Collaboration | Collaborate across team structures; give and receive feedback effectively |
+| | Coachability | Incorporate feedback rapidly; demonstrate growth through iteration |
+
 You'll apply this OS to two course goals:
 
 | Goal | Focus | Outcome |
@@ -31,23 +50,6 @@ You'll apply this OS to two course goals:
 | **Do Client Work** | Company analysis, competitive benchmarking, strategic proposals | Deliver real consulting work |
 
 These goals reinforce each other. The same OS that helps you structure a case interview helps you deliver impactful client work. The same approach that builds your networking skills builds trust with stakeholders.
-
-### The Consultant Toolkit
-
-By the end of this course, you will develop proficiency in eight core areas:
-
-| Skill | What It Means |
-|-------|--------------|
-| **Structured Problem-Solving** | Decompose ambiguous problems using MECE logic and hypothesis-driven thinking |
-| **Clear Communication** | Apply the Pyramid Principle; write action-titled slides; deliver crisp verbal updates |
-| **Analytics & Modeling** | Build models in Excel; synthesize data into insights; estimate with confidence |
-| **Workstream Ownership** | Act with high agency; own work end-to-end; anticipate needs and drive outcomes without waiting to be told |
-| **Client Hands** | Interact professionally with senior stakeholders; build trust through credibility |
-| **Teamwork** | Collaborate across team structures; give and receive feedback effectively |
-| **Coachability** | Incorporate feedback rapidly; demonstrate growth through iteration |
-| **Tolerance for Ambiguity** | Navigate uncertainty; make progress without complete information |
-
-The people you work with see these eight skills on four axes: Ownership, Communication, Judgment, and Collaboration. Together these form the [Consultant diamond](02-consultants-os.qmd#consultant-diamond), each axis rated 1 to 5 against written behavioral anchors and built on the Four Imperatives of *The Consultant's OS*.
 
 ### AI at the Core
 

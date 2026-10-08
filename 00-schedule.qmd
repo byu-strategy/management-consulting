@@ -21,44 +21,43 @@ Each **"Peer"** session = complete **both roles** with a partner (you interview 
 | 1 | 1 | Th Jan 8 | [What Consultants Do](01-what-is-consulting.qmd) & [The Consultant's OS](02-consultants-os.qmd) | – | – |
 | 2 | 2 | T Jan 13 | [AI as Your Operating Amplifier](03-leveraging-ai.qmd) | – | – |
 | 2 | 3 | Th Jan 15 | [AI Workflows](03-leveraging-ai.qmd#ai-assisted-consulting-actions) | Quiz 1 | – |
-| 3 | 4 | T Jan 20 | [Teams](04-working-as-a-team.qmd) & [Diagnose the Current State](05-think-clearly.qmd#os-1-1) | – | – |
-| 3 | 5 | Th Jan 22 | [Root Cause Analysis](05-think-clearly.qmd#os-1-1) | Quiz 2; Goals Chat due Sat | – |
-| 4 | 6 | T Jan 27 | [Define the Problem](05-think-clearly.qmd#os-1-2) | P1: Intelligence Brief assigned | – |
-| 4 | 7 | Th Jan 29 | [Frame the Decision](05-think-clearly.qmd#os-1-3) | Quiz 3 | Peer 1 (by Sat) |
-| 5 | 8 | T Feb 3 | [Hypothesize](05-think-clearly.qmd#os-1-4) & [WWHTBT](05-think-clearly.qmd#os-1-5) — **Guest: [Ryan Madsen](https://www.linkedin.com/in/ryankmadsen/) (ZS)** | – | – |
-| 5 | 9 | Th Feb 5 | [MECE](05-think-clearly.qmd#os-1-6) & [Prioritization](05-think-clearly.qmd#os-1-7) | Quiz 4; Resume v1 due | TA 1 (by Sat) |
-| 6 | 10 | T Feb 10 | [Outside-In Fact Base](06-get-right-answer.qmd#os-2-2) & [Assumptions](06-get-right-answer.qmd#os-2-3) | – | – |
-| 6 | 11 | Th Feb 12 | [Quick Math & Estimation](06-get-right-answer.qmd#os-2-4) — **Guest: [Matt Simmons](https://www.linkedin.com/in/matthew-william-simmons/) (McKinsey)** | Quiz 5 | Peer 2 (by Sat) |
+| 3 | 4 | T Jan 20 | [Teams](04-working-as-a-team.qmd) & [Diagnose the Current State](05-structured-problem-solving.qmd#os-1-1) | – | – |
+| 3 | 5 | Th Jan 22 | [Root Cause Analysis](05-structured-problem-solving.qmd#os-1-1) | Quiz 2; Goals Chat due Sat | – |
+| 4 | 6 | T Jan 27 | [Define the Problem](05-structured-problem-solving.qmd#os-1-2) | P1: Intelligence Brief assigned | – |
+| 4 | 7 | Th Jan 29 | [Frame the Decision](05-structured-problem-solving.qmd#os-1-3) | Quiz 3 | Peer 1 (by Sat) |
+| 5 | 8 | T Feb 3 | [Hypothesize](05-structured-problem-solving.qmd#os-1-4) & [WWHTBT](05-structured-problem-solving.qmd#os-1-5) — **Guest: [Ryan Madsen](https://www.linkedin.com/in/ryankmadsen/) (ZS)** | – | – |
+| 5 | 9 | Th Feb 5 | [MECE](05-structured-problem-solving.qmd#os-1-6) & [Prioritization](05-structured-problem-solving.qmd#os-1-7) | Quiz 4; Resume v1 due | TA 1 (by Sat) |
+| 6 | 10 | T Feb 10 | [Outside-In Fact Base](06-analytics-modeling.qmd#os-2-2) & [Assumptions](06-analytics-modeling.qmd#os-2-3) | – | – |
+| 6 | 11 | Th Feb 12 | [Quick Math & Estimation](06-analytics-modeling.qmd#os-2-4) — **Guest: [Matt Simmons](https://www.linkedin.com/in/matthew-william-simmons/) (McKinsey)** | Quiz 5 | Peer 2 (by Sat) |
 | 7 | 12 | Th Feb 19 | P1: Intelligence Brief Presentations | Resume v2 due; **P1 due Sat**; P2 assigned | Peer 3 (by Sat) |
-| 8 | 13 | T Feb 24 | [Design Analyses](06-get-right-answer.qmd#os-2-1) & [Modeling](06-get-right-answer.qmd#os-2-5) — **Guest: [Jeff Robinson](https://www.linkedin.com/in/jeff-robinson-818563/) (BCG)** | Mid-Semester Feedback due Tue | – |
-| 8 | 14 | Th Feb 26 | [Synthesize: Data to Insight](06-get-right-answer.qmd#os-2-6) — **Guest: [Jessica Tuwun](https://lib.byu.edu/directory/jessica-tuwun/) (BYU Library: Company Research Resources)** | Quiz 6 | Peer 4 (by Sat) |
-| 9 | 15 | T Mar 3 | [Create a Workplan](07-move-work-forward.qmd#os-3-1) — **Guest: [Luis Astorga](https://www.linkedin.com/in/astorgaluis/) (Deloitte)** | – | – |
-| 9 | 16 | Th Mar 5 | [Own Your Workstream](07-move-work-forward.qmd#os-3-2) & [Sequence](07-move-work-forward.qmd#os-3-3) | Quiz 7 | TA 2 (by Sat) |
-| 10 | 17 | T Mar 10 | [Reprioritize](07-move-work-forward.qmd#os-3-4) & [Anticipate Risks](07-move-work-forward.qmd#os-3-5) | – | – |
-| 10 | 18 | Th Mar 12 | [Manage Up](07-move-work-forward.qmd#os-3-6) & [Move Without Certainty](07-move-work-forward.qmd#os-3-7) — **Guest: [Bill Wade](https://www.linkedin.com/in/bill-wade-990207/) (Bain)** | – | Peer 5 (by Sat) |
-| 11 | 19 | T Mar 17 | [Craft a Storyline](08-create-impact.qmd#os-4-1) (SCQA & Pyramid) — Readings: [BCG Slides Guide](https://slideworks.io/resources/bcg-approach-to-great-slides-practical-guide-from-former-consultant#what-are-the-components-of-a-great-presentation), [McKinsey Problem-Solving](https://slideworks.io/resources/mckinsey-problem-solving-process) | – | – |
+| 8 | 13 | T Feb 24 | [Design Analyses](06-analytics-modeling.qmd#os-2-1) & [Modeling](06-analytics-modeling.qmd#os-2-5) — **Guest: [Jeff Robinson](https://www.linkedin.com/in/jeff-robinson-818563/) (BCG)** | Mid-Semester Feedback due Tue | – |
+| 8 | 14 | Th Feb 26 | [Synthesize: Data to Insight](08-communication.qmd#os-4-1) — **Guest: [Jessica Tuwun](https://lib.byu.edu/directory/jessica-tuwun/) (BYU Library: Company Research Resources)** | Quiz 6 | Peer 4 (by Sat) |
+| 9 | 15 | T Mar 3 | [Create a Workplan](07-ownership.qmd#os-3-1) — **Guest: [Luis Astorga](https://www.linkedin.com/in/astorgaluis/) (Deloitte)** | – | – |
+| 9 | 16 | Th Mar 5 | [Own Your Workstream](07-ownership.qmd#os-3-2) & [Sequence](07-ownership.qmd#os-3-3) | Quiz 7 | TA 2 (by Sat) |
+| 10 | 17 | T Mar 10 | [Reprioritize](07-ownership.qmd#os-3-4) & [Anticipate Risks](07-ownership.qmd#os-3-5) | – | – |
+| 10 | 18 | Th Mar 12 | [Manage Up](07-ownership.qmd#os-3-6) & [Move Without Certainty](07-ownership.qmd#os-3-7) — **Guest: [Bill Wade](https://www.linkedin.com/in/bill-wade-990207/) (Bain)** | – | Peer 5 (by Sat) |
+| 11 | 19 | T Mar 17 | [Craft a Storyline](08-communication.qmd#os-4-2) (SCQA & Pyramid) — Readings: [BCG Slides Guide](https://slideworks.io/resources/bcg-approach-to-great-slides-practical-guide-from-former-consultant#what-are-the-components-of-a-great-presentation), [McKinsey Problem-Solving](https://slideworks.io/resources/mckinsey-problem-solving-process) | – | – |
 | 11 | 20 | Th Mar 19 | P2: Point of View Presentations | **P2 due Sat**; Capstone assigned | Peer 6 (by Sat) |
-| 12 | 21 | T Mar 24 | [Executive Brevity](08-create-impact.qmd#os-4-2) — Readings: [Getting to the "So What"](https://slideworks.io/resources/getting-to-so-what-guide-to-creating-actionable-business-insights) | Quiz 8 | – |
-| 12 | 22 | Th Mar 26 | [Confident Delivery](08-create-impact.qmd#os-4-2) | – | – |
-| 13 | 23 | T Mar 31 | [Trust Equation](06-get-right-answer.qmd#os-2-2) & [Build Trust](08-create-impact.qmd#os-4-4) — **Guest: [Tyler Rowberry](https://www.linkedin.com/in/tyler-rowberry/) (L.E.K.)** | – | – |
-| 13 | 24 | Th Apr 2 | [Tailor & Handle Pushback](08-create-impact.qmd#os-4-3) | Quiz 9 | Peer 7 (by Sat) |
-| 14 | 25 | T Apr 7 | [Seek Feedback](08-create-impact.qmd#os-4-8) & [Coordinate as Team](08-create-impact.qmd#os-4-7) — Readings: [Action Titles](https://slideworks.io/resources/how-to-write-action-titles-like-mckinsey), [Getting to the "So What"](https://slideworks.io/resources/getting-to-so-what-guide-to-creating-actionable-business-insights), [Executive Summary](https://slideworks.io/resources/how-to-write-executive-summary), [How Consultants Make Presentations](https://slideworks.io/resources/how-mckinsey-consultants-make-presentations) | – | – |
-| 14 | 26 | Th Apr 9 | [Slide Design & Deck Craft](08-create-impact.qmd#os-4-2) — Capstone workshop & peer review | – | – |
+| 12 | 21 | T Mar 24 | [Executive Brevity](08-communication.qmd#os-4-3) — Readings: [Getting to the "So What"](https://slideworks.io/resources/getting-to-so-what-guide-to-creating-actionable-business-insights) | Quiz 8 | – |
+| 12 | 22 | Th Mar 26 | [Confident Delivery](08-communication.qmd#os-4-3) | – | – |
+| 13 | 23 | T Mar 31 | [Trust Equation](06-analytics-modeling.qmd#os-2-2) & [Build Trust](09-collaboration.qmd#os-5-1) — **Guest: [Tyler Rowberry](https://www.linkedin.com/in/tyler-rowberry/) (L.E.K.)** | – | – |
+| 13 | 24 | Th Apr 2 | [Tailor & Handle Pushback](08-communication.qmd#os-4-4) | Quiz 9 | Peer 7 (by Sat) |
+| 14 | 25 | T Apr 7 | [Seek Feedback](09-collaboration.qmd#os-5-5) & [Coordinate as Team](09-collaboration.qmd#os-5-4) — Readings: [Action Titles](https://slideworks.io/resources/how-to-write-action-titles-like-mckinsey), [Getting to the "So What"](https://slideworks.io/resources/getting-to-so-what-guide-to-creating-actionable-business-insights), [Executive Summary](https://slideworks.io/resources/how-to-write-executive-summary), [How Consultants Make Presentations](https://slideworks.io/resources/how-mckinsey-consultants-make-presentations) | – | – |
+| 14 | 26 | Th Apr 9 | [Slide Design & Deck Craft](08-communication.qmd#os-4-3) — Capstone workshop & peer review | – | – |
 | 15 | 27 | T Apr 14 | [The Full OS in Action](02-consultants-os.qmd) | Quiz 10; Networking Tracker due; Student Ratings due | TA 3 + all complete (by Wed) |
 | | | **Mon Apr 20** | | **Capstone due 11:59 PM** | |
 | | | **Wed Apr 22** | **Capstone Showcase** (optional, W240 TNRB, 11:00 AM–12:15 PM) — Top 5–8 decks presented to the class | | |
 
 ---
 
-## OS Imperatives by Phase
+## The Diamond by Phase
 
-| Imperative | Weeks | Sessions | Core Idea |
-|:-----------|:-----:|:--------:|:----------|
+| Phase | Weeks | Sessions | Core Idea |
+|:------|:-----:|:--------:|:----------|
 | **Foundation** | 1–2 | 1–3 | What consultants do, how AI amplifies your work, team norms |
-| **Think Clearly** | 3–5 | 4–9 | Structure the problem before solving it |
-| **Get to the Right Answer** | 6–8 | 10–14 | Find facts, estimate, synthesize |
-| **Move Work Forward** | 9–10 | 15–18 | Plan, execute, adapt |
-| **Create Impact** | 11–14 | 19–26 | Communicate so people act |
+| **Judgment** | 3–8 | 4–14 | Structure the problem, answer it with facts, synthesize the answer |
+| **Ownership** | 9–10 | 15–18 | Plan, execute, adapt |
+| **Communication & Collaboration** | 11–14 | 19–26 | Make the work understood, and earn the trust to act on it |
 | **Integration** | 15 | 27 | Full OS in action |
 
 ---

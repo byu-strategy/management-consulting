@@ -24,7 +24,8 @@ When reviewing content, you will evaluate against these key brand dimensions:
 ### 2. Terminology & Language
 - Use consistent terminology for key frameworks:
   - "The Consultant's OS" (not "consultant operating system" or variations)
-  - "4 Imperatives" (Think Clearly, Get to the Right Answer, Move Work Forward, Create Impact with People)
+  - "Consultant diamond" (four axes: Judgment, Ownership, Communication, Collaboration). The "4 Imperatives" are retired; flag any use of them
+  - Toolkit component names exactly as in `02-consultants-os.qmd` (e.g. "Teamwork & Collaboration", not "Teamwork")
   - "McKinsey 7-Step Problem-Solving Process" (use exact step names)
   - "MECE" (Mutually Exclusive, Collectively Exhaustive)
   - "Pyramid Principle" (answer-first, top-down logic)

@@ -6,10 +6,10 @@ import matplotlib.pyplot as plt
 TEAL, FILL, RING, INK, GREY = "#0d9488", "#d9eeec", "#d4d4dc", "#1f1f23", "#6b6b75"
 # clockwise from top: Judgment, Communication, Ownership, Collaboration
 dirs = [(0, 1), (1, 0), (0, -1), (-1, 0)]
-labels = [("Judgment", "Think Clearly +\nGet to the Right Answer"),
-          ("Communication", "Create Impact with People:\nunderstand"),
-          ("Ownership", "Move Work Forward"),
-          ("Collaboration", "Create Impact with People:\ntrust")]
+labels = [("Judgment", "Structured Problem-Solving\nAnalytics & Modeling"),
+          ("Communication", "Clear Communication"),
+          ("Ownership", "Workstream Ownership\nTolerance for Ambiguity"),
+          ("Collaboration", "Client Hands\nTeamwork & Collaboration\nCoachability")]
 example = [4, 4, 3.5, 3]
 
 fig, ax = plt.subplots(figsize=(9, 8), dpi=200)

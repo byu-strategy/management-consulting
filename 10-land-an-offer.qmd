@@ -8,12 +8,12 @@ This chapter brings together everything in *The Consultant's OS* as it applies t
 
 Every element of *The Consultant's OS* applies directly to recruiting:
 
-| OS Imperative | Recruiting Application |
-|:--------------|:-----------------------|
-| **Think Clearly** | Structure your candidacy story; diagnose firm needs and your fit gaps |
-| **Get to the Right Answer** | Research firms and people; prepare for case interviews |
-| **Move Work Forward** | Manage your recruiting timeline; own your job search |
-| **Create Impact** | Tell compelling stories; build trust with recruiters and interviewers |
+| Diamond Axis | Recruiting Application |
+|:-------------|:-----------------------|
+| **Judgment** | Structure your candidacy story; diagnose firm needs and your fit gaps; research firms and people; prepare for case interviews |
+| **Ownership** | Manage your recruiting timeline; own your job search |
+| **Communication** | Tell compelling stories in crisp, answer-first form |
+| **Collaboration** | Build trust with recruiters and interviewers; act on feedback from mock interviews |
 
 ## Networking
 
@@ -100,16 +100,17 @@ The [Resume Bible](https://managementconsulted.com/consulting-resume/) from Mana
 
 ### The OS in Cases
 
-Case interviews test every imperative:
+Case interviews test every axis of the diamond:
 
-| Case Element | OS Imperative |
-|:-------------|:--------------|
-| Clarifying the prompt | Think Clearly (Diagnose, Define) |
-| Structuring the problem | Think Clearly (MECE, Prioritize) |
-| Market sizing/estimation | Get to the Right Answer (Estimate, Assumptions) |
-| Analyzing data | Get to the Right Answer (Synthesize) |
-| Making a recommendation | Create Impact (Communicate with brevity) |
-| Handling ambiguity | Move Work Forward (Progress without certainty) |
+| Case Element | Diamond Axis |
+|:-------------|:-------------|
+| Clarifying the prompt | Judgment (Diagnose, Define) |
+| Structuring the problem | Judgment (MECE, Prioritize) |
+| Market sizing/estimation | Judgment (Estimate, Assumptions) |
+| Analyzing data | Communication (Synthesize) |
+| Making a recommendation | Communication (Communicate with brevity) |
+| Handling ambiguity | Ownership (Move without certainty) |
+| Building rapport with the interviewer | Collaboration (Build trust) |
 
 ### Case Structure
 
