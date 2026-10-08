@@ -272,7 +272,7 @@ The course organizes consulting skills into **4 Imperatives**, each with a guidi
 
 ### The Consultant Diamond
 
-Added 2026-10-08. Four axes, each rated 1 to 5 by other people (teammates, clients, TAs) against written behavioral anchors. Drawn clockwise from the top: Ownership, Communication, Judgment, Collaboration. The work is on the vertical, the people on the horizontal. Student-facing home: `02-consultants-os.qmd#consultant-diamond`; image `images/consultant-diamond.png` (regenerate with `python3 scripts/consultant_diamond.py`).
+Added 2026-10-08. Four axes, each rated 1 to 5 by other people (teammates, clients, TAs) against written behavioral anchors. Drawn clockwise from the top: Judgment, Communication, Ownership, Collaboration. The work is on the vertical, the people on the horizontal. Student-facing home: `02-consultants-os.qmd#consultant-diamond`; image `images/consultant-diamond.png` (regenerate with `python3 scripts/consultant_diamond.py`).
 
 | Axis | Imperative behind it | Judged on |
 |------|----------------------|-----------|
