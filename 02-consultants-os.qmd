@@ -146,6 +146,82 @@ These skills emerge as you practice the core actions within each imperative.
 | Teamwork & Collaboration | Create Impact with People |
 | Coachability | Create Impact with People |
 
+## The Consultant Diamond {#consultant-diamond}
+
+The Four Imperatives describe what consultants do, and the toolkit names the skills behind them. The Consultant diamond is how the people you work with see those skills. It has four axes, each rated 1 to 5 by someone who watched you work (a teammate, a client, a manager) against written behavioral anchors.
+
+| Axis | Imperative behind it | Judged on |
+|:-----|:---------------------|:----------|
+| **Ownership** | Move Work Forward | Whether you drive the work |
+| **Communication** | Create Impact with People: do people *understand* it | The artifacts: what you produce for a reader (updates, decks, memos) |
+| **Judgment** | Think Clearly, and Get to the Right Answer | Whether you solve the right problem and say what the facts support |
+| **Collaboration** | Create Impact with People: do people *trust* you | How your team and your client experience working with you, and whether they want you on the next one |
+
+![The Consultant diamond. Clockwise from the top: Ownership, Communication, Judgment, Collaboration. The shape shown is an example.](images/consultant-diamond.png){fig-alt="A diamond-shaped radar chart with four axes rated 1 to 5: Ownership at the top, Communication on the right, Judgment at the bottom, Collaboration on the left." width="70%"}
+
+The work sits on the vertical axis: Judgment asks whether it is the right work, and Ownership asks whether it moves. The people sit on the horizontal axis. Both come from the guiding question for Create Impact with People, "Do people understand, trust, and act on this work?" Communication is the *understand* half and is judged on the artifact. Collaboration is the *trust* half and is judged on the relationship, with anyone you work with, teammate or client.
+
+A reviewer can hold four judgments and mean them; asked for more, most reviewers give every item the same score. The eight toolkit components stay as the skills you build; the diamond is the smaller set of things another person can observe and rate.
+
+### How the Toolkit Rolls Up
+
+Each toolkit component rolls up into the axis that matches its imperative.
+
+| Diamond Axis | Toolkit Components |
+|:-------------|:-------------------|
+| **Judgment** | Structured Problem-Solving, Analytics & Modeling |
+| **Ownership** | Workstream Ownership, Tolerance for Ambiguity |
+| **Communication** | Clear Communication |
+| **Collaboration** | Client Hands, Teamwork & Collaboration, Coachability |
+
+Tolerance for Ambiguity sits under Ownership because its core action, "Move Without Certainty," belongs to Move Work Forward: the test is whether you keep the work moving with incomplete information. Client Hands sits under Collaboration because it is about building trust with senior stakeholders. Its other core action, "Tailor to Stakeholders," shows up in the artifacts you write, so it also counts toward Communication.
+
+### The Anchors
+
+Same 1 to 5 scale on every axis. No adjectives like "strong" or "excellent." Every level is something a reviewer could point at in a week of work, which is what makes two different reviewers land in the same place.
+
+#### Judgment
+
+1. Solves the problem as handed over, even when it is the wrong one. Conclusions run ahead of the evidence.
+2. Sound on the task in front of them, but does not ask whether it is the right task. Reports what the data says, not what it means.
+3. Checks that the question is the right one before starting. Conclusions follow from the evidence, and they say where it is thin.
+4. Reframes the problem when the facts call for it. Separates what is known from what is assumed; recommendations hold up when tested.
+5. The team or client changes direction because of how they framed it. Says what the facts support when it is not what anyone hoped.
+
+#### Ownership
+
+1. Waits to be told. Work stops when the next step is unclear. Blockers surface at the deadline rather than before it.
+2. Does assigned tasks well but does not extend past them. Asks what to do next rather than proposing it.
+3. Owns a defined piece and finishes it. Raises blockers early. Still needs the plan handed to them.
+4. Owns a workstream end to end. Makes the plan, unblocks themselves, and reports what they decided rather than asking what to do.
+5. Owns a workstream and pulls others along. Reprioritizes when the client changes direction, and what comes back is better than what was asked for.
+
+#### Communication
+
+1. Updates are late or absent. The reader has to ask what happened.
+2. Reports activity in the order it happened. The reader has to extract the point themselves.
+3. Answer first, support underneath. Someone who reads only the first line knows the state of the work.
+4. Writes for the specific reader. Names the decision being asked for, and the memo or deck holds up without anyone narrating it.
+5. Produces the artifact the team reuses. A senior stakeholder can act on it without a meeting.
+
+#### Collaboration
+
+1. Works alone; the team and the client find out late. Takes feedback as criticism, or agrees and changes nothing.
+2. Does their own part and reacts when asked. Leaves teammates' work and the client relationship to others; applies feedback only where told.
+3. Reliable to work with. Keeps commitments to teammates and the client, shares context without being chased, and acts on feedback the next time.
+4. Makes the people around them better. Asks for feedback before it is offered, says early what will not fit, and teammates and the client come to them directly.
+5. People ask to work with them again, by name. Handles disagreement without it becoming personal, changes position when someone else is right, and surfaces a risk before anyone else finds it.
+
+Collaboration covers everyone you work with, teammates and the client alike. It is about the trust built over the whole engagement, so you can be quiet in a client meeting and still rate a 4 if the client relies on you between meetings.
+
+### Using the Diamond
+
+A 3 on every axis describes a reliable teammate who does what is asked. A 4 describes someone who reframes the problem when the facts call for it, owns a workstream, writes something a stakeholder can act on, and makes the team and the client around them better.
+
+- **Rate yourself** against the anchors, then point to a specific instance for each rating. If you cannot name the instance, the rating is a guess.
+- **Give feedback** to pod members and teammates on the axis where you saw something specific, using the [SBI model](04-working-as-a-team.qmd#giving-and-receiving-feedback).
+- **Prepare behavioral stories** with the diamond in mind. "Are you someone we'd want to work with on our team?" is a Collaboration question, and a story about owning a workstream end to end is an Ownership story.
+
 ## Translating Your Experiences to Consulting Language
 
 Many BYU students served full-time missions, and that experience provides rich examples of consulting skills in action. If you're a returned missionary, this section helps you translate those experiences into consulting language. If you didn't serve a mission, the same toolkit components develop through any intensive experience—work, leadership roles, athletics, service, or other challenges. What matters is identifying *your* experiences that demonstrate these skills.

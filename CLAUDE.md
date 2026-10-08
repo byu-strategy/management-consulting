@@ -269,3 +269,29 @@ The course organizes consulting skills into **4 Imperatives**, each with a guidi
 | Client Hands | Create Impact with People |
 | Teamwork & Collaboration | Create Impact with People |
 | Coachability | Create Impact with People |
+
+### The Consultant Diamond
+
+Added 2026-10-08. Four axes, each rated 1 to 5 by other people (teammates, clients, TAs) against written behavioral anchors. Drawn clockwise from the top: Ownership, Communication, Judgment, Collaboration. The work is on the vertical, the people on the horizontal. Student-facing home: `02-consultants-os.qmd#consultant-diamond`; image `images/consultant-diamond.png` (regenerate with `python3 scripts/consultant_diamond.py`).
+
+| Axis | Imperative behind it | Judged on |
+|------|----------------------|-----------|
+| Ownership | Move Work Forward | Whether you drive the work |
+| Communication | Create Impact with People: do people *understand* it | The artifacts written for a reader |
+| Judgment | Think Clearly + Get to the Right Answer | Solves the right problem; says what the facts support |
+| Collaboration | Create Impact with People: do people *trust* you | How the team and client experience working with you |
+
+The diamond is a rating instrument built on the Four Imperatives, not a replacement for them or for the toolkit. The eight toolkit components stay as they are (learning outcomes and core actions are tagged to them) and roll up into the axes:
+
+| Diamond Axis | Toolkit Components |
+|--------------|--------------------|
+| Judgment | Structured Problem-Solving, Analytics & Modeling |
+| Ownership | Workstream Ownership, Tolerance for Ambiguity |
+| Communication | Clear Communication |
+| Collaboration | Client Hands, Teamwork & Collaboration, Coachability |
+
+Tolerance for Ambiguity is under Ownership because its core action ("Move Without Certainty") is in Move Work Forward. Client Hands is under Collaboration (trust); its "Tailor to Stakeholders" action also reads on Communication.
+
+The anchors are copied verbatim from the AI Foundry course's canonical source, `~/courses/ai-foundry/ops/developmentship-model.md` (section 3). If they change there, change them here too; do not reword them locally.
+
+**Grading status:** the diamond is not a graded component in STRAT 325. Any grading use is a proposal in `resources/teaching-notes/consultant-diamond-proposal.md` and needs Scott's decision before a term starts (a rule may cost students points only if published before the term began, and the site and Canvas change together).

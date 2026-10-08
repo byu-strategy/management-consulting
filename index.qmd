@@ -47,6 +47,8 @@ By the end of this course, you will develop proficiency in eight core areas:
 | **Coachability** | Incorporate feedback rapidly; demonstrate growth through iteration |
 | **Tolerance for Ambiguity** | Navigate uncertainty; make progress without complete information |
 
+The people you work with see these eight skills on four axes: Ownership, Communication, Judgment, and Collaboration. Together these form the [Consultant diamond](02-consultants-os.qmd#consultant-diamond), each axis rated 1 to 5 against written behavioral anchors and built on the Four Imperatives of *The Consultant's OS*.
+
 ### AI at the Core
 
 AI is not a separate topic. It's how you'll apply every skill in this course. From the start of the course, you'll learn to use AI tools (Claude Code, VS Code/Cursor/Antigravity) to accelerate your research, analysis, and communication. Every project expects AI-assisted work.

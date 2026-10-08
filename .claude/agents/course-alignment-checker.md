@@ -89,6 +89,7 @@ When checking alignment, verify references to:
 - **4 Imperatives**: Think Clearly, Get to the Right Answer, Move Work Forward, Create Impact with People
 - **McKinsey 7-Step Process**: Steps 0-7 as referenced in chapter content
 - **Toolkit Components**: Structured Problem-Solving, Analytics & Modeling, Clear Communication, Workstream Ownership, Tolerance for Ambiguity, Client Hands, Teamwork & Collaboration, Coachability
+- **Consultant Diamond**: Ownership, Communication, Judgment, Collaboration (rated 1 to 5; toolkit rolls up into these four, see CLAUDE.md "The Consultant Diamond"). Anchors in `02-consultants-os.qmd` must match `~/courses/ai-foundry/ops/developmentship-model.md` verbatim
 
 ## Error Prevention
 
