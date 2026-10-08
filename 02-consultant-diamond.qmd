@@ -1,29 +1,25 @@
 ---
-title: "The Consultant's OS"
+title: "The Consultant Diamond"
 ---
 
-*A professional operating system for solving problems, delivering work, and creating impact, both in recruiting and in client engagements.*
+*How top consultants work, and what the people around them notice: four axes, the skills under each, and the behaviors that build them.*
 
-## What is *The Consultant's OS*?
+## What Is the Consultant Diamond? {#consultant-diamond}
 
-*The Consultant's OS* is the behavioral operating system that drives performance at top consulting firms. It's not a single framework but a complete way of thinking, working, and communicating that you can apply to any professional challenge.
-
-This course teaches you *The Consultant's OS* and you will apply it to two contexts:
+The Consultant diamond describes how good consultants work. The same four axes apply to a case interview, a networking conversation, and a client recommendation. You will apply it in two contexts:
 
 1. **Landing a consulting offer** through networking, resume building, and interview preparation
 2. **Delivering real impact** by building consulting proposals and pitch decks using outside-in analysis
 
-The same OS that helps you structure a case interview helps you structure a client recommendation. The same approach that helps you network effectively helps you build trust with stakeholders.
+The same Judgment that structures a case interview structures a client recommendation. The same Collaboration that makes you good at networking builds trust with stakeholders.
 
-The OS has three layers, and the rest of the course follows them:
+The diamond has three layers, and the rest of the course follows them:
 
-1. **The Consultant diamond**: four axes the people you work with can see and rate.
+1. **Four axes** the people you work with can see and rate: Judgment, Ownership, Communication, Collaboration.
 2. **Toolkit components**: the eight named skills under those axes.
 3. **Core actions**: the concrete behaviors you practice to build each skill.
 
-## The Consultant Diamond {#consultant-diamond}
-
-The Consultant diamond is how the people you work with see your work. It has four axes, each rated 1 to 5 by someone who watched you work (a teammate, a client, a manager) against written behavioral anchors.
+Each axis is rated 1 to 5 by someone who watched you work (a teammate, a client, a manager) against written behavioral anchors.
 
 ![The Consultant diamond. Clockwise from the top: Judgment, Communication, Ownership, Collaboration. The shape shown is an example.](images/consultant-diamond.png){fig-alt="A diamond-shaped radar chart with four axes rated 1 to 5: Judgment at the top, Communication on the right, Ownership at the bottom, Collaboration on the left." width="70%"}
 
@@ -103,9 +99,9 @@ Throughout this course, we build on the 7-step process. Core actions aligned to 
 
 Read down the last column and you see the order the work flows: Judgment frames the problem, Ownership plans the work, Judgment answers it, and Communication turns the answer into something people act on.
 
-But problem-solving is only part of the story. *The Consultant's OS* extends beyond analytical rigor to include the professional behaviors that turn good analysis into real impact: owning your work, navigating ambiguity, building trust, and communicating with clarity. These capabilities are what separate consultants who deliver insight from those who drive change.
+But problem-solving is only part of the story. The diamond extends beyond analytical rigor to include the professional behaviors that turn good analysis into real impact: owning your work, navigating ambiguity, building trust, and communicating with clarity. These capabilities are what separate consultants who deliver insight from those who drive change.
 
-Two foundational concepts appear throughout *The Consultant's OS*: the Pyramid Principle for communication and MECE for structure. You'll see these referenced with symbols in the core actions.
+Two foundational concepts appear throughout the course: the Pyramid Principle for communication and MECE for structure. You'll see these referenced with symbols in the core actions.
 
 ## The Pyramid Principle
 
@@ -233,9 +229,9 @@ Whether or not you served a mission, consider these questions:
 Your answers—from missions, jobs, athletics, leadership roles, or other service—are the raw material for behavioral interview responses and networking conversations.
 :::
 
-## How This Course Uses the OS
+## How This Course Uses the Diamond
 
-The chapters in "The Consultant Diamond" section follow the diamond, one axis at a time, and each chapter has a section for every toolkit component on that axis:
+The chapters in "The Four Axes" section follow the diamond, one axis at a time, and each chapter has a section for every toolkit component on that axis:
 
 - **[Judgment: Structured Problem-Solving](05-structured-problem-solving.qmd)**: Problem definition, framing, hypothesis development, MECE structures
 - **[Judgment: Analytics & Modeling](06-analytics-modeling.qmd)**: Research, estimation, analysis, modeling
@@ -248,13 +244,13 @@ For each core action, you'll see how it applies to:
 - **Job search**: How this action helps you land an offer
 - **Client work**: How this action helps you deliver impact
 
-## Applying the OS Starts Now
+## Applying the Diamond Starts Now
 
-You don't wait until you're at a firm to start using the OS. You start now:
+You don't wait until you're at a firm to start using the diamond. You start now:
 
 - **Structure your resume** using the same logic you'd use for a client recommendation
 - **Research companies** for networking using the same outside-in approach you'd use for a diagnostic
 - **Practice cases** using the same hypothesis-driven thinking you'd use on an engagement
 - **Build your capstone** using the same storyline and communication principles you'd use for a steering committee
 
-The OS is how you'll work for the rest of your career. This course is where you begin to install it.
+The diamond is how you'll work for the rest of your career. This course is where you begin to build it.

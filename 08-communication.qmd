@@ -2,7 +2,7 @@
 title: "4. Communication"
 ---
 
-**Diamond axis:** [Communication](02-consultants-os.qmd#consultant-diamond). Do people understand it?
+**Diamond axis:** [Communication](02-consultant-diamond.qmd#consultant-diamond). Do people understand it?
 
 Communication is the right side of the diamond. Your analysis only creates value if people understand it, and a reviewer judges this axis on the artifact: the update, memo, or deck you hand a reader. It starts the moment the analysis ends, with synthesis.
 

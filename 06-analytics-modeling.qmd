@@ -2,7 +2,7 @@
 title: "2. Judgment: Analytics & Modeling"
 ---
 
-**Diamond axis:** [Judgment](02-consultants-os.qmd#consultant-diamond). Are you solving the right problem, and does your answer say what the facts support?
+**Diamond axis:** [Judgment](02-consultant-diamond.qmd#consultant-diamond). Are you solving the right problem, and does your answer say what the facts support?
 
 This chapter covers the second half of Judgment: finding the truth. You've structured the problem in [Structured Problem-Solving](05-structured-problem-solving.qmd), and now you need to answer it with evidence, not opinion.
 

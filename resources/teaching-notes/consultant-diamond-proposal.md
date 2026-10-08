@@ -2,7 +2,7 @@
 
 *Instructor note, not published. Drafted 2026-10-08. Nothing here is wired into grades, Canvas, or `00-assessments.qmd`.*
 
-The diamond is introduced to students in `02-consultants-os.qmd#consultant-diamond` as a development framework: four axes, the toolkit roll-up, and the verbatim anchors. This note proposes how 325 could collect ratings on it. Every option that touches points is a decision for Scott, and only for a term that has not started yet.
+The diamond is introduced to students in `02-consultant-diamond.qmd#consultant-diamond` as a development framework: four axes, the toolkit roll-up, and the verbatim anchors. This note proposes how 325 could collect ratings on it. Every option that touches points is a decision for Scott, and only for a term that has not started yet.
 
 ## What 325 already has
 

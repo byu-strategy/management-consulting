@@ -7,14 +7,14 @@ editor: visual
 
 The following assessments will be used to measure progress towards learning outcomes and to assign grades. Assessments are organized by track: **Recruiting** (interview preparation) and **Client Work** (consulting projects).
 
-| Goal | Assessment | % | Pts | OS Actions | LOs |
+| Goal | Assessment | % | Pts | Core Actions | LOs |
 |:------|:-----------|:-:|:---:|:-----------|:---:|
 | Both | [Reading Quizzes (10)](#reading-quizzes) | 10 | 50 | Varies by week | 1,2,3 |
-| Recruiting | [Resume & Networking](#resume-and-networking) | 12 | 60 | [1.4](05-structured-problem-solving.qmd#os-1-4), [1.6](05-structured-problem-solving.qmd#os-1-6), [2.2](06-analytics-modeling.qmd#os-2-2), [4.4](09-collaboration.qmd#os-5-1) | 5 |
-| Recruiting | [Practice Interviews](#practice-interviews) | 42 | 210 | [1.1](05-structured-problem-solving.qmd#os-1-1)–[1.7](05-structured-problem-solving.qmd#os-1-7), [2.4](06-analytics-modeling.qmd#os-2-4), [2.6](08-communication.qmd#os-4-1), [3.6](07-ownership.qmd#os-3-6), [4.1](08-communication.qmd#os-4-2)–[4.4](09-collaboration.qmd#os-5-1) | 1,3,4,5 |
+| Recruiting | [Resume & Networking](#resume-and-networking) | 12 | 60 | [1.4](05-structured-problem-solving.qmd#os-1-4), [1.6](05-structured-problem-solving.qmd#os-1-6), [2.2](06-analytics-modeling.qmd#os-2-2), [5.1](09-collaboration.qmd#os-5-1) | 5 |
+| Recruiting | [Practice Interviews](#practice-interviews) | 42 | 210 | [1.1](05-structured-problem-solving.qmd#os-1-1)–[1.7](05-structured-problem-solving.qmd#os-1-7), [2.4](06-analytics-modeling.qmd#os-2-4), [4.1](08-communication.qmd#os-4-1), [3.6](07-ownership.qmd#os-3-6), [4.2](08-communication.qmd#os-4-2)–[5.1](09-collaboration.qmd#os-5-1) | 1,3,4,5 |
 | Client Work | [P1: Intelligence Brief](#intelligence-brief) | 8 | 40 | [1.1](05-structured-problem-solving.qmd#os-1-1), [1.2](05-structured-problem-solving.qmd#os-1-2), [2.2](06-analytics-modeling.qmd#os-2-2), [2.3](06-analytics-modeling.qmd#os-2-3) | 1,2,3 |
-| Client Work | [P2: Point of View](#point-of-view) | 8 | 40 | [1.4](05-structured-problem-solving.qmd#os-1-4), [1.5](05-structured-problem-solving.qmd#os-1-5), [4.1](08-communication.qmd#os-4-2) | 1,2,3 |
-| Client Work | [Capstone: Conversation Deck](#conversation-deck) | 20 | 100 | [1.1](05-structured-problem-solving.qmd#os-1-1)–[4.8](09-collaboration.qmd#os-5-5) | 1,2,3,4 |
+| Client Work | [P2: Point of View](#point-of-view) | 8 | 40 | [1.4](05-structured-problem-solving.qmd#os-1-4), [1.5](05-structured-problem-solving.qmd#os-1-5), [4.2](08-communication.qmd#os-4-2) | 1,2,3 |
+| Client Work | [Capstone: Conversation Deck](#conversation-deck) | 20 | 100 | [1.1](05-structured-problem-solving.qmd#os-1-1)–[5.5](09-collaboration.qmd#os-5-5) | 1,2,3,4 |
 |  | **TOTAL** | **100** | **500** |  |  |
 
 ::: {style="font-size:0.65em;"}
@@ -24,7 +24,7 @@ Table of Learning Outcomes
 
 | # | Learning Outcome | BYU Aims Supported |
 |:-:|:-----------------|:-------------------|
-| 1 | Apply *The Consultant's OS* to define and solve client problems using MECE logic, issue trees, and hypothesis-driven analysis | Intellectually Enlarging |
+| 1 | Define and solve client problems using MECE logic, issue trees, and hypothesis-driven analysis | Intellectually Enlarging |
 | 2 | Use AI-assisted tools (e.g., Claude, Copilot) to gather outside-in insights, build models, and test hypotheses with transparency and integrity | Lifelong Learning and Service; Character Building |
 | 3 | Communicate clear, executive-level recommendations using the Pyramid Principle and visual slide design | Intellectually Enlarging; Character Building |
 | 4 | Demonstrate Christlike professionalism through humility, judgment, and trustworthiness in team and client interactions | Spiritually Strengthening; Character Building |
@@ -46,7 +46,7 @@ Reading quizzes ensure you come to class prepared and have internalized core con
 
 - 10 quizzes throughout the semester (5 points each)
 - Quizzes are administered at the **start of class** on Thursday
-- Cover the assigned readings for that week's OS concept
+- Cover the assigned readings for that week's core actions
 - No quizzes on weeks when major projects are due (P1, P2, Capstone)
 - Quizzes are closed laptop and closed note
 

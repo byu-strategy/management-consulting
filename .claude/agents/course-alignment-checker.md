@@ -1,6 +1,6 @@
 ---
 name: course-alignment-checker
-description: "Use this agent when you need to verify consistency across the interconnected course files (schedule, chapter content, activities) or when making changes to any course component that could affect alignment with other files. This includes after editing schedule dates, modifying chapter sections, updating activity descriptions, or changing OS action mappings.\\n\\n**Files that must stay in sync:**\\n- `00-schedule.qmd` - Course schedule with dates, topics, and session descriptions\\n- `00-assessments.qmd` - Assessment and activity definitions\\n- `01-what-is-consulting.qmd` through `11-do-client-work.qmd` - Chapter files with OS actions and anchors\\n- `index.qmd` - Syllabus with course structure\\n- `_quarto.yml` - Book configuration and chapter ordering\\n\\n**Example interactions:**\\n\\n<example>\\nContext: User has just edited the schedule to change a session date.\\nuser: \"I updated the date for Session 5 in the schedule\"\\nassistant: \"Let me verify this change doesn't create inconsistencies with other course files.\"\\n<commentary>\\nSince a schedule change was made that could affect alignment, use the Task tool to launch the course-alignment-checker agent to verify consistency across all interconnected files.\\n</commentary>\\nassistant: \"Now let me use the course-alignment-checker agent to verify alignment across all course files.\"\\n</example>\\n\\n<example>\\nContext: User modified a chapter's OS action anchors.\\nuser: \"I reorganized the Structured Problem-Solving section in chapter 05\"\\nassistant: \"I'll check if any schedule topics or activities reference the old anchors.\"\\n<commentary>\\nSince chapter structure was modified, use the Task tool to launch the course-alignment-checker agent to ensure schedule topic links and activity references still work.\\n</commentary>\\nassistant: \"Let me launch the course-alignment-checker agent to verify all references to this chapter remain valid.\"\\n</example>\\n\\n<example>\\nContext: User asks about potential inconsistencies proactively.\\nuser: \"Can you check if my recruiting track activities align with the chapter content?\"\\nassistant: \"I'll run a full alignment check on the recruiting track.\"\\n<commentary>\\nUser is requesting an alignment verification, use the Task tool to launch the course-alignment-checker agent to perform a comprehensive check.\\n</commentary>\\nassistant: \"I'll use the course-alignment-checker agent to verify recruiting track alignment.\"\\n</example>"
+description: "Use this agent when you need to verify consistency across the interconnected course files (schedule, chapter content, activities) or when making changes to any course component that could affect alignment with other files. This includes after editing schedule dates, modifying chapter sections, updating activity descriptions, or changing core action mappings.\\n\\n**Files that must stay in sync:**\\n- `00-schedule.qmd` - Course schedule with dates, topics, and session descriptions\\n- `00-assessments.qmd` - Assessment and activity definitions\\n- `01-what-is-consulting.qmd` through `11-do-client-work.qmd` - Chapter files with core actions and anchors\\n- `index.qmd` - Syllabus with course structure\\n- `_quarto.yml` - Book configuration and chapter ordering\\n\\n**Example interactions:**\\n\\n<example>\\nContext: User has just edited the schedule to change a session date.\\nuser: \"I updated the date for Session 5 in the schedule\"\\nassistant: \"Let me verify this change doesn't create inconsistencies with other course files.\"\\n<commentary>\\nSince a schedule change was made that could affect alignment, use the Task tool to launch the course-alignment-checker agent to verify consistency across all interconnected files.\\n</commentary>\\nassistant: \"Now let me use the course-alignment-checker agent to verify alignment across all course files.\"\\n</example>\\n\\n<example>\\nContext: User modified a chapter's core action anchors.\\nuser: \"I reorganized the Structured Problem-Solving section in chapter 05\"\\nassistant: \"I'll check if any schedule topics or activities reference the old anchors.\"\\n<commentary>\\nSince chapter structure was modified, use the Task tool to launch the course-alignment-checker agent to ensure schedule topic links and activity references still work.\\n</commentary>\\nassistant: \"Let me launch the course-alignment-checker agent to verify all references to this chapter remain valid.\"\\n</example>\\n\\n<example>\\nContext: User asks about potential inconsistencies proactively.\\nuser: \"Can you check if my recruiting track activities align with the chapter content?\"\\nassistant: \"I'll run a full alignment check on the recruiting track.\"\\n<commentary>\\nUser is requesting an alignment verification, use the Task tool to launch the course-alignment-checker agent to perform a comprehensive check.\\n</commentary>\\nassistant: \"I'll use the course-alignment-checker agent to verify recruiting track alignment.\"\\n</example>"
 model: opus
 color: blue
 ---
@@ -13,7 +13,7 @@ These files must remain synchronized:
 
 1. **`00-schedule.qmd`** - Master schedule with dates, topic links, and session descriptions
 2. **`00-assessments.qmd`** - Activity definitions and requirements
-3. **Chapter files (`01-*.qmd` through `11-*.qmd`)** - Content with OS actions and anchor links
+3. **Chapter files (`01-*.qmd` through `11-*.qmd`)** - Content with core actions and anchor links
 4. **`index.qmd`** - Syllabus overview
 5. **`_quarto.yml`** - Book structure configuration
 
@@ -27,7 +27,7 @@ These files must remain synchronized:
 
 ### Step 2: Topic/Anchor Alignment Check
 - Verify each schedule "Topic" links to a valid chapter section anchor
-- Confirm topic names accurately reflect the OS action(s) covered
+- Confirm topic names accurately reflect the core action(s) covered
 - Check that multi-action sessions link or reference all relevant actions
 - Report: List any broken anchors or misnamed topics
 
@@ -45,8 +45,8 @@ These files must remain synchronized:
 
 ### Step 5: Progression & Coverage Check
 - Verify activities build logically from previous sessions
-- Confirm all OS actions in each chapter have at least one practice session
-- Identify any orphan OS actions (taught but never practiced)
+- Confirm all core actions in each chapter have at least one practice session
+- Identify any orphan core actions (taught but never practiced)
 - Report: List coverage gaps or progression issues
 
 ## Output Format
@@ -81,14 +81,14 @@ Always structure your findings as:
 2. **Be Thorough**: Check ALL interconnected references, not just obvious ones
 3. **Be Actionable**: Provide specific fixes, not vague suggestions
 4. **Be Systematic**: Work through the 5-step checklist completely before reporting
-5. **Preserve Context**: Reference the Consultant's OS framework (diamond axes, toolkit components, core actions) when checking content alignment
+5. **Preserve Context**: Reference the Consultant diamond (axes, toolkit components, core actions) when checking content alignment
 
 ## OS Framework Reference
 
 When checking alignment, verify references to:
 - **McKinsey 7-Step Process**: Steps 0-7 as referenced in chapter content
 - **Toolkit Components**: Structured Problem-Solving, Analytics & Modeling, Clear Communication, Workstream Ownership, Tolerance for Ambiguity, Client Hands, Teamwork & Collaboration, Coachability
-- **Consultant Diamond**: Judgment, Ownership, Communication, Collaboration (rated 1 to 5). The course is organized on it: each axis is a chapter part, each toolkit component an `##` section under exactly one axis, each core action a numbered `###` section (`#os-chapter-n`) under exactly one component. The map in `02-consultants-os.qmd` ("Core Actions by Axis"), the chapters, and CLAUDE.md must agree. Anchors in `02-consultants-os.qmd` must match `~/courses/ai-foundry/ops/developmentship-model.md` verbatim
+- **Consultant Diamond**: Judgment, Ownership, Communication, Collaboration (rated 1 to 5). The course is organized on it: the "The Four Axes" part has a chapter per axis (Judgment has two), each toolkit component an `##` section under exactly one axis, each core action a numbered `###` section (`#os-chapter-n`) under exactly one component. The map in `02-consultant-diamond.qmd` ("Core Actions by Axis"), the chapters, and CLAUDE.md must agree. Anchors in `02-consultant-diamond.qmd` must match `~/courses/ai-foundry/ops/developmentship-model.md` verbatim
 
 ## Error Prevention
 

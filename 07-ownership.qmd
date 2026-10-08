@@ -2,7 +2,7 @@
 title: "3. Ownership"
 ---
 
-**Diamond axis:** [Ownership](02-consultants-os.qmd#consultant-diamond). Does the work move?
+**Diamond axis:** [Ownership](02-consultant-diamond.qmd#consultant-diamond). Does the work move?
 
 Ownership is the bottom of the diamond and the other half of the work axis: Judgment asks whether it is the right work, and Ownership asks whether it moves. Clear thinking and right answers mean nothing if the work doesn't get done. Consultants are valued for their ability to make progress, especially when conditions are uncertain.
 

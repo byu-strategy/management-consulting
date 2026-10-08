@@ -3,7 +3,7 @@ title: "Schedule"
 editor: visual
 ---
 
-Below is the planned daily schedule organized around *The Consultant's OS*. Class meets **Tuesday/Thursday 12:30–1:45 PM**. See each chapter for in-class activities (recruiting and client work). Dates, topics, and assignments may adjust as needed.
+Below is the planned daily schedule organized around the Consultant diamond. Class meets **Tuesday/Thursday 12:30–1:45 PM**. See each chapter for in-class activities (recruiting and client work). Dates, topics, and assignments may adjust as needed.
 
 ## Daily Schedule
 
@@ -18,7 +18,7 @@ Each **"Peer"** session = complete **both roles** with a partner (you interview 
 
 | Wk | # | Date | Topic | Assessments | Practice Interviews |
 |:--:|:-:|:-----|:------|:---|:--------------|
-| 1 | 1 | Th Jan 8 | [What Consultants Do](01-what-is-consulting.qmd) & [The Consultant's OS](02-consultants-os.qmd) | – | – |
+| 1 | 1 | Th Jan 8 | [What Consultants Do](01-what-is-consulting.qmd) & [The Consultant Diamond](02-consultant-diamond.qmd) | – | – |
 | 2 | 2 | T Jan 13 | [AI as Your Operating Amplifier](03-leveraging-ai.qmd) | – | – |
 | 2 | 3 | Th Jan 15 | [AI Workflows](03-leveraging-ai.qmd#ai-assisted-consulting-actions) | Quiz 1 | – |
 | 3 | 4 | T Jan 20 | [Teams](04-working-as-a-team.qmd) & [Diagnose the Current State](05-structured-problem-solving.qmd#os-1-1) | – | – |
@@ -44,7 +44,7 @@ Each **"Peer"** session = complete **both roles** with a partner (you interview 
 | 13 | 24 | Th Apr 2 | [Tailor & Handle Pushback](08-communication.qmd#os-4-4) | Quiz 9 | Peer 7 (by Sat) |
 | 14 | 25 | T Apr 7 | [Seek Feedback](09-collaboration.qmd#os-5-5) & [Coordinate as Team](09-collaboration.qmd#os-5-4) — Readings: [Action Titles](https://slideworks.io/resources/how-to-write-action-titles-like-mckinsey), [Getting to the "So What"](https://slideworks.io/resources/getting-to-so-what-guide-to-creating-actionable-business-insights), [Executive Summary](https://slideworks.io/resources/how-to-write-executive-summary), [How Consultants Make Presentations](https://slideworks.io/resources/how-mckinsey-consultants-make-presentations) | – | – |
 | 14 | 26 | Th Apr 9 | [Slide Design & Deck Craft](08-communication.qmd#os-4-3) — Capstone workshop & peer review | – | – |
-| 15 | 27 | T Apr 14 | [The Full OS in Action](02-consultants-os.qmd) | Quiz 10; Networking Tracker due; Student Ratings due | TA 3 + all complete (by Wed) |
+| 15 | 27 | T Apr 14 | [The Full Diamond in Action](02-consultant-diamond.qmd) | Quiz 10; Networking Tracker due; Student Ratings due | TA 3 + all complete (by Wed) |
 | | | **Mon Apr 20** | | **Capstone due 11:59 PM** | |
 | | | **Wed Apr 22** | **Capstone Showcase** (optional, W240 TNRB, 11:00 AM–12:15 PM) — Top 5–8 decks presented to the class | | |
 
@@ -58,7 +58,7 @@ Each **"Peer"** session = complete **both roles** with a partner (you interview 
 | **Judgment** | 3–8 | 4–14 | Structure the problem, answer it with facts, synthesize the answer |
 | **Ownership** | 9–10 | 15–18 | Plan, execute, adapt |
 | **Communication & Collaboration** | 11–14 | 19–26 | Make the work understood, and earn the trust to act on it |
-| **Integration** | 15 | 27 | Full OS in action |
+| **Integration** | 15 | 27 | Full diamond in action |
 
 ---
 

@@ -2,7 +2,7 @@
 title: "1. Judgment: Structured Problem-Solving"
 ---
 
-**Diamond axis:** [Judgment](02-consultants-os.qmd#consultant-diamond). Are you solving the right problem, and does your answer say what the facts support?
+**Diamond axis:** [Judgment](02-consultant-diamond.qmd#consultant-diamond). Are you solving the right problem, and does your answer say what the facts support?
 
 Judgment is the top of the diamond, and it has two halves. This chapter covers the first: structuring your thinking before you start working. Most failed projects fail here: they solve the wrong problem, or solve the right problem in an unstructured way that leads nowhere. [Analytics & Modeling](06-analytics-modeling.qmd) covers the second half, answering the problem with evidence.
 

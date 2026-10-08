@@ -2,15 +2,15 @@
 title: "Leveraging AI"
 ---
 
-AI is not a standalone topic in this course. It is the way you will apply nearly every part of *The Consultant's OS* more effectively.
+AI is not a standalone topic in this course. It is the way you will apply nearly every part of the [Consultant diamond](02-consultant-diamond.qmd) more effectively.
 
-Starting in Week 2, you'll learn how to use AI tools to accelerate your research, sharpen your analysis, and improve how you are able to communicate. The OS remains the foundation; AI simply increases your leverage.
+Starting in Week 2, you'll learn how to use AI tools to accelerate your research, sharpen your analysis, and improve how you are able to communicate. The diamond remains the foundation; AI simply increases your leverage.
 
 ## Getting Leverage with AI
 
-Think of AI as an amplifier for *The Consultant's OS*:
+Think of AI as an amplifier for the diamond:
 
-| OS Capability | Without AI | With AI |
+| Capability | Without AI | With AI |
 |:--------------|:-----------|:--------|
 | **Research** | Hours of manual searching | Rapid synthesis across sources |
 | **Analysis** | Slow iteration on models | Fast hypothesis testing |

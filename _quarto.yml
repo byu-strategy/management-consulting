@@ -20,10 +20,10 @@ book:
     - part: "Foundation"
       chapters:
         - 01-what-is-consulting.qmd
-        - 02-consultants-os.qmd
+        - 02-consultant-diamond.qmd
         - 03-leveraging-ai.qmd
         - 04-working-as-a-team.qmd
-    - part: "The Consultant Diamond"
+    - part: "The Four Axes"
       chapters:
         - 05-structured-problem-solving.qmd
         - 06-analytics-modeling.qmd

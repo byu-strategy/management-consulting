@@ -21,11 +21,11 @@ format:
 
 ## Course Overview
 
-Welcome to *Intro to Management Consulting* (STRAT 325). This course teaches you *The Consultant's OS*, a professional operating system that drives success at top-tier consulting firms and beyond.
+Welcome to *Intro to Management Consulting* (STRAT 325). This course teaches you how top-tier consulting firms expect their people to work, organized around the Consultant diamond.
 
 ### The Consultant Diamond
 
-The course is organized around four things the people you work with can see and rate: **Judgment**, **Ownership**, **Communication**, and **Collaboration**. Together they form the [Consultant diamond](02-consultants-os.qmd#consultant-diamond). Teammates, clients, and TAs rate each axis 1 to 5 against written behavioral anchors.
+The course is organized around four things the people you work with can see and rate: **Judgment**, **Ownership**, **Communication**, and **Collaboration**. Together they form the [Consultant diamond](02-consultant-diamond.qmd#consultant-diamond). Teammates, clients, and TAs rate each axis 1 to 5 against written behavioral anchors.
 
 ![The Consultant diamond. Clockwise from the top: Judgment, Communication, Ownership, Collaboration. The shape shown is an example.](images/consultant-diamond.png){fig-alt="A diamond-shaped radar chart with four axes rated 1 to 5: Judgment at the top, Communication on the right, Ownership at the bottom, Collaboration on the left." width="60%"}
 
@@ -42,14 +42,14 @@ Under each axis sit the toolkit skills you will build, eight in all. Each has it
 | | Teamwork & Collaboration | Collaborate across team structures; give and receive feedback effectively |
 | | Coachability | Incorporate feedback rapidly; demonstrate growth through iteration |
 
-You'll apply this OS to two course goals:
+You'll apply the diamond to two course goals:
 
 | Goal | Focus | Outcome |
 |:-----|:------|:--------|
 | **Land an Offer** | Networking, resume, case interviews, behavioral stories | Secure or make progress towards a consulting internship |
 | **Do Client Work** | Company analysis, competitive benchmarking, strategic proposals | Deliver real consulting work |
 
-These goals reinforce each other. The same OS that helps you structure a case interview helps you deliver impactful client work. The same approach that builds your networking skills builds trust with stakeholders.
+These goals reinforce each other. The same diamond that helps you structure a case interview helps you deliver impactful client work. The same approach that builds your networking skills builds trust with stakeholders.
 
 ### AI at the Core
 
@@ -59,7 +59,7 @@ AI is not a separate topic. It's how you'll apply every skill in this course. Fr
 
 | # | Learning Outcome | BYU Aims Supported |
 |:-:|:-----------------|:-------------------|
-| 1 | Apply *The Consultant's OS* to define and solve client problems using MECE logic, issue trees, and hypothesis-driven analysis | Intellectually Enlarging |
+| 1 | Define and solve client problems using MECE logic, issue trees, and hypothesis-driven analysis | Intellectually Enlarging |
 | 2 | Use AI-assisted tools (e.g., Claude Code, Gemini) to gather outside-in insights, build models, and test hypotheses with transparency and integrity | Lifelong Learning and Service; Character Building |
 | 3 | Communicate clear, executive-level recommendations using the Pyramid Principle and visual slide design | Intellectually Enlarging; Character Building |
 | 4 | Demonstrate Christlike professionalism through humility, judgment, and trustworthiness in team and client interactions | Spiritually Strengthening; Character Building |

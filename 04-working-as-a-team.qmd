@@ -83,7 +83,7 @@ In this class:
 
 ## Giving and Receiving Feedback
 
-Feedback is the engine of improvement. Consultants get feedback frequently. Giving and acting on it is part of the Collaboration axis of the [Consultant diamond](02-consultants-os.qmd#consultant-diamond); [Collaboration](09-collaboration.qmd) covers the skills in depth.
+Feedback is the engine of improvement. Consultants get feedback frequently. Giving and acting on it is part of the Collaboration axis of the [Consultant diamond](02-consultant-diamond.qmd#consultant-diamond); [Collaboration](09-collaboration.qmd) covers the skills in depth.
 
 ### Giving Feedback
 

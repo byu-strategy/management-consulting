@@ -35,10 +35,10 @@ The site is only rendered via GitHub actions and never rendered locally, only pr
   |                      | 00-schedule.qmd              | *(Canvas sync source)*    | **No**     |
   |                      | 00-assessments.qmd           | Assessments               | Yes        |
   | Foundation           | 01-what-is-consulting.qmd    | What is Consulting?       | Yes        |
-  |                      | 02-consultants-os.qmd        | The Consultant's OS       | Yes        |
+  |                      | 02-consultant-diamond.qmd    | The Consultant Diamond    | Yes        |
   |                      | 03-leveraging-ai.qmd         | Leveraging AI             | Yes        |
   |                      | 04-working-as-a-team.qmd     | Working as a Team         | Yes        |
-  | The Consultant Diamond | 05-structured-problem-solving.qmd | 1. Judgment: Structured Problem-Solving | Yes |
+  | The Four Axes        | 05-structured-problem-solving.qmd | 1. Judgment: Structured Problem-Solving | Yes |
   |                      | 06-analytics-modeling.qmd    | 2. Judgment: Analytics & Modeling | Yes |
   |                      | 07-ownership.qmd             | 3. Ownership              | Yes        |
   |                      | 08-communication.qmd         | 4. Communication          | Yes        |
@@ -70,7 +70,7 @@ A second test: **"Does this change semester to semester?"**
 The website is the **textbook and career reference**. It contains timeless, referenceable content that serves multiple audiences long after the course ends.
 
 **What belongs on the website:**
-- Chapter readings (frameworks, tools, the Consultant's OS)
+- Chapter readings (frameworks, tools, the Consultant diamond)
 - Assessment DESCRIPTIONS — what the deliverable is, how to do it well, rubrics, scoring criteria
 - Interview prep guides (STAR framework, case rubrics, behavioral questions, feedback delivery)
 - Project requirements (what slides to include, what to research, how feedback works)
@@ -89,8 +89,8 @@ The website is the **textbook and career reference**. It contains timeless, refe
 |----------|---------------|---------|
 | Enrolled students | "How does MECE work?" or "What goes in P1?" | Deep-link from Canvas to a specific section |
 | Alumni (post-course) | "How do I structure a case interview again?" | Browse interview prep, rubrics, frameworks |
-| Prospective students | "What does this course teach?" | Browse chapters, see the OS framework |
-| Employers / recruiters | "What can BYU consulting students do?" | The OS as a capability portfolio |
+| Prospective students | "What does this course teach?" | Browse chapters, see the diamond |
+| Employers / recruiters | "What can BYU consulting students do?" | The diamond as a capability portfolio |
 | Other professors | "How is this course structured?" | Course design and pedagogy inspiration |
 
 ### The LMS (Canvas — private, temporal)
@@ -138,7 +138,7 @@ Former student preparing for interviews (no Canvas access)
 
 | File | Published on website? | Role |
 |------|:---------------------:|------|
-| `index.qmd` | Yes | Course marketing page — what you'll learn, who teaches it, the OS overview. No specific dates or grade weights |
+| `index.qmd` | Yes | Course marketing page — what you'll learn, who teaches it, the diamond overview. No specific dates or grade weights |
 | `00-schedule.qmd` | **No** | Source of truth for `sync_canvas.py` — lives in repo, feeds Canvas, not published |
 | `00-assessments.qmd` | Yes | Assessment reference — deliverable descriptions, rubrics, frameworks. **No due dates or week references** |
 | `01-*.qmd` through `08-*.qmd` | Yes | Chapter readings — the textbook content |
@@ -176,26 +176,28 @@ The most dangerous failure mode is **the same fact stated in two places with dif
 - Key frameworks: MECE, Pyramid Principle, PARADE (behavioral interviews), Trust Equation (networking)
 - Content targets BYU undergraduate business and MBA students
 
-## The Consultant's OS
+## The Consultant Diamond
 
-*A professional operating system for solving problems, delivering work, and creating impact — in your job search and client engagements.*
+*How top consultants work, and what the people around them notice.*
 
-This course is designed to help you learn and apply the Consultant's OS to do two things simultaneously:
+The course's framework is called the **Consultant diamond**. "The Consultant's OS" was retired as a name on 2026-10-08 (Scott's decision: one name, and the diamond is what students rate themselves on). Do not reintroduce it. Core-action anchors keep their `#os-` prefix only because changing them would break links.
+
+This course is designed to help you learn and apply the diamond to do two things simultaneously:
 
 1. **Help you land a consulting internship or job** through networking, resume building, and interview preparation
 2. **Make you an effective consultant right now and prepared to excel on Day 1 by conducting real consutling proposal and pitch decks using outside in analysis just like a real consultant would**
 
-The course is organized on three layers (restructured 2026-10-08; the Four Imperatives were retired):
+The diamond has three layers (restructured 2026-10-08; the Four Imperatives were retired):
 
-1. **The Consultant diamond**: four axes rated by other people. Judgment, Ownership, Communication, Collaboration.
+1. **Four axes** rated by other people: Judgment, Ownership, Communication, Collaboration.
 2. **Toolkit components**: eight named skills, each under exactly one axis.
 3. **Core actions**: numbered behaviors, each under exactly one toolkit component. The number is `chapter.n` and the anchor is `#os-chapter-n`.
 
-Each axis is a chapter (Judgment is two, one per toolkit component). Inside a chapter, each toolkit component is an `##` section and each core action an `###` section. The student-facing map of all three layers is "Core Actions by Axis" in `02-consultants-os.qmd`; keep it, the chapters, and this file in step.
+Each axis is a chapter (Judgment is two, one per toolkit component). Inside a chapter, each toolkit component is an `##` section and each core action an `###` section. The student-facing map of all three layers is "Core Actions by Axis" in `02-consultant-diamond.qmd`; keep it, the chapters, and this file in step.
 
-### The Consultant Diamond
+### The Four Axes
 
-Four axes, each rated 1 to 5 by other people (teammates, clients, TAs) against written behavioral anchors. Drawn clockwise from the top: Judgment, Communication, Ownership, Collaboration. The work is on the vertical, the people on the horizontal. Student-facing home: `02-consultants-os.qmd#consultant-diamond`, also shown on the syllabus (`index.qmd`); image `images/consultant-diamond.png` (regenerate with `python3 scripts/consultant_diamond.py`).
+Four axes, each rated 1 to 5 by other people (teammates, clients, TAs) against written behavioral anchors. Drawn clockwise from the top: Judgment, Communication, Ownership, Collaboration. The work is on the vertical, the people on the horizontal. Student-facing home: `02-consultant-diamond.qmd#consultant-diamond`, also shown on the syllabus (`index.qmd`); image `images/consultant-diamond.png` (regenerate with `python3 scripts/consultant_diamond.py`).
 
 | Axis | Question | Judged on | Toolkit components | Chapter file |
 |------|----------|-----------|--------------------|--------------|

@@ -8,7 +8,7 @@ title: "TA Handbook"
 
 Thank you for contributing your time and effort to STRAT 325. This course is designed as a high-touch experience where students receive sustained, individualized support as they develop consulting skills and navigate the recruiting process.
 
-You will be assigned to one **pod** of 7-8 students who become your primary responsibility throughout the semester. Your role is to mentor these students as they build mastery of *The Consultant's OS* and prepare for management consulting recruiting.
+You will be assigned to one **pod** of 7-8 students who become your primary responsibility throughout the semester. Your role is to mentor these students as they build mastery of the [Consultant diamond](02-consultant-diamond.qmd) and prepare for management consulting recruiting.
 
 ### Your Role
 
@@ -21,7 +21,7 @@ Unlike traditional TA roles focused primarily on grading, this position emphasiz
 
 ### Success Metrics
 
-Your barometer for success: by semester's end, your students have demonstrated mastery of *The Consultant's OS* and have had repeated, meaningful opportunities to practice each skill across both recruiting preparation and applied consulting work.
+Your barometer for success: by semester's end, your students have demonstrated mastery of the Consultant diamond and have had repeated, meaningful opportunities to practice each skill across both recruiting preparation and applied consulting work.
 
 ## Pod Structure
 
@@ -48,7 +48,7 @@ Each pod serves three functions:
 
 ## Individual Mentoring
 
-Most assignments in this course are completed individually. Your role is to assess progress against *The Consultant's OS* toolkit, helping students build both external competence in core skills and internal confidence in applying those skills under ambiguity and pressure.
+Most assignments in this course are completed individually. Your role is to assess progress against the diamond's toolkit, helping students build both external competence in core skills and internal confidence in applying those skills under ambiguity and pressure.
 
 ### Goals Worksheet + Chat
 
@@ -293,7 +293,7 @@ Near the end of the semester, students submit a two-part summer plan.
 - Deliver feedback that is timely, specific, and actionable
 - Focus 80% on what students are doing well
 - Help students set clear goals before each case or assignment
-- Reference *The Consultant's OS* framework consistently
+- Reference the Consultant diamond consistently
 - Build confidence alongside competence
 
 ### Don't

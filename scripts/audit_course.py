@@ -27,7 +27,7 @@ PUBLISHED_FILES = [
     "index.qmd",
     "00-assessments.qmd",
     "01-what-is-consulting.qmd",
-    "02-consultants-os.qmd",
+    "02-consultant-diamond.qmd",
     "03-leveraging-ai.qmd",
     "04-working-as-a-team.qmd",
     "05-structured-problem-solving.qmd",

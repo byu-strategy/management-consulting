@@ -89,7 +89,7 @@ ASSESSMENTS = [
      "submission_types": ["none"],
      "canvas_description": quiz_description(
          f'\u2022 <a href="{B}/01-what-is-consulting.html">What Consultants Do</a><br>'
-         f'\u2022 <a href="{B}/02-consultants-os.html">The Consultant\'s OS</a><br>'
+         f'\u2022 <a href="{B}/02-consultant-diamond.html">The Consultant Diamond</a><br>'
          f'\u2022 <a href="{B}/03-leveraging-ai.html">AI as Your Operating Amplifier</a><br>'
          f'\u2022 <a href="{B}/03-leveraging-ai.html#ai-assisted-consulting-actions">AI Workflows</a>')},
     {"id": "quiz_02", "title": "Quiz 2", "group": "reading_quizzes", "points": 5,

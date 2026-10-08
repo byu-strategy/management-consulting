@@ -2,11 +2,11 @@
 title: "Land an Offer"
 ---
 
-This chapter brings together everything in *The Consultant's OS* as it applies to recruiting. The same skills that make you effective on engagements make you effective at landing the job.
+This chapter brings together everything in the [Consultant diamond](02-consultant-diamond.qmd) as it applies to recruiting. The same skills that make you effective on engagements make you effective at landing the job.
 
-## The Recruiting OS
+## The Diamond in Recruiting
 
-Every element of *The Consultant's OS* applies directly to recruiting:
+Every axis of the diamond applies directly to recruiting:
 
 | Diamond Axis | Recruiting Application |
 |:-------------|:-----------------------|
@@ -98,7 +98,7 @@ The [Resume Bible](https://managementconsulted.com/consulting-resume/) from Mana
 
 ## Case Interviews
 
-### The OS in Cases
+### The Diamond in Cases
 
 Case interviews test every axis of the diamond:
 
