@@ -197,6 +197,17 @@ Don't just present findings. Tell a story that leads logically to your recommend
 |:-----------------------|:------------------------|
 | Behavioral stories: use PARADE to link your experience to role requirements | Slide storylines: build a narrative arc from situation through analysis to recommendation |
 
+**Every Audience Asks Two Questions:**
+
+1. **"What do you think I should do?"** The answer: your recommendation, in one sentence.
+2. **"Why should I believe you?"** The support: a few reasons, each backed by evidence.
+
+Many decks answer neither question clearly. They report what the team did and leave the audience to work out the recommendation.
+
+**Stories Have Shapes:**
+
+Kurt Vonnegut graphed stories as a main character's fortunes over time and found that a few shapes recur (Vonnegut, 2005). In "man in hole," things are fine, trouble hits, and the character gets out of the hole better off than before. A business presentation follows the same shape. Situation: what the audience already knows. Complication: the problem or opportunity that requires action. Resolution: what to do about it. Keep the first two short; most of the deck belongs to the resolution.
+
 **The Pyramid Principle:**
 
 Start with the answer, then support it with evidence.
@@ -215,6 +226,27 @@ Start with the answer, then support it with evidence.
 - **Complication**: What changed or what's the tension?
 - **Question**: What do we need to decide?
 - **Answer**: Our recommendation
+
+[**The Hourglass: Think Evidence-First, Present Answer-First:**]{#the-hourglass}
+
+Minto's rule is that you think from the bottom up and present from the top down. Drawn as one figure, the two halves form an hourglass that meets at the answer:
+
+```
+   ANALYZING (first principles)          what you do before the meeting
+   \  evidence   evidence   evidence  /   1. Gather evidence
+    \       reasons      reasons     /    2. Reason over the evidence
+     \             ANSWER           /     3. Synthesize into an answer
+      \____________________________/
+       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾      the meeting starts here
+      /            ANSWER           \     1. Lead with the answer
+     /      reasons      reasons     \    2. Give the reasons
+    /  evidence   evidence   evidence \   3. Back each with evidence
+   PRESENTING (Pyramid Principle)          what the audience sees
+```
+
+The top half is the [issue tree](05-structured-problem-solving.qmd#os-1-6) worked from its leaves back to its root. The bottom half is the same tree, answered and turned upright. The most common mistake is to present the top half: walking the audience through the evidence in the order you found it before revealing the answer.
+
+You run the hourglass more than once. On day one you run it fast, on thin evidence, to get a [hypothesis](05-structured-problem-solving.qmd#os-1-4) and a ghost deck. Each later pass adds evidence. The final pass is the one the client sees.
 
 ::: {.callout-note}
 ## Readings
@@ -365,6 +397,22 @@ Executives are busy. Communicate with clarity and concision.
 | "Market Analysis" | "Market is growing 8% annually, driven by premium segment" |
 | "Financial Overview" | "Margins have declined 300bps due to rising input costs" |
 | "Recommendations" | "Invest $10M in premium refresh to capture 15% market share" |
+
+**Horizontal and Vertical Logic:**
+
+- **Horizontal logic**: Read only the action titles, in order, and you get the whole argument. Test it by pasting the titles into a document.
+- **Vertical logic**: Everything on a slide supports its title, and nothing else is there. Nothing in the title goes unproven by the body, and nothing in the body fails to serve the title.
+
+**Anatomy of a Consulting Slide:**
+
+| Part | Job |
+|:-----|:----|
+| Action title | The conclusion, as a full sentence |
+| Subheadline | What the chart measures, and in what units |
+| Body | The evidence that proves the title |
+| Source and footer | Where the numbers came from, so a reader can check them |
+
+A number without a source reads as an opinion (Kampmann, 2025; Stigzelius, 2023).
 
 **The 30-Second Rule:**
 
@@ -571,6 +619,26 @@ Different audiences need different messages. Know your stakeholders.
 2. Anticipate their questions and concerns
 3. Frame recommendations in their terms
 4. Address objections before they're raised
+
+**Know, Feel, Do:**
+
+Before building a deck, decide three things about the audience:
+
+- **Know**: What should they understand when you finish?
+- **Feel**: Urgency? Confidence? Concern about doing nothing?
+- **Do**: What exactly should they do next, and by when?
+
+Less experienced presenters plan only what the audience should know. Experienced presenters decide first how they want the room to feel (Vardrup, 2023).
+
+**Read Decks and Presentation Decks:**
+
+| Read deck | Presentation deck |
+|:----------|:------------------|
+| Sent ahead or left behind | Narrated live |
+| Must stand on its own | One idea per slide |
+| Full-sentence titles and explanations, sources, appendix | Fewer words, larger type; the detail is in what you say |
+
+Most slides that fail in a meeting are read-deck slides being presented: dense text the speaker then reads aloud. Build the read deck first, then cut it down for the room.
 
 ::: {#activity-tailor-pushback-recruiting .callout-tip collapse="true"}
 ## Recruiting Activity: Handle Difficult Fit Questions

@@ -293,6 +293,10 @@ Don't wait until you have all the facts to form a view. State a hypothesis early
 - Prevents "boiling the ocean" (analyzing everything)
 - Allows you to iterate as you learn
 
+**Run the whole loop on day one:**
+
+A day-1 hypothesis is a fast first pass through the full [hourglass](08-communication.qmd#the-hourglass): gather the evidence you already have, reason over it, write down an answer, then draft the storyline you would present. Consultants often sketch that storyline as a ghost deck, a set of action titles over empty slides. The ghost deck shows which reasons are thin, and so which evidence to gather next. Each pass adds evidence, and the answer holds, sharpens, or changes. The last pass is the deck the client sees.
+
 ### 1.5 Articulate "What Would Have to Be True" **(3)** 🔺 {#os-1-5}
 
 *Make your critical assumptions explicit and testable*
@@ -394,10 +398,51 @@ Break down your hypotheses into non-overlapping, comprehensive components.
 |:-----------------------|:------------------------|
 | Structure your resume with MECE proof points: each bullet should be distinct and together they should cover your key strengths | Build a MECE issue tree: branches that don't overlap and together exhaust the problem space |
 
+**Reason from First Principles:**
+
+First-principles reasoning breaks a problem into its basic parts, establishes the facts about each part, and builds the answer back up from those facts. The alternative is reasoning by analogy: rockets are expensive because rockets have always been expensive.
+
+Around 2002, Elon Musk priced a rocket by its raw materials (aerospace-grade aluminum, titanium, copper, and carbon fiber) and found that they came to about 2% of a typical rocket's price (Anderson, 2012). The other 98% came from how rockets were bought and built: cost-plus government contracts that paid suppliers their costs plus a guaranteed profit, layers of subcontractors that each added a margin, and rockets that were discarded after one flight. SpaceX's strategy answered each cause: fixed prices, parts built in-house, and reusable rockets.
+
+The breakdown step works only if the parts pass two tests. That is MECE.
+
 **MECE Explained:**
 
 - **Mutually Exclusive**: No overlaps between categories
 - **Collectively Exhaustive**: Nothing left out
+
+**Every MECE Structure Is a Partition:**
+
+A partition splits a set into pieces with no overlaps and no gaps. The logic is the same in every MECE structure. What changes is what you are splitting, and whether you can count it.
+
+| | Accounting MECE | Conceptual MECE |
+|:--|:--|:--|
+| What it splits | Things you can count: dollars, customers, hours | Possibilities: causes, options, risks |
+| The test | Do the pieces add up to the total? | Is anything missing or named twice? |
+| Example | Rocket price = materials (about 2%) + everything else (about 98%) | Why the 98% is so high: cost-plus contracts, subcontractor layers, single use |
+| Typical use | Locating where a quantity sits or where it changed | Explaining why, or laying out options and risks |
+
+Accounting MECE applies to any countable unit. BCG's 2016 work for the Dallas City Council split the city's roughly 350,000 dogs into three places: with an owner, loose on the street, or in the shelter. Each dog is in exactly one place, so the pieces sum to the whole population, and the problem becomes a question of what flows into and out of each place (Boston Consulting Group, 2016).
+
+The causes in a conceptual split often cut across the pieces of an accounting split. Cost-plus contracts raised labor, overhead, and supplier margins at the same time, and discarding rockets wasted the materials too. The three rocket causes therefore cannot be added up to 98%.
+
+**The Two Kinds Sit on a Spectrum:**
+
+Analysts push a split toward counting as far as the evidence allows.
+
+| Example | How well it adds up |
+|:--|:--|
+| Dollars, hours, dogs | Exact sums |
+| Customers who left, each tagged with one main reason | Sums once each case is tagged |
+| Price versus volume in a revenue driver tree | Mostly sums, with a small interaction term |
+| Causes that interact, such as the rocket causes | No defensible way to divide the total |
+| Strategic options | Logic only, unless you assign probabilities to scenarios |
+
+Three conditions push a split toward conceptual: a case that fits two pieces (a customer who left over price and service), causes that interact, and nothing to count. To move a split toward counting, choose a unit of analysis. "Why are customers leaving?" becomes "Of the customers who left, how many name each main reason?" Stop before the numbers stop meaning anything.
+
+**Completeness Changes the Recommendation:**
+
+BCG showed the Dallas City Council why single actions fail. Picking up every loose dog leads owners to replace pets from the large supply of new dogs. A bigger shelter fills up. Spaying and neutering alone leaves owned pets roaming. Each fix covers one piece of the system and leaves a gap in another, so BCG's seven recommendations were designed to be adopted together (Boston Consulting Group, 2016).
 
 **Common MECE Structures:**
 
@@ -539,6 +584,8 @@ Diagnose → Define → Frame → Hypothesize → WWHTBT → Disaggregate → Pr
 ```
 
 In practice, you iterate. New information updates your hypothesis. Better framing changes your priorities. But you always start with structure.
+
+Once every branch of the issue tree has an answer, the tree is the storyline: the answered question becomes the top of the pyramid, the branches become the reasons, and the analysis under each branch becomes the evidence. [Communication](08-communication.qmd#the-hourglass) picks up from there.
 
 ## Practice This Week
 
